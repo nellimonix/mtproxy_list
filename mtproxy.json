@@ -56,16 +56,16 @@
     "addTime": 1776107099
   },
   {
-    "host": "proxy.neuropath.ru",
-    "port": 12443,
-    "secret": "df3f51f0829b2dc3e1ec6ad5161c94ee",
+    "host": "pupup.krotmonstr.online",
+    "port": 443,
+    "secret": "eedd6dee611ff532e1b1992e0ed9235c4d7777772e676f6f676c652e636f6d",
     "country": "RU",
     "addTime": 1776107098
   },
   {
-    "host": "pupup.krotmonstr.online",
-    "port": 443,
-    "secret": "eedd6dee611ff532e1b1992e0ed9235c4d7777772e676f6f676c652e636f6d",
+    "host": "proxy.neuropath.ru",
+    "port": 12443,
+    "secret": "df3f51f0829b2dc3e1ec6ad5161c94ee",
     "country": "RU",
     "addTime": 1776107098
   },
@@ -105,14 +105,14 @@
     "addTime": 1776096367
   },
   {
-    "host": "38.28.140.163",
+    "host": "149.120.147.147",
     "port": 443,
-    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
-    "country": "US",
+    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
+    "country": "HK",
     "addTime": 1776096307
   },
   {
-    "host": "38.28.156.79",
+    "host": "38.28.140.163",
     "port": 443,
     "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
     "country": "US",
@@ -126,10 +126,10 @@
     "addTime": 1776096307
   },
   {
-    "host": "149.120.147.147",
+    "host": "38.28.156.79",
     "port": 443,
-    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
-    "country": "HK",
+    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
+    "country": "US",
     "addTime": 1776096307
   },
   {
@@ -147,10 +147,10 @@
     "addTime": 1776096292
   },
   {
-    "host": "tele.shadowdeputy.sbs",
+    "host": "94.156.170.24",
     "port": 443,
-    "secret": "eeddb6c661f6fdaa29528b3c8fe98f19cd74656c652e736861646f776465707574792e736273",
-    "country": "EE",
+    "secret": "ee737ac109dc65116c83bf217d8a3935627777772e636c6f7564666c6172652e636f6d",
+    "country": "DE",
     "addTime": 1776085532
   },
   {
@@ -161,10 +161,10 @@
     "addTime": 1776085532
   },
   {
-    "host": "94.156.170.24",
+    "host": "tele.shadowdeputy.sbs",
     "port": 443,
-    "secret": "ee737ac109dc65116c83bf217d8a3935627777772e636c6f7564666c6172652e636f6d",
-    "country": "DE",
+    "secret": "eeddb6c661f6fdaa29528b3c8fe98f19cd74656c652e736861646f776465707574792e736273",
+    "country": "EE",
     "addTime": 1776085532
   },
   {
@@ -231,17 +231,24 @@
     "addTime": 1776063926
   },
   {
+    "host": "95.179.218.39",
+    "port": 443,
+    "secret": "163ba90c717e48aaac5cb00316fd22c2",
+    "country": "FR",
+    "addTime": 1776063913
+  },
+  {
+    "host": "45.77.140.31",
+    "port": 443,
+    "secret": "de8f2eed939c26aecb2fd16fc3f50431",
+    "country": "DE",
+    "addTime": 1776063913
+  },
+  {
     "host": "95.179.144.80",
     "port": 443,
     "secret": "65b9bbce3a68c80d96ee2705b62bc44a",
     "country": "NL",
-    "addTime": 1776063913
-  },
-  {
-    "host": "66.42.121.16",
-    "port": 443,
-    "secret": "c0045b5d1c4e234e6ecfd5457d3b80ab",
-    "country": "US",
     "addTime": 1776063913
   },
   {
@@ -252,20 +259,6 @@
     "addTime": 1776063913
   },
   {
-    "host": "95.179.169.165",
-    "port": 443,
-    "secret": "59f0a80f204d4247330e5fd9d31b67ff",
-    "country": "DE",
-    "addTime": 1776063913
-  },
-  {
-    "host": "95.179.218.39",
-    "port": 443,
-    "secret": "163ba90c717e48aaac5cb00316fd22c2",
-    "country": "FR",
-    "addTime": 1776063913
-  },
-  {
     "host": "173.199.92.31",
     "port": 443,
     "secret": "a0eecbc4273ed230cb909dd281ebf1dc",
@@ -273,10 +266,10 @@
     "addTime": 1776063913
   },
   {
-    "host": "45.77.140.31",
+    "host": "66.42.121.16",
     "port": 443,
-    "secret": "de8f2eed939c26aecb2fd16fc3f50431",
-    "country": "DE",
+    "secret": "c0045b5d1c4e234e6ecfd5457d3b80ab",
+    "country": "US",
     "addTime": 1776063913
   },
   {
@@ -313,6 +306,13 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1776053131
+  },
+  {
+    "host": "176.108.255.233",
+    "port": 443,
+    "secret": "dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f",
+    "country": "RU",
+    "addTime": 1776053108
   },
   {
     "host": "iran1405.modirpodir.ir",
