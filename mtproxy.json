@@ -42,13 +42,6 @@
     "addTime": 1776107105
   },
   {
-    "host": "95.85.250.34",
-    "port": 8443,
-    "secret": "eecdc9b33dd3c9ee78b05f662e2b5fe4126d73646f742e7275",
-    "country": "FI",
-    "addTime": 1776107099
-  },
-  {
     "host": "he.de-nu.2.mtproto.ru",
     "port": 443,
     "secret": "ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
@@ -56,16 +49,23 @@
     "addTime": 1776107099
   },
   {
-    "host": "pupup.krotmonstr.online",
-    "port": 443,
-    "secret": "eedd6dee611ff532e1b1992e0ed9235c4d7777772e676f6f676c652e636f6d",
-    "country": "RU",
-    "addTime": 1776107098
+    "host": "95.85.250.34",
+    "port": 8443,
+    "secret": "eecdc9b33dd3c9ee78b05f662e2b5fe4126d73646f742e7275",
+    "country": "FI",
+    "addTime": 1776107099
   },
   {
     "host": "proxy.neuropath.ru",
     "port": 12443,
     "secret": "df3f51f0829b2dc3e1ec6ad5161c94ee",
+    "country": "RU",
+    "addTime": 1776107098
+  },
+  {
+    "host": "pupup.krotmonstr.online",
+    "port": 443,
+    "secret": "eedd6dee611ff532e1b1992e0ed9235c4d7777772e676f6f676c652e636f6d",
     "country": "RU",
     "addTime": 1776107098
   },
@@ -112,7 +112,7 @@
     "addTime": 1776096307
   },
   {
-    "host": "38.28.156.79",
+    "host": "38.28.140.163",
     "port": 443,
     "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
     "country": "US",
@@ -126,7 +126,7 @@
     "addTime": 1776096307
   },
   {
-    "host": "38.28.140.163",
+    "host": "38.28.156.79",
     "port": 443,
     "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
     "country": "US",
@@ -154,6 +154,13 @@
     "addTime": 1776085532
   },
   {
+    "host": "ads2.mtproxygram.lol",
+    "port": 443,
+    "secret": "ee2b978732189d7441ee81c3fbc8e9c00e62726f777365722e79616e6465782e636f6d",
+    "country": "NL",
+    "addTime": 1776085532
+  },
+  {
     "host": "94.156.170.24",
     "port": 443,
     "secret": "ee737ac109dc65116c83bf217d8a3935627777772e636c6f7564666c6172652e636f6d",
@@ -165,13 +172,6 @@
     "port": 443,
     "secret": "eeddb6c661f6fdaa29528b3c8fe98f19cd74656c652e736861646f776465707574792e736273",
     "country": "EE",
-    "addTime": 1776085532
-  },
-  {
-    "host": "ads2.mtproxygram.lol",
-    "port": 443,
-    "secret": "ee2b978732189d7441ee81c3fbc8e9c00e62726f777365722e79616e6465782e636f6d",
-    "country": "NL",
     "addTime": 1776085532
   },
   {
@@ -231,9 +231,16 @@
     "addTime": 1776063926
   },
   {
-    "host": "149.28.241.201",
+    "host": "95.179.169.165",
     "port": 443,
-    "secret": "21dd274cf9e62018136271b132bcb200",
+    "secret": "59f0a80f204d4247330e5fd9d31b67ff",
+    "country": "DE",
+    "addTime": 1776063913
+  },
+  {
+    "host": "66.42.121.16",
+    "port": 443,
+    "secret": "c0045b5d1c4e234e6ecfd5457d3b80ab",
     "country": "US",
     "addTime": 1776063913
   },
@@ -252,10 +259,10 @@
     "addTime": 1776063913
   },
   {
-    "host": "95.179.144.80",
+    "host": "45.77.140.31",
     "port": 443,
-    "secret": "65b9bbce3a68c80d96ee2705b62bc44a",
-    "country": "NL",
+    "secret": "de8f2eed939c26aecb2fd16fc3f50431",
+    "country": "DE",
     "addTime": 1776063913
   },
   {
@@ -301,17 +308,17 @@
     "addTime": 1776042336
   },
   {
-    "host": "proxy-v2-3.sapog-host.ru",
-    "port": 443,
-    "secret": "ee0b0535863e1462dabb9c9e00c5861d14726164696f7265636f72642e7275",
-    "country": "GB",
-    "addTime": 1776042300
-  },
-  {
     "host": "neth1.agera-connect.lol",
     "port": 443,
     "secret": "63ebfcafad3291239d6f94ec57ea5c38",
     "country": "US",
+    "addTime": 1776042300
+  },
+  {
+    "host": "proxy-v2-3.sapog-host.ru",
+    "port": 443,
+    "secret": "ee0b0535863e1462dabb9c9e00c5861d14726164696f7265636f72642e7275",
+    "country": "GB",
     "addTime": 1776042300
   },
   {
@@ -341,12 +348,5 @@
     "secret": "eef43cfa0cb4b1d1124643927f09de3c7b616a61782e676f6f676c65617069732e636f6d",
     "country": "DE",
     "addTime": 1776031501
-  },
-  {
-    "host": "109.107.171.106",
-    "port": 443,
-    "secret": "09a15c84224c7302541736167a719f69",
-    "country": "FI",
-    "addTime": 1776031500
   }
 ]
