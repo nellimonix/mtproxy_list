@@ -56,16 +56,16 @@
     "addTime": 1776107099
   },
   {
-    "host": "pupup.krotmonstr.online",
-    "port": 443,
-    "secret": "eedd6dee611ff532e1b1992e0ed9235c4d7777772e676f6f676c652e636f6d",
+    "host": "proxy.neuropath.ru",
+    "port": 12443,
+    "secret": "df3f51f0829b2dc3e1ec6ad5161c94ee",
     "country": "RU",
     "addTime": 1776107098
   },
   {
-    "host": "proxy.neuropath.ru",
-    "port": 12443,
-    "secret": "df3f51f0829b2dc3e1ec6ad5161c94ee",
+    "host": "pupup.krotmonstr.online",
+    "port": 443,
+    "secret": "eedd6dee611ff532e1b1992e0ed9235c4d7777772e676f6f676c652e636f6d",
     "country": "RU",
     "addTime": 1776107098
   },
@@ -105,6 +105,13 @@
     "addTime": 1776096367
   },
   {
+    "host": "38.28.156.79",
+    "port": 443,
+    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
+    "country": "US",
+    "addTime": 1776096307
+  },
+  {
     "host": "149.120.147.147",
     "port": 443,
     "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
@@ -126,13 +133,6 @@
     "addTime": 1776096307
   },
   {
-    "host": "38.28.156.79",
-    "port": 443,
-    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
-    "country": "US",
-    "addTime": 1776096307
-  },
-  {
     "host": "158.160.87.140",
     "port": 443,
     "secret": "ee1d394af488bdceecfbf16e49d97fe004636176652e6178306c6f746c2e766970",
@@ -145,6 +145,13 @@
     "secret": "eea96ded5c0082c389eb2003c8fc5b06a662726f777365722e79616e6465782e636f6d",
     "country": "NL",
     "addTime": 1776096292
+  },
+  {
+    "host": "tele.shadowdeputy.sbs",
+    "port": 443,
+    "secret": "eeddb6c661f6fdaa29528b3c8fe98f19cd74656c652e736861646f776465707574792e736273",
+    "country": "EE",
+    "addTime": 1776085532
   },
   {
     "host": "ads1.mtproxygram.lol",
@@ -165,13 +172,6 @@
     "port": 443,
     "secret": "ee737ac109dc65116c83bf217d8a3935627777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
-    "addTime": 1776085532
-  },
-  {
-    "host": "tele.shadowdeputy.sbs",
-    "port": 443,
-    "secret": "eeddb6c661f6fdaa29528b3c8fe98f19cd74656c652e736861646f776465707574792e736273",
-    "country": "EE",
     "addTime": 1776085532
   },
   {
@@ -203,16 +203,16 @@
     "addTime": 1776074739
   },
   {
-    "host": "t2.loveproxy.xyz",
+    "host": "150.241.92.222",
     "port": 443,
-    "secret": "eea96ded5c0082c389eb2003c8fc5b06a662726f777365722e79616e6465782e636f6d",
+    "secret": "ee549ac3e70a17583a7efa04f35bf40cf579616e6465782e7275",
     "country": "NL",
     "addTime": 1776074718
   },
   {
-    "host": "150.241.92.222",
+    "host": "t2.loveproxy.xyz",
     "port": 443,
-    "secret": "ee549ac3e70a17583a7efa04f35bf40cf579616e6465782e7275",
+    "secret": "eea96ded5c0082c389eb2003c8fc5b06a662726f777365722e79616e6465782e636f6d",
     "country": "NL",
     "addTime": 1776074718
   },
@@ -238,10 +238,17 @@
     "addTime": 1776063913
   },
   {
-    "host": "95.179.218.39",
+    "host": "95.179.181.45",
     "port": 443,
-    "secret": "163ba90c717e48aaac5cb00316fd22c2",
-    "country": "FR",
+    "secret": "a51755cb61836c4843a81000b3c1da7a",
+    "country": "NL",
+    "addTime": 1776063913
+  },
+  {
+    "host": "207.246.71.117",
+    "port": 443,
+    "secret": "7604536ca38670bf0f098c1e62056552",
+    "country": "US",
     "addTime": 1776063913
   },
   {
@@ -259,6 +266,20 @@
     "addTime": 1776063913
   },
   {
+    "host": "95.179.218.39",
+    "port": 443,
+    "secret": "163ba90c717e48aaac5cb00316fd22c2",
+    "country": "FR",
+    "addTime": 1776063913
+  },
+  {
+    "host": "173.199.92.31",
+    "port": 443,
+    "secret": "a0eecbc4273ed230cb909dd281ebf1dc",
+    "country": "US",
+    "addTime": 1776063913
+  },
+  {
     "host": "95.179.217.69",
     "port": 443,
     "secret": "a594c0bf7fa5fb4186785aa742d8d89a",
@@ -266,9 +287,9 @@
     "addTime": 1776063913
   },
   {
-    "host": "207.246.71.117",
+    "host": "149.28.241.201",
     "port": 443,
-    "secret": "7604536ca38670bf0f098c1e62056552",
+    "secret": "21dd274cf9e62018136271b132bcb200",
     "country": "US",
     "addTime": 1776063913
   },
@@ -308,13 +329,6 @@
     "addTime": 1776042372
   },
   {
-    "host": "185.184.122.153",
-    "port": 443,
-    "secret": "dd6593c0b3cab1d593ef3c99a064464edc",
-    "country": "US",
-    "addTime": 1776042369
-  },
-  {
     "host": "mtp.deepghost.cc",
     "port": 443,
     "secret": "eeddaba68aec79de4d89ca843b1dbc5ca76164732e78352e7275",
@@ -334,19 +348,5 @@
     "secret": "ee0b0535863e1462dabb9c9e00c5861d14726164696f7265636f72642e7275",
     "country": "GB",
     "addTime": 1776042300
-  },
-  {
-    "host": "194.163.166.59",
-    "port": 443,
-    "secret": "ee8441047534900cf5d61df8b4e07b7c78636c6f7564666c6172652e636f6d",
-    "country": "FR",
-    "addTime": 1776031520
-  },
-  {
-    "host": "qcold.online",
-    "port": 443,
-    "secret": "ee102030405060708090a0b0c0d0e0f00079616e6465782e7275",
-    "country": "NL",
-    "addTime": 1776031510
   }
 ]
