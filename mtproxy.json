@@ -7,17 +7,17 @@
     "addTime": 1776204424
   },
   {
-    "host": "2.extravpn.info",
-    "port": 443,
-    "secret": "cd742ff8a47665a8007e2f7c5c65ffc7",
-    "country": "DE",
-    "addTime": 1776204387
-  },
-  {
     "host": "4.extravpn.info",
     "port": 443,
     "secret": "926d473f44488328bdde64067c70a392",
     "country": "SE",
+    "addTime": 1776204387
+  },
+  {
+    "host": "2.extravpn.info",
+    "port": 443,
+    "secret": "cd742ff8a47665a8007e2f7c5c65ffc7",
+    "country": "DE",
     "addTime": 1776204387
   },
   {
@@ -26,13 +26,6 @@
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "country": "IR",
     "addTime": 1776204313
-  },
-  {
-    "host": "213.155.12.140",
-    "port": 443,
-    "secret": "7mnomdiexo4iDKF3VXMisn9zdHJveWFsbGlhbmNlLmNvbQ",
-    "country": "LV",
-    "addTime": 1776204302
   },
   {
     "host": "193.233.91.179",
@@ -53,6 +46,13 @@
     "port": 443,
     "secret": "dba39aa79f4e6b4366c98aa315cedb93",
     "country": "PL",
+    "addTime": 1776204302
+  },
+  {
+    "host": "213.155.12.140",
+    "port": 443,
+    "secret": "7mnomdiexo4iDKF3VXMisn9zdHJveWFsbGlhbmNlLmNvbQ",
+    "country": "LV",
     "addTime": 1776204302
   },
   {
@@ -133,6 +133,13 @@
     "addTime": 1776193518
   },
   {
+    "host": "free.kimt.space",
+    "port": 443,
+    "secret": "ee6d308bbd1b3b1fae56e334750ecf2f606164732e78352e7275",
+    "country": "RU",
+    "addTime": 1776193506
+  },
+  {
     "host": "150.241.65.206",
     "port": 443,
     "secret": "ee903703943e487a63dccbf1d654a7417d6d792e6369616f776e65722e6c6f6c",
@@ -151,13 +158,6 @@
     "port": 332,
     "secret": "7tMMu6Vv6kL_Sj3TJ1zRZ3F3d3cuZ29vZ2xlLmNvbQ",
     "country": "NL",
-    "addTime": 1776193506
-  },
-  {
-    "host": "free.kimt.space",
-    "port": 443,
-    "secret": "ee6d308bbd1b3b1fae56e334750ecf2f606164732e78352e7275",
-    "country": "RU",
     "addTime": 1776193506
   },
   {
@@ -196,21 +196,21 @@
     "addTime": 1776193492
   },
   {
+    "host": "193.233.90.178",
+    "port": 443,
+    "secret": "b2927ac82110373f3db9e8e658449c6c",
+    "country": "RU",
+    "addTime": 1776182761
+  },
+  {
+    "host": "80.66.84.164",
+    "port": 7878,
+    "secret": "48f739d003f42d13dd318bcbd5757d4b",
+    "country": "NL",
+    "addTime": 1776182761
+  },
+  {
     "host": "80.66.84.225",
-    "port": 7878,
-    "secret": "48f739d003f42d13dd318bcbd5757d4b",
-    "country": "NL",
-    "addTime": 1776182761
-  },
-  {
-    "host": "80.66.84.149",
-    "port": 7878,
-    "secret": "48f739d003f42d13dd318bcbd5757d4b",
-    "country": "NL",
-    "addTime": 1776182761
-  },
-  {
-    "host": "80.66.84.189",
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "NL",
@@ -224,14 +224,14 @@
     "addTime": 1776182761
   },
   {
-    "host": "193.233.90.178",
-    "port": 443,
-    "secret": "b2927ac82110373f3db9e8e658449c6c",
-    "country": "RU",
+    "host": "80.66.84.189",
+    "port": 7878,
+    "secret": "48f739d003f42d13dd318bcbd5757d4b",
+    "country": "NL",
     "addTime": 1776182761
   },
   {
-    "host": "80.66.84.164",
+    "host": "80.66.84.149",
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "NL",
@@ -315,13 +315,6 @@
     "addTime": 1776171909
   },
   {
-    "host": "tg1.helpbitrix.org",
-    "port": 443,
-    "secret": "ee6b1cf68741e58d9e8ae5c5dd71da10c279616e6465782e7275",
-    "country": "SC",
-    "addTime": 1776171905
-  },
-  {
     "host": "213.226.124.186",
     "port": 443,
     "secret": "ee3b263e234adb9ea98fca40a0ec907d807777772e636c6f7564666c6172652e636f6d",
@@ -336,6 +329,13 @@
     "addTime": 1776171905
   },
   {
+    "host": "tg1.helpbitrix.org",
+    "port": 443,
+    "secret": "ee6b1cf68741e58d9e8ae5c5dd71da10c279616e6465782e7275",
+    "country": "SC",
+    "addTime": 1776171905
+  },
+  {
     "host": "a4.vonabe.publicvm.com",
     "port": 7443,
     "secret": "ee20bd53b6e892c9ada7576287ea42143a636c6f7564666c6172652e636f6d",
@@ -343,10 +343,10 @@
     "addTime": 1776171872
   },
   {
-    "host": "159.100.18.163",
-    "port": 3444,
-    "secret": "06cab4b61c436410bb231839bbf9ed19",
-    "country": "DE",
-    "addTime": 1776161231
+    "host": "9ea5e.blancproxy.link",
+    "port": 443,
+    "secret": "dd97c420070f5eb3ba3c22b9635576d9f1",
+    "country": "RU",
+    "addTime": 1776161228
   }
 ]
