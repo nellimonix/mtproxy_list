@@ -49,13 +49,6 @@
     "addTime": 1776171905
   },
   {
-    "host": "freetg.vip",
-    "port": 8443,
-    "secret": "ee27b79b6bde1c9e19eb4707c81e8b1137636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1776171905
-  },
-  {
     "host": "a4.vonabe.publicvm.com",
     "port": 7443,
     "secret": "ee20bd53b6e892c9ada7576287ea42143a636c6f7564666c6172652e636f6d",
@@ -133,16 +126,9 @@
     "addTime": 1776150337
   },
   {
-    "host": "45.63.74.36",
+    "host": "45.76.231.32",
     "port": 443,
-    "secret": "bdd19701814bf10f8a8d8af58aaf591f",
-    "country": "US",
-    "addTime": 1776150333
-  },
-  {
-    "host": "207.246.118.212",
-    "port": 443,
-    "secret": "4ba064ea6119d13e702754e14cae936b",
+    "secret": "d4fb97d637ce07988ad90444fc481dd6",
     "country": "US",
     "addTime": 1776150333
   },
@@ -154,24 +140,10 @@
     "addTime": 1776150333
   },
   {
-    "host": "149.28.248.43",
+    "host": "207.246.118.212",
     "port": 443,
-    "secret": "3de4d842054559a7b5846d4948ffa13b",
+    "secret": "4ba064ea6119d13e702754e14cae936b",
     "country": "US",
-    "addTime": 1776150333
-  },
-  {
-    "host": "149.248.15.127",
-    "port": 443,
-    "secret": "5cc593a38ade24b0fdeb2175627b6e6a",
-    "country": "US",
-    "addTime": 1776150333
-  },
-  {
-    "host": "80.240.29.220",
-    "port": 443,
-    "secret": "516f51126109daec2ce1bb765541c921",
-    "country": "DE",
     "addTime": 1776150333
   },
   {
@@ -189,9 +161,16 @@
     "addTime": 1776150333
   },
   {
-    "host": "45.76.231.32",
+    "host": "149.28.248.43",
     "port": 443,
-    "secret": "d4fb97d637ce07988ad90444fc481dd6",
+    "secret": "3de4d842054559a7b5846d4948ffa13b",
+    "country": "US",
+    "addTime": 1776150333
+  },
+  {
+    "host": "149.248.15.127",
+    "port": 443,
+    "secret": "5cc593a38ade24b0fdeb2175627b6e6a",
     "country": "US",
     "addTime": 1776150333
   },
@@ -203,11 +182,25 @@
     "addTime": 1776150333
   },
   {
+    "host": "45.63.74.36",
+    "port": 443,
+    "secret": "bdd19701814bf10f8a8d8af58aaf591f",
+    "country": "US",
+    "addTime": 1776150333
+  },
+  {
     "host": "31.58.137.124",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "FI",
     "addTime": 1776150329
+  },
+  {
+    "host": "144.31.230.217",
+    "port": 443,
+    "secret": "33d73370103ea05acd9418eb9dca989e",
+    "country": "SE",
+    "addTime": 1776150311
   },
   {
     "host": "193.233.209.134",
@@ -224,6 +217,13 @@
     "addTime": 1776139636
   },
   {
+    "host": "194.31.223.19",
+    "port": 8443,
+    "secret": "dd794fdd93907f11b4888ee9729219350a",
+    "country": "DE",
+    "addTime": 1776139620
+  },
+  {
     "host": "clo.6.mtproto.ru",
     "port": 443,
     "secret": "ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
@@ -238,16 +238,16 @@
     "addTime": 1776139565
   },
   {
-    "host": "rknpidor_yez.stani.se",
+    "host": "warptop.fritsche.org",
     "port": 8443,
-    "secret": "ee731538b42b2c2c02072211a30d14cf6b3138352e3137372e3233392e313935",
+    "secret": "ee1337133713371337133713371337133737372e3233392e3131332e313735",
     "country": "US",
     "addTime": 1776139563
   },
   {
-    "host": "warptop.fritsche.org",
+    "host": "rknpidor_yez.stani.se",
     "port": 8443,
-    "secret": "ee1337133713371337133713371337133737372e3233392e3131332e313735",
+    "secret": "ee731538b42b2c2c02072211a30d14cf6b3138352e3137372e3233392e313935",
     "country": "US",
     "addTime": 1776139563
   },
@@ -259,17 +259,24 @@
     "addTime": 1776139517
   },
   {
-    "host": "proxy.zuuvpn.space",
-    "port": 443,
-    "secret": "eebc2cf70577f05d5c1b86efef61cc8ece676f7375736c7567692e7275",
-    "country": "RU",
-    "addTime": 1776128930
+    "host": "178.215.239.11",
+    "port": 2050,
+    "secret": "ee14fdb589b677f17cbe925fc0c04fcad1766b2e636f6d",
+    "country": "PL",
+    "addTime": 1776129268
   },
   {
     "host": "website.zuuvpn.space",
     "port": 4443,
     "secret": "58df7a0e1b7cce68e94c76d698813aea",
     "country": "NL",
+    "addTime": 1776128930
+  },
+  {
+    "host": "proxy.zuuvpn.space",
+    "port": 443,
+    "secret": "eebc2cf70577f05d5c1b86efef61cc8ece676f7375736c7567692e7275",
+    "country": "RU",
     "addTime": 1776128930
   },
   {
@@ -280,10 +287,10 @@
     "addTime": 1776128927
   },
   {
-    "host": "s4.dimasssss.space",
+    "host": "s7.dimasssss.space",
     "port": 443,
     "secret": "eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d",
-    "country": "CZ",
+    "country": "CH",
     "addTime": 1776128922
   },
   {
@@ -294,10 +301,10 @@
     "addTime": 1776128922
   },
   {
-    "host": "s7.dimasssss.space",
+    "host": "s4.dimasssss.space",
     "port": 443,
     "secret": "eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d",
-    "country": "CH",
+    "country": "CZ",
     "addTime": 1776128922
   },
   {
@@ -329,24 +336,17 @@
     "addTime": 1776128782
   },
   {
-    "host": "proxy.realslotsvpn.com",
-    "port": 8443,
-    "secret": "ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275",
-    "country": "RU",
-    "addTime": 1776128781
-  },
-  {
-    "host": "195.133.40.117",
-    "port": 443,
-    "secret": "eebd3752d0e7d8c07427b81ed39f999273636c6f7564666c617265636f6d",
-    "country": "CZ",
-    "addTime": 1776128781
-  },
-  {
     "host": "141.98.6.101",
     "port": 443,
     "secret": "ee84d00e422591989657477e9f41877312636c6f7564666c6172652e636f6d",
     "country": "NL",
+    "addTime": 1776128781
+  },
+  {
+    "host": "proxy.realslotsvpn.com",
+    "port": 8443,
+    "secret": "ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275",
+    "country": "RU",
     "addTime": 1776128781
   }
 ]
