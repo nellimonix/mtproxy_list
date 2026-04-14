@@ -1,6 +1,6 @@
 [
   {
-    "host": "80.66.84.149",
+    "host": "80.66.84.138",
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "NL",
@@ -21,13 +21,6 @@
     "addTime": 1776182761
   },
   {
-    "host": "80.66.84.225",
-    "port": 7878,
-    "secret": "48f739d003f42d13dd318bcbd5757d4b",
-    "country": "NL",
-    "addTime": 1776182761
-  },
-  {
     "host": "80.66.84.164",
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
@@ -35,7 +28,14 @@
     "addTime": 1776182761
   },
   {
-    "host": "80.66.84.138",
+    "host": "80.66.84.149",
+    "port": 7878,
+    "secret": "48f739d003f42d13dd318bcbd5757d4b",
+    "country": "NL",
+    "addTime": 1776182761
+  },
+  {
+    "host": "80.66.84.225",
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "NL",
@@ -98,17 +98,17 @@
     "addTime": 1776171946
   },
   {
-    "host": "65.109.127.34",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1776171914
-  },
-  {
     "host": "195.201.250.234",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
+    "addTime": 1776171914
+  },
+  {
+    "host": "65.109.127.34",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "FI",
     "addTime": 1776171914
   },
   {
@@ -119,16 +119,16 @@
     "addTime": 1776171909
   },
   {
-    "host": "213.226.124.186",
-    "port": 443,
-    "secret": "ee3b263e234adb9ea98fca40a0ec907d807777772e636c6f7564666c6172652e636f6d",
+    "host": "freetg.vip",
+    "port": 8443,
+    "secret": "ee27b79b6bde1c9e19eb4707c81e8b1137636c6f7564666c6172652e636f6d",
     "country": "RU",
     "addTime": 1776171905
   },
   {
-    "host": "freetg.vip",
-    "port": 8443,
-    "secret": "ee27b79b6bde1c9e19eb4707c81e8b1137636c6f7564666c6172652e636f6d",
+    "host": "213.226.124.186",
+    "port": 443,
+    "secret": "ee3b263e234adb9ea98fca40a0ec907d807777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
     "addTime": 1776171905
   },
@@ -203,13 +203,6 @@
     "addTime": 1776150337
   },
   {
-    "host": "149.248.15.127",
-    "port": 443,
-    "secret": "5cc593a38ade24b0fdeb2175627b6e6a",
-    "country": "US",
-    "addTime": 1776150333
-  },
-  {
     "host": "192.248.183.45",
     "port": 443,
     "secret": "e43ed409d2570d5210374301d5558acc",
@@ -220,13 +213,6 @@
     "host": "45.32.162.115",
     "port": 443,
     "secret": "4b10d22a2b4bd8d9e32a66b2a0a599a3",
-    "country": "US",
-    "addTime": 1776150333
-  },
-  {
-    "host": "45.77.222.40",
-    "port": 443,
-    "secret": "a95c59ff87d877e7870a375be4ce1795",
     "country": "US",
     "addTime": 1776150333
   },
@@ -245,6 +231,13 @@
     "addTime": 1776150333
   },
   {
+    "host": "149.248.15.127",
+    "port": 443,
+    "secret": "5cc593a38ade24b0fdeb2175627b6e6a",
+    "country": "US",
+    "addTime": 1776150333
+  },
+  {
     "host": "45.77.215.33",
     "port": 443,
     "secret": "cbe7559564df9c6c778b72028d077593",
@@ -259,9 +252,9 @@
     "addTime": 1776150333
   },
   {
-    "host": "45.76.231.32",
+    "host": "45.77.222.40",
     "port": 443,
-    "secret": "d4fb97d637ce07988ad90444fc481dd6",
+    "secret": "a95c59ff87d877e7870a375be4ce1795",
     "country": "US",
     "addTime": 1776150333
   },
@@ -269,6 +262,13 @@
     "host": "149.28.248.43",
     "port": 443,
     "secret": "3de4d842054559a7b5846d4948ffa13b",
+    "country": "US",
+    "addTime": 1776150333
+  },
+  {
+    "host": "45.76.231.32",
+    "port": 443,
+    "secret": "d4fb97d637ce07988ad90444fc481dd6",
     "country": "US",
     "addTime": 1776150333
   },
@@ -301,16 +301,16 @@
     "addTime": 1776139565
   },
   {
-    "host": "rknpidor_yez.stani.se",
+    "host": "warptop.fritsche.org",
     "port": 8443,
-    "secret": "ee731538b42b2c2c02072211a30d14cf6b3138352e3137372e3233392e313935",
+    "secret": "ee1337133713371337133713371337133737372e3233392e3131332e313735",
     "country": "US",
     "addTime": 1776139563
   },
   {
-    "host": "warptop.fritsche.org",
+    "host": "rknpidor_yez.stani.se",
     "port": 8443,
-    "secret": "ee1337133713371337133713371337133737372e3233392e3131332e313735",
+    "secret": "ee731538b42b2c2c02072211a30d14cf6b3138352e3137372e3233392e313935",
     "country": "US",
     "addTime": 1776139563
   },
@@ -320,13 +320,6 @@
     "secret": "ee353f27c43bad4054b23f2837b80c87277777772e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1776139517
-  },
-  {
-    "host": "178.215.239.11",
-    "port": 2050,
-    "secret": "ee14fdb589b677f17cbe925fc0c04fcad1766b2e636f6d",
-    "country": "PL",
-    "addTime": 1776129268
   },
   {
     "host": "website.zuuvpn.space",
@@ -348,5 +341,12 @@
     "secret": "ee50df578d61bf5b60f164115359d1c0266164732e78352e7275",
     "country": "RU",
     "addTime": 1776128927
+  },
+  {
+    "host": "s4.dimasssss.space",
+    "port": 443,
+    "secret": "eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d",
+    "country": "CZ",
+    "addTime": 1776128922
   }
 ]
