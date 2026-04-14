@@ -21,6 +21,13 @@
     "addTime": 1776204387
   },
   {
+    "host": "tg.magproxy.com",
+    "port": 443,
+    "secret": "ddb30fc4df699024f7a5dec0b0e66524b1",
+    "country": "NL",
+    "addTime": 1776204314
+  },
+  {
     "host": "62.60.212.199",
     "port": 443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -42,13 +49,6 @@
     "addTime": 1776204302
   },
   {
-    "host": "134.112.57.138",
-    "port": 443,
-    "secret": "dba39aa79f4e6b4366c98aa315cedb93",
-    "country": "PL",
-    "addTime": 1776204302
-  },
-  {
     "host": "213.155.12.140",
     "port": 443,
     "secret": "7mnomdiexo4iDKF3VXMisn9zdHJveWFsbGlhbmNlLmNvbQ",
@@ -63,14 +63,21 @@
     "addTime": 1776204302
   },
   {
-    "host": "mt3.firmvpn.ru",
+    "host": "134.112.57.138",
+    "port": 443,
+    "secret": "dba39aa79f4e6b4366c98aa315cedb93",
+    "country": "PL",
+    "addTime": 1776204302
+  },
+  {
+    "host": "mt.firmvpn.ru",
     "port": 443,
     "secret": "ee2d237250cf23af15e706849ab9a0d5",
     "country": "RU",
     "addTime": 1776204301
   },
   {
-    "host": "mt.firmvpn.ru",
+    "host": "mt3.firmvpn.ru",
     "port": 443,
     "secret": "ee2d237250cf23af15e706849ab9a0d5",
     "country": "RU",
@@ -105,10 +112,10 @@
     "addTime": 1776193967
   },
   {
-    "host": "nate.2pac.live",
-    "port": 4444,
-    "secret": "ee0e29a0f2681467f790424bf0b726d2ff7777772e7068696c6970732e636f6d",
-    "country": "SC",
+    "host": "dre.2pac.live",
+    "port": 9999,
+    "secret": "ee27efee0c0300e57132e3cf6b34ff34557777772e7068696c6970732e636f6d",
+    "country": "NL",
     "addTime": 1776193632
   },
   {
@@ -119,10 +126,10 @@
     "addTime": 1776193632
   },
   {
-    "host": "dre.2pac.live",
-    "port": 9999,
-    "secret": "ee27efee0c0300e57132e3cf6b34ff34557777772e7068696c6970732e636f6d",
-    "country": "NL",
+    "host": "nate.2pac.live",
+    "port": 4444,
+    "secret": "ee0e29a0f2681467f790424bf0b726d2ff7777772e7068696c6970732e636f6d",
+    "country": "SC",
     "addTime": 1776193632
   },
   {
@@ -140,10 +147,10 @@
     "addTime": 1776193506
   },
   {
-    "host": "150.241.65.206",
-    "port": 443,
-    "secret": "ee903703943e487a63dccbf1d654a7417d6d792e6369616f776e65722e6c6f6c",
-    "country": "SE",
+    "host": "45-136-125-44.sslip.io",
+    "port": 332,
+    "secret": "7tMMu6Vv6kL_Sj3TJ1zRZ3F3d3cuZ29vZ2xlLmNvbQ",
+    "country": "NL",
     "addTime": 1776193506
   },
   {
@@ -151,13 +158,6 @@
     "port": 443,
     "secret": "ee574297036dd8fbe56d3875e39f18aae67777772e636c6f7564666c6172652e636f6d683373616d2e73697465",
     "country": "FI",
-    "addTime": 1776193506
-  },
-  {
-    "host": "45-136-125-44.sslip.io",
-    "port": 332,
-    "secret": "7tMMu6Vv6kL_Sj3TJ1zRZ3F3d3cuZ29vZ2xlLmNvbQ",
-    "country": "NL",
     "addTime": 1776193506
   },
   {
@@ -175,17 +175,17 @@
     "addTime": 1776193499
   },
   {
-    "host": "proxystepa.site",
-    "port": 443,
-    "secret": "eed68360458af63073bac1394e8c7a48da70726f787973746570612e73697465",
-    "country": "CY",
-    "addTime": 1776193497
-  },
-  {
     "host": "proxyrknsosatb.site",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da70726f7879726b6e736f736174622e73697465",
-    "country": "CY",
+    "country": "NL",
+    "addTime": 1776193497
+  },
+  {
+    "host": "proxystepa.site",
+    "port": 443,
+    "secret": "eed68360458af63073bac1394e8c7a48da70726f787973746570612e73697465",
+    "country": "NL",
     "addTime": 1776193497
   },
   {
@@ -203,7 +203,7 @@
     "addTime": 1776182761
   },
   {
-    "host": "80.66.84.164",
+    "host": "80.66.84.149",
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "NL",
@@ -231,7 +231,7 @@
     "addTime": 1776182761
   },
   {
-    "host": "80.66.84.149",
+    "host": "80.66.84.164",
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "NL",
@@ -322,17 +322,17 @@
     "addTime": 1776171905
   },
   {
-    "host": "freetg.vip",
-    "port": 8443,
-    "secret": "ee27b79b6bde1c9e19eb4707c81e8b1137636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1776171905
-  },
-  {
     "host": "tg1.helpbitrix.org",
     "port": 443,
     "secret": "ee6b1cf68741e58d9e8ae5c5dd71da10c279616e6465782e7275",
     "country": "SC",
+    "addTime": 1776171905
+  },
+  {
+    "host": "freetg.vip",
+    "port": 8443,
+    "secret": "ee27b79b6bde1c9e19eb4707c81e8b1137636c6f7564666c6172652e636f6d",
+    "country": "RU",
     "addTime": 1776171905
   },
   {
@@ -343,10 +343,10 @@
     "addTime": 1776171872
   },
   {
-    "host": "9ea5e.blancproxy.link",
-    "port": 443,
-    "secret": "dd97c420070f5eb3ba3c22b9635576d9f1",
-    "country": "RU",
-    "addTime": 1776161228
+    "host": "159.100.18.163",
+    "port": 3444,
+    "secret": "06cab4b61c436410bb231839bbf9ed19",
+    "country": "DE",
+    "addTime": 1776161231
   }
 ]
