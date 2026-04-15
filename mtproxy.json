@@ -1,13 +1,13 @@
 [
   {
-    "host": "45.38.23.169",
+    "host": "45.38.23.254",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "US",
     "addTime": 1776236763
   },
   {
-    "host": "45.38.23.254",
+    "host": "45.38.23.169",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "US",
@@ -28,17 +28,17 @@
     "addTime": 1776236699
   },
   {
+    "host": "45.77.54.47",
+    "port": 443,
+    "secret": "a96c70234a5b5d5270a48f97756e4e74",
+    "country": "DE",
+    "addTime": 1776236690
+  },
+  {
     "host": "207.148.0.21",
     "port": 443,
     "secret": "acecd7dca00ce5b0b75f6aaf27590bd7",
     "country": "US",
-    "addTime": 1776236690
-  },
-  {
-    "host": "95.179.190.222",
-    "port": 443,
-    "secret": "572691dc5029d180dc96d1317802bc66",
-    "country": "NL",
     "addTime": 1776236690
   },
   {
@@ -70,10 +70,17 @@
     "addTime": 1776236690
   },
   {
-    "host": "45.77.54.47",
+    "host": "144.202.26.47",
     "port": 443,
-    "secret": "a96c70234a5b5d5270a48f97756e4e74",
-    "country": "DE",
+    "secret": "2f9d7f7d1adbf560f89f067624d25f49",
+    "country": "US",
+    "addTime": 1776236690
+  },
+  {
+    "host": "95.179.190.222",
+    "port": 443,
+    "secret": "572691dc5029d180dc96d1317802bc66",
+    "country": "NL",
     "addTime": 1776236690
   },
   {
@@ -87,13 +94,6 @@
     "host": "45.76.238.193",
     "port": 443,
     "secret": "3754dcfd9bdb195862f0a4b19c3d9e95",
-    "country": "US",
-    "addTime": 1776236690
-  },
-  {
-    "host": "144.202.26.47",
-    "port": 443,
-    "secret": "2f9d7f7d1adbf560f89f067624d25f49",
     "country": "US",
     "addTime": 1776236690
   },
@@ -119,17 +119,17 @@
     "addTime": 1776225877
   },
   {
-    "host": "tproxy.neuropath.ru",
-    "port": 10443,
-    "secret": "e7b7ae25defab0e07be5d30fadbfc105",
-    "country": "RU",
-    "addTime": 1776225877
-  },
-  {
     "host": "cdn07.fstee.online",
     "port": 8443,
     "secret": "ee79612e727532b36cddaab25ffef2f5",
     "country": "NL",
+    "addTime": 1776225877
+  },
+  {
+    "host": "tproxy.neuropath.ru",
+    "port": 10443,
+    "secret": "e7b7ae25defab0e07be5d30fadbfc105",
+    "country": "RU",
     "addTime": 1776225877
   },
   {
@@ -161,11 +161,11 @@
     "addTime": 1776204424
   },
   {
-    "host": "2.extravpn.info",
+    "host": "tg.magproxy.com",
     "port": 443,
-    "secret": "cd742ff8a47665a8007e2f7c5c65ffc7",
-    "country": "DE",
-    "addTime": 1776204387
+    "secret": "ddb30fc4df699024f7a5dec0b0e66524b1",
+    "country": "NL",
+    "addTime": 1776204314
   },
   {
     "host": "62.60.212.199",
@@ -175,17 +175,24 @@
     "addTime": 1776204313
   },
   {
-    "host": "193.233.91.179",
-    "port": 443,
-    "secret": "ee39e91f7a897006fbac50cedbb52bec6967656e6f74656b2e7275",
-    "country": "RU",
-    "addTime": 1776204302
-  },
-  {
     "host": "213.155.12.140",
     "port": 443,
     "secret": "7mnomdiexo4iDKF3VXMisn9zdHJveWFsbGlhbmNlLmNvbQ",
     "country": "LV",
+    "addTime": 1776204302
+  },
+  {
+    "host": "185.167.61.147",
+    "port": 443,
+    "secret": "dd8288e60eed363bbc845b6bd77d81cabc",
+    "country": "DE",
+    "addTime": 1776204302
+  },
+  {
+    "host": "193.233.91.179",
+    "port": 443,
+    "secret": "ee39e91f7a897006fbac50cedbb52bec6967656e6f74656b2e7275",
+    "country": "RU",
     "addTime": 1776204302
   },
   {
@@ -217,13 +224,6 @@
     "addTime": 1776193967
   },
   {
-    "host": "144.31.135.73",
-    "port": 443,
-    "secret": "abb29dcec88e73610721bcf68c00b796",
-    "country": "NL",
-    "addTime": 1776193645
-  },
-  {
     "host": "nate.2pac.live",
     "port": 4444,
     "secret": "ee0e29a0f2681467f790424bf0b726d2ff7777772e7068696c6970732e636f6d",
@@ -252,10 +252,10 @@
     "addTime": 1776193518
   },
   {
-    "host": "godslove.duckdns.org",
+    "host": "fruktozka.space",
     "port": 443,
-    "secret": "ee574297036dd8fbe56d3875e39f18aae67777772e636c6f7564666c6172652e636f6d683373616d2e73697465",
-    "country": "FI",
+    "secret": "ee6d7433ac868119eb36e9c9d9bbbba346636c6f7564666c6172652e636f6d",
+    "country": "US",
     "addTime": 1776193506
   },
   {
@@ -266,17 +266,17 @@
     "addTime": 1776193506
   },
   {
-    "host": "45-136-125-44.sslip.io",
-    "port": 332,
-    "secret": "7tMMu6Vv6kL_Sj3TJ1zRZ3F3d3cuZ29vZ2xlLmNvbQ",
-    "country": "NL",
+    "host": "godslove.duckdns.org",
+    "port": 443,
+    "secret": "ee574297036dd8fbe56d3875e39f18aae67777772e636c6f7564666c6172652e636f6d683373616d2e73697465",
+    "country": "FI",
     "addTime": 1776193506
   },
   {
-    "host": "fruktozka.space",
+    "host": "150.241.65.206",
     "port": 443,
-    "secret": "ee6d7433ac868119eb36e9c9d9bbbba346636c6f7564666c6172652e636f6d",
-    "country": "US",
+    "secret": "ee903703943e487a63dccbf1d654a7417d6d792e6369616f776e65722e6c6f6c",
+    "country": "SE",
     "addTime": 1776193506
   },
   {
@@ -287,10 +287,10 @@
     "addTime": 1776193506
   },
   {
-    "host": "150.241.65.206",
-    "port": 443,
-    "secret": "ee903703943e487a63dccbf1d654a7417d6d792e6369616f776e65722e6c6f6c",
-    "country": "SE",
+    "host": "45-136-125-44.sslip.io",
+    "port": 332,
+    "secret": "7tMMu6Vv6kL_Sj3TJ1zRZ3F3d3cuZ29vZ2xlLmNvbQ",
+    "country": "NL",
     "addTime": 1776193506
   },
   {
@@ -304,14 +304,14 @@
     "host": "proxyrknsosatb.site",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da70726f7879726b6e736f736174622e73697465",
-    "country": "CY",
+    "country": "LV",
     "addTime": 1776193497
   },
   {
     "host": "proxystepa.site",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da70726f787973746570612e73697465",
-    "country": "LV",
+    "country": "NL",
     "addTime": 1776193497
   },
   {
@@ -329,21 +329,21 @@
     "addTime": 1776182761
   },
   {
+    "host": "193.233.90.178",
+    "port": 443,
+    "secret": "b2927ac82110373f3db9e8e658449c6c",
+    "country": "RU",
+    "addTime": 1776182761
+  },
+  {
+    "host": "80.66.84.138",
+    "port": 7878,
+    "secret": "48f739d003f42d13dd318bcbd5757d4b",
+    "country": "NL",
+    "addTime": 1776182761
+  },
+  {
     "host": "80.66.84.225",
-    "port": 7878,
-    "secret": "48f739d003f42d13dd318bcbd5757d4b",
-    "country": "NL",
-    "addTime": 1776182761
-  },
-  {
-    "host": "80.66.84.164",
-    "port": 7878,
-    "secret": "48f739d003f42d13dd318bcbd5757d4b",
-    "country": "NL",
-    "addTime": 1776182761
-  },
-  {
-    "host": "80.66.84.189",
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "NL",
