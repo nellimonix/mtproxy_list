@@ -1,12 +1,5 @@
 [
   {
-    "host": "87.121.89.75",
-    "port": 8443,
-    "secret": "ee79612e7275199dbe0e07cce82bcfea",
-    "country": "FI",
-    "addTime": 1776204445
-  },
-  {
     "host": "94.232.245.189",
     "port": 443,
     "secret": "ee973b9a106be8b489adae6481534990ec54656c6567726161662e6e6c",
@@ -35,11 +28,11 @@
     "addTime": 1776204387
   },
   {
-    "host": "85.239.48.137",
-    "port": 8443,
-    "secret": "ee0da02265d08c2f74507bf69aaa7794",
-    "country": "RU",
-    "addTime": 1776204386
+    "host": "tg.magproxy.com",
+    "port": 443,
+    "secret": "ddb30fc4df699024f7a5dec0b0e66524b1",
+    "country": "NL",
+    "addTime": 1776204314
   },
   {
     "host": "62.60.212.199",
@@ -47,13 +40,6 @@
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "country": "IR",
     "addTime": 1776204313
-  },
-  {
-    "host": "193.233.91.179",
-    "port": 443,
-    "secret": "ee39e91f7a897006fbac50cedbb52bec6967656e6f74656b2e7275",
-    "country": "RU",
-    "addTime": 1776204302
   },
   {
     "host": "185.167.61.147",
@@ -70,10 +56,10 @@
     "addTime": 1776204302
   },
   {
-    "host": "213.155.12.140",
+    "host": "193.233.91.179",
     "port": 443,
-    "secret": "7mnomdiexo4iDKF3VXMisn9zdHJveWFsbGlhbmNlLmNvbQ",
-    "country": "LV",
+    "secret": "ee39e91f7a897006fbac50cedbb52bec6967656e6f74656b2e7275",
+    "country": "RU",
     "addTime": 1776204302
   },
   {
@@ -84,14 +70,21 @@
     "addTime": 1776204302
   },
   {
-    "host": "mt.firmvpn.ru",
+    "host": "213.155.12.140",
+    "port": 443,
+    "secret": "7mnomdiexo4iDKF3VXMisn9zdHJveWFsbGlhbmNlLmNvbQ",
+    "country": "LV",
+    "addTime": 1776204302
+  },
+  {
+    "host": "mt3.firmvpn.ru",
     "port": 443,
     "secret": "ee2d237250cf23af15e706849ab9a0d5",
     "country": "RU",
     "addTime": 1776204301
   },
   {
-    "host": "mt3.firmvpn.ru",
+    "host": "mt.firmvpn.ru",
     "port": 443,
     "secret": "ee2d237250cf23af15e706849ab9a0d5",
     "country": "RU",
@@ -140,17 +133,17 @@
     "addTime": 1776193632
   },
   {
-    "host": "richie.2pac.live",
-    "port": 8888,
-    "secret": "ee13238607263a9c961fd854ae0d8b5e1e7777772e7068696c6970732e636f6d",
-    "country": "DE",
-    "addTime": 1776193632
-  },
-  {
     "host": "dre.2pac.live",
     "port": 9999,
     "secret": "ee27efee0c0300e57132e3cf6b34ff34557777772e7068696c6970732e636f6d",
     "country": "NL",
+    "addTime": 1776193632
+  },
+  {
+    "host": "richie.2pac.live",
+    "port": 8888,
+    "secret": "ee13238607263a9c961fd854ae0d8b5e1e7777772e7068696c6970732e636f6d",
+    "country": "DE",
     "addTime": 1776193632
   },
   {
@@ -159,34 +152,6 @@
     "secret": "e24097921dfa58a8a7a5ea31f7122630",
     "country": "FI",
     "addTime": 1776193518
-  },
-  {
-    "host": "free.kimt.space",
-    "port": 443,
-    "secret": "ee6d308bbd1b3b1fae56e334750ecf2f606164732e78352e7275",
-    "country": "RU",
-    "addTime": 1776193506
-  },
-  {
-    "host": "godslove.duckdns.org",
-    "port": 443,
-    "secret": "ee574297036dd8fbe56d3875e39f18aae67777772e636c6f7564666c6172652e636f6d683373616d2e73697465",
-    "country": "FI",
-    "addTime": 1776193506
-  },
-  {
-    "host": "45-136-125-44.sslip.io",
-    "port": 332,
-    "secret": "7tMMu6Vv6kL_Sj3TJ1zRZ3F3d3cuZ29vZ2xlLmNvbQ",
-    "country": "NL",
-    "addTime": 1776193506
-  },
-  {
-    "host": "150.241.65.206",
-    "port": 443,
-    "secret": "ee903703943e487a63dccbf1d654a7417d6d792e6369616f776e65722e6c6f6c",
-    "country": "SE",
-    "addTime": 1776193506
   },
   {
     "host": "fruktozka.space",
@@ -203,6 +168,34 @@
     "addTime": 1776193506
   },
   {
+    "host": "free.kimt.space",
+    "port": 443,
+    "secret": "ee6d308bbd1b3b1fae56e334750ecf2f606164732e78352e7275",
+    "country": "RU",
+    "addTime": 1776193506
+  },
+  {
+    "host": "150.241.65.206",
+    "port": 443,
+    "secret": "ee903703943e487a63dccbf1d654a7417d6d792e6369616f776e65722e6c6f6c",
+    "country": "SE",
+    "addTime": 1776193506
+  },
+  {
+    "host": "45-136-125-44.sslip.io",
+    "port": 332,
+    "secret": "7tMMu6Vv6kL_Sj3TJ1zRZ3F3d3cuZ29vZ2xlLmNvbQ",
+    "country": "NL",
+    "addTime": 1776193506
+  },
+  {
+    "host": "godslove.duckdns.org",
+    "port": 443,
+    "secret": "ee574297036dd8fbe56d3875e39f18aae67777772e636c6f7564666c6172652e636f6d683373616d2e73697465",
+    "country": "FI",
+    "addTime": 1776193506
+  },
+  {
     "host": "mtproto.proxysoxy.com",
     "port": 8443,
     "secret": "eefd77b826e7505c142dc24f4fd87ee42c65682e766b2e636f6d",
@@ -210,16 +203,16 @@
     "addTime": 1776193499
   },
   {
-    "host": "proxyrknsosatb.site",
-    "port": 443,
-    "secret": "eed68360458af63073bac1394e8c7a48da70726f7879726b6e736f736174622e73697465",
-    "country": "CY",
-    "addTime": 1776193497
-  },
-  {
     "host": "proxystepa.site",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da70726f787973746570612e73697465",
+    "country": "MD",
+    "addTime": 1776193497
+  },
+  {
+    "host": "proxyrknsosatb.site",
+    "port": 443,
+    "secret": "eed68360458af63073bac1394e8c7a48da70726f7879726b6e736f736174622e73697465",
     "country": "CY",
     "addTime": 1776193497
   },
@@ -231,20 +224,6 @@
     "addTime": 1776193492
   },
   {
-    "host": "80.66.84.189",
-    "port": 7878,
-    "secret": "48f739d003f42d13dd318bcbd5757d4b",
-    "country": "NL",
-    "addTime": 1776182761
-  },
-  {
-    "host": "80.66.84.225",
-    "port": 7878,
-    "secret": "48f739d003f42d13dd318bcbd5757d4b",
-    "country": "NL",
-    "addTime": 1776182761
-  },
-  {
     "host": "193.233.90.178",
     "port": 443,
     "secret": "b2927ac82110373f3db9e8e658449c6c",
@@ -252,7 +231,7 @@
     "addTime": 1776182761
   },
   {
-    "host": "80.66.84.164",
+    "host": "80.66.84.138",
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "NL",
@@ -266,7 +245,21 @@
     "addTime": 1776182761
   },
   {
-    "host": "80.66.84.138",
+    "host": "80.66.84.225",
+    "port": 7878,
+    "secret": "48f739d003f42d13dd318bcbd5757d4b",
+    "country": "NL",
+    "addTime": 1776182761
+  },
+  {
+    "host": "80.66.84.164",
+    "port": 7878,
+    "secret": "48f739d003f42d13dd318bcbd5757d4b",
+    "country": "NL",
+    "addTime": 1776182761
+  },
+  {
+    "host": "80.66.84.189",
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "NL",
@@ -287,17 +280,17 @@
     "addTime": 1776182694
   },
   {
-    "host": "rs.rudale.com",
-    "port": 5443,
-    "secret": "eebdf88671826815effa5c542b197a8e676d61782e7275",
-    "country": "CY",
-    "addTime": 1776182691
-  },
-  {
     "host": "151.247.196.72",
     "port": 443,
     "secret": "eebfd6f2c074e99a71f1218eebaa156c376170706c652e636f6d",
     "country": "AE",
+    "addTime": 1776182691
+  },
+  {
+    "host": "rs.rudale.com",
+    "port": 5443,
+    "secret": "eebdf88671826815effa5c542b197a8e676d61782e7275",
+    "country": "CY",
     "addTime": 1776182691
   },
   {
@@ -341,6 +334,13 @@
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "DE",
     "addTime": 1776171909
+  },
+  {
+    "host": "213.226.124.186",
+    "port": 443,
+    "secret": "ee3b263e234adb9ea98fca40a0ec907d807777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1776171905
   },
   {
     "host": "freetg.vip",
