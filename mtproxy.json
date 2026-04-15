@@ -35,6 +35,13 @@
     "addTime": 1776279866
   },
   {
+    "host": "178.104.202.42",
+    "port": 9321,
+    "secret": "ee104462821249bd7ac519130220c25d096d61696c2e7275",
+    "country": "DE",
+    "addTime": 1776279860
+  },
+  {
     "host": "103.27.156.249",
     "port": 443,
     "secret": "0fe140d8ca3d71244e749d452813ccbb",
@@ -45,13 +52,6 @@
     "host": "88.198.56.230",
     "port": 8080,
     "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1776279860
-  },
-  {
-    "host": "178.104.202.42",
-    "port": 9321,
-    "secret": "ee104462821249bd7ac519130220c25d096d61696c2e7275",
     "country": "DE",
     "addTime": 1776279860
   },
@@ -84,6 +84,13 @@
     "addTime": 1776269151
   },
   {
+    "host": "45.145.43.179",
+    "port": 443,
+    "secret": "2150b30729fee51eb757fbc28c0a5bcb",
+    "country": "DE",
+    "addTime": 1776269142
+  },
+  {
     "host": "uplink.techlibrary.ink",
     "port": 4501,
     "secret": "ee17e6d4e0d143817328e4341210e9bb3a636c6f7564666c6172652e636f6d",
@@ -105,17 +112,17 @@
     "addTime": 1776269092
   },
   {
-    "host": "192.248.191.64",
-    "port": 443,
-    "secret": "d279734e31c647bf0f13e2fd11f8e821",
-    "country": "DE",
-    "addTime": 1776269085
-  },
-  {
     "host": "31.220.72.60",
     "port": 443,
     "secret": "ee399a6e8dbe6399816eba10c0fa78609d636c6f7564666c6172652e636f6d",
     "country": "FR",
+    "addTime": 1776269085
+  },
+  {
+    "host": "192.248.191.64",
+    "port": 443,
+    "secret": "d279734e31c647bf0f13e2fd11f8e821",
+    "country": "DE",
     "addTime": 1776269085
   },
   {
@@ -126,13 +133,6 @@
     "addTime": 1776269082
   },
   {
-    "host": "153.76.122.82",
-    "port": 443,
-    "secret": "ee79612e7275bddc507798bd5dba840a",
-    "country": "US",
-    "addTime": 1776269075
-  },
-  {
     "host": "2.27.12.72",
     "port": 443,
     "secret": "ee79612e7275a35de07465f3a8763b73",
@@ -140,17 +140,24 @@
     "addTime": 1776269075
   },
   {
-    "host": "2.26.125.157",
+    "host": "153.76.122.82",
     "port": 443,
-    "secret": "eeddb6c661f6fdaa29528b3c8fe98f19cd74656c652e736861646f776465707574792e736273",
+    "secret": "ee79612e7275bddc507798bd5dba840a",
     "country": "US",
-    "addTime": 1776269074
+    "addTime": 1776269075
   },
   {
     "host": "91.92.33.198",
     "port": 443,
     "secret": "eeee09513d515ee0c9ab950eb3698a1b0e6d742e73706163652d6c696e6b2e636c6f7564",
     "country": "DE",
+    "addTime": 1776269074
+  },
+  {
+    "host": "2.26.125.157",
+    "port": 443,
+    "secret": "eeddb6c661f6fdaa29528b3c8fe98f19cd74656c652e736861646f776465707574792e736273",
+    "country": "US",
     "addTime": 1776269074
   },
   {
@@ -168,9 +175,9 @@
     "addTime": 1776269074
   },
   {
-    "host": "2.26.53.141",
+    "host": "2.27.4.96",
     "port": 443,
-    "secret": "ee3f354f86e59e2c166c83031772d92d6379612e7275",
+    "secret": "ee223b07b10c28c7032f8612b139dd79c3766b2e7275",
     "country": "US",
     "addTime": 1776269074
   },
@@ -182,9 +189,9 @@
     "addTime": 1776269074
   },
   {
-    "host": "2.27.4.96",
+    "host": "2.26.53.141",
     "port": 443,
-    "secret": "ee223b07b10c28c7032f8612b139dd79c3766b2e7275",
+    "secret": "ee3f354f86e59e2c166c83031772d92d6379612e7275",
     "country": "US",
     "addTime": 1776269074
   },
@@ -273,30 +280,9 @@
     "addTime": 1776247548
   },
   {
-    "host": "86.104.75.46",
-    "port": 443,
-    "secret": "ee9da43af7c33cb873528d3c84088646d274656c65782e6875",
-    "country": "MD",
-    "addTime": 1776247543
-  },
-  {
-    "host": "proxy.game-drop.com",
-    "port": 443,
-    "secret": "ee00a6e0c07566228f79070a141cb966fa74726176656c2e79616e6465782e7275",
-    "country": "DE",
-    "addTime": 1776247543
-  },
-  {
-    "host": "195.58.48.37",
-    "port": 443,
-    "secret": "eef9e64e08ecaf3d40e3b4c0fe708c448a706574726f766963682e7275",
-    "country": "RU",
-    "addTime": 1776247543
-  },
-  {
-    "host": "85.137.252.151",
-    "port": 5184,
-    "secret": "eeeedbbee781f1dd2d02aaab4eeec011b06d61782e7275",
+    "host": "85.137.252.143",
+    "port": 4728,
+    "secret": "ee751362e6e68c968f5cbddec130e8f5796d61782e7275",
     "country": "FI",
     "addTime": 1776247543
   },
@@ -308,17 +294,17 @@
     "addTime": 1776247543
   },
   {
-    "host": "85.137.252.143",
-    "port": 4728,
-    "secret": "ee751362e6e68c968f5cbddec130e8f5796d61782e7275",
+    "host": "85.137.252.151",
+    "port": 5184,
+    "secret": "eeeedbbee781f1dd2d02aaab4eeec011b06d61782e7275",
     "country": "FI",
     "addTime": 1776247543
   },
   {
-    "host": "pasha-make-tg-great-again.gemera.one",
+    "host": "proxy.game-drop.com",
     "port": 443,
-    "secret": "ee704f1b022eff83a12dec8fb2da8f555f65682e766b2e636f6d",
-    "country": "RU",
+    "secret": "ee00a6e0c07566228f79070a141cb966fa74726176656c2e79616e6465782e7275",
+    "country": "DE",
     "addTime": 1776247543
   },
   {
@@ -329,10 +315,31 @@
     "addTime": 1776247543
   },
   {
+    "host": "86.104.75.46",
+    "port": 443,
+    "secret": "ee9da43af7c33cb873528d3c84088646d274656c65782e6875",
+    "country": "MD",
+    "addTime": 1776247543
+  },
+  {
     "host": "2.27.27.225",
     "port": 443,
     "secret": "eebbb4a9509ca171e744b3fcaea059ae3a7777772e676f6f676c652e636f6d",
     "country": "AM",
+    "addTime": 1776247543
+  },
+  {
+    "host": "pasha-make-tg-great-again.gemera.one",
+    "port": 443,
+    "secret": "ee704f1b022eff83a12dec8fb2da8f555f65682e766b2e636f6d",
+    "country": "RU",
+    "addTime": 1776247543
+  },
+  {
+    "host": "195.58.48.37",
+    "port": 443,
+    "secret": "eef9e64e08ecaf3d40e3b4c0fe708c448a706574726f766963682e7275",
+    "country": "RU",
     "addTime": 1776247543
   },
   {
@@ -341,12 +348,5 @@
     "secret": "ee6b74041f24ff73dc4305cef153aad92a79612e7275",
     "country": "DE",
     "addTime": 1776247505
-  },
-  {
-    "host": "72.56.250.221",
-    "port": 443,
-    "secret": "eeff0c592463b7a03b31ce7fec93460449706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1776247502
   }
 ]
