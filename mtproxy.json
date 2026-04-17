@@ -14,17 +14,17 @@
     "addTime": 1776420336
   },
   {
-    "host": "38.28.190.29",
+    "host": "38.28.153.93",
     "port": 443,
     "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
     "country": "US",
     "addTime": 1776420322
   },
   {
-    "host": "38.28.153.93",
+    "host": "149.120.147.161",
     "port": 443,
-    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
-    "country": "US",
+    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
+    "country": "HK",
     "addTime": 1776420322
   },
   {
@@ -35,10 +35,10 @@
     "addTime": 1776420322
   },
   {
-    "host": "149.120.147.161",
+    "host": "38.28.190.29",
     "port": 443,
-    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
-    "country": "HK",
+    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
+    "country": "US",
     "addTime": 1776420322
   },
   {
@@ -77,14 +77,14 @@
     "addTime": 1776398871
   },
   {
-    "host": "mt.vpn-one.net",
+    "host": "mt2.vpn-one.net",
     "port": 5223,
     "secret": "7ae73ddfd70b8e549aae657b4da1bf03",
     "country": "RU",
     "addTime": 1776398871
   },
   {
-    "host": "mt2.vpn-one.net",
+    "host": "mt.vpn-one.net",
     "port": 5223,
     "secret": "7ae73ddfd70b8e549aae657b4da1bf03",
     "country": "RU",
@@ -154,9 +154,9 @@
     "addTime": 1776388416
   },
   {
-    "host": "server1.mtproxyserver.site",
+    "host": "server3.mtproxyserver.site",
     "port": 443,
-    "secret": "ee1df70b3bd53fa8f536853e68639ce72f62726f777365722e79616e6465782e636f6d",
+    "secret": "ee67d3aace8cd3d1e6af788bbca807c7d377622e7275",
     "country": "US",
     "addTime": 1776388416
   },
@@ -168,16 +168,9 @@
     "addTime": 1776388416
   },
   {
-    "host": "51.250.25.211",
-    "port": 80,
-    "secret": "dd615790ab6967eda83ba9644543f246b6",
-    "country": "RU",
-    "addTime": 1776388416
-  },
-  {
-    "host": "server3.mtproxyserver.site",
+    "host": "server1.mtproxyserver.site",
     "port": 443,
-    "secret": "ee67d3aace8cd3d1e6af788bbca807c7d377622e7275",
+    "secret": "ee1df70b3bd53fa8f536853e68639ce72f62726f777365722e79616e6465782e636f6d",
     "country": "US",
     "addTime": 1776388416
   },
@@ -234,7 +227,7 @@
     "host": "pvnexus.xyz",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da70766e657875732e78797a",
-    "country": "NL",
+    "country": "LV",
     "addTime": 1776366350
   },
   {
@@ -248,14 +241,14 @@
     "host": "prxflow.live",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da707278666c6f772e6c697665",
-    "country": "NL",
+    "country": "LV",
     "addTime": 1776366349
   },
   {
-    "host": "nc911.hopto.org",
+    "host": "he.fi.4.mtproto.ru",
     "port": 443,
-    "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
-    "country": "RU",
+    "secret": "ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
+    "country": "DE",
     "addTime": 1776366292
   },
   {
@@ -266,31 +259,17 @@
     "addTime": 1776366292
   },
   {
-    "host": "he.fi.4.mtproto.ru",
+    "host": "nc911.hopto.org",
     "port": 443,
-    "secret": "ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
-    "country": "DE",
+    "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
+    "country": "RU",
     "addTime": 1776366292
-  },
-  {
-    "host": "mtp.xode.top",
-    "port": 443,
-    "secret": "eede18609544eb7fa267cf94735d320ac56d74702e786f64652e746f70",
-    "country": "FI",
-    "addTime": 1776366279
   },
   {
     "host": "news1704.mtproxygram.lol",
     "port": 443,
     "secret": "ee608248722a8f45103ed03c7994abf9b062726f777365722e79616e6465782e636f6d",
     "country": "NL",
-    "addTime": 1776366279
-  },
-  {
-    "host": "tg.rkn.guru",
-    "port": 443,
-    "secret": "eea9785d14b6e7254af5086de9d92945e574672e726b6e2e67757275",
-    "country": "US",
     "addTime": 1776366279
   },
   {
@@ -301,18 +280,18 @@
     "addTime": 1776366279
   },
   {
+    "host": "mtp.xode.top",
+    "port": 443,
+    "secret": "eede18609544eb7fa267cf94735d320ac56d74702e786f64652e746f70",
+    "country": "FI",
+    "addTime": 1776366279
+  },
+  {
     "host": "v3.nexarstream.com",
     "port": 8443,
     "secret": "ee695eb61fca7da36193fd48b5f9a743f876332e6e6578617273747265616d2e636f6d",
     "country": "PL",
     "addTime": 1776366250
-  },
-  {
-    "host": "s-reserve-ee.fluctuation.online",
-    "port": 8443,
-    "secret": "ee9962b6593a490946f5a9e2c45ce3130b6170692d6d6170732e79616e6465782e7275",
-    "country": "DE",
-    "addTime": 1776355580
   },
   {
     "host": "s-reserve.fluctuation.online",
@@ -325,6 +304,13 @@
     "host": "89.144.48.151",
     "port": 443,
     "secret": "dd345afe9188a4e5a94dc706e1aa6cef",
+    "country": "DE",
+    "addTime": 1776355580
+  },
+  {
+    "host": "s-reserve-ee.fluctuation.online",
+    "port": 8443,
+    "secret": "ee9962b6593a490946f5a9e2c45ce3130b6170692d6d6170732e79616e6465782e7275",
     "country": "DE",
     "addTime": 1776355580
   },
@@ -348,5 +334,19 @@
     "secret": "dd5bb92c120f7797791e9691467acf2f82",
     "country": "AT",
     "addTime": 1776355494
+  },
+  {
+    "host": "5.75.212.43",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1776355483
+  },
+  {
+    "host": "49.12.79.244",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1776355483
   }
 ]
