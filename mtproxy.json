@@ -322,16 +322,23 @@
     "addTime": 1776388416
   },
   {
-    "host": "server2.mtproxyserver.site",
+    "host": "server3.mtproxyserver.site",
     "port": 443,
-    "secret": "ee9209cef250686836bf014a5551e5f1a962726f777365722e79616e6465782e636f6d",
+    "secret": "ee67d3aace8cd3d1e6af788bbca807c7d377622e7275",
     "country": "US",
     "addTime": 1776388416
   },
   {
-    "host": "server3.mtproxyserver.site",
+    "host": "server1.mtproxyserver.site",
     "port": 443,
-    "secret": "ee67d3aace8cd3d1e6af788bbca807c7d377622e7275",
+    "secret": "ee1df70b3bd53fa8f536853e68639ce72f62726f777365722e79616e6465782e636f6d",
+    "country": "US",
+    "addTime": 1776388416
+  },
+  {
+    "host": "server2.mtproxyserver.site",
+    "port": 443,
+    "secret": "ee9209cef250686836bf014a5551e5f1a962726f777365722e79616e6465782e636f6d",
     "country": "US",
     "addTime": 1776388416
   },
@@ -341,12 +348,5 @@
     "secret": "dd7409381d7049cb64bd9ff1d5c23f4434",
     "country": "NL",
     "addTime": 1776388416
-  },
-  {
-    "host": "openway.forum",
-    "port": 443,
-    "secret": "eed68360458af63073bac1394e8c7a48da6f70656e7761792e666f72756d",
-    "country": "LV",
-    "addTime": 1776377156
   }
 ]
