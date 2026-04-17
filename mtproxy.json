@@ -38,7 +38,7 @@
     "host": "try.beatvault.ru",
     "port": 443,
     "secret": "eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d",
-    "country": "NL",
+    "country": "SE",
     "addTime": 1776463470
   },
   {
@@ -175,10 +175,10 @@
     "addTime": 1776441961
   },
   {
-    "host": "tgb.ftvpn.club",
+    "host": "2.26.96.22",
     "port": 443,
-    "secret": "eecdd03884b616067213f79b48c9f2e02c31632e7275",
-    "country": "DE",
+    "secret": "dda56548b5aeb2fbc0e26b3fe8ed494fe0",
+    "country": "NL",
     "addTime": 1776441950
   },
   {
@@ -189,10 +189,24 @@
     "addTime": 1776441950
   },
   {
-    "host": "2.26.96.22",
-    "port": 443,
-    "secret": "dda56548b5aeb2fbc0e26b3fe8ed494fe0",
+    "host": "89.124.95.185",
+    "port": 8443,
+    "secret": "ee6403877430086085167456439119957338392e3132342e39352e313835",
     "country": "NL",
+    "addTime": 1776441950
+  },
+  {
+    "host": "tgb.ftvpn.club",
+    "port": 443,
+    "secret": "eecdd03884b616067213f79b48c9f2e02c31632e7275",
+    "country": "DE",
+    "addTime": 1776441950
+  },
+  {
+    "host": "45.83.22.254",
+    "port": 443,
+    "secret": "ee7d05a3f6d1ec6b54a27e5c16f29c649d706574726f766963682e7275",
+    "country": "CY",
     "addTime": 1776441950
   },
   {
@@ -210,10 +224,10 @@
     "addTime": 1776441950
   },
   {
-    "host": "45.83.22.254",
+    "host": "154.83.149.182",
     "port": 443,
-    "secret": "ee7d05a3f6d1ec6b54a27e5c16f29c649d706574726f766963682e7275",
-    "country": "CY",
+    "secret": "ee1fc21de01e7ed9b863e797c1f9b1a562706574726f766963682e7275",
+    "country": "NL",
     "addTime": 1776441950
   },
   {
@@ -228,20 +242,6 @@
     "port": 443,
     "secret": "eeb6cc7e7dd199a7c97a958e5ddad829946475636b6475636b676f2e636f6d",
     "country": "GB",
-    "addTime": 1776441950
-  },
-  {
-    "host": "154.83.149.182",
-    "port": 443,
-    "secret": "ee1fc21de01e7ed9b863e797c1f9b1a562706574726f766963682e7275",
-    "country": "NL",
-    "addTime": 1776441950
-  },
-  {
-    "host": "89.124.95.185",
-    "port": 8443,
-    "secret": "ee6403877430086085167456439119957338392e3132342e39352e313835",
-    "country": "NL",
     "addTime": 1776441950
   },
   {
@@ -308,21 +308,14 @@
     "addTime": 1776431122
   },
   {
-    "host": "49.13.145.62",
+    "host": "49.13.145.67",
     "port": 443,
     "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
     "country": "DE",
     "addTime": 1776431122
   },
   {
-    "host": "128.140.13.248",
-    "port": 443,
-    "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
-    "country": "DE",
-    "addTime": 1776431122
-  },
-  {
-    "host": "49.13.145.84",
+    "host": "49.13.145.61",
     "port": 443,
     "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
     "country": "DE",
@@ -336,14 +329,21 @@
     "addTime": 1776431122
   },
   {
-    "host": "49.13.145.67",
+    "host": "49.13.145.62",
     "port": 443,
     "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
     "country": "DE",
     "addTime": 1776431122
   },
   {
-    "host": "49.13.145.61",
+    "host": "49.13.145.84",
+    "port": 443,
+    "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
+    "country": "DE",
+    "addTime": 1776431122
+  },
+  {
+    "host": "128.140.13.248",
     "port": 443,
     "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
     "country": "DE",
