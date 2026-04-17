@@ -7,6 +7,13 @@
     "addTime": 1776431279
   },
   {
+    "host": "23.88.51.230",
+    "port": 443,
+    "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
+    "country": "DE",
+    "addTime": 1776431122
+  },
+  {
     "host": "49.13.145.61",
     "port": 443,
     "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
@@ -28,13 +35,6 @@
     "addTime": 1776431122
   },
   {
-    "host": "65.108.80.13",
-    "port": 443,
-    "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
-    "country": "FI",
-    "addTime": 1776431122
-  },
-  {
     "host": "49.13.145.67",
     "port": 443,
     "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
@@ -42,14 +42,14 @@
     "addTime": 1776431122
   },
   {
-    "host": "49.13.145.62",
+    "host": "65.108.80.13",
     "port": 443,
     "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
-    "country": "DE",
+    "country": "FI",
     "addTime": 1776431122
   },
   {
-    "host": "23.88.51.230",
+    "host": "49.13.145.62",
     "port": 443,
     "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
     "country": "DE",
@@ -175,6 +175,20 @@
     "addTime": 1776388419
   },
   {
+    "host": "server3.mtproxyserver.site",
+    "port": 443,
+    "secret": "ee67d3aace8cd3d1e6af788bbca807c7d377622e7275",
+    "country": "US",
+    "addTime": 1776388416
+  },
+  {
+    "host": "proxy.orbit-escape.ru",
+    "port": 80,
+    "secret": "dd7409381d7049cb64bd9ff1d5c23f4434",
+    "country": "NL",
+    "addTime": 1776388416
+  },
+  {
     "host": "server2.mtproxyserver.site",
     "port": 443,
     "secret": "ee9209cef250686836bf014a5551e5f1a962726f777365722e79616e6465782e636f6d",
@@ -189,23 +203,9 @@
     "addTime": 1776388416
   },
   {
-    "host": "proxy.orbit-escape.ru",
-    "port": 80,
-    "secret": "dd7409381d7049cb64bd9ff1d5c23f4434",
-    "country": "NL",
-    "addTime": 1776388416
-  },
-  {
     "host": "server1.mtproxyserver.site",
     "port": 443,
     "secret": "ee1df70b3bd53fa8f536853e68639ce72f62726f777365722e79616e6465782e636f6d",
-    "country": "US",
-    "addTime": 1776388416
-  },
-  {
-    "host": "server3.mtproxyserver.site",
-    "port": 443,
-    "secret": "ee67d3aace8cd3d1e6af788bbca807c7d377622e7275",
     "country": "US",
     "addTime": 1776388416
   },
@@ -252,17 +252,17 @@
     "addTime": 1776366366
   },
   {
-    "host": "bypassz.one",
-    "port": 443,
-    "secret": "eed68360458af63073bac1394e8c7a48da6279706173737a2e6f6e65",
-    "country": "LV",
-    "addTime": 1776366350
-  },
-  {
     "host": "pvnexus.xyz",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da70766e657875732e78797a",
     "country": "NL",
+    "addTime": 1776366350
+  },
+  {
+    "host": "bypassz.one",
+    "port": 443,
+    "secret": "eed68360458af63073bac1394e8c7a48da6279706173737a2e6f6e65",
+    "country": "LV",
     "addTime": 1776366350
   },
   {
@@ -308,6 +308,13 @@
     "addTime": 1776366279
   },
   {
+    "host": "tg.rkn.guru",
+    "port": 443,
+    "secret": "eea9785d14b6e7254af5086de9d92945e574672e726b6e2e67757275",
+    "country": "US",
+    "addTime": 1776366279
+  },
+  {
     "host": "v3.nexarstream.com",
     "port": 8443,
     "secret": "ee695eb61fca7da36193fd48b5f9a743f876332e6e6578617273747265616d2e636f6d",
@@ -341,12 +348,5 @@
     "secret": "eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65",
     "country": "LV",
     "addTime": 1776355506
-  },
-  {
-    "host": "193.124.58.71",
-    "port": 8888,
-    "secret": "ee92d7348d1a5d2222a06c385b171b7779612e7275",
-    "country": "CZ",
-    "addTime": 1776355499
   }
 ]
