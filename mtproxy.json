@@ -1,5 +1,12 @@
 [
   {
+    "host": "proxy.fenixdns.com",
+    "port": 443,
+    "secret": "eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275",
+    "country": "RU",
+    "addTime": 1776388529
+  },
+  {
     "host": "5.101.82.210",
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
@@ -7,11 +14,11 @@
     "addTime": 1776388529
   },
   {
-    "host": "proxy.fenixdns.com",
+    "host": "89.110.72.179",
     "port": 443,
-    "secret": "eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275",
-    "country": "RU",
-    "addTime": 1776388529
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ==",
+    "country": "NL",
+    "addTime": 1776388525
   },
   {
     "host": "185.157.213.66",
@@ -21,11 +28,11 @@
     "addTime": 1776388525
   },
   {
-    "host": "89.110.72.179",
+    "host": "89.110.97.183",
     "port": 443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ==",
-    "country": "NL",
-    "addTime": 1776388525
+    "secret": "1320PuNyHw_LQKT_Y7XNJw==",
+    "country": "RU",
+    "addTime": 1776388500
   },
   {
     "host": "91.84.102.207",
@@ -46,13 +53,6 @@
     "port": 443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ==",
     "country": "NL",
-    "addTime": 1776388500
-  },
-  {
-    "host": "89.110.97.183",
-    "port": 443,
-    "secret": "1320PuNyHw_LQKT_Y7XNJw==",
-    "country": "RU",
     "addTime": 1776388500
   },
   {
@@ -98,9 +98,9 @@
     "addTime": 1776388419
   },
   {
-    "host": "server3.mtproxyserver.site",
+    "host": "server2.mtproxyserver.site",
     "port": 443,
-    "secret": "ee67d3aace8cd3d1e6af788bbca807c7d377622e7275",
+    "secret": "ee9209cef250686836bf014a5551e5f1a962726f777365722e79616e6465782e636f6d",
     "country": "US",
     "addTime": 1776388416
   },
@@ -112,17 +112,17 @@
     "addTime": 1776388416
   },
   {
-    "host": "server1.mtproxyserver.site",
-    "port": 443,
-    "secret": "ee1df70b3bd53fa8f536853e68639ce72f62726f777365722e79616e6465782e636f6d",
-    "country": "US",
-    "addTime": 1776388416
-  },
-  {
     "host": "ip5.mtproxyserver.site",
     "port": 443,
     "secret": "eee51243aa0f2cfceaa658a091b8ee00bc62726f777365722e79616e6465782e636f6d",
     "country": "SE",
+    "addTime": 1776388416
+  },
+  {
+    "host": "server3.mtproxyserver.site",
+    "port": 443,
+    "secret": "ee67d3aace8cd3d1e6af788bbca807c7d377622e7275",
+    "country": "US",
     "addTime": 1776388416
   },
   {
@@ -133,18 +133,11 @@
     "addTime": 1776388416
   },
   {
-    "host": "server2.mtproxyserver.site",
+    "host": "server1.mtproxyserver.site",
     "port": 443,
-    "secret": "ee9209cef250686836bf014a5551e5f1a962726f777365722e79616e6465782e636f6d",
+    "secret": "ee1df70b3bd53fa8f536853e68639ce72f62726f777365722e79616e6465782e636f6d",
     "country": "US",
     "addTime": 1776388416
-  },
-  {
-    "host": "mt.geodema.network",
-    "port": 443,
-    "secret": "6fab08b49908b2b3c055eb6e7055ff07",
-    "country": "RU",
-    "addTime": 1776388408
   },
   {
     "host": "45.63.95.95",
@@ -203,14 +196,14 @@
     "addTime": 1776366349
   },
   {
-    "host": "nc911.hopto.org",
+    "host": "cloud.freedomconnect.xyz",
     "port": 443,
     "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
     "country": "RU",
     "addTime": 1776366292
   },
   {
-    "host": "cloud.freedomconnect.xyz",
+    "host": "nc911.hopto.org",
     "port": 443,
     "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
     "country": "RU",
@@ -231,6 +224,13 @@
     "addTime": 1776366284
   },
   {
+    "host": "2.27.12.64",
+    "port": 443,
+    "secret": "eea9785d14b6e7254af5086de9d92945e574672e726b6e2e67757275",
+    "country": "US",
+    "addTime": 1776366279
+  },
+  {
     "host": "poll1704.mtproxygram.lol",
     "port": 443,
     "secret": "eec39eef5b0ab34eb882b893c156b4c14a62726f777365722e79616e6465782e636f6d",
@@ -238,17 +238,17 @@
     "addTime": 1776366279
   },
   {
+    "host": "tg.rkn.guru",
+    "port": 443,
+    "secret": "eea9785d14b6e7254af5086de9d92945e574672e726b6e2e67757275",
+    "country": "US",
+    "addTime": 1776366279
+  },
+  {
     "host": "news1704.mtproxygram.lol",
     "port": 443,
     "secret": "ee608248722a8f45103ed03c7994abf9b062726f777365722e79616e6465782e636f6d",
     "country": "NL",
-    "addTime": 1776366279
-  },
-  {
-    "host": "2.27.12.64",
-    "port": 443,
-    "secret": "eea9785d14b6e7254af5086de9d92945e574672e726b6e2e67757275",
-    "country": "US",
     "addTime": 1776366279
   },
   {
@@ -290,7 +290,7 @@
     "host": "freeroute.online",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65",
-    "country": "NL",
+    "country": "LV",
     "addTime": 1776355506
   },
   {
@@ -329,6 +329,13 @@
     "addTime": 1776355483
   },
   {
+    "host": "31.220.73.93",
+    "port": 443,
+    "secret": "eefd4d1b6a40aef75802cb6569f0615e11636c6f7564666c6172652e636f6d",
+    "country": "FR",
+    "addTime": 1776355482
+  },
+  {
     "host": "37.139.43.26",
     "port": 443,
     "secret": "ddf5199e949c0f23bc887581218ad8c1e6",
@@ -340,13 +347,6 @@
     "port": 443,
     "secret": "eece64a43e8c286ab95248a3a66429a8f377622e7275",
     "country": "FI",
-    "addTime": 1776355482
-  },
-  {
-    "host": "31.220.73.93",
-    "port": 443,
-    "secret": "eefd4d1b6a40aef75802cb6569f0615e11636c6f7564666c6172652e636f6d",
-    "country": "FR",
     "addTime": 1776355482
   }
 ]
