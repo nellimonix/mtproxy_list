@@ -21,10 +21,10 @@
     "addTime": 1776420322
   },
   {
-    "host": "149.120.147.161",
+    "host": "38.28.190.29",
     "port": 443,
-    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
-    "country": "HK",
+    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
+    "country": "US",
     "addTime": 1776420322
   },
   {
@@ -35,10 +35,10 @@
     "addTime": 1776420322
   },
   {
-    "host": "38.28.190.29",
+    "host": "149.120.147.161",
     "port": 443,
-    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
-    "country": "US",
+    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
+    "country": "HK",
     "addTime": 1776420322
   },
   {
@@ -77,13 +77,6 @@
     "addTime": 1776398871
   },
   {
-    "host": "mt2.vpn-one.net",
-    "port": 5223,
-    "secret": "7ae73ddfd70b8e549aae657b4da1bf03",
-    "country": "RU",
-    "addTime": 1776398871
-  },
-  {
     "host": "mt.vpn-one.net",
     "port": 5223,
     "secret": "7ae73ddfd70b8e549aae657b4da1bf03",
@@ -91,17 +84,24 @@
     "addTime": 1776398871
   },
   {
-    "host": "proxy.fenixdns.com",
-    "port": 443,
-    "secret": "eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275",
+    "host": "mt2.vpn-one.net",
+    "port": 5223,
+    "secret": "7ae73ddfd70b8e549aae657b4da1bf03",
     "country": "RU",
-    "addTime": 1776388529
+    "addTime": 1776398871
   },
   {
     "host": "5.101.82.210",
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "DE",
+    "addTime": 1776388529
+  },
+  {
+    "host": "proxy.fenixdns.com",
+    "port": 443,
+    "secret": "eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275",
+    "country": "RU",
     "addTime": 1776388529
   },
   {
@@ -147,6 +147,13 @@
     "addTime": 1776388419
   },
   {
+    "host": "proxy.orbit-escape.ru",
+    "port": 80,
+    "secret": "dd7409381d7049cb64bd9ff1d5c23f4434",
+    "country": "NL",
+    "addTime": 1776388416
+  },
+  {
     "host": "ip5.mtproxyserver.site",
     "port": 443,
     "secret": "eee51243aa0f2cfceaa658a091b8ee00bc62726f777365722e79616e6465782e636f6d",
@@ -161,13 +168,6 @@
     "addTime": 1776388416
   },
   {
-    "host": "server2.mtproxyserver.site",
-    "port": 443,
-    "secret": "ee9209cef250686836bf014a5551e5f1a962726f777365722e79616e6465782e636f6d",
-    "country": "US",
-    "addTime": 1776388416
-  },
-  {
     "host": "server1.mtproxyserver.site",
     "port": 443,
     "secret": "ee1df70b3bd53fa8f536853e68639ce72f62726f777365722e79616e6465782e636f6d",
@@ -175,10 +175,17 @@
     "addTime": 1776388416
   },
   {
-    "host": "proxy.orbit-escape.ru",
+    "host": "server2.mtproxyserver.site",
+    "port": 443,
+    "secret": "ee9209cef250686836bf014a5551e5f1a962726f777365722e79616e6465782e636f6d",
+    "country": "US",
+    "addTime": 1776388416
+  },
+  {
+    "host": "51.250.25.211",
     "port": 80,
-    "secret": "dd7409381d7049cb64bd9ff1d5c23f4434",
-    "country": "NL",
+    "secret": "dd615790ab6967eda83ba9644543f246b6",
+    "country": "RU",
     "addTime": 1776388416
   },
   {
@@ -199,7 +206,7 @@
     "host": "openway.forum",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da6f70656e7761792e666f72756d",
-    "country": "LV",
+    "country": "NL",
     "addTime": 1776377156
   },
   {
@@ -224,17 +231,17 @@
     "addTime": 1776366366
   },
   {
-    "host": "pvnexus.xyz",
-    "port": 443,
-    "secret": "eed68360458af63073bac1394e8c7a48da70766e657875732e78797a",
-    "country": "LV",
-    "addTime": 1776366350
-  },
-  {
     "host": "bypassz.one",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da6279706173737a2e6f6e65",
     "country": "NL",
+    "addTime": 1776366350
+  },
+  {
+    "host": "pvnexus.xyz",
+    "port": 443,
+    "secret": "eed68360458af63073bac1394e8c7a48da70766e657875732e78797a",
+    "country": "LV",
     "addTime": 1776366350
   },
   {
@@ -252,6 +259,13 @@
     "addTime": 1776366292
   },
   {
+    "host": "nc911.hopto.org",
+    "port": 443,
+    "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
+    "country": "RU",
+    "addTime": 1776366292
+  },
+  {
     "host": "cloud.freedomconnect.xyz",
     "port": 443,
     "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
@@ -259,11 +273,11 @@
     "addTime": 1776366292
   },
   {
-    "host": "nc911.hopto.org",
+    "host": "tg.rkn.guru",
     "port": 443,
-    "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
-    "country": "RU",
-    "addTime": 1776366292
+    "secret": "eea9785d14b6e7254af5086de9d92945e574672e726b6e2e67757275",
+    "country": "US",
+    "addTime": 1776366279
   },
   {
     "host": "news1704.mtproxygram.lol",
@@ -294,9 +308,9 @@
     "addTime": 1776366250
   },
   {
-    "host": "s-reserve.fluctuation.online",
-    "port": 443,
-    "secret": "dd345afe9188a4e5a94dc706e1aa6cef",
+    "host": "s-reserve-ee.fluctuation.online",
+    "port": 8443,
+    "secret": "ee9962b6593a490946f5a9e2c45ce3130b6170692d6d6170732e79616e6465782e7275",
     "country": "DE",
     "addTime": 1776355580
   },
@@ -308,9 +322,9 @@
     "addTime": 1776355580
   },
   {
-    "host": "s-reserve-ee.fluctuation.online",
-    "port": 8443,
-    "secret": "ee9962b6593a490946f5a9e2c45ce3130b6170692d6d6170732e79616e6465782e7275",
+    "host": "s-reserve.fluctuation.online",
+    "port": 443,
+    "secret": "dd345afe9188a4e5a94dc706e1aa6cef",
     "country": "DE",
     "addTime": 1776355580
   },
@@ -318,7 +332,7 @@
     "host": "freeroute.online",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65",
-    "country": "LV",
+    "country": "NL",
     "addTime": 1776355506
   },
   {
@@ -334,19 +348,5 @@
     "secret": "dd5bb92c120f7797791e9691467acf2f82",
     "country": "AT",
     "addTime": 1776355494
-  },
-  {
-    "host": "5.75.212.43",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1776355483
-  },
-  {
-    "host": "49.12.79.244",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1776355483
   }
 ]
