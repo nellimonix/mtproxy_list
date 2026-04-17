@@ -21,6 +21,13 @@
     "addTime": 1776452752
   },
   {
+    "host": "free.tgsecurity.online",
+    "port": 443,
+    "secret": "dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f",
+    "country": "DE",
+    "addTime": 1776452751
+  },
+  {
     "host": "31.57.61.51",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
@@ -35,6 +42,13 @@
     "addTime": 1776452746
   },
   {
+    "host": "2.27.4.175",
+    "port": 8443,
+    "secret": "ee111122223333444455556666777788883134342e33312e3135312e313132",
+    "country": "US",
+    "addTime": 1776452684
+  },
+  {
     "host": "myrka.bronstein.ar",
     "port": 8443,
     "secret": "eea37385d8a4bbf632eabc9091fdc95a9c6d79726b612e62726f6e737465696e2e6172",
@@ -45,13 +59,6 @@
     "host": "2.27.4.170",
     "port": 8443,
     "secret": "ee111111111111111111111111111111113134342e33312e3135312e30",
-    "country": "US",
-    "addTime": 1776452684
-  },
-  {
-    "host": "2.27.4.175",
-    "port": 8443,
-    "secret": "ee111122223333444455556666777788883134342e33312e3135312e313132",
     "country": "US",
     "addTime": 1776452684
   },
@@ -112,13 +119,6 @@
     "addTime": 1776441950
   },
   {
-    "host": "tgb.ftvpn.club",
-    "port": 443,
-    "secret": "eecdd03884b616067213f79b48c9f2e02c31632e7275",
-    "country": "DE",
-    "addTime": 1776441950
-  },
-  {
     "host": "195.58.48.94",
     "port": 443,
     "secret": "ee1837e5b269e51c29a26d41dce60a46e16170692e79616e6465782e7275",
@@ -126,10 +126,10 @@
     "addTime": 1776441950
   },
   {
-    "host": "45.83.22.254",
+    "host": "tgb.ftvpn.club",
     "port": 443,
-    "secret": "ee7d05a3f6d1ec6b54a27e5c16f29c649d706574726f766963682e7275",
-    "country": "CY",
+    "secret": "eecdd03884b616067213f79b48c9f2e02c31632e7275",
+    "country": "DE",
     "addTime": 1776441950
   },
   {
@@ -140,23 +140,23 @@
     "addTime": 1776441950
   },
   {
-    "host": "5.42.118.229",
+    "host": "45.88.182.85",
+    "port": 3389,
+    "secret": "ee8c4c09e353b559af7dda77539737dc6f6e617665722e636f6d",
+    "country": "CY",
+    "addTime": 1776441950
+  },
+  {
+    "host": "45.83.22.254",
     "port": 443,
-    "secret": "ee3874b4b6c178de83dee7564dc2454f746d61782e7275",
-    "country": "RU",
+    "secret": "ee7d05a3f6d1ec6b54a27e5c16f29c649d706574726f766963682e7275",
+    "country": "CY",
     "addTime": 1776441950
   },
   {
     "host": "89.124.90.9",
     "port": 8443,
     "secret": "ee3561034363289492404702657946658838392e3132342e39302e39",
-    "country": "NL",
-    "addTime": 1776441950
-  },
-  {
-    "host": "89.124.95.185",
-    "port": 8443,
-    "secret": "ee6403877430086085167456439119957338392e3132342e39352e313835",
     "country": "NL",
     "addTime": 1776441950
   },
@@ -168,10 +168,17 @@
     "addTime": 1776441950
   },
   {
-    "host": "45.88.182.85",
-    "port": 3389,
-    "secret": "ee8c4c09e353b559af7dda77539737dc6f6e617665722e636f6d",
-    "country": "CY",
+    "host": "89.124.95.185",
+    "port": 8443,
+    "secret": "ee6403877430086085167456439119957338392e3132342e39352e313835",
+    "country": "NL",
+    "addTime": 1776441950
+  },
+  {
+    "host": "5.42.118.229",
+    "port": 443,
+    "secret": "ee3874b4b6c178de83dee7564dc2454f746d61782e7275",
+    "country": "RU",
     "addTime": 1776441950
   },
   {
@@ -238,27 +245,6 @@
     "addTime": 1776431279
   },
   {
-    "host": "49.13.145.84",
-    "port": 443,
-    "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
-    "country": "DE",
-    "addTime": 1776431122
-  },
-  {
-    "host": "128.140.13.248",
-    "port": 443,
-    "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
-    "country": "DE",
-    "addTime": 1776431122
-  },
-  {
-    "host": "49.13.145.62",
-    "port": 443,
-    "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
-    "country": "DE",
-    "addTime": 1776431122
-  },
-  {
     "host": "23.88.51.230",
     "port": 443,
     "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
@@ -280,7 +266,28 @@
     "addTime": 1776431122
   },
   {
+    "host": "49.13.145.62",
+    "port": 443,
+    "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
+    "country": "DE",
+    "addTime": 1776431122
+  },
+  {
     "host": "49.13.145.67",
+    "port": 443,
+    "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
+    "country": "DE",
+    "addTime": 1776431122
+  },
+  {
+    "host": "49.13.145.84",
+    "port": 443,
+    "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
+    "country": "DE",
+    "addTime": 1776431122
+  },
+  {
+    "host": "128.140.13.248",
     "port": 443,
     "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
     "country": "DE",
@@ -315,25 +322,18 @@
     "addTime": 1776420415
   },
   {
+    "host": "45.148.103.8",
+    "port": 8443,
+    "secret": "90bfd4aea5e00d8e6a0b59728ce6edab",
+    "country": "CA",
+    "addTime": 1776420357
+  },
+  {
     "host": "abri.autonomous.gerent.inappreciably.politician.tupko.com",
     "port": 20238,
     "secret": "bff93425e422fad82fc30825aa01dd83",
     "country": "FI",
     "addTime": 1776420336
-  },
-  {
-    "host": "38.28.153.93",
-    "port": 443,
-    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
-    "country": "US",
-    "addTime": 1776420322
-  },
-  {
-    "host": "38.28.190.29",
-    "port": 443,
-    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
-    "country": "US",
-    "addTime": 1776420322
   },
   {
     "host": "149.120.147.172",
