@@ -63,9 +63,9 @@
     "addTime": 1776550419
   },
   {
-    "host": "147.45.163.234",
+    "host": "72.56.1.73",
     "port": 443,
-    "secret": "ee3b2382f388c45036a73e643dc8abf6036164732e78352e7275",
+    "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
     "country": "RU",
     "addTime": 1776550412
   },
@@ -77,16 +77,16 @@
     "addTime": 1776550412
   },
   {
-    "host": "103.74.94.137",
+    "host": "147.45.163.234",
     "port": 443,
-    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
+    "secret": "ee3b2382f388c45036a73e643dc8abf6036164732e78352e7275",
     "country": "RU",
     "addTime": 1776550412
   },
   {
-    "host": "72.56.1.73",
+    "host": "103.74.94.137",
     "port": 443,
-    "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
+    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
     "country": "RU",
     "addTime": 1776550412
   },
@@ -133,17 +133,17 @@
     "addTime": 1776539138
   },
   {
+    "host": "sequre.send.vhub.pro",
+    "port": 443,
+    "secret": "ee92dbce3f05c3fd68a8b340b3fa7a89ed6164732e78352e7275",
+    "country": "US",
+    "addTime": 1776539138
+  },
+  {
     "host": "send.vhub.pro",
     "port": 443,
     "secret": "92dbce3f05c3fd68a8b340b3fa7a89ed",
     "country": "RU",
-    "addTime": 1776539138
-  },
-  {
-    "host": "sequre.send.vhub.pro",
-    "port": 443,
-    "secret": "ee92dbce3f05c3fd68a8b340b3fa7a89ed6164732e78352e7275",
-    "country": "DE",
     "addTime": 1776539138
   },
   {
@@ -217,13 +217,6 @@
     "addTime": 1776528353
   },
   {
-    "host": "2.27.4.155",
-    "port": 443,
-    "secret": "ee72616d626c65722e727585a93cef13",
-    "country": "US",
-    "addTime": 1776528345
-  },
-  {
     "host": "r.vkgosuslugi.ru",
     "port": 443,
     "secret": "eed2e6a93f2e3a5a07911966a4fb6f5a2777622e7275",
@@ -231,17 +224,17 @@
     "addTime": 1776528345
   },
   {
-    "host": "2k9sd8f3.mt.kimcha.site",
+    "host": "2.27.4.155",
     "port": 443,
-    "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
-    "country": "PL",
-    "addTime": 1776528302
+    "secret": "ee72616d626c65722e727585a93cef13",
+    "country": "US",
+    "addTime": 1776528345
   },
   {
     "host": "0s8df3ka.mt.telecontact.store",
     "port": 443,
     "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
-    "country": "FR",
+    "country": "ES",
     "addTime": 1776528301
   },
   {
@@ -259,16 +252,16 @@
     "addTime": 1776528282
   },
   {
-    "host": "89.124.64.13",
+    "host": "193.233.82.101",
     "port": 443,
-    "secret": "ee17ae2b46d2b106af164facdd9d7472",
+    "secret": "78a76f41b4e0eb5399d78dce2cbd3504",
     "country": "NL",
     "addTime": 1776528279
   },
   {
-    "host": "193.233.82.101",
+    "host": "89.124.64.13",
     "port": 443,
-    "secret": "78a76f41b4e0eb5399d78dce2cbd3504",
+    "secret": "ee17ae2b46d2b106af164facdd9d7472",
     "country": "NL",
     "addTime": 1776528279
   },
@@ -294,16 +287,16 @@
     "addTime": 1776517553
   },
   {
-    "host": "max.ru.wearvpn.online",
+    "host": "217.177.75.145",
     "port": 443,
-    "secret": "ee223b07b10c28c7032f8612b139dd79c3766b2e7275",
+    "secret": "1b23e68aebd74373a29ac5f5523fa29c",
     "country": "US",
     "addTime": 1776517495
   },
   {
-    "host": "217.177.75.145",
+    "host": "max.ru.wearvpn.online",
     "port": 443,
-    "secret": "1b23e68aebd74373a29ac5f5523fa29c",
+    "secret": "ee223b07b10c28c7032f8612b139dd79c3766b2e7275",
     "country": "US",
     "addTime": 1776517495
   },
@@ -346,7 +339,14 @@
     "host": "8f3kd92s.mt.figasebe.site",
     "port": 443,
     "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
-    "country": "FR",
+    "country": "PL",
     "addTime": 1776506750
+  },
+  {
+    "host": "k29s8d3f.mt.trattat.online",
+    "port": 443,
+    "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
+    "country": "GB",
+    "addTime": 1776506749
   }
 ]
