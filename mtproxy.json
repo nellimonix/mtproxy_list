@@ -21,13 +21,6 @@
     "addTime": 1776517495
   },
   {
-    "host": "proxy2-sosavpn.duckdns.org",
-    "port": 8443,
-    "secret": "bfb77f1c4bf8a5c16eb5a3c83954ce69",
-    "country": "RU",
-    "addTime": 1776517480
-  },
-  {
     "host": "green-1.er-news.su",
     "port": 443,
     "secret": "7u9oGxrQclTd9VMnMZdKP5Z3Yi5ydQ",
@@ -63,17 +56,10 @@
     "addTime": 1776506756
   },
   {
-    "host": "8f3kd92s.mt.figasebe.site",
-    "port": 443,
-    "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
-    "country": "FR",
-    "addTime": 1776506750
-  },
-  {
     "host": "k8f3j2a1.mt.trattat.store",
     "port": 443,
     "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
-    "country": "FR",
+    "country": "ES",
     "addTime": 1776506749
   },
   {
@@ -112,6 +98,13 @@
     "addTime": 1776496039
   },
   {
+    "host": "45.38.23.45",
+    "port": 443,
+    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
+    "country": "FR",
+    "addTime": 1776495992
+  },
+  {
     "host": "217.60.36.17",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
@@ -126,25 +119,11 @@
     "addTime": 1776495992
   },
   {
-    "host": "45.38.23.45",
-    "port": 443,
-    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
-    "country": "FR",
-    "addTime": 1776495992
-  },
-  {
     "host": "150.241.68.217",
     "port": 443,
     "secret": "d58f4e5985c8e84d72fa59a46cfa14cd",
     "country": "DE",
     "addTime": 1776495931
-  },
-  {
-    "host": "37.139.33.169",
-    "port": 443,
-    "secret": "dd5124b6fdf0e605da965df27f804fd79b",
-    "country": "RU",
-    "addTime": 1776495928
   },
   {
     "host": "2.26.103.13",
@@ -154,16 +133,23 @@
     "addTime": 1776495928
   },
   {
-    "host": "altarage.chafe.chi.greyness.imperious.teleseryefullepisodes.com",
-    "port": 7200,
-    "secret": "dd34deaf552e8705949d9bf19ba8bf390a",
-    "country": "FI",
-    "addTime": 1776495927
+    "host": "37.139.33.169",
+    "port": 443,
+    "secret": "dd5124b6fdf0e605da965df27f804fd79b",
+    "country": "RU",
+    "addTime": 1776495928
   },
   {
     "host": "aerodynamicist.ankara.medea.molecule.samlet.akoypinoytv.net",
     "port": 7700,
     "secret": "dd6d0ffe0833d2644ea0471c686151976d",
+    "country": "FI",
+    "addTime": 1776495927
+  },
+  {
+    "host": "altarage.chafe.chi.greyness.imperious.teleseryefullepisodes.com",
+    "port": 7200,
+    "secret": "dd34deaf552e8705949d9bf19ba8bf390a",
     "country": "FI",
     "addTime": 1776495927
   },
@@ -217,6 +203,20 @@
     "addTime": 1776485154
   },
   {
+    "host": "mt.vpstg.run",
+    "port": 443,
+    "secret": "ee29d17ce708decef69ef83045bfbcaf7c636c6f7564666c6172652e636f6d",
+    "country": "FI",
+    "addTime": 1776474934
+  },
+  {
+    "host": "mt.mtproto.lol",
+    "port": 443,
+    "secret": "ee125f4cac5c83852c105623b34e75ccf2636c6f7564666c6172652e636f6d",
+    "country": "FI",
+    "addTime": 1776474934
+  },
+  {
     "host": "mt.hotak.ru",
     "port": 443,
     "secret": "eec0906bb292cf203085dad95552d5e1d7636c6f7564666c6172652e636f6d",
@@ -228,20 +228,6 @@
     "port": 443,
     "secret": "ee664d66b3ed51fa19b1069ebea5b4b48d636c6f7564666c6172652e636f6d",
     "country": "NL",
-    "addTime": 1776474934
-  },
-  {
-    "host": "mt.mtproto.lol",
-    "port": 443,
-    "secret": "ee125f4cac5c83852c105623b34e75ccf2636c6f7564666c6172652e636f6d",
-    "country": "FI",
-    "addTime": 1776474934
-  },
-  {
-    "host": "mt.vpstg.run",
-    "port": 443,
-    "secret": "ee29d17ce708decef69ef83045bfbcaf7c636c6f7564666c6172652e636f6d",
-    "country": "FI",
     "addTime": 1776474934
   },
   {
@@ -276,7 +262,7 @@
     "host": "9sdf82kd.mt.trattat.site",
     "port": 443,
     "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
-    "country": "ES",
+    "country": "US",
     "addTime": 1776463522
   },
   {
@@ -308,10 +294,17 @@
     "addTime": 1776463470
   },
   {
+    "host": "152.44.35.230",
+    "port": 443,
+    "secret": "ddad7313c50bf255a14868bb404c0cd523",
+    "country": "US",
+    "addTime": 1776463470
+  },
+  {
     "host": "try.beatvault.ru",
     "port": 443,
     "secret": "eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d",
-    "country": "SE",
+    "country": "FI",
     "addTime": 1776463470
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee6288b4d5d9526c8d60cf8052e7eb0d346d736b2e73656e6b61706f706b612e7275",
     "country": "RU",
     "addTime": 1776452752
+  },
+  {
+    "host": "free.tgsecurity.online",
+    "port": 443,
+    "secret": "dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f",
+    "country": "DE",
+    "addTime": 1776452751
   }
 ]
