@@ -42,17 +42,17 @@
     "addTime": 1776528279
   },
   {
-    "host": "tg.plusonevpn.com",
-    "port": 1984,
-    "secret": "dd4c7671c23268cbcb7330ff7ee9ab0622",
-    "country": "FI",
-    "addTime": 1776528275
-  },
-  {
     "host": "178.156.131.76",
     "port": 1080,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "US",
+    "addTime": 1776528275
+  },
+  {
+    "host": "tg.plusonevpn.com",
+    "port": 1984,
+    "secret": "dd4c7671c23268cbcb7330ff7ee9ab0622",
+    "country": "FI",
     "addTime": 1776528275
   },
   {
@@ -91,16 +91,16 @@
     "addTime": 1776506761
   },
   {
-    "host": "proxy.neuropath.online",
+    "host": "spb1.webvirt.cloud",
     "port": 443,
-    "secret": "ee37e9e8f01fe5289964ff3c290567d31d756677202d2d666f72636520656e61626c65",
+    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
     "country": "US",
     "addTime": 1776506759
   },
   {
-    "host": "spb1.webvirt.cloud",
+    "host": "proxy.neuropath.online",
     "port": 443,
-    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
+    "secret": "ee37e9e8f01fe5289964ff3c290567d31d756677202d2d666f72636520656e61626c65",
     "country": "US",
     "addTime": 1776506759
   },
@@ -126,10 +126,17 @@
     "addTime": 1776506750
   },
   {
+    "host": "k8f3j2a1.mt.trattat.store",
+    "port": 443,
+    "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
+    "country": "FR",
+    "addTime": 1776506749
+  },
+  {
     "host": "k29s8d3f.mt.trattat.online",
     "port": 443,
     "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
-    "country": "PL",
+    "country": "US",
     "addTime": 1776506749
   },
   {
@@ -161,7 +168,7 @@
     "addTime": 1776496039
   },
   {
-    "host": "217.60.36.209",
+    "host": "45.38.23.45",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "FR",
@@ -175,7 +182,7 @@
     "addTime": 1776495992
   },
   {
-    "host": "45.38.23.45",
+    "host": "217.60.36.209",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "FR",
@@ -259,13 +266,6 @@
     "addTime": 1776485154
   },
   {
-    "host": "mt.hotak.ru",
-    "port": 443,
-    "secret": "eec0906bb292cf203085dad95552d5e1d7636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1776474934
-  },
-  {
     "host": "mt.mtproto.lol",
     "port": 443,
     "secret": "ee125f4cac5c83852c105623b34e75ccf2636c6f7564666c6172652e636f6d",
@@ -283,6 +283,13 @@
     "host": "mt.hubtool.ru",
     "port": 443,
     "secret": "ee664d66b3ed51fa19b1069ebea5b4b48d636c6f7564666c6172652e636f6d",
+    "country": "NL",
+    "addTime": 1776474934
+  },
+  {
+    "host": "mt.hotak.ru",
+    "port": 443,
+    "secret": "eec0906bb292cf203085dad95552d5e1d7636c6f7564666c6172652e636f6d",
     "country": "NL",
     "addTime": 1776474934
   },
@@ -315,11 +322,11 @@
     "addTime": 1776463536
   },
   {
-    "host": "news1804.mtproxygram.lol",
+    "host": "9sdf82kd.mt.trattat.site",
     "port": 443,
-    "secret": "ee7b24a10d317732c2de878d4a2735c14d62726f777365722e79616e6465782e636f6d",
-    "country": "FI",
-    "addTime": 1776463482
+    "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
+    "country": "GB",
+    "addTime": 1776463522
   },
   {
     "host": "poll1804.mtproxygram.lol",
@@ -329,24 +336,17 @@
     "addTime": 1776463482
   },
   {
-    "host": "try.beatvault.ru",
+    "host": "news1804.mtproxygram.lol",
     "port": 443,
-    "secret": "eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d",
-    "country": "SE",
-    "addTime": 1776463470
+    "secret": "ee7b24a10d317732c2de878d4a2735c14d62726f777365722e79616e6465782e636f6d",
+    "country": "FI",
+    "addTime": 1776463482
   },
   {
-    "host": "bezobhoda.freeon.name",
-    "port": 8443,
-    "secret": "eeed1a5a7f339b8ff9840d52df123829706164732e78352e7275",
+    "host": "2.26.125.172",
+    "port": 443,
+    "secret": "667161e1e8616dd33fdf8e43e40784d9",
     "country": "DE",
-    "addTime": 1776463470
-  },
-  {
-    "host": "tg.smartaisupport.ru",
-    "port": 443,
-    "secret": "4b3503c268b3d097fe4fb96624cec676",
-    "country": "RU",
-    "addTime": 1776463468
+    "addTime": 1776463477
   }
 ]
