@@ -42,17 +42,17 @@
     "addTime": 1776582318
   },
   {
-    "host": "216.57.107.18",
-    "port": 443,
-    "secret": "ee0336f247b36fa863527c63bdb902e67c636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1776582312
-  },
-  {
     "host": "194.87.187.190",
     "port": 443,
     "secret": "eeb2ef52da30e1de29aab5ef52185c96e4636c6f7564666c6172652e636f6d",
     "country": "RU",
+    "addTime": 1776582312
+  },
+  {
+    "host": "216.57.107.18",
+    "port": 443,
+    "secret": "ee0336f247b36fa863527c63bdb902e67c636c6f7564666c6172652e636f6d",
+    "country": "NL",
     "addTime": 1776582312
   },
   {
@@ -77,17 +77,17 @@
     "addTime": 1776582298
   },
   {
-    "host": "176.98.189.222",
-    "port": 443,
-    "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
-    "country": "NL",
-    "addTime": 1776582293
-  },
-  {
     "host": "132.243.234.210",
     "port": 443,
     "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
     "country": "CY",
+    "addTime": 1776582293
+  },
+  {
+    "host": "176.98.189.222",
+    "port": 443,
+    "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
+    "country": "NL",
     "addTime": 1776582293
   },
   {
@@ -131,20 +131,6 @@
     "secret": "eee412d5f4cc7f103b65f4bafddb5562dc686a2d736572766963652e667265696c617373696e672e7275",
     "country": "RU",
     "addTime": 1776560792
-  },
-  {
-    "host": "tg.caxero.ru",
-    "port": 6767,
-    "secret": "fffc0efade691faeaccb0ee0cdbf1773",
-    "country": "FR",
-    "addTime": 1776560784
-  },
-  {
-    "host": "proxy.ultra-vpn.ru",
-    "port": 443,
-    "secret": "ee8b7bcdce35a0e3549f80ec1dfd54c00279616e6465782e7275",
-    "country": "US",
-    "addTime": 1776550497
   },
   {
     "host": "one.turboproxy.pro",
@@ -210,13 +196,6 @@
     "addTime": 1776550412
   },
   {
-    "host": "147.45.237.249",
-    "port": 443,
-    "secret": "ee5b7aeaa3fcf61c7a54c447a4d1d5859e6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1776550412
-  },
-  {
     "host": "147.45.163.234",
     "port": 443,
     "secret": "ee3b2382f388c45036a73e643dc8abf6036164732e78352e7275",
@@ -227,6 +206,13 @@
     "host": "72.56.1.73",
     "port": 443,
     "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
+    "country": "RU",
+    "addTime": 1776550412
+  },
+  {
+    "host": "147.45.237.249",
+    "port": 443,
+    "secret": "ee5b7aeaa3fcf61c7a54c447a4d1d5859e6164732e78352e7275",
     "country": "RU",
     "addTime": 1776550412
   },
@@ -308,18 +294,18 @@
     "addTime": 1776539086
   },
   {
-    "host": "82.132.19.108",
-    "port": 4153,
-    "secret": "ee000000000000000000000000000000",
-    "country": "HR",
-    "addTime": 1776539085
-  },
-  {
     "host": "green-2.er-news.su",
     "port": 443,
     "secret": "ee823731e54bf72f38fcb3b1e76e7500d0676f6f676c652e636f6d",
     "country": "RU",
     "addTime": 1776539077
+  },
+  {
+    "host": "cz.ciaowner.lol",
+    "port": 443,
+    "secret": "ee3bde6d51d22cf4b0b48127147ca830f869642e766b2e636f6d",
+    "country": "EE",
+    "addTime": 1776539074
   },
   {
     "host": "217.60.12.2",
@@ -348,5 +334,19 @@
     "secret": "eed2e6a93f2e3a5a07911966a4fb6f5a2777622e7275",
     "country": "US",
     "addTime": 1776528345
+  },
+  {
+    "host": "0s8df3ka.mt.telecontact.store",
+    "port": 443,
+    "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
+    "country": "FR",
+    "addTime": 1776528301
+  },
+  {
+    "host": "pasha.tgda.top",
+    "port": 443,
+    "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
+    "country": "NL",
+    "addTime": 1776528291
   }
 ]
