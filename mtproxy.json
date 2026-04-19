@@ -49,6 +49,13 @@
     "addTime": 1776560792
   },
   {
+    "host": "tg.caxero.ru",
+    "port": 6767,
+    "secret": "fffc0efade691faeaccb0ee0cdbf1773",
+    "country": "FR",
+    "addTime": 1776560784
+  },
+  {
     "host": "proxy.ultra-vpn.ru",
     "port": 443,
     "secret": "ee8b7bcdce35a0e3549f80ec1dfd54c00279616e6465782e7275",
@@ -91,9 +98,9 @@
     "addTime": 1776550486
   },
   {
-    "host": "telegram-zhivi.tgda.top",
+    "host": "89.125.48.193",
     "port": 443,
-    "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
+    "secret": "ee69e899d89ec68e220ca177557322b27f72696a6b736f766572686569642e6e6c",
     "country": "NL",
     "addTime": 1776550419
   },
@@ -105,9 +112,9 @@
     "addTime": 1776550419
   },
   {
-    "host": "89.125.48.193",
+    "host": "telegram-zhivi.tgda.top",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f72696a6b736f766572686569642e6e6c",
+    "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
     "country": "NL",
     "addTime": 1776550419
   },
@@ -126,16 +133,16 @@
     "addTime": 1776550412
   },
   {
-    "host": "72.56.1.73",
+    "host": "103.74.94.137",
     "port": 443,
-    "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
+    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
     "country": "RU",
     "addTime": 1776550412
   },
   {
-    "host": "103.74.94.137",
+    "host": "72.56.1.73",
     "port": 443,
-    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
+    "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
     "country": "RU",
     "addTime": 1776550412
   },
@@ -175,17 +182,17 @@
     "addTime": 1776539138
   },
   {
-    "host": "sequre.send.vhub.pro",
-    "port": 443,
-    "secret": "ee92dbce3f05c3fd68a8b340b3fa7a89ed6164732e78352e7275",
-    "country": "DE",
-    "addTime": 1776539138
-  },
-  {
     "host": "send.vhub.pro",
     "port": 443,
     "secret": "92dbce3f05c3fd68a8b340b3fa7a89ed",
     "country": "RU",
+    "addTime": 1776539138
+  },
+  {
+    "host": "sequre.send.vhub.pro",
+    "port": 443,
+    "secret": "ee92dbce3f05c3fd68a8b340b3fa7a89ed6164732e78352e7275",
+    "country": "DE",
     "addTime": 1776539138
   },
   {
@@ -269,7 +276,7 @@
     "host": "0s8df3ka.mt.telecontact.store",
     "port": 443,
     "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
-    "country": "US",
+    "country": "PL",
     "addTime": 1776528301
   },
   {
@@ -287,16 +294,16 @@
     "addTime": 1776528282
   },
   {
-    "host": "193.233.82.101",
+    "host": "89.124.64.13",
     "port": 443,
-    "secret": "78a76f41b4e0eb5399d78dce2cbd3504",
+    "secret": "ee17ae2b46d2b106af164facdd9d7472",
     "country": "NL",
     "addTime": 1776528279
   },
   {
-    "host": "89.124.64.13",
+    "host": "193.233.82.101",
     "port": 443,
-    "secret": "ee17ae2b46d2b106af164facdd9d7472",
+    "secret": "78a76f41b4e0eb5399d78dce2cbd3504",
     "country": "NL",
     "addTime": 1776528279
   },
@@ -341,12 +348,5 @@
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "FR",
     "addTime": 1776506761
-  },
-  {
-    "host": "spb1.webvirt.cloud",
-    "port": 443,
-    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
-    "country": "AT",
-    "addTime": 1776506759
   }
 ]
