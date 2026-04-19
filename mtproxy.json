@@ -77,17 +77,17 @@
     "addTime": 1776550486
   },
   {
-    "host": "213.155.10.10",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f7374726f79616c6c69616e63652e636f6d",
-    "country": "LV",
-    "addTime": 1776550419
-  },
-  {
     "host": "89.125.48.193",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f72696a6b736f766572686569642e6e6c",
     "country": "NL",
+    "addTime": 1776550419
+  },
+  {
+    "host": "213.155.10.10",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f7374726f79616c6c69616e63652e636f6d",
+    "country": "LV",
     "addTime": 1776550419
   },
   {
@@ -98,16 +98,16 @@
     "addTime": 1776550419
   },
   {
-    "host": "147.45.237.249",
+    "host": "72.56.1.73",
     "port": 443,
-    "secret": "ee5b7aeaa3fcf61c7a54c447a4d1d5859e6164732e78352e7275",
+    "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
     "country": "RU",
     "addTime": 1776550412
   },
   {
-    "host": "72.56.1.73",
+    "host": "147.45.237.249",
     "port": 443,
-    "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
+    "secret": "ee5b7aeaa3fcf61c7a54c447a4d1d5859e6164732e78352e7275",
     "country": "RU",
     "addTime": 1776550412
   },
@@ -131,13 +131,6 @@
     "secret": "dd825491d87307d4b988f15b6a8d162fbb",
     "country": "FI",
     "addTime": 1776550410
-  },
-  {
-    "host": "62.3.12.2",
-    "port": 8444,
-    "secret": "ee6f7a6f6e2e7275f22c5421fa893965",
-    "country": "MD",
-    "addTime": 1776550405
   },
   {
     "host": "161.97.173.38",
@@ -259,20 +252,6 @@
     "addTime": 1776528345
   },
   {
-    "host": "2k9sd8f3.mt.kimcha.site",
-    "port": 443,
-    "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
-    "country": "US",
-    "addTime": 1776528302
-  },
-  {
-    "host": "0s8df3ka.mt.telecontact.store",
-    "port": 443,
-    "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
-    "country": "ES",
-    "addTime": 1776528301
-  },
-  {
     "host": "pasha.tgda.top",
     "port": 443,
     "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
@@ -315,16 +294,16 @@
     "addTime": 1776517553
   },
   {
-    "host": "217.177.75.145",
+    "host": "max.ru.wearvpn.online",
     "port": 443,
-    "secret": "1b23e68aebd74373a29ac5f5523fa29c",
+    "secret": "ee223b07b10c28c7032f8612b139dd79c3766b2e7275",
     "country": "US",
     "addTime": 1776517495
   },
   {
-    "host": "max.ru.wearvpn.online",
+    "host": "217.177.75.145",
     "port": 443,
-    "secret": "ee223b07b10c28c7032f8612b139dd79c3766b2e7275",
+    "secret": "1b23e68aebd74373a29ac5f5523fa29c",
     "country": "US",
     "addTime": 1776517495
   },
@@ -343,10 +322,31 @@
     "addTime": 1776506761
   },
   {
+    "host": "spb1.webvirt.cloud",
+    "port": 443,
+    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
+    "country": "AT",
+    "addTime": 1776506759
+  },
+  {
     "host": "proxy.neuropath.online",
     "port": 443,
     "secret": "ee37e9e8f01fe5289964ff3c290567d31d756677202d2d666f72636520656e61626c65",
     "country": "US",
     "addTime": 1776506759
+  },
+  {
+    "host": "rusuck.hrd.gg",
+    "port": 443,
+    "secret": "c3c468e807f4742d6145088e7aef649d",
+    "country": "US",
+    "addTime": 1776506756
+  },
+  {
+    "host": "8f3kd92s.mt.figasebe.site",
+    "port": 443,
+    "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
+    "country": "FR",
+    "addTime": 1776506750
   }
 ]
