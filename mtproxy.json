@@ -14,13 +14,6 @@
     "addTime": 1776582414
   },
   {
-    "host": "2.27.13.173",
-    "port": 443,
-    "secret": "ee0a8109f8363005146baac779e8faca1f35706f73742d676174652e78352e7275",
-    "country": "US",
-    "addTime": 1776582404
-  },
-  {
     "host": "62.60.250.9",
     "port": 443,
     "secret": "eea3e7ac61da7eb80042b742e3fbc7e34b6769746875622e636f6d",
@@ -28,17 +21,24 @@
     "addTime": 1776582404
   },
   {
-    "host": "free-finland.kimt.space",
+    "host": "2.27.13.173",
     "port": 443,
-    "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
-    "country": "CY",
-    "addTime": 1776582318
+    "secret": "ee0a8109f8363005146baac779e8faca1f35706f73742d676174652e78352e7275",
+    "country": "US",
+    "addTime": 1776582404
   },
   {
     "host": "free-niderl.kimt.space",
     "port": 443,
     "secret": "ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275",
     "country": "NL",
+    "addTime": 1776582318
+  },
+  {
+    "host": "free-finland.kimt.space",
+    "port": 443,
+    "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
+    "country": "CY",
     "addTime": 1776582318
   },
   {
@@ -140,13 +140,6 @@
     "addTime": 1776560784
   },
   {
-    "host": "proxy.ultra-vpn.ru",
-    "port": 443,
-    "secret": "ee8b7bcdce35a0e3549f80ec1dfd54c00279616e6465782e7275",
-    "country": "US",
-    "addTime": 1776550497
-  },
-  {
     "host": "one.turboproxy.pro",
     "port": 443,
     "secret": "ee74e2e117f2160c55370f68df7381d5d361657a612e7275",
@@ -182,9 +175,9 @@
     "addTime": 1776550486
   },
   {
-    "host": "telegram-zhivi.tgda.top",
+    "host": "89.125.48.193",
     "port": 443,
-    "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
+    "secret": "ee69e899d89ec68e220ca177557322b27f72696a6b736f766572686569642e6e6c",
     "country": "NL",
     "addTime": 1776550419
   },
@@ -196,11 +189,18 @@
     "addTime": 1776550419
   },
   {
-    "host": "89.125.48.193",
+    "host": "telegram-zhivi.tgda.top",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f72696a6b736f766572686569642e6e6c",
+    "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
     "country": "NL",
     "addTime": 1776550419
+  },
+  {
+    "host": "72.56.1.73",
+    "port": 443,
+    "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
+    "country": "RU",
+    "addTime": 1776550412
   },
   {
     "host": "103.74.94.137",
@@ -220,13 +220,6 @@
     "host": "147.45.237.249",
     "port": 443,
     "secret": "ee5b7aeaa3fcf61c7a54c447a4d1d5859e6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1776550412
-  },
-  {
-    "host": "72.56.1.73",
-    "port": 443,
-    "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
     "country": "RU",
     "addTime": 1776550412
   },
@@ -269,7 +262,7 @@
     "host": "sequre.send.vhub.pro",
     "port": 443,
     "secret": "ee92dbce3f05c3fd68a8b340b3fa7a89ed6164732e78352e7275",
-    "country": "US",
+    "country": "DE",
     "addTime": 1776539138
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee02ad2cb059cc54486e3499efc3170e2c7777772e617669746f2e7275",
     "country": "IE",
     "addTime": 1776528353
+  },
+  {
+    "host": "r.vkgosuslugi.ru",
+    "port": 443,
+    "secret": "eed2e6a93f2e3a5a07911966a4fb6f5a2777622e7275",
+    "country": "US",
+    "addTime": 1776528345
   }
 ]
