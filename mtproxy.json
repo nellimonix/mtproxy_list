@@ -91,13 +91,6 @@
     "addTime": 1776550486
   },
   {
-    "host": "telegram-zhivi.tgda.top",
-    "port": 443,
-    "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
-    "country": "NL",
-    "addTime": 1776550419
-  },
-  {
     "host": "213.155.10.10",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f7374726f79616c6c69616e63652e636f6d",
@@ -112,11 +105,11 @@
     "addTime": 1776550419
   },
   {
-    "host": "147.45.163.234",
+    "host": "telegram-zhivi.tgda.top",
     "port": 443,
-    "secret": "ee3b2382f388c45036a73e643dc8abf6036164732e78352e7275",
-    "country": "RU",
-    "addTime": 1776550412
+    "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
+    "country": "NL",
+    "addTime": 1776550419
   },
   {
     "host": "147.45.237.249",
@@ -126,9 +119,9 @@
     "addTime": 1776550412
   },
   {
-    "host": "103.74.94.137",
+    "host": "147.45.163.234",
     "port": 443,
-    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
+    "secret": "ee3b2382f388c45036a73e643dc8abf6036164732e78352e7275",
     "country": "RU",
     "addTime": 1776550412
   },
@@ -136,6 +129,13 @@
     "host": "72.56.1.73",
     "port": 443,
     "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
+    "country": "RU",
+    "addTime": 1776550412
+  },
+  {
+    "host": "103.74.94.137",
+    "port": 443,
+    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
     "country": "RU",
     "addTime": 1776550412
   },
@@ -171,7 +171,7 @@
     "host": "sequre.send.vhub.pro",
     "port": 443,
     "secret": "ee92dbce3f05c3fd68a8b340b3fa7a89ed6164732e78352e7275",
-    "country": "DE",
+    "country": "US",
     "addTime": 1776539138
   },
   {
@@ -262,14 +262,14 @@
     "host": "2k9sd8f3.mt.kimcha.site",
     "port": 443,
     "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
-    "country": "GB",
+    "country": "US",
     "addTime": 1776528302
   },
   {
     "host": "0s8df3ka.mt.telecontact.store",
     "port": 443,
     "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
-    "country": "ES",
+    "country": "FR",
     "addTime": 1776528301
   },
   {
@@ -315,16 +315,16 @@
     "addTime": 1776517553
   },
   {
-    "host": "217.177.75.145",
+    "host": "max.ru.wearvpn.online",
     "port": 443,
-    "secret": "1b23e68aebd74373a29ac5f5523fa29c",
+    "secret": "ee223b07b10c28c7032f8612b139dd79c3766b2e7275",
     "country": "US",
     "addTime": 1776517495
   },
   {
-    "host": "max.ru.wearvpn.online",
+    "host": "217.177.75.145",
     "port": 443,
-    "secret": "ee223b07b10c28c7032f8612b139dd79c3766b2e7275",
+    "secret": "1b23e68aebd74373a29ac5f5523fa29c",
     "country": "US",
     "addTime": 1776517495
   },
