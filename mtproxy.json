@@ -28,13 +28,6 @@
     "addTime": 1776560792
   },
   {
-    "host": "tg.caxero.ru",
-    "port": 6767,
-    "secret": "fffc0efade691faeaccb0ee0cdbf1773",
-    "country": "FR",
-    "addTime": 1776560784
-  },
-  {
     "host": "proxy.ultra-vpn.ru",
     "port": 443,
     "secret": "ee8b7bcdce35a0e3549f80ec1dfd54c00279616e6465782e7275",
@@ -133,6 +126,13 @@
     "addTime": 1776550410
   },
   {
+    "host": "62.3.12.2",
+    "port": 8444,
+    "secret": "ee6f7a6f6e2e7275f22c5421fa893965",
+    "country": "MD",
+    "addTime": 1776550405
+  },
+  {
     "host": "161.97.173.38",
     "port": 443,
     "secret": "ee9a86c8272eb58b2bba88803e89740be4636c6f7564666c6172652e636f6d",
@@ -154,17 +154,17 @@
     "addTime": 1776539145
   },
   {
-    "host": "82.38.63.155",
-    "port": 8443,
-    "secret": "ee176ae19c3652267d3ca18fcaf4986fb17777772e676f6f676c652e636f6d",
-    "country": "GB",
-    "addTime": 1776539138
-  },
-  {
     "host": "sequre.send.vhub.pro",
     "port": 443,
     "secret": "ee92dbce3f05c3fd68a8b340b3fa7a89ed6164732e78352e7275",
     "country": "US",
+    "addTime": 1776539138
+  },
+  {
+    "host": "82.38.63.155",
+    "port": 8443,
+    "secret": "ee176ae19c3652267d3ca18fcaf4986fb17777772e676f6f676c652e636f6d",
+    "country": "GB",
     "addTime": 1776539138
   },
   {
@@ -259,13 +259,6 @@
     "addTime": 1776528302
   },
   {
-    "host": "0s8df3ka.mt.telecontact.store",
-    "port": 443,
-    "secret": "dddb8ae26a35a38c85316bf78ea8f5a148",
-    "country": "US",
-    "addTime": 1776528301
-  },
-  {
     "host": "pasha.tgda.top",
     "port": 443,
     "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
@@ -278,6 +271,13 @@
     "secret": "eed30cbba56fea42ff4a3dd3275cd167717777772e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1776528282
+  },
+  {
+    "host": "89.124.64.13",
+    "port": 443,
+    "secret": "ee17ae2b46d2b106af164facdd9d7472",
+    "country": "NL",
+    "addTime": 1776528279
   },
   {
     "host": "193.233.82.101",
@@ -329,17 +329,17 @@
     "addTime": 1776506761
   },
   {
-    "host": "proxy.neuropath.online",
-    "port": 443,
-    "secret": "ee37e9e8f01fe5289964ff3c290567d31d756677202d2d666f72636520656e61626c65",
-    "country": "US",
-    "addTime": 1776506759
-  },
-  {
     "host": "spb1.webvirt.cloud",
     "port": 443,
     "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
     "country": "AT",
+    "addTime": 1776506759
+  },
+  {
+    "host": "proxy.neuropath.online",
+    "port": 443,
+    "secret": "ee37e9e8f01fe5289964ff3c290567d31d756677202d2d666f72636520656e61626c65",
+    "country": "US",
     "addTime": 1776506759
   },
   {
