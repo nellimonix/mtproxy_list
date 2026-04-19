@@ -28,13 +28,6 @@
     "addTime": 1776582404
   },
   {
-    "host": "free-niderl.kimt.space",
-    "port": 443,
-    "secret": "ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275",
-    "country": "NL",
-    "addTime": 1776582318
-  },
-  {
     "host": "free-finland.kimt.space",
     "port": 443,
     "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
@@ -42,17 +35,24 @@
     "addTime": 1776582318
   },
   {
-    "host": "194.87.187.190",
+    "host": "free-niderl.kimt.space",
     "port": 443,
-    "secret": "eeb2ef52da30e1de29aab5ef52185c96e4636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1776582312
+    "secret": "ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275",
+    "country": "NL",
+    "addTime": 1776582318
   },
   {
     "host": "216.57.107.18",
     "port": 443,
     "secret": "ee0336f247b36fa863527c63bdb902e67c636c6f7564666c6172652e636f6d",
     "country": "NL",
+    "addTime": 1776582312
+  },
+  {
+    "host": "194.87.187.190",
+    "port": 443,
+    "secret": "eeb2ef52da30e1de29aab5ef52185c96e4636c6f7564666c6172652e636f6d",
+    "country": "RU",
     "addTime": 1776582312
   },
   {
@@ -196,13 +196,6 @@
     "addTime": 1776550419
   },
   {
-    "host": "89.125.48.193",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f72696a6b736f766572686569642e6e6c",
-    "country": "NL",
-    "addTime": 1776550419
-  },
-  {
     "host": "213.155.10.10",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f7374726f79616c6c69616e63652e636f6d",
@@ -210,9 +203,23 @@
     "addTime": 1776550419
   },
   {
+    "host": "89.125.48.193",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f72696a6b736f766572686569642e6e6c",
+    "country": "NL",
+    "addTime": 1776550419
+  },
+  {
     "host": "72.56.1.73",
     "port": 443,
     "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
+    "country": "RU",
+    "addTime": 1776550412
+  },
+  {
+    "host": "103.74.94.137",
+    "port": 443,
+    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
     "country": "RU",
     "addTime": 1776550412
   },
@@ -227,13 +234,6 @@
     "host": "147.45.163.234",
     "port": 443,
     "secret": "ee3b2382f388c45036a73e643dc8abf6036164732e78352e7275",
-    "country": "RU",
-    "addTime": 1776550412
-  },
-  {
-    "host": "103.74.94.137",
-    "port": 443,
-    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
     "country": "RU",
     "addTime": 1776550412
   },
@@ -266,17 +266,17 @@
     "addTime": 1776539145
   },
   {
-    "host": "sequre.send.vhub.pro",
-    "port": 443,
-    "secret": "ee92dbce3f05c3fd68a8b340b3fa7a89ed6164732e78352e7275",
-    "country": "DE",
-    "addTime": 1776539138
-  },
-  {
     "host": "82.38.63.155",
     "port": 8443,
     "secret": "ee176ae19c3652267d3ca18fcaf4986fb17777772e676f6f676c652e636f6d",
     "country": "GB",
+    "addTime": 1776539138
+  },
+  {
+    "host": "sequre.send.vhub.pro",
+    "port": 443,
+    "secret": "ee92dbce3f05c3fd68a8b340b3fa7a89ed6164732e78352e7275",
+    "country": "US",
     "addTime": 1776539138
   },
   {
@@ -315,13 +315,6 @@
     "addTime": 1776539086
   },
   {
-    "host": "82.132.19.108",
-    "port": 4153,
-    "secret": "ee000000000000000000000000000000",
-    "country": "HR",
-    "addTime": 1776539085
-  },
-  {
     "host": "green-2.er-news.su",
     "port": 443,
     "secret": "ee823731e54bf72f38fcb3b1e76e7500d0676f6f676c652e636f6d",
@@ -343,10 +336,17 @@
     "addTime": 1776539058
   },
   {
-    "host": "t.vkgosuslugi.ru",
+    "host": "89.127.201.206",
     "port": 443,
-    "secret": "ee34fd4e8e9b8d0008a2d80f7e8b80ce8277622e7275",
-    "country": "RU",
-    "addTime": 1776528355
+    "secret": "ee02ad2cb059cc54486e3499efc3170e2c7777772e617669746f2e7275",
+    "country": "IE",
+    "addTime": 1776528353
+  },
+  {
+    "host": "r.vkgosuslugi.ru",
+    "port": 443,
+    "secret": "eed2e6a93f2e3a5a07911966a4fb6f5a2777622e7275",
+    "country": "US",
+    "addTime": 1776528345
   }
 ]
