@@ -1,16 +1,16 @@
 [
   {
-    "host": "84.23.53.105",
-    "port": 443,
-    "secret": "2726df52a147333d3db19d8b56fb8cce",
-    "country": "RU",
-    "addTime": 1776604000
-  },
-  {
     "host": "94.232.245.141",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65",
     "country": "MD",
+    "addTime": 1776604000
+  },
+  {
+    "host": "91.184.242.122",
+    "port": 443,
+    "secret": "81f6bdaada07847471d0c32de36797d3",
+    "country": "NL",
     "addTime": 1776604000
   },
   {
@@ -28,16 +28,9 @@
     "addTime": 1776604000
   },
   {
-    "host": "91.184.242.122",
+    "host": "84.38.183.146",
     "port": 443,
-    "secret": "81f6bdaada07847471d0c32de36797d3",
-    "country": "NL",
-    "addTime": 1776604000
-  },
-  {
-    "host": "89.208.197.224",
-    "port": 443,
-    "secret": "4b3503c268b3d097fe4fb96624cec676",
+    "secret": "ee74df3cc692d80f336bccc063d7403a58636c69636b2e666c617368676174652e73746f7265",
     "country": "RU",
     "addTime": 1776604000
   },
@@ -46,6 +39,20 @@
     "port": 443,
     "secret": "ee3f354f86e59e2c166c83031772d92d6379612e7275",
     "country": "DE",
+    "addTime": 1776604000
+  },
+  {
+    "host": "84.23.53.105",
+    "port": 443,
+    "secret": "2726df52a147333d3db19d8b56fb8cce",
+    "country": "RU",
+    "addTime": 1776604000
+  },
+  {
+    "host": "89.208.197.224",
+    "port": 443,
+    "secret": "4b3503c268b3d097fe4fb96624cec676",
+    "country": "RU",
     "addTime": 1776604000
   },
   {
@@ -70,24 +77,10 @@
     "addTime": 1776593181
   },
   {
-    "host": "2.26.101.213",
+    "host": "91.232.225.3",
     "port": 443,
-    "secret": "eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d",
-    "country": "US",
-    "addTime": 1776593174
-  },
-  {
-    "host": "34.38.213.132",
-    "port": 443,
-    "secret": "eeffb8ecadb37e893760b73778ed5a4ae97777772e6761727368696e6b612e7275",
-    "country": "BE",
-    "addTime": 1776593174
-  },
-  {
-    "host": "2.26.96.101",
-    "port": 443,
-    "secret": "eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d",
-    "country": "NL",
+    "secret": "ee1caa37ae90774ecf9247bd53f8cd2c4a636861742e6574657266756e642e7275",
+    "country": "RU",
     "addTime": 1776593174
   },
   {
@@ -98,10 +91,17 @@
     "addTime": 1776593174
   },
   {
-    "host": "91.108.248.197",
+    "host": "185.225.203.151",
     "port": 443,
     "secret": "eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d",
-    "country": "PL",
+    "country": "FI",
+    "addTime": 1776593174
+  },
+  {
+    "host": "2.27.1.186",
+    "port": 65443,
+    "secret": "ee4e767ae864ee6cb4497b502b5e3115cc67686f73746e6f64652e7275",
+    "country": "US",
     "addTime": 1776593174
   },
   {
@@ -119,10 +119,17 @@
     "addTime": 1776593174
   },
   {
-    "host": "81.90.28.83",
-    "port": 8443,
-    "secret": "ee265a9a6f51a480066b85591db2427dec6475636b6c696e672e776f726b2e6764",
-    "country": "DE",
+    "host": "34.38.213.132",
+    "port": 443,
+    "secret": "eeffb8ecadb37e893760b73778ed5a4ae97777772e6761727368696e6b612e7275",
+    "country": "BE",
+    "addTime": 1776593174
+  },
+  {
+    "host": "2.26.101.213",
+    "port": 443,
+    "secret": "eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d",
+    "country": "US",
     "addTime": 1776593174
   },
   {
@@ -130,6 +137,20 @@
     "port": 443,
     "secret": "eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d",
     "country": "US",
+    "addTime": 1776593174
+  },
+  {
+    "host": "2.26.96.101",
+    "port": 443,
+    "secret": "eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d",
+    "country": "NL",
+    "addTime": 1776593174
+  },
+  {
+    "host": "132.243.234.52",
+    "port": 443,
+    "secret": "eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d",
+    "country": "CY",
     "addTime": 1776593174
   },
   {
@@ -147,17 +168,10 @@
     "addTime": 1776593174
   },
   {
-    "host": "132.243.234.52",
+    "host": "91.108.248.197",
     "port": 443,
     "secret": "eebe3007e927acd147dde12bee8b1a7c9364726976652e676f6f676c652e636f6d",
-    "country": "CY",
-    "addTime": 1776593174
-  },
-  {
-    "host": "81.26.179.59",
-    "port": 443,
-    "secret": "ee04cd1e3ead2e85b8392c0a2c1120c97c646e732d73686f702e6b7a",
-    "country": "RU",
+    "country": "PL",
     "addTime": 1776593174
   },
   {
@@ -168,16 +182,16 @@
     "addTime": 1776593174
   },
   {
-    "host": "2.27.1.186",
-    "port": 65443,
-    "secret": "ee4e767ae864ee6cb4497b502b5e3115cc67686f73746e6f64652e7275",
-    "country": "US",
+    "host": "81.90.28.83",
+    "port": 8443,
+    "secret": "ee265a9a6f51a480066b85591db2427dec6475636b6c696e672e776f726b2e6764",
+    "country": "DE",
     "addTime": 1776593174
   },
   {
-    "host": "91.232.225.3",
+    "host": "81.26.179.59",
     "port": 443,
-    "secret": "ee1caa37ae90774ecf9247bd53f8cd2c4a636861742e6574657266756e642e7275",
+    "secret": "ee04cd1e3ead2e85b8392c0a2c1120c97c646e732d73686f702e6b7a",
     "country": "RU",
     "addTime": 1776593174
   },
@@ -266,17 +280,17 @@
     "addTime": 1776582312
   },
   {
-    "host": "45.15.185.186",
-    "port": 443,
-    "secret": "eec33c878bfb76b4fa8030edab35146d836175737472616c69612e636f6d",
-    "country": "CY",
-    "addTime": 1776582310
-  },
-  {
     "host": "153.76.122.86",
     "port": 8443,
     "secret": "ee804203979023111890676064260122057262632e7275",
     "country": "PL",
+    "addTime": 1776582310
+  },
+  {
+    "host": "45.15.185.186",
+    "port": 443,
+    "secret": "eec33c878bfb76b4fa8030edab35146d836175737472616c69612e636f6d",
+    "country": "CY",
     "addTime": 1776582310
   },
   {
@@ -334,19 +348,5 @@
     "secret": "eee412d5f4cc7f103b65f4bafddb5562dc686a2d736572766963652e667265696c617373696e672e7275",
     "country": "RU",
     "addTime": 1776560792
-  },
-  {
-    "host": "tg.caxero.ru",
-    "port": 6767,
-    "secret": "fffc0efade691faeaccb0ee0cdbf1773",
-    "country": "SE",
-    "addTime": 1776560784
-  },
-  {
-    "host": "proxy.ultra-vpn.ru",
-    "port": 443,
-    "secret": "ee8b7bcdce35a0e3549f80ec1dfd54c00279616e6465782e7275",
-    "country": "US",
-    "addTime": 1776550497
   }
 ]
