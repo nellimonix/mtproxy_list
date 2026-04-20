@@ -84,13 +84,6 @@
     "addTime": 1776701136
   },
   {
-    "host": "win.sosproxy.space",
-    "port": 443,
-    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1776701130
-  },
-  {
     "host": "proxyde.r3dark-tg.ru",
     "port": 1080,
     "secret": "eeda5fec7d09a6da15c6e82a8899b53a5f6c656e74612e7275",
@@ -98,11 +91,11 @@
     "addTime": 1776701130
   },
   {
-    "host": "144.31.157.26",
+    "host": "win.sosproxy.space",
     "port": 443,
-    "secret": "ee3f354f86e59e2c166c83031772d92d6379612e7275",
+    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
     "country": "NL",
-    "addTime": 1776701093
+    "addTime": 1776701130
   },
   {
     "host": "212.80.7.142",
@@ -112,7 +105,14 @@
     "addTime": 1776701093
   },
   {
-    "host": "38.28.153.107",
+    "host": "144.31.157.26",
+    "port": 443,
+    "secret": "ee3f354f86e59e2c166c83031772d92d6379612e7275",
+    "country": "NL",
+    "addTime": 1776701093
+  },
+  {
+    "host": "38.28.190.19",
     "port": 443,
     "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
     "country": "US",
@@ -133,7 +133,7 @@
     "addTime": 1776701085
   },
   {
-    "host": "38.28.190.19",
+    "host": "38.28.153.107",
     "port": 443,
     "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
     "country": "US",
@@ -143,6 +143,13 @@
     "host": "195.63.129.37",
     "port": 443,
     "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
+    "country": "NL",
+    "addTime": 1776701081
+  },
+  {
+    "host": "46.229.243.69",
+    "port": 443,
+    "secret": "eec80ff604fa45408f1d152624d3bffcf26b65746161626f6e6c696e652e636f6d",
     "country": "NL",
     "addTime": 1776701081
   },
@@ -157,13 +164,6 @@
     "host": "89.124.98.190",
     "port": 443,
     "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
-    "country": "NL",
-    "addTime": 1776701081
-  },
-  {
-    "host": "46.229.243.69",
-    "port": 443,
-    "secret": "eec80ff604fa45408f1d152624d3bffcf26b65746161626f6e6c696e652e636f6d",
     "country": "NL",
     "addTime": 1776701081
   },
@@ -194,6 +194,13 @@
     "secret": "eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d679616e6465782e7275",
     "country": "RU",
     "addTime": 1776690321
+  },
+  {
+    "host": "proxy.proxmusman.online",
+    "port": 443,
+    "secret": "ee3f20b3758015038e7f6b4bc6438b7a2c6d6963726f736f66742e636f6d",
+    "country": "RU",
+    "addTime": 1776690316
   },
   {
     "host": "31.57.107.59",
@@ -287,17 +294,17 @@
     "addTime": 1776679478
   },
   {
-    "host": "94.141.123.95",
-    "port": 8444,
-    "secret": "ee65682e766b2e727508502c24e7ff55",
-    "country": "DE",
-    "addTime": 1776679465
-  },
-  {
     "host": "144.91.120.39",
     "port": 443,
     "secret": "ee24f320786f2121a2e797016f01a5e614636c6f7564666c6172652e636f6d",
     "country": "FR",
+    "addTime": 1776679465
+  },
+  {
+    "host": "94.141.123.95",
+    "port": 8444,
+    "secret": "ee65682e766b2e727508502c24e7ff55",
+    "country": "DE",
     "addTime": 1776679465
   },
   {
@@ -341,12 +348,5 @@
     "secret": "4ae50768d6cdfc8c708fb81c7e582072",
     "country": "FI",
     "addTime": 1776657902
-  },
-  {
-    "host": "guard.qso.one",
-    "port": 443,
-    "secret": "ee873e3459787a88bff8529503b7a354136769746875622e636f6d",
-    "country": "US",
-    "addTime": 1776657899
   }
 ]
