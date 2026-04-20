@@ -84,6 +84,13 @@
     "addTime": 1776722658
   },
   {
+    "host": "2.27.12.239",
+    "port": 443,
+    "secret": "ee79612e72750a0a4acc6574a1dd0381",
+    "country": "US",
+    "addTime": 1776722657
+  },
+  {
     "host": "2.27.12.240",
     "port": 443,
     "secret": "ee79612e7275649f421efbf7d28eb544",
@@ -102,13 +109,6 @@
     "port": 443,
     "secret": "ee79612e7275b024b5f907f1b253a509",
     "country": "PL",
-    "addTime": 1776722657
-  },
-  {
-    "host": "2.27.12.239",
-    "port": 443,
-    "secret": "ee79612e72750a0a4acc6574a1dd0381",
-    "country": "US",
     "addTime": 1776722657
   },
   {
@@ -147,6 +147,13 @@
     "addTime": 1776711966
   },
   {
+    "host": "speed.iloveyou-russia.ru",
+    "port": 8443,
+    "secret": "915517e48fad89acf631541a96cc981c",
+    "country": "RU",
+    "addTime": 1776711965
+  },
+  {
     "host": "srv.iloveyou-russia.ru",
     "port": 8443,
     "secret": "734ee77915c1d90f976a82d000052ad5",
@@ -157,13 +164,6 @@
     "host": "app.iloveyou-russia.ru",
     "port": 8443,
     "secret": "922568c9b87927d638c75bb2716c77bb",
-    "country": "RU",
-    "addTime": 1776711965
-  },
-  {
-    "host": "speed.iloveyou-russia.ru",
-    "port": 8443,
-    "secret": "915517e48fad89acf631541a96cc981c",
     "country": "RU",
     "addTime": 1776711965
   },
@@ -217,13 +217,6 @@
     "addTime": 1776701136
   },
   {
-    "host": "proxyde.r3dark-tg.ru",
-    "port": 1080,
-    "secret": "eeda5fec7d09a6da15c6e82a8899b53a5f6c656e74612e7275",
-    "country": "DE",
-    "addTime": 1776701130
-  },
-  {
     "host": "win.sosproxy.space",
     "port": 443,
     "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
@@ -231,11 +224,11 @@
     "addTime": 1776701130
   },
   {
-    "host": "212.80.7.142",
-    "port": 443,
-    "secret": "ee3f354f86e59e2c166c83031772d92d6379612e7275",
+    "host": "proxyde.r3dark-tg.ru",
+    "port": 1080,
+    "secret": "eeda5fec7d09a6da15c6e82a8899b53a5f6c656e74612e7275",
     "country": "DE",
-    "addTime": 1776701093
+    "addTime": 1776701130
   },
   {
     "host": "144.31.157.26",
@@ -245,11 +238,11 @@
     "addTime": 1776701093
   },
   {
-    "host": "38.28.153.107",
+    "host": "212.80.7.142",
     "port": 443,
-    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
-    "country": "US",
-    "addTime": 1776701085
+    "secret": "ee3f354f86e59e2c166c83031772d92d6379612e7275",
+    "country": "DE",
+    "addTime": 1776701093
   },
   {
     "host": "38.28.190.19",
@@ -273,17 +266,17 @@
     "addTime": 1776701085
   },
   {
+    "host": "38.28.153.107",
+    "port": 443,
+    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
+    "country": "US",
+    "addTime": 1776701085
+  },
+  {
     "host": "89.124.98.190",
     "port": 443,
     "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
     "country": "NL",
-    "addTime": 1776701081
-  },
-  {
-    "host": "158.160.232.216",
-    "port": 443,
-    "secret": "ee79612e727537ff352dabe2604c3fe5",
-    "country": "RU",
     "addTime": 1776701081
   },
   {
@@ -308,6 +301,13 @@
     "addTime": 1776701081
   },
   {
+    "host": "158.160.232.216",
+    "port": 443,
+    "secret": "ee79612e727537ff352dabe2604c3fe5",
+    "country": "RU",
+    "addTime": 1776701081
+  },
+  {
     "host": "83.243.86.137",
     "port": 8443,
     "secret": "eec37cf79e4ccb105c4af3eba1f7095a4f74672e76636c6f75646e2e636f6d",
@@ -320,6 +320,13 @@
     "secret": "ee79612e7275ed3a9baef550b4583f00",
     "country": "SE",
     "addTime": 1776701061
+  },
+  {
+    "host": "data.enable-request.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "CY",
+    "addTime": 1776690387
   },
   {
     "host": "109.120.183.224",
@@ -341,12 +348,5 @@
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "FI",
     "addTime": 1776690308
-  },
-  {
-    "host": "proxyobhod.online",
-    "port": 443,
-    "secret": "01b307acba4f54f55aafc33bb06bbbf6",
-    "country": "MD",
-    "addTime": 1776690284
   }
 ]
