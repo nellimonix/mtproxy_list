@@ -28,14 +28,14 @@
     "addTime": 1776755068
   },
   {
-    "host": "149.120.147.205",
+    "host": "149.120.147.189",
     "port": 443,
     "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
     "country": "HK",
     "addTime": 1776755068
   },
   {
-    "host": "149.120.147.189",
+    "host": "149.120.147.205",
     "port": 443,
     "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
     "country": "HK",
@@ -77,7 +77,7 @@
     "addTime": 1776744272
   },
   {
-    "host": "tee.mobemouy.com",
+    "host": "ader.dynoporo.com",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "IR",
@@ -91,18 +91,25 @@
     "addTime": 1776744268
   },
   {
-    "host": "ader.dynoporo.com",
+    "host": "reboot.tikla.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "IR",
     "addTime": 1776744268
   },
   {
-    "host": "reboot.tikla.info",
+    "host": "tee.mobemouy.com",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "IR",
     "addTime": 1776744268
+  },
+  {
+    "host": "yazdan.htop.info",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "country": "IR",
+    "addTime": 1776744266
   },
   {
     "host": "khoda.hafez.info",
@@ -113,13 +120,6 @@
   },
   {
     "host": "paitakht.arasto.info",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "IR",
-    "addTime": 1776744266
-  },
-  {
-    "host": "yazdan.htop.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "IR",
@@ -161,10 +161,10 @@
     "addTime": 1776722694
   },
   {
-    "host": "139.144.22.40",
+    "host": "65.108.208.201",
     "port": 443,
-    "secret": "dd2fda9343d377b15c898cbd8b804e3cf5",
-    "country": "US",
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "FI",
     "addTime": 1776722694
   },
   {
@@ -175,10 +175,10 @@
     "addTime": 1776722694
   },
   {
-    "host": "65.108.208.201",
+    "host": "139.144.22.40",
     "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
+    "secret": "dd2fda9343d377b15c898cbd8b804e3cf5",
+    "country": "US",
     "addTime": 1776722694
   },
   {
@@ -224,17 +224,17 @@
     "addTime": 1776722657
   },
   {
-    "host": "2.27.12.239",
-    "port": 443,
-    "secret": "ee79612e72750a0a4acc6574a1dd0381",
-    "country": "US",
-    "addTime": 1776722657
-  },
-  {
     "host": "153.76.122.197",
     "port": 443,
     "secret": "ee79612e7275b024b5f907f1b253a509",
     "country": "PL",
+    "addTime": 1776722657
+  },
+  {
+    "host": "2.27.12.239",
+    "port": 443,
+    "secret": "ee79612e72750a0a4acc6574a1dd0381",
+    "country": "US",
     "addTime": 1776722657
   },
   {
@@ -243,6 +243,13 @@
     "secret": "ee79612e7275649f421efbf7d28eb544",
     "country": "US",
     "addTime": 1776722657
+  },
+  {
+    "host": "tg.pepewtf.top",
+    "port": 443,
+    "secret": "eecb3c473c7bbea00855003ab715668c5074672e706570657774662e746f70",
+    "country": "RU",
+    "addTime": 1776722650
   },
   {
     "host": "116.203.134.165",
@@ -273,9 +280,9 @@
     "addTime": 1776711966
   },
   {
-    "host": "app.iloveyou-russia.ru",
+    "host": "srv.iloveyou-russia.ru",
     "port": 8443,
-    "secret": "922568c9b87927d638c75bb2716c77bb",
+    "secret": "734ee77915c1d90f976a82d000052ad5",
     "country": "RU",
     "addTime": 1776711965
   },
@@ -287,9 +294,9 @@
     "addTime": 1776711965
   },
   {
-    "host": "srv.iloveyou-russia.ru",
+    "host": "app.iloveyou-russia.ru",
     "port": 8443,
-    "secret": "734ee77915c1d90f976a82d000052ad5",
+    "secret": "922568c9b87927d638c75bb2716c77bb",
     "country": "RU",
     "addTime": 1776711965
   },
@@ -341,12 +348,5 @@
     "secret": "ee424bb4ccc8692dc46f5b6f80bf1ba85f766c6164766f7a6572652e6475636b646e732e6f7267",
     "country": "NL",
     "addTime": 1776701136
-  },
-  {
-    "host": "proxyde.r3dark-tg.ru",
-    "port": 1080,
-    "secret": "eeda5fec7d09a6da15c6e82a8899b53a5f6c656e74612e7275",
-    "country": "DE",
-    "addTime": 1776701130
   }
 ]
