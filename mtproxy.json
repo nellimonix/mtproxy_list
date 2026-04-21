@@ -28,14 +28,14 @@
     "addTime": 1776755068
   },
   {
-    "host": "149.120.147.189",
+    "host": "149.120.147.205",
     "port": 443,
     "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
     "country": "HK",
     "addTime": 1776755068
   },
   {
-    "host": "149.120.147.205",
+    "host": "149.120.147.189",
     "port": 443,
     "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
     "country": "HK",
@@ -77,13 +77,6 @@
     "addTime": 1776744272
   },
   {
-    "host": "ader.dynoporo.com",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "IR",
-    "addTime": 1776744268
-  },
-  {
     "host": "tavakalta-alalah.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
@@ -105,11 +98,11 @@
     "addTime": 1776744268
   },
   {
-    "host": "yazdan.htop.info",
+    "host": "ader.dynoporo.com",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "IR",
-    "addTime": 1776744266
+    "addTime": 1776744268
   },
   {
     "host": "khoda.hafez.info",
@@ -120,6 +113,13 @@
   },
   {
     "host": "paitakht.arasto.info",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "country": "IR",
+    "addTime": 1776744266
+  },
+  {
+    "host": "yazdan.htop.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "IR",
@@ -154,17 +154,17 @@
     "addTime": 1776722718
   },
   {
-    "host": "5.161.237.234",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "US",
-    "addTime": 1776722694
-  },
-  {
     "host": "65.108.208.201",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
+    "addTime": 1776722694
+  },
+  {
+    "host": "5.161.237.234",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "US",
     "addTime": 1776722694
   },
   {
@@ -243,13 +243,6 @@
     "secret": "ee79612e7275649f421efbf7d28eb544",
     "country": "US",
     "addTime": 1776722657
-  },
-  {
-    "host": "tg.pepewtf.top",
-    "port": 443,
-    "secret": "eecb3c473c7bbea00855003ab715668c5074672e706570657774662e746f70",
-    "country": "RU",
-    "addTime": 1776722650
   },
   {
     "host": "116.203.134.165",
@@ -348,5 +341,12 @@
     "secret": "ee424bb4ccc8692dc46f5b6f80bf1ba85f766c6164766f7a6572652e6475636b646e732e6f7267",
     "country": "NL",
     "addTime": 1776701136
+  },
+  {
+    "host": "proxyde.r3dark-tg.ru",
+    "port": 1080,
+    "secret": "eeda5fec7d09a6da15c6e82a8899b53a5f6c656e74612e7275",
+    "country": "DE",
+    "addTime": 1776701130
   }
 ]
