@@ -1,12 +1,5 @@
 [
   {
-    "host": "austria.salzburg.ir",
-    "port": 443,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "DE",
-    "addTime": 1776798373
-  },
-  {
     "host": "fra42.mtproxygram.pro",
     "port": 443,
     "secret": "eeb3126d2c304e0be28a496e4d06dfa9c362726f777365722e79616e6465782e636f6d",
@@ -105,17 +98,10 @@
     "addTime": 1776787479
   },
   {
-    "host": "5.129.220.144",
-    "port": 443,
-    "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1776787473
-  },
-  {
-    "host": "80.242.57.214",
-    "port": 443,
-    "secret": "ee5b7aeaa3fcf61c7a54c447a4d1d5859e6164732e78352e7275",
-    "country": "RU",
+    "host": "185.136.12.23",
+    "port": 8443,
+    "secret": "ee1113512bf91134b6d20a0531aff11111746f702e726169647468652e6e6574",
+    "country": "KZ",
     "addTime": 1776787473
   },
   {
@@ -133,17 +119,24 @@
     "addTime": 1776787473
   },
   {
-    "host": "185.136.12.23",
-    "port": 8443,
-    "secret": "ee1113512bf91134b6d20a0531aff11111746f702e726169647468652e6e6574",
-    "country": "KZ",
-    "addTime": 1776787473
-  },
-  {
     "host": "2.27.4.209",
     "port": 8443,
     "secret": "ee84920394857263549102837465920184322e32372e342e323039",
     "country": "US",
+    "addTime": 1776787473
+  },
+  {
+    "host": "80.242.57.214",
+    "port": 443,
+    "secret": "ee5b7aeaa3fcf61c7a54c447a4d1d5859e6164732e78352e7275",
+    "country": "RU",
+    "addTime": 1776787473
+  },
+  {
+    "host": "5.129.220.144",
+    "port": 443,
+    "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
+    "country": "RU",
     "addTime": 1776787473
   },
   {
@@ -161,17 +154,17 @@
     "addTime": 1776787470
   },
   {
-    "host": "188.137.242.226",
-    "port": 443,
-    "secret": "dd63ddf70c2fa66dfa8a66e5c244d02c13",
-    "country": "US",
-    "addTime": 1776787467
-  },
-  {
     "host": "46.62.219.0",
     "port": 4367,
     "secret": "ee104462821249bd7ac519130220c25d096d61696c2e7275",
     "country": "FI",
+    "addTime": 1776787467
+  },
+  {
+    "host": "188.137.242.226",
+    "port": 443,
+    "secret": "dd63ddf70c2fa66dfa8a66e5c244d02c13",
+    "country": "US",
     "addTime": 1776787467
   },
   {
@@ -210,6 +203,13 @@
     "addTime": 1776776737
   },
   {
+    "host": "72.56.4.20",
+    "port": 443,
+    "secret": "dd2430738f46178b2face23dfba74a237a",
+    "country": "US",
+    "addTime": 1776776720
+  },
+  {
     "host": "oteuotkumte0ljqy.he-de-21.mtproto.ru",
     "port": 443,
     "secret": "ee2111222233334444555566667777888865756331312e706c61796c6973742e7474766e772e6e6574",
@@ -224,16 +224,16 @@
     "addTime": 1776776678
   },
   {
-    "host": "194.163.162.140",
+    "host": "194.163.176.31",
     "port": 443,
-    "secret": "ee77365696b6b2bcdbdb3f07241d46f6c3636c6f7564666c6172652e636f6d",
+    "secret": "ee5ef4c4585425038d6a4cdad33fb89980636c6f7564666c6172652e636f6d",
     "country": "FR",
     "addTime": 1776776675
   },
   {
-    "host": "194.163.176.31",
+    "host": "194.163.162.140",
     "port": 443,
-    "secret": "ee5ef4c4585425038d6a4cdad33fb89980636c6f7564666c6172652e636f6d",
+    "secret": "ee77365696b6b2bcdbdb3f07241d46f6c3636c6f7564666c6172652e636f6d",
     "country": "FR",
     "addTime": 1776776675
   },
@@ -266,27 +266,6 @@
     "addTime": 1776765915
   },
   {
-    "host": "138.124.255.131",
-    "port": 443,
-    "secret": "ee499ae63085c1db81cccf337fc9507d8a706574726f766963682e7275",
-    "country": "RU",
-    "addTime": 1776765902
-  },
-  {
-    "host": "mtnew.zlpsh.ru",
-    "port": 853,
-    "secret": "eea2c21fe28bd0a93db14aeb382d6acb24636c6f7564666c6172652e636f6d",
-    "country": "US",
-    "addTime": 1776765902
-  },
-  {
-    "host": "45.12.150.4",
-    "port": 443,
-    "secret": "ee1e0a37878f593ee4c8aafe4143cbf160416d617a6f6e2e6573",
-    "country": "CY",
-    "addTime": 1776765902
-  },
-  {
     "host": "92.118.233.108",
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
@@ -298,6 +277,27 @@
     "port": 443,
     "secret": "ee066a5df7c899835b4f7eed897c75273a43726f617469612e6872",
     "country": "US",
+    "addTime": 1776765902
+  },
+  {
+    "host": "45.12.150.4",
+    "port": 443,
+    "secret": "ee1e0a37878f593ee4c8aafe4143cbf160416d617a6f6e2e6573",
+    "country": "CY",
+    "addTime": 1776765902
+  },
+  {
+    "host": "mtnew.zlpsh.ru",
+    "port": 853,
+    "secret": "eea2c21fe28bd0a93db14aeb382d6acb24636c6f7564666c6172652e636f6d",
+    "country": "US",
+    "addTime": 1776765902
+  },
+  {
+    "host": "138.124.255.131",
+    "port": 443,
+    "secret": "ee499ae63085c1db81cccf337fc9507d8a706574726f766963682e7275",
+    "country": "RU",
     "addTime": 1776765902
   },
   {
@@ -315,16 +315,16 @@
     "addTime": 1776765901
   },
   {
-    "host": "51.250.43.207",
-    "port": 12443,
-    "secret": "dd4347f4570b3fa0ade4f1c2061b0a2502",
+    "host": "tg.vpnxxl.com",
+    "port": 8433,
+    "secret": "eedcbee894f522200955f66b3887dd39cc74672e76706e78786c2e636f6d",
     "country": "RU",
     "addTime": 1776765901
   },
   {
-    "host": "tg.vpnxxl.com",
-    "port": 8433,
-    "secret": "eedcbee894f522200955f66b3887dd39cc74672e76706e78786c2e636f6d",
+    "host": "51.250.43.207",
+    "port": 12443,
+    "secret": "dd4347f4570b3fa0ade4f1c2061b0a2502",
     "country": "RU",
     "addTime": 1776765901
   },
@@ -343,7 +343,7 @@
     "addTime": 1776765896
   },
   {
-    "host": "185.143.232.36",
+    "host": "185.143.232.29",
     "port": 443,
     "secret": "ee68747470733a2f2f74656c656772616d2e6d65",
     "country": "IR",
