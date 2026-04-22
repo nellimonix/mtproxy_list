@@ -35,13 +35,6 @@
     "addTime": 1776873967
   },
   {
-    "host": "168.222.254.145",
-    "port": 443,
-    "secret": "eeddb6c661f6fdaa29528b3c8fe98f19cd74656c65736861646f772e6475636b646e732e6f7267",
-    "country": "DE",
-    "addTime": 1776873961
-  },
-  {
     "host": "217.177.33.111",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275",
@@ -53,6 +46,13 @@
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275",
     "country": "SC",
+    "addTime": 1776873961
+  },
+  {
+    "host": "168.222.254.145",
+    "port": 443,
+    "secret": "eeddb6c661f6fdaa29528b3c8fe98f19cd74656c65736861646f772e6475636b646e732e6f7267",
+    "country": "DE",
     "addTime": 1776873961
   },
   {
@@ -154,11 +154,11 @@
     "addTime": 1776863123
   },
   {
-    "host": "162.19.175.95",
-    "port": 443,
-    "secret": "dd7f216fe9b238b009ac9067852fb47a19",
-    "country": "FR",
-    "addTime": 1776863120
+    "host": "de28.apiusercontent.net",
+    "port": 8443,
+    "secret": "7uPToJox9chXiQz8KgvKtMFlaC52ay5jb20",
+    "country": "DE",
+    "addTime": 1776863074
   },
   {
     "host": "72.56.250.111",
@@ -168,24 +168,17 @@
     "addTime": 1776863074
   },
   {
-    "host": "de28.apiusercontent.net",
+    "host": "fi89.apiusercontent.net",
     "port": 8443,
     "secret": "7uPToJox9chXiQz8KgvKtMFlaC52ay5jb20",
-    "country": "DE",
-    "addTime": 1776863074
+    "country": "FI",
+    "addTime": 1776863073
   },
   {
     "host": "194.87.54.202",
     "port": 443,
     "secret": "ee39741948d28c854ed1be14f1a381607179616e6465782e7275",
     "country": "CZ",
-    "addTime": 1776863073
-  },
-  {
-    "host": "fi89.apiusercontent.net",
-    "port": 8443,
-    "secret": "7uPToJox9chXiQz8KgvKtMFlaC52ay5jb20",
-    "country": "FI",
     "addTime": 1776863073
   },
   {
@@ -196,17 +189,24 @@
     "addTime": 1776863060
   },
   {
-    "host": "204.168.231.128",
-    "port": 8732,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "country": "FI",
-    "addTime": 1776863057
+    "host": "5.42.118.83",
+    "port": 443,
+    "secret": "eee513dff4a549a7d2abaf35eb08b61dbe79616e6465782e7275",
+    "country": "RU",
+    "addTime": 1776863058
   },
   {
     "host": "dr3.dedus.pro",
     "port": 443,
     "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
     "country": "NL",
+    "addTime": 1776863057
+  },
+  {
+    "host": "204.168.231.128",
+    "port": 8732,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "country": "FI",
     "addTime": 1776863057
   },
   {
@@ -245,17 +245,17 @@
     "addTime": 1776852288
   },
   {
-    "host": "91.229.105.116",
-    "port": 443,
-    "secret": "ee4e39e385ea7958450073a4e2a0b8dce77072312e666c7578736f6c7574696f6e732e7275",
-    "country": "NL",
-    "addTime": 1776841521
-  },
-  {
     "host": "pr2.fluxsolutions.ru",
     "port": 443,
     "secret": "ee36d81171544e3a74ef3a91e3e4933b847072322e666c7578736f6c7574696f6e732e7275",
     "country": "AL",
+    "addTime": 1776841521
+  },
+  {
+    "host": "91.229.105.116",
+    "port": 443,
+    "secret": "ee4e39e385ea7958450073a4e2a0b8dce77072312e666c7578736f6c7574696f6e732e7275",
+    "country": "NL",
     "addTime": 1776841521
   },
   {
@@ -343,10 +343,10 @@
     "addTime": 1776809065
   },
   {
-    "host": "2.27.22.13",
+    "host": "168.222.254.174",
     "port": 443,
-    "secret": "770c63621136701517a7e0d4c2643600",
-    "country": "US",
-    "addTime": 1776809059
+    "secret": "968cc5da3ebacdc3f0c99ba9e2d82d07",
+    "country": "DE",
+    "addTime": 1776809038
   }
 ]
