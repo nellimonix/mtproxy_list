@@ -21,21 +21,14 @@
     "addTime": 1776884745
   },
   {
-    "host": "mirror1.blockdiscord.ru",
-    "port": 443,
-    "secret": "ee499ae63085c1db81cccf337fc9507d8a706574726f766963682e7275",
-    "country": "RU",
-    "addTime": 1776884720
-  },
-  {
     "host": "connect.0xl1r.cfd",
     "port": 853,
     "secret": "eea1f31ce5039ccb8331e906d5ab00a31777622e7275",
-    "country": "PL",
+    "country": "SE",
     "addTime": 1776884720
   },
   {
-    "host": "mirror2.blockdiscord.ru",
+    "host": "mirror1.blockdiscord.ru",
     "port": 443,
     "secret": "ee499ae63085c1db81cccf337fc9507d8a706574726f766963682e7275",
     "country": "RU",
@@ -46,6 +39,13 @@
     "port": 8443,
     "secret": "eeeee520cbfa6e8a2aa3b554b2fb718283636c6f7564666c6172652e636f6d",
     "country": "AT",
+    "addTime": 1776884720
+  },
+  {
+    "host": "mirror2.blockdiscord.ru",
+    "port": 443,
+    "secret": "ee499ae63085c1db81cccf337fc9507d8a706574726f766963682e7275",
+    "country": "RU",
     "addTime": 1776884720
   },
   {
@@ -82,13 +82,6 @@
     "secret": "ee133713371337133713371337133713373134342e33312e3135312e323437",
     "country": "US",
     "addTime": 1776873981
-  },
-  {
-    "host": "mt-public.potatoe.shop",
-    "port": 443,
-    "secret": "ee10c8c72610d581b4716d5b353ed33aae6564612e79616e6465782e7275",
-    "country": "RU",
-    "addTime": 1776873967
   },
   {
     "host": "138.124.29.20",
@@ -161,17 +154,17 @@
     "addTime": 1776869870
   },
   {
-    "host": "89.124.98.173",
-    "port": 443,
-    "secret": "eedaf7416ab903952ee2a8612aad18d8946d61696c2e7275",
-    "country": "NL",
-    "addTime": 1776869870
-  },
-  {
     "host": "193.233.216.229",
     "port": 443,
     "secret": "ee7d167e1711c22b396f9afc8170c7e1e767656e6f74656b2e7275",
     "country": "US",
+    "addTime": 1776869870
+  },
+  {
+    "host": "89.124.98.173",
+    "port": 443,
+    "secret": "eedaf7416ab903952ee2a8612aad18d8946d61696c2e7275",
+    "country": "NL",
     "addTime": 1776869870
   },
   {
@@ -299,6 +292,13 @@
     "secret": "eeddb6c661f6fdaa29528b3c8fe98f19cd74656c65736861646f772e6475636b646e732e6f7267",
     "country": "DE",
     "addTime": 1776852338
+  },
+  {
+    "host": "fast.tgsecurity.online",
+    "port": 443,
+    "secret": "ee7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f766b2e636f6d",
+    "country": "RU",
+    "addTime": 1776852319
   },
   {
     "host": "138.124.255.140",
