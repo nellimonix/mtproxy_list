@@ -14,13 +14,6 @@
     "addTime": 1776863120
   },
   {
-    "host": "de28.apiusercontent.net",
-    "port": 8443,
-    "secret": "7uPToJox9chXiQz8KgvKtMFlaC52ay5jb20",
-    "country": "DE",
-    "addTime": 1776863074
-  },
-  {
     "host": "72.56.250.111",
     "port": 443,
     "secret": "eeff0c592463b7a03b31ce7fec93460449706574726f766963682e7275",
@@ -28,11 +21,11 @@
     "addTime": 1776863074
   },
   {
-    "host": "194.87.54.202",
-    "port": 443,
-    "secret": "ee39741948d28c854ed1be14f1a381607179616e6465782e7275",
-    "country": "CZ",
-    "addTime": 1776863073
+    "host": "de28.apiusercontent.net",
+    "port": 8443,
+    "secret": "7uPToJox9chXiQz8KgvKtMFlaC52ay5jb20",
+    "country": "DE",
+    "addTime": 1776863074
   },
   {
     "host": "fi89.apiusercontent.net",
@@ -63,17 +56,17 @@
     "addTime": 1776863058
   },
   {
-    "host": "204.168.231.128",
-    "port": 8732,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "country": "FI",
-    "addTime": 1776863057
-  },
-  {
     "host": "dr3.dedus.pro",
     "port": 443,
     "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
     "country": "NL",
+    "addTime": 1776863057
+  },
+  {
+    "host": "204.168.231.128",
+    "port": 8732,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "country": "FI",
     "addTime": 1776863057
   },
   {
@@ -161,13 +154,6 @@
     "addTime": 1776830667
   },
   {
-    "host": "waltz9033-c35b3cca.proxytg.ink",
-    "port": 443,
-    "secret": "7b5e8f646522d883fd50d2a1b1855f2d",
-    "country": "RU",
-    "addTime": 1776830662
-  },
-  {
     "host": "47.239.112.15",
     "port": 443,
     "secret": "7oHnv6tbnvgn770g4iUGRyRhenVyZS5taWNyb3NvZnQuY29t",
@@ -238,13 +224,6 @@
     "addTime": 1776809038
   },
   {
-    "host": "austria.salzburg.ir",
-    "port": 443,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "DE",
-    "addTime": 1776798373
-  },
-  {
     "host": "fra42.mtproxygram.pro",
     "port": 443,
     "secret": "eeb3126d2c304e0be28a496e4d06dfa9c362726f777365722e79616e6465782e636f6d",
@@ -264,20 +243,6 @@
     "secret": "326092f4269b576600b81f295a1c8dc3",
     "country": "FI",
     "addTime": 1776798272
-  },
-  {
-    "host": "mtproto-de2.nolimited.space",
-    "port": 443,
-    "secret": "eebdfa6443f1b57d30b232b9d1a05fb11c766b2e7275",
-    "country": "DE",
-    "addTime": 1776798260
-  },
-  {
-    "host": "noble5cfd-0096d46a.proxytg.ink",
-    "port": 443,
-    "secret": "39682ffd39beefcc991d12c832866bca",
-    "country": "RU",
-    "addTime": 1776798259
   },
   {
     "host": "bella-cook.com",
@@ -301,17 +266,17 @@
     "addTime": 1776787511
   },
   {
-    "host": "free-germany2.kimt.space",
-    "port": 443,
-    "secret": "ee927123552f30f69883d9d62d16382d66667265652d6765726d616e79322e6b696d742e7370616365",
-    "country": "DE",
-    "addTime": 1776787485
-  },
-  {
     "host": "pr.nextgenvpn.ru",
     "port": 443,
     "secret": "ee5ea3974ca0894ac9e3632e67f41b9ee37465736c612e636f6d",
     "country": "NL",
+    "addTime": 1776787485
+  },
+  {
+    "host": "free-germany2.kimt.space",
+    "port": 443,
+    "secret": "ee927123552f30f69883d9d62d16382d66667265652d6765726d616e79322e6b696d742e7370616365",
+    "country": "DE",
     "addTime": 1776787485
   },
   {
@@ -343,10 +308,45 @@
     "addTime": 1776787472
   },
   {
-    "host": "188.137.242.226",
-    "port": 443,
-    "secret": "dd63ddf70c2fa66dfa8a66e5c244d02c13",
-    "country": "US",
+    "host": "46.62.219.0",
+    "port": 4367,
+    "secret": "ee104462821249bd7ac519130220c25d096d61696c2e7275",
+    "country": "FI",
     "addTime": 1776787467
+  },
+  {
+    "host": "proxy.proxymtproto.net",
+    "port": 443,
+    "secret": "dd97caa3c6888366f26b12f994f02ecf1a",
+    "country": "FI",
+    "addTime": 1776787466
+  },
+  {
+    "host": "free-germany.kimt.space",
+    "port": 443,
+    "secret": "ee7b7ef45d40766b5b5f494f801f53af40667265652d6765726d616e792e6b696d742e7370616365",
+    "country": "CY",
+    "addTime": 1776787462
+  },
+  {
+    "host": "89.144.48.193",
+    "port": 8443,
+    "secret": "ee9962b6593a490946f5a9e2c45ce3130b7261772E67697468756275736572636F6E74656E742E636F6D",
+    "country": "DE",
+    "addTime": 1776776754
+  },
+  {
+    "host": "gerhorek.yandex-mul.fun",
+    "port": 8080,
+    "secret": "7fe44ba54b480143bee753e8ea6edcb3",
+    "country": "US",
+    "addTime": 1776776748
+  },
+  {
+    "host": "raw.cloud.klukva.online",
+    "port": 443,
+    "secret": "ee9ed9c1fc8539146787b1546e47b7af3b636c6f75642e6b6c756b76612e6f6e6c696e65",
+    "country": "US",
+    "addTime": 1776776737
   }
 ]
