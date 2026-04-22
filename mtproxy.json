@@ -91,6 +91,13 @@
     "addTime": 1776830662
   },
   {
+    "host": "tg.vpnspacev.com",
+    "port": 443,
+    "secret": "bc184fc14b62b9b1dc5f34edf9476421",
+    "country": "RU",
+    "addTime": 1776819917
+  },
+  {
     "host": "47.86.81.254",
     "port": 443,
     "secret": "7t8OpdbeY6B5G7ZO21J9vDNhenVyZS5taWNyb3NvZnQuY29t",
@@ -245,17 +252,17 @@
     "addTime": 1776787479
   },
   {
-    "host": "185.136.12.23",
-    "port": 8443,
-    "secret": "ee1113512bf91134b6d20a0531aff11111746f702e726169647468652e6e6574",
-    "country": "KZ",
-    "addTime": 1776787473
-  },
-  {
     "host": "2.27.4.209",
     "port": 8443,
     "secret": "ee84920394857263549102837465920184322e32372e342e323039",
     "country": "US",
+    "addTime": 1776787473
+  },
+  {
+    "host": "185.136.12.23",
+    "port": 8443,
+    "secret": "ee1113512bf91134b6d20a0531aff11111746f702e726169647468652e6e6574",
+    "country": "KZ",
     "addTime": 1776787473
   },
   {
@@ -266,17 +273,17 @@
     "addTime": 1776787472
   },
   {
-    "host": "46.62.219.0",
-    "port": 4367,
-    "secret": "ee104462821249bd7ac519130220c25d096d61696c2e7275",
-    "country": "FI",
-    "addTime": 1776787467
-  },
-  {
     "host": "188.137.242.226",
     "port": 443,
     "secret": "dd63ddf70c2fa66dfa8a66e5c244d02c13",
     "country": "US",
+    "addTime": 1776787467
+  },
+  {
+    "host": "46.62.219.0",
+    "port": 4367,
+    "secret": "ee104462821249bd7ac519130220c25d096d61696c2e7275",
+    "country": "FI",
     "addTime": 1776787467
   },
   {
@@ -341,12 +348,5 @@
     "secret": "ee5ef4c4585425038d6a4cdad33fb89980636c6f7564666c6172652e636f6d",
     "country": "FR",
     "addTime": 1776776675
-  },
-  {
-    "host": "173.249.42.146",
-    "port": 443,
-    "secret": "ee9c358bfbf24551ff7bb4a7f2c33bc298636c6f7564666c6172652e636f6d",
-    "country": "FR",
-    "addTime": 1776776651
   }
 ]
