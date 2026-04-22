@@ -14,17 +14,17 @@
     "addTime": 1776863120
   },
   {
-    "host": "72.56.250.111",
-    "port": 443,
-    "secret": "eeff0c592463b7a03b31ce7fec93460449706574726f766963682e7275",
-    "country": "RU",
-    "addTime": 1776863074
-  },
-  {
     "host": "de28.apiusercontent.net",
     "port": 8443,
     "secret": "7uPToJox9chXiQz8KgvKtMFlaC52ay5jb20",
     "country": "DE",
+    "addTime": 1776863074
+  },
+  {
+    "host": "72.56.250.111",
+    "port": 443,
+    "secret": "eeff0c592463b7a03b31ce7fec93460449706574726f766963682e7275",
+    "country": "RU",
     "addTime": 1776863074
   },
   {
@@ -63,17 +63,17 @@
     "addTime": 1776863058
   },
   {
-    "host": "dr3.dedus.pro",
-    "port": 443,
-    "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
-    "country": "NL",
-    "addTime": 1776863057
-  },
-  {
     "host": "204.168.231.128",
     "port": 8732,
     "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
     "country": "FI",
+    "addTime": 1776863057
+  },
+  {
+    "host": "dr3.dedus.pro",
+    "port": 443,
+    "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
+    "country": "NL",
     "addTime": 1776863057
   },
   {
@@ -171,20 +171,20 @@
     "host": "tg.vpnspacev.com",
     "port": 443,
     "secret": "bc184fc14b62b9b1dc5f34edf9476421",
-    "country": "RU",
+    "country": "NL",
     "addTime": 1776819917
-  },
-  {
-    "host": "47.86.81.254",
-    "port": 443,
-    "secret": "7t8OpdbeY6B5G7ZO21J9vDNhenVyZS5taWNyb3NvZnQuY29t",
-    "country": "HK",
-    "addTime": 1776819870
   },
   {
     "host": "47.239.112.15",
     "port": 443,
     "secret": "7oHnv6tbnvgn770g4iUGRyRhenVyZS5taWNyb3NvZnQuY29t",
+    "country": "HK",
+    "addTime": 1776819870
+  },
+  {
+    "host": "47.86.81.254",
+    "port": 443,
+    "secret": "7t8OpdbeY6B5G7ZO21J9vDNhenVyZS5taWNyb3NvZnQuY29t",
     "country": "HK",
     "addTime": 1776819870
   },
@@ -208,6 +208,13 @@
     "secret": "eef52f8bf7270831df2823e04b85cc826062726f777365722e79616e6465782e636f6d",
     "country": "DE",
     "addTime": 1776809150
+  },
+  {
+    "host": "5.129.196.17",
+    "port": 8444,
+    "secret": "eef42d48241118448afe11996dc940e6756d61782e7275",
+    "country": "RU",
+    "addTime": 1776809134
   },
   {
     "host": "185.198.58.194",
@@ -257,6 +264,13 @@
     "secret": "eeb3126d2c304e0be28a496e4d06dfa9c362726f777365722e79616e6465782e636f6d",
     "country": "NL",
     "addTime": 1776798304
+  },
+  {
+    "host": "3bukvi.life",
+    "port": 443,
+    "secret": "78da390908c0089109d0da6e69945ed3",
+    "country": "RU",
+    "addTime": 1776798294
   },
   {
     "host": "emcee.puna.rise.stemmer.teeny.teleseryeepesodes.com",
@@ -334,19 +348,5 @@
     "secret": "ee1113512bf91134b6d20a0531aff11111746f702e726169647468652e6e6574",
     "country": "KZ",
     "addTime": 1776787473
-  },
-  {
-    "host": "45.136.125.44",
-    "port": 443,
-    "secret": "eef0d32c817f2716c69e8daf5381c41c427777772e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1776787472
-  },
-  {
-    "host": "188.137.242.226",
-    "port": 443,
-    "secret": "dd63ddf70c2fa66dfa8a66e5c244d02c13",
-    "country": "US",
-    "addTime": 1776787467
   }
 ]
