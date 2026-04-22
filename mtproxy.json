@@ -14,17 +14,17 @@
     "addTime": 1776863120
   },
   {
-    "host": "72.56.250.111",
-    "port": 443,
-    "secret": "eeff0c592463b7a03b31ce7fec93460449706574726f766963682e7275",
-    "country": "RU",
-    "addTime": 1776863074
-  },
-  {
     "host": "de28.apiusercontent.net",
     "port": 8443,
     "secret": "7uPToJox9chXiQz8KgvKtMFlaC52ay5jb20",
     "country": "DE",
+    "addTime": 1776863074
+  },
+  {
+    "host": "72.56.250.111",
+    "port": 443,
+    "secret": "eeff0c592463b7a03b31ce7fec93460449706574726f766963682e7275",
+    "country": "RU",
     "addTime": 1776863074
   },
   {
@@ -56,17 +56,17 @@
     "addTime": 1776863058
   },
   {
-    "host": "204.168.231.128",
-    "port": 8732,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "country": "FI",
-    "addTime": 1776863057
-  },
-  {
     "host": "dr3.dedus.pro",
     "port": 443,
     "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
     "country": "NL",
+    "addTime": 1776863057
+  },
+  {
+    "host": "204.168.231.128",
+    "port": 8732,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "country": "FI",
     "addTime": 1776863057
   },
   {
@@ -161,11 +161,11 @@
     "addTime": 1776830667
   },
   {
-    "host": "tg.vpnspacev.com",
+    "host": "47.239.112.15",
     "port": 443,
-    "secret": "bc184fc14b62b9b1dc5f34edf9476421",
-    "country": "RU",
-    "addTime": 1776819917
+    "secret": "7oHnv6tbnvgn770g4iUGRyRhenVyZS5taWNyb3NvZnQuY29t",
+    "country": "HK",
+    "addTime": 1776819870
   },
   {
     "host": "47.86.81.254",
@@ -194,13 +194,6 @@
     "secret": "eef52f8bf7270831df2823e04b85cc826062726f777365722e79616e6465782e636f6d",
     "country": "DE",
     "addTime": 1776809150
-  },
-  {
-    "host": "45.15.153.14",
-    "port": 443,
-    "secret": "ee17ae2b46d2b106af164facdd9d7472",
-    "country": "CY",
-    "addTime": 1776809133
   },
   {
     "host": "185.198.58.194",
@@ -241,7 +234,7 @@
     "host": "austria.salzburg.ir",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "FI",
+    "country": "DE",
     "addTime": 1776798373
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee104462821249bd7ac519130220c25d096d61696c2e7275",
     "country": "FI",
     "addTime": 1776787467
+  },
+  {
+    "host": "proxy.proxymtproto.net",
+    "port": 443,
+    "secret": "dd97caa3c6888366f26b12f994f02ecf1a",
+    "country": "FI",
+    "addTime": 1776787466
   }
 ]
