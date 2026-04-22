@@ -21,14 +21,21 @@
     "addTime": 1776884745
   },
   {
-    "host": "connect.0xl1r.cfd",
-    "port": 853,
-    "secret": "eea1f31ce5039ccb8331e906d5ab00a31777622e7275",
-    "country": "SE",
+    "host": "spb-hub.webfreedom.live",
+    "port": 443,
+    "secret": "ee92a90e7268cb146b91215f8eb42461036164732e78352e7275",
+    "country": "GR",
+    "addTime": 1776884743
+  },
+  {
+    "host": "194.87.54.153",
+    "port": 443,
+    "secret": "ee926e602ac59a4b6f2ecf368c157fa4ce636c6f7564666c6172652e636f6d",
+    "country": "CZ",
     "addTime": 1776884720
   },
   {
-    "host": "mirror1.blockdiscord.ru",
+    "host": "mirror2.blockdiscord.ru",
     "port": 443,
     "secret": "ee499ae63085c1db81cccf337fc9507d8a706574726f766963682e7275",
     "country": "RU",
@@ -42,14 +49,14 @@
     "addTime": 1776884720
   },
   {
-    "host": "194.87.54.153",
-    "port": 443,
-    "secret": "ee926e602ac59a4b6f2ecf368c157fa4ce636c6f7564666c6172652e636f6d",
-    "country": "CZ",
+    "host": "connect.0xl1r.cfd",
+    "port": 853,
+    "secret": "eea1f31ce5039ccb8331e906d5ab00a31777622e7275",
+    "country": "SE",
     "addTime": 1776884720
   },
   {
-    "host": "mirror2.blockdiscord.ru",
+    "host": "mirror1.blockdiscord.ru",
     "port": 443,
     "secret": "ee499ae63085c1db81cccf337fc9507d8a706574726f766963682e7275",
     "country": "RU",
@@ -84,17 +91,17 @@
     "addTime": 1776873981
   },
   {
-    "host": "mt-public.potatoe.shop",
-    "port": 443,
-    "secret": "ee10c8c72610d581b4716d5b353ed33aae6564612e79616e6465782e7275",
-    "country": "RU",
-    "addTime": 1776873967
-  },
-  {
     "host": "138.124.29.20",
     "port": 443,
     "secret": "bc1f20e51fa554c8b5a2c2e39d59c2a0",
     "country": "SE",
+    "addTime": 1776873967
+  },
+  {
+    "host": "mt-public.potatoe.shop",
+    "port": 443,
+    "secret": "ee10c8c72610d581b4716d5b353ed33aae6564612e79616e6465782e7275",
+    "country": "RU",
     "addTime": 1776873967
   },
   {
@@ -147,24 +154,17 @@
     "addTime": 1776869907
   },
   {
-    "host": "sx.xdfyyy.xyz",
-    "port": 14025,
-    "secret": "feff39bcddb62859ade093fcad935858",
-    "country": "MY",
-    "addTime": 1776869873
+    "host": "tg1.silajob.ru",
+    "port": 55887,
+    "secret": "eea787407a033c92ad3965464cf83e06e77467312e73696c616a6f622e7275",
+    "country": "PL",
+    "addTime": 1776869870
   },
   {
     "host": "89.124.98.173",
     "port": 443,
     "secret": "eedaf7416ab903952ee2a8612aad18d8946d61696c2e7275",
     "country": "NL",
-    "addTime": 1776869870
-  },
-  {
-    "host": "tg1.silajob.ru",
-    "port": 55887,
-    "secret": "eea787407a033c92ad3965464cf83e06e77467312e73696c616a6f622e7275",
-    "country": "PL",
     "addTime": 1776869870
   },
   {
@@ -215,13 +215,6 @@
     "secret": "ee9962b6593a490946f5a9e2c45ce3130b7261772E67697468756275736572636F6E74656E742E636F6D",
     "country": "DE",
     "addTime": 1776863123
-  },
-  {
-    "host": "162.19.175.95",
-    "port": 443,
-    "secret": "dd7f216fe9b238b009ac9067852fb47a19",
-    "country": "FR",
-    "addTime": 1776863120
   },
   {
     "host": "72.56.250.111",
@@ -348,5 +341,12 @@
     "secret": "79705efd3a8be28537adf952cf49f432",
     "country": "FI",
     "addTime": 1776830745
+  },
+  {
+    "host": "waltz9033-c35b3cca.proxytg.ink",
+    "port": 443,
+    "secret": "7b5e8f646522d883fd50d2a1b1855f2d",
+    "country": "RU",
+    "addTime": 1776830662
   }
 ]
