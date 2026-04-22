@@ -28,6 +28,20 @@
     "addTime": 1776873967
   },
   {
+    "host": "mt-public.potatoe.shop",
+    "port": 443,
+    "secret": "ee10c8c72610d581b4716d5b353ed33aae6564612e79616e6465782e7275",
+    "country": "RU",
+    "addTime": 1776873967
+  },
+  {
+    "host": "217.177.33.111",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275",
+    "country": "FI",
+    "addTime": 1776873961
+  },
+  {
     "host": "45.146.181.95",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275",
@@ -39,13 +53,6 @@
     "port": 443,
     "secret": "eeddb6c661f6fdaa29528b3c8fe98f19cd74656c65736861646f772e6475636b646e732e6f7267",
     "country": "DE",
-    "addTime": 1776873961
-  },
-  {
-    "host": "217.177.33.111",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275",
-    "country": "FI",
     "addTime": 1776873961
   },
   {
@@ -84,13 +91,6 @@
     "addTime": 1776869873
   },
   {
-    "host": "193.233.216.229",
-    "port": 443,
-    "secret": "ee7d167e1711c22b396f9afc8170c7e1e767656e6f74656b2e7275",
-    "country": "US",
-    "addTime": 1776869870
-  },
-  {
     "host": "89.124.98.173",
     "port": 443,
     "secret": "eedaf7416ab903952ee2a8612aad18d8946d61696c2e7275",
@@ -102,6 +102,13 @@
     "port": 55887,
     "secret": "eea787407a033c92ad3965464cf83e06e77467312e73696c616a6f622e7275",
     "country": "PL",
+    "addTime": 1776869870
+  },
+  {
+    "host": "193.233.216.229",
+    "port": 443,
+    "secret": "ee7d167e1711c22b396f9afc8170c7e1e767656e6f74656b2e7275",
+    "country": "US",
     "addTime": 1776869870
   },
   {
@@ -117,6 +124,13 @@
     "secret": "ee5b0d176070681ea5d49184d258f65601636c6f7564666c6172652e636f6d",
     "country": "FR",
     "addTime": 1776869867
+  },
+  {
+    "host": "194.163.187.71",
+    "port": 443,
+    "secret": "ee74f7e9c27b124443a45680e0f30d1dcc636c6f7564666c6172652e636f6d",
+    "country": "FR",
+    "addTime": 1776869866
   },
   {
     "host": "194.163.167.213",
@@ -203,6 +217,13 @@
     "addTime": 1776863057
   },
   {
+    "host": "193.233.90.178",
+    "port": 443,
+    "secret": "b2927ac82110373f3db9e8e658449c6c",
+    "country": "RU",
+    "addTime": 1776852499
+  },
+  {
     "host": "46.8.233.187",
     "port": 443,
     "secret": "ee7287be476993a67190dbcbe946167b3c70696b2e7275",
@@ -273,25 +294,11 @@
     "addTime": 1776830745
   },
   {
-    "host": "37.252.20.9",
-    "port": 443,
-    "secret": "ee6d61782e7275a71fecfd7a5576c488",
-    "country": "RU",
-    "addTime": 1776830735
-  },
-  {
     "host": "waltz9033-c35b3cca.proxytg.ink",
     "port": 443,
     "secret": "7b5e8f646522d883fd50d2a1b1855f2d",
     "country": "RU",
     "addTime": 1776830662
-  },
-  {
-    "host": "ffastdomain-eu.com",
-    "port": 443,
-    "secret": "afdc38b8068b2444e50f6a4f093751b5",
-    "country": "RU",
-    "addTime": 1776819924
   },
   {
     "host": "tg.vpnspacev.com",
@@ -301,16 +308,16 @@
     "addTime": 1776819917
   },
   {
-    "host": "47.239.112.15",
+    "host": "47.86.81.254",
     "port": 443,
-    "secret": "7oHnv6tbnvgn770g4iUGRyRhenVyZS5taWNyb3NvZnQuY29t",
+    "secret": "7t8OpdbeY6B5G7ZO21J9vDNhenVyZS5taWNyb3NvZnQuY29t",
     "country": "HK",
     "addTime": 1776819870
   },
   {
-    "host": "47.86.81.254",
+    "host": "47.239.112.15",
     "port": 443,
-    "secret": "7t8OpdbeY6B5G7ZO21J9vDNhenVyZS5taWNyb3NvZnQuY29t",
+    "secret": "7oHnv6tbnvgn770g4iUGRyRhenVyZS5taWNyb3NvZnQuY29t",
     "country": "HK",
     "addTime": 1776819870
   },
@@ -341,12 +348,5 @@
     "secret": "fc95e25292dcc344d40a42ad7dd911bc",
     "country": "NL",
     "addTime": 1776809129
-  },
-  {
-    "host": "ger1.belle.gold",
-    "port": 443,
-    "secret": "ee3c1a8b052bf311fc60ee95b45391a92179612e7275",
-    "country": "DE",
-    "addTime": 1776809108
   }
 ]
