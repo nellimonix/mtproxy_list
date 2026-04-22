@@ -14,17 +14,17 @@
     "addTime": 1776809134
   },
   {
-    "host": "mpro.nitratex.ru",
-    "port": 443,
-    "secret": "ab141695d9ab3bdd4c2d37dd54fc33e5",
-    "country": "RU",
-    "addTime": 1776809133
-  },
-  {
     "host": "45.15.153.14",
     "port": 443,
     "secret": "ee17ae2b46d2b106af164facdd9d7472",
     "country": "CY",
+    "addTime": 1776809133
+  },
+  {
+    "host": "mpro.nitratex.ru",
+    "port": 443,
+    "secret": "ab141695d9ab3bdd4c2d37dd54fc33e5",
+    "country": "RU",
     "addTime": 1776809133
   },
   {
@@ -154,24 +154,10 @@
     "addTime": 1776787479
   },
   {
-    "host": "5.42.108.37",
+    "host": "80.242.57.214",
     "port": 443,
-    "secret": "ee3b2382f388c45036a73e643dc8abf6036164732e78352e7275",
+    "secret": "ee5b7aeaa3fcf61c7a54c447a4d1d5859e6164732e78352e7275",
     "country": "RU",
-    "addTime": 1776787473
-  },
-  {
-    "host": "2.27.4.209",
-    "port": 8443,
-    "secret": "ee84920394857263549102837465920184322e32372e342e323039",
-    "country": "US",
-    "addTime": 1776787473
-  },
-  {
-    "host": "194.87.140.180",
-    "port": 443,
-    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
-    "country": "CZ",
     "addTime": 1776787473
   },
   {
@@ -182,16 +168,30 @@
     "addTime": 1776787473
   },
   {
-    "host": "80.242.57.214",
+    "host": "5.129.220.144",
     "port": 443,
-    "secret": "ee5b7aeaa3fcf61c7a54c447a4d1d5859e6164732e78352e7275",
+    "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
     "country": "RU",
     "addTime": 1776787473
   },
   {
-    "host": "5.129.220.144",
+    "host": "194.87.140.180",
     "port": 443,
-    "secret": "ee7dda1ba94ec41d97d7c097f77b1e7eca6164732e78352e7275",
+    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
+    "country": "CZ",
+    "addTime": 1776787473
+  },
+  {
+    "host": "2.27.4.209",
+    "port": 8443,
+    "secret": "ee84920394857263549102837465920184322e32372e342e323039",
+    "country": "US",
+    "addTime": 1776787473
+  },
+  {
+    "host": "5.42.108.37",
+    "port": 443,
+    "secret": "ee3b2382f388c45036a73e643dc8abf6036164732e78352e7275",
     "country": "RU",
     "addTime": 1776787473
   },
@@ -294,16 +294,16 @@
     "addTime": 1776776675
   },
   {
-    "host": "207.180.202.202",
+    "host": "173.249.42.146",
     "port": 443,
-    "secret": "ee9c8da4841695d72114ce1347947f3a36636c6f7564666c6172652e636f6d",
+    "secret": "ee9c358bfbf24551ff7bb4a7f2c33bc298636c6f7564666c6172652e636f6d",
     "country": "FR",
     "addTime": 1776776651
   },
   {
-    "host": "173.249.42.146",
+    "host": "207.180.202.202",
     "port": 443,
-    "secret": "ee9c358bfbf24551ff7bb4a7f2c33bc298636c6f7564666c6172652e636f6d",
+    "secret": "ee9c8da4841695d72114ce1347947f3a36636c6f7564666c6172652e636f6d",
     "country": "FR",
     "addTime": 1776776651
   },
@@ -322,17 +322,10 @@
     "addTime": 1776765915
   },
   {
-    "host": "mtnew.zlpsh.ru",
-    "port": 853,
-    "secret": "eea2c21fe28bd0a93db14aeb382d6acb24636c6f7564666c6172652e636f6d",
-    "country": "US",
-    "addTime": 1776765902
-  },
-  {
-    "host": "138.124.255.131",
+    "host": "45.12.150.4",
     "port": 443,
-    "secret": "ee499ae63085c1db81cccf337fc9507d8a706574726f766963682e7275",
-    "country": "RU",
+    "secret": "ee1e0a37878f593ee4c8aafe4143cbf160416d617a6f6e2e6573",
+    "country": "CY",
     "addTime": 1776765902
   },
   {
@@ -347,6 +340,13 @@
     "port": 7878,
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "FI",
+    "addTime": 1776765902
+  },
+  {
+    "host": "138.124.255.131",
+    "port": 443,
+    "secret": "ee499ae63085c1db81cccf337fc9507d8a706574726f766963682e7275",
+    "country": "RU",
     "addTime": 1776765902
   }
 ]
