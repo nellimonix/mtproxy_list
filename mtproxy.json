@@ -70,6 +70,13 @@
     "addTime": 1776869867
   },
   {
+    "host": "194.163.187.71",
+    "port": 443,
+    "secret": "ee74f7e9c27b124443a45680e0f30d1dcc636c6f7564666c6172652e636f6d",
+    "country": "FR",
+    "addTime": 1776869866
+  },
+  {
     "host": "194.163.167.213",
     "port": 443,
     "secret": "ee316df12aa93e4b3b96a782d5b9112a05636c6f7564666c6172652e636f6d",
@@ -98,13 +105,6 @@
     "addTime": 1776863120
   },
   {
-    "host": "de28.apiusercontent.net",
-    "port": 8443,
-    "secret": "7uPToJox9chXiQz8KgvKtMFlaC52ay5jb20",
-    "country": "DE",
-    "addTime": 1776863074
-  },
-  {
     "host": "72.56.250.111",
     "port": 443,
     "secret": "eeff0c592463b7a03b31ce7fec93460449706574726f766963682e7275",
@@ -112,17 +112,24 @@
     "addTime": 1776863074
   },
   {
-    "host": "194.87.54.202",
-    "port": 443,
-    "secret": "ee39741948d28c854ed1be14f1a381607179616e6465782e7275",
-    "country": "CZ",
-    "addTime": 1776863073
+    "host": "de28.apiusercontent.net",
+    "port": 8443,
+    "secret": "7uPToJox9chXiQz8KgvKtMFlaC52ay5jb20",
+    "country": "DE",
+    "addTime": 1776863074
   },
   {
     "host": "fi89.apiusercontent.net",
     "port": 8443,
     "secret": "7uPToJox9chXiQz8KgvKtMFlaC52ay5jb20",
     "country": "FI",
+    "addTime": 1776863073
+  },
+  {
+    "host": "194.87.54.202",
+    "port": 443,
+    "secret": "ee39741948d28c854ed1be14f1a381607179616e6465782e7275",
+    "country": "CZ",
     "addTime": 1776863073
   },
   {
@@ -140,24 +147,17 @@
     "addTime": 1776863060
   },
   {
-    "host": "5.42.118.83",
+    "host": "dr3.dedus.pro",
     "port": 443,
-    "secret": "eee513dff4a549a7d2abaf35eb08b61dbe79616e6465782e7275",
-    "country": "RU",
-    "addTime": 1776863058
+    "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
+    "country": "NL",
+    "addTime": 1776863057
   },
   {
     "host": "204.168.231.128",
     "port": 8732,
     "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
     "country": "FI",
-    "addTime": 1776863057
-  },
-  {
-    "host": "dr3.dedus.pro",
-    "port": 443,
-    "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
-    "country": "NL",
     "addTime": 1776863057
   },
   {
@@ -252,23 +252,30 @@
     "addTime": 1776830662
   },
   {
+    "host": "ffastdomain-eu.com",
+    "port": 443,
+    "secret": "afdc38b8068b2444e50f6a4f093751b5",
+    "country": "RU",
+    "addTime": 1776819924
+  },
+  {
     "host": "tg.vpnspacev.com",
     "port": 443,
     "secret": "bc184fc14b62b9b1dc5f34edf9476421",
-    "country": "US",
+    "country": "NL",
     "addTime": 1776819917
-  },
-  {
-    "host": "47.239.112.15",
-    "port": 443,
-    "secret": "7oHnv6tbnvgn770g4iUGRyRhenVyZS5taWNyb3NvZnQuY29t",
-    "country": "HK",
-    "addTime": 1776819870
   },
   {
     "host": "47.86.81.254",
     "port": 443,
     "secret": "7t8OpdbeY6B5G7ZO21J9vDNhenVyZS5taWNyb3NvZnQuY29t",
+    "country": "HK",
+    "addTime": 1776819870
+  },
+  {
+    "host": "47.239.112.15",
+    "port": 443,
+    "secret": "7oHnv6tbnvgn770g4iUGRyRhenVyZS5taWNyb3NvZnQuY29t",
     "country": "HK",
     "addTime": 1776819870
   },
@@ -327,13 +334,6 @@
     "secret": "968cc5da3ebacdc3f0c99ba9e2d82d07",
     "country": "DE",
     "addTime": 1776809038
-  },
-  {
-    "host": "austria.salzburg.ir",
-    "port": 443,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "FI",
-    "addTime": 1776798373
   },
   {
     "host": "fra42.mtproxygram.pro",
