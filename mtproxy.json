@@ -14,6 +14,13 @@
     "addTime": 1776841521
   },
   {
+    "host": "91.229.105.116",
+    "port": 443,
+    "secret": "ee4e39e385ea7958450073a4e2a0b8dce77072312e666c7578736f6c7574696f6e732e7275",
+    "country": "NL",
+    "addTime": 1776841521
+  },
+  {
     "host": "144.31.48.77",
     "port": 443,
     "secret": "ee59d250b7a914dddd2cc3e15a661f881a74656c656d742d37372e6475636b646e732e6f7267",
@@ -98,13 +105,6 @@
     "addTime": 1776809150
   },
   {
-    "host": "185.198.58.194",
-    "port": 443,
-    "secret": "fc95e25292dcc344d40a42ad7dd911bc",
-    "country": "NL",
-    "addTime": 1776809129
-  },
-  {
     "host": "ger1.belle.gold",
     "port": 443,
     "secret": "ee3c1a8b052bf311fc60ee95b45391a92179612e7275",
@@ -126,18 +126,18 @@
     "addTime": 1776809059
   },
   {
-    "host": "tg.network-a1.cc",
-    "port": 443,
-    "secret": "ddaa07cbf0cb30c5e38eefbf6838bf2499",
-    "country": "RU",
-    "addTime": 1776809039
-  },
-  {
     "host": "168.222.254.174",
     "port": 443,
     "secret": "968cc5da3ebacdc3f0c99ba9e2d82d07",
     "country": "DE",
     "addTime": 1776809038
+  },
+  {
+    "host": "austria.salzburg.ir",
+    "port": 443,
+    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
+    "country": "DE",
+    "addTime": 1776798373
   },
   {
     "host": "fra42.mtproxygram.pro",
@@ -228,20 +228,6 @@
     "port": 8443,
     "secret": "ee1113512bf91134b6d20a0531aff11111746f702e726169647468652e6e6574",
     "country": "KZ",
-    "addTime": 1776787473
-  },
-  {
-    "host": "80.242.57.214",
-    "port": 443,
-    "secret": "ee5b7aeaa3fcf61c7a54c447a4d1d5859e6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1776787473
-  },
-  {
-    "host": "194.87.140.180",
-    "port": 443,
-    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
-    "country": "CZ",
     "addTime": 1776787473
   },
   {
@@ -348,5 +334,19 @@
     "secret": "ee9c358bfbf24551ff7bb4a7f2c33bc298636c6f7564666c6172652e636f6d",
     "country": "FR",
     "addTime": 1776776651
+  },
+  {
+    "host": "207.180.202.202",
+    "port": 443,
+    "secret": "ee9c8da4841695d72114ce1347947f3a36636c6f7564666c6172652e636f6d",
+    "country": "FR",
+    "addTime": 1776776651
+  },
+  {
+    "host": "213.232.204.146",
+    "port": 443,
+    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
+    "country": "FI",
+    "addTime": 1776765915
   }
 ]
