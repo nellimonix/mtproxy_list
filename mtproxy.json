@@ -175,17 +175,17 @@
     "addTime": 1776906622
   },
   {
-    "host": "enjoy.voltlab.su",
-    "port": 443,
-    "secret": "eebf9d9c0aaa78c8552d4c4984d9fd99df656e6a6f792e766f6c746c61622e7375",
-    "country": "NL",
-    "addTime": 1776906622
-  },
-  {
     "host": "37.114.41.113",
     "port": 443,
     "secret": "eed5c322a50f706f672dcbfca3413d96e077622e7275",
     "country": "DE",
+    "addTime": 1776906622
+  },
+  {
+    "host": "enjoy.voltlab.su",
+    "port": 443,
+    "secret": "eebf9d9c0aaa78c8552d4c4984d9fd99df656e6a6f792e766f6c746c61622e7375",
+    "country": "NL",
     "addTime": 1776906622
   },
   {
@@ -252,13 +252,6 @@
     "addTime": 1776895594
   },
   {
-    "host": "mtproto.sigma-network.org",
-    "port": 443,
-    "secret": "3bbaf7f7df07b82cafcde1c020efe8ed",
-    "country": "RU",
-    "addTime": 1776895590
-  },
-  {
     "host": "proxy1.simplvpn.pro",
     "port": 443,
     "secret": "84c007092f334d33232899f86c2ac767",
@@ -290,7 +283,7 @@
     "host": "yazaebalsyadelatproxy.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275",
-    "country": "US",
+    "country": "SC",
     "addTime": 1776895525
   },
   {
@@ -341,6 +334,13 @@
     "secret": "fffc0efade691faeaccb0ee0cdbf1773",
     "country": "SE",
     "addTime": 1776884745
+  },
+  {
+    "host": "spb-hub.webfreedom.live",
+    "port": 443,
+    "secret": "ee92a90e7268cb146b91215f8eb42461036164732e78352e7275",
+    "country": "GR",
+    "addTime": 1776884743
   },
   {
     "host": "mirror2.blockdiscord.ru",
