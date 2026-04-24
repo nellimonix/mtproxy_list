@@ -14,6 +14,13 @@
     "addTime": 1777057584
   },
   {
+    "host": "tg.postpulse.space",
+    "port": 13443,
+    "secret": "7p2RddSbDvtYNWcQUaDBbzNwZXRyb3ZpY2gucnU",
+    "country": "RU",
+    "addTime": 1777057523
+  },
+  {
     "host": "beads.broom.cut-in.irrepair.renouncing.teleseryeheaven.com",
     "port": 6300,
     "secret": "f6b70cfb9485e6e6f18eb22feda783a3",
@@ -26,13 +33,6 @@
     "secret": "ee7b4f8a2c1e9d3650ab7f4c821e3d9a5b6e6574666c69782e636f6d",
     "country": "US",
     "addTime": 1777057508
-  },
-  {
-    "host": "89.40.233.73",
-    "port": 4434,
-    "secret": "eea72e5e7562c9354daf5a087b9b233d95676f6f676c652e636f6d",
-    "country": "KZ",
-    "addTime": 1777057479
   },
   {
     "host": "77.73.135.166",
@@ -53,6 +53,13 @@
     "port": 443,
     "secret": "eec7e4c3d2dfb3c8a1107a8f684ac3b6d7766b2e636f6d",
     "country": "FR",
+    "addTime": 1777057479
+  },
+  {
+    "host": "89.40.233.73",
+    "port": 4434,
+    "secret": "eea72e5e7562c9354daf5a087b9b233d95676f6f676c652e636f6d",
+    "country": "KZ",
     "addTime": 1777057479
   },
   {
@@ -154,13 +161,6 @@
     "addTime": 1777035955
   },
   {
-    "host": "188.137.244.70",
-    "port": 443,
-    "secret": "ee370baecb228874e0fe5b4a32a9a95ed0646c2e676f6f676c652e636f6d",
-    "country": "PL",
-    "addTime": 1777035880
-  },
-  {
     "host": "2.26.0.145",
     "port": 443,
     "secret": "ee7287be476993a67190dbcbe946167b3c70696b2e7275",
@@ -168,11 +168,32 @@
     "addTime": 1777035880
   },
   {
+    "host": "188.137.244.70",
+    "port": 443,
+    "secret": "ee370baecb228874e0fe5b4a32a9a95ed0646c2e676f6f676c652e636f6d",
+    "country": "PL",
+    "addTime": 1777035880
+  },
+  {
+    "host": "proxy3.mdnk.fun",
+    "port": 443,
+    "secret": "eec547ec12995f5e3501903a74c8c38945706574726f766963682e7275",
+    "country": "US",
+    "addTime": 1777035874
+  },
+  {
     "host": "171.22.16.234",
     "port": 443,
     "secret": "ee70be37d188ae696def1e2c4f70fcfd7b7777772e676f6f676c652e636f6d",
     "country": "CH",
     "addTime": 1777035874
+  },
+  {
+    "host": "v2.nexarstream.com",
+    "port": 8443,
+    "secret": "ee6d4bdb313942c2c80a16431392d898167275747562652e7275",
+    "country": "RU",
+    "addTime": 1777035856
   },
   {
     "host": "www.istanbul-olsun.info",
@@ -210,6 +231,13 @@
     "addTime": 1777025205
   },
   {
+    "host": "mgproxytg.chickenkiller.com",
+    "port": 443,
+    "secret": "7peDGHEnkf46chAwExxRYQRtZ3Byb3h5dGcuY2hpY2tlbmtpbGxlci5jb20",
+    "country": "US",
+    "addTime": 1777025202
+  },
+  {
     "host": "proxy.nxvpn.space",
     "port": 8443,
     "secret": "bd402864d7e2ffa304c9bee508351297",
@@ -221,13 +249,6 @@
     "port": 8443,
     "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
     "country": "RU",
-    "addTime": 1777025202
-  },
-  {
-    "host": "mgproxytg.chickenkiller.com",
-    "port": 443,
-    "secret": "7peDGHEnkf46chAwExxRYQRtZ3Byb3h5dGcuY2hpY2tlbmtpbGxlci5jb20",
-    "country": "US",
     "addTime": 1777025202
   },
   {
@@ -308,14 +329,14 @@
     "addTime": 1777025095
   },
   {
-    "host": "www.40-rooz-gozasht.info",
+    "host": "www.rasht-e-nazanin.info",
     "port": 2083,
     "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
     "country": "AT",
     "addTime": 1777025094
   },
   {
-    "host": "www.rasht-e-nazanin.info",
+    "host": "www.40-rooz-gozasht.info",
     "port": 2083,
     "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
     "country": "AT",
@@ -327,26 +348,5 @@
     "secret": "ee79e7010200010007f0030386e24c3add68656c702e737465616d706f77657265642e636f6d",
     "country": "AT",
     "addTime": 1777025093
-  },
-  {
-    "host": "77.73.69.142",
-    "port": 443,
-    "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
-    "country": "RU",
-    "addTime": 1777025091
-  },
-  {
-    "host": "166.88.164.219",
-    "port": 65365,
-    "secret": "dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2",
-    "country": "US",
-    "addTime": 1777015042
-  },
-  {
-    "host": "23.27.134.249",
-    "port": 65421,
-    "secret": "dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2",
-    "country": "US",
-    "addTime": 1777015042
   }
 ]
