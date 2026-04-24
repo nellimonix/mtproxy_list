@@ -42,13 +42,6 @@
     "addTime": 1777057479
   },
   {
-    "host": "2.27.12.157",
-    "port": 443,
-    "secret": "ee6711534ddf55a427699a01cfc60dcb847777772e77702e706c",
-    "country": "US",
-    "addTime": 1777057479
-  },
-  {
     "host": "46.226.166.175",
     "port": 443,
     "secret": "eec7e4c3d2dfb3c8a1107a8f684ac3b6d7766b2e636f6d",
@@ -59,6 +52,13 @@
     "host": "72.56.238.99",
     "port": 443,
     "secret": "3788d8531070b4307f77da398eed8732",
+    "country": "US",
+    "addTime": 1777057479
+  },
+  {
+    "host": "2.27.12.157",
+    "port": 443,
+    "secret": "ee6711534ddf55a427699a01cfc60dcb847777772e77702e706c",
     "country": "US",
     "addTime": 1777057479
   },
@@ -175,13 +175,6 @@
     "addTime": 1777035874
   },
   {
-    "host": "proxy3.mdnk.fun",
-    "port": 443,
-    "secret": "eec547ec12995f5e3501903a74c8c38945706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1777035874
-  },
-  {
     "host": "www.istanbul-olsun.info",
     "port": 8443,
     "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
@@ -217,6 +210,13 @@
     "addTime": 1777025205
   },
   {
+    "host": "proxy5.nhiaz.net",
+    "port": 8443,
+    "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
+    "country": "RU",
+    "addTime": 1777025202
+  },
+  {
     "host": "mgproxytg.chickenkiller.com",
     "port": 443,
     "secret": "7peDGHEnkf46chAwExxRYQRtZ3Byb3h5dGcuY2hpY2tlbmtpbGxlci5jb20",
@@ -231,24 +231,17 @@
     "addTime": 1777025202
   },
   {
-    "host": "proxy5.nhiaz.net",
-    "port": 8443,
-    "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
-    "country": "RU",
-    "addTime": 1777025202
+    "host": "94.103.15.56",
+    "port": 443,
+    "secret": "eee1dd28572e7f579c4aba92e8ad701c536f7a6f6e2e7275",
+    "country": "MD",
+    "addTime": 1777025201
   },
   {
     "host": "151.246.238.171",
     "port": 443,
     "secret": "7qoJh52k3D7cobAy02Hjtc9tYXgucnU",
     "country": "AE",
-    "addTime": 1777025201
-  },
-  {
-    "host": "94.103.15.56",
-    "port": 443,
-    "secret": "eee1dd28572e7f579c4aba92e8ad701c536f7a6f6e2e7275",
-    "country": "MD",
     "addTime": 1777025201
   },
   {
@@ -294,17 +287,17 @@
     "addTime": 1777025107
   },
   {
-    "host": "www.presnari.info",
-    "port": 2083,
-    "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-    "country": "AT",
-    "addTime": 1777025099
-  },
-  {
     "host": "188.137.254.117",
     "port": 443,
     "secret": "ee03391d9e585b20ee18f588274347c2ff646c2e676f6f676c652e636f6d",
     "country": "NL",
+    "addTime": 1777025099
+  },
+  {
+    "host": "www.presnari.info",
+    "port": 2083,
+    "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
+    "country": "AT",
     "addTime": 1777025099
   },
   {
@@ -341,6 +334,13 @@
     "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
     "country": "RU",
     "addTime": 1777025091
+  },
+  {
+    "host": "166.88.164.219",
+    "port": 65365,
+    "secret": "dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2",
+    "country": "US",
+    "addTime": 1777015042
   },
   {
     "host": "23.27.134.249",
