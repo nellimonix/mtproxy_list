@@ -42,24 +42,10 @@
     "addTime": 1777014552
   },
   {
-    "host": "24mt04.mtproxygram.pro",
-    "port": 443,
-    "secret": "eeb9478b1b5090c520be20ced93d0e816a62726f777365722e79616e6465782e636f6d",
-    "country": "DE",
-    "addTime": 1777014294
-  },
-  {
     "host": "04t24prom.mtproxygram.pro",
     "port": 443,
     "secret": "eebd8255eb75a87d6340ab4e18a84534e262726f777365722e79616e6465782e636f6d",
     "country": "PL",
-    "addTime": 1777014294
-  },
-  {
-    "host": "188.137.234.21",
-    "port": 443,
-    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e676f6f676c652e636f6d",
-    "country": "DE",
     "addTime": 1777014294
   },
   {
@@ -70,11 +56,32 @@
     "addTime": 1777014294
   },
   {
+    "host": "188.137.234.21",
+    "port": 443,
+    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e676f6f676c652e636f6d",
+    "country": "DE",
+    "addTime": 1777014294
+  },
+  {
+    "host": "24mt04.mtproxygram.pro",
+    "port": 443,
+    "secret": "eeb9478b1b5090c520be20ced93d0e816a62726f777365722e79616e6465782e636f6d",
+    "country": "DE",
+    "addTime": 1777014294
+  },
+  {
     "host": "fade.tg",
     "port": 443,
     "secret": "eefade64222aa1111aa851dfcadd15ce0035706f73742d676174652e78352e7275",
     "country": "RU",
     "addTime": 1777014288
+  },
+  {
+    "host": "proxy.jubaoku.com",
+    "port": 8443,
+    "secret": "2adab36179e7a39026adf74034615248",
+    "country": "SG",
+    "addTime": 1777004507
   },
   {
     "host": "95.182.115.102",
@@ -126,6 +133,13 @@
     "addTime": 1776981873
   },
   {
+    "host": "proxy1.mdnk.fun",
+    "port": 443,
+    "secret": "eec547ec12995f5e3501903a74c8c38945706574726f766963682e7275",
+    "country": "US",
+    "addTime": 1776981861
+  },
+  {
     "host": "194.163.172.1",
     "port": 443,
     "secret": "ee189fa055d3d1084838047fd37a0f4547636c6f7564666c6172652e636f6d",
@@ -138,27 +152,6 @@
     "secret": "eeb8798284526fa810d61ad46d79f9f785636c6f7564666c6172652e636f6d",
     "country": "FR",
     "addTime": 1776981861
-  },
-  {
-    "host": "204.168.232.187",
-    "port": 4312,
-    "secret": "ee104462821249bd7ac519130220c25d097362657262616e6b2e7275",
-    "country": "FI",
-    "addTime": 1776981861
-  },
-  {
-    "host": "cccp.jobinvest.ru",
-    "port": 443,
-    "secret": "ee2084c7e58d8213296a3206da70356c816a6f62696e766573742e7275",
-    "country": "RU",
-    "addTime": 1776971376
-  },
-  {
-    "host": "2.27.13.204",
-    "port": 4515,
-    "secret": "ee36b4c4a184fccaaf69294acb086212706170706c652e636f6d",
-    "country": "US",
-    "addTime": 1776971372
   },
   {
     "host": "telegram.crocnet.ru",
@@ -273,6 +266,20 @@
     "addTime": 1776960362
   },
   {
+    "host": "109.196.101.230",
+    "port": 443,
+    "secret": "746fd4b401682ca92e8a000449c76625",
+    "country": "RU",
+    "addTime": 1776960297
+  },
+  {
+    "host": "37.221.125.5",
+    "port": 443,
+    "secret": "eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65",
+    "country": "GB",
+    "addTime": 1776960288
+  },
+  {
     "host": "132.243.221.30",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65",
@@ -284,13 +291,6 @@
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65",
     "country": "RU",
-    "addTime": 1776960288
-  },
-  {
-    "host": "37.221.125.5",
-    "port": 443,
-    "secret": "eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65",
-    "country": "GB",
     "addTime": 1776960288
   },
   {
@@ -308,17 +308,17 @@
     "addTime": 1776960279
   },
   {
-    "host": "brookad76-779bd845.proxytg.ink",
-    "port": 443,
-    "secret": "28ed0c814a97362df6fed7339922e795",
-    "country": "RU",
-    "addTime": 1776960279
-  },
-  {
     "host": "proxy.freetg.su",
     "port": 443,
     "secret": "f7a7d30a3a78dc160b43a8ed332477e1",
     "country": "NL",
+    "addTime": 1776960279
+  },
+  {
+    "host": "brookad76-779bd845.proxytg.ink",
+    "port": 443,
+    "secret": "28ed0c814a97362df6fed7339922e795",
+    "country": "RU",
     "addTime": 1776960279
   },
   {
