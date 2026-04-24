@@ -91,17 +91,17 @@
     "addTime": 1777035880
   },
   {
-    "host": "proxy3.mdnk.fun",
-    "port": 443,
-    "secret": "eec547ec12995f5e3501903a74c8c38945706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1777035874
-  },
-  {
     "host": "171.22.16.234",
     "port": 443,
     "secret": "ee70be37d188ae696def1e2c4f70fcfd7b7777772e676f6f676c652e636f6d",
     "country": "CH",
+    "addTime": 1777035874
+  },
+  {
+    "host": "proxy3.mdnk.fun",
+    "port": 443,
+    "secret": "eec547ec12995f5e3501903a74c8c38945706574726f766963682e7275",
+    "country": "US",
     "addTime": 1777035874
   },
   {
@@ -147,13 +147,6 @@
     "addTime": 1777025202
   },
   {
-    "host": "proxy.nxvpn.space",
-    "port": 8443,
-    "secret": "bd402864d7e2ffa304c9bee508351297",
-    "country": "RU",
-    "addTime": 1777025202
-  },
-  {
     "host": "proxy5.nhiaz.net",
     "port": 8443,
     "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
@@ -161,11 +154,11 @@
     "addTime": 1777025202
   },
   {
-    "host": "37.49.224.102",
-    "port": 443,
-    "secret": "7p88eo0uSxxvWn2OmwwvSh1tYXgucnU",
-    "country": "EE",
-    "addTime": 1777025201
+    "host": "proxy.nxvpn.space",
+    "port": 8443,
+    "secret": "bd402864d7e2ffa304c9bee508351297",
+    "country": "RU",
+    "addTime": 1777025202
   },
   {
     "host": "94.103.15.56",
@@ -179,6 +172,13 @@
     "port": 443,
     "secret": "7qoJh52k3D7cobAy02Hjtc9tYXgucnU",
     "country": "AE",
+    "addTime": 1777025201
+  },
+  {
+    "host": "37.49.224.102",
+    "port": 443,
+    "secret": "7p88eo0uSxxvWn2OmwwvSh1tYXgucnU",
+    "country": "EE",
     "addTime": 1777025201
   },
   {
@@ -259,15 +259,36 @@
     "addTime": 1777025091
   },
   {
-    "host": "166.88.164.219",
-    "port": 65365,
-    "secret": "dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2",
-    "country": "US",
-    "addTime": 1777015042
+    "host": "37.139.34.234",
+    "port": 443,
+    "secret": "64e4ff5d72601338f9205b0a0971b6d8",
+    "country": "RU",
+    "addTime": 1777015308
   },
   {
-    "host": "166.88.164.210",
-    "port": 65147,
+    "host": "mt3.vpn-one.net",
+    "port": 5223,
+    "secret": "7ae73ddfd70b8e549aae657b4da1bf03",
+    "country": "RU",
+    "addTime": 1777015047
+  },
+  {
+    "host": "mt.vpn-one.net",
+    "port": 5223,
+    "secret": "7ae73ddfd70b8e549aae657b4da1bf03",
+    "country": "RU",
+    "addTime": 1777015047
+  },
+  {
+    "host": "mt2.vpn-one.net",
+    "port": 5223,
+    "secret": "7ae73ddfd70b8e549aae657b4da1bf03",
+    "country": "RU",
+    "addTime": 1777015047
+  },
+  {
+    "host": "166.88.164.219",
+    "port": 65365,
     "secret": "dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2",
     "country": "US",
     "addTime": 1777015042
@@ -280,17 +301,24 @@
     "addTime": 1777015042
   },
   {
-    "host": "109.107.179.179",
-    "port": 443,
-    "secret": "eed98a0255d8142262dd2283ffe7153ef67777772e6d6963726f736f66742e636f6d",
-    "country": "NL",
-    "addTime": 1777014560
+    "host": "166.88.164.210",
+    "port": 65147,
+    "secret": "dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2",
+    "country": "US",
+    "addTime": 1777015042
   },
   {
     "host": "proxytg.fit",
     "port": 443,
     "secret": "eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974",
     "country": "RU",
+    "addTime": 1777014560
+  },
+  {
+    "host": "109.107.179.179",
+    "port": 443,
+    "secret": "eed98a0255d8142262dd2283ffe7153ef67777772e6d6963726f736f66742e636f6d",
+    "country": "NL",
     "addTime": 1777014560
   },
   {
@@ -301,13 +329,6 @@
     "addTime": 1777014552
   },
   {
-    "host": "proxytg.live",
-    "port": 443,
-    "secret": "ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665",
-    "country": "RU",
-    "addTime": 1777014294
-  },
-  {
     "host": "24mt04.mtproxygram.pro",
     "port": 443,
     "secret": "eeb9478b1b5090c520be20ced93d0e816a62726f777365722e79616e6465782e636f6d",
@@ -315,10 +336,10 @@
     "addTime": 1777014294
   },
   {
-    "host": "188.137.234.21",
+    "host": "proxytg.live",
     "port": 443,
-    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e676f6f676c652e636f6d",
-    "country": "DE",
+    "secret": "ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665",
+    "country": "RU",
     "addTime": 1777014294
   },
   {
@@ -327,26 +348,5 @@
     "secret": "eebd8255eb75a87d6340ab4e18a84534e262726f777365722e79616e6465782e636f6d",
     "country": "PL",
     "addTime": 1777014294
-  },
-  {
-    "host": "fade.tg",
-    "port": 443,
-    "secret": "eefade64222aa1111aa851dfcadd15ce0035706f73742d676174652e78352e7275",
-    "country": "RU",
-    "addTime": 1777014288
-  },
-  {
-    "host": "proxy.jubaoku.com",
-    "port": 8443,
-    "secret": "2adab36179e7a39026adf74034615248",
-    "country": "DE",
-    "addTime": 1777004507
-  },
-  {
-    "host": "95.182.115.102",
-    "port": 443,
-    "secret": "ee8a293fb89842204fbb8b300243ee83f966692e6e656f7176616e742e7275",
-    "country": "FI",
-    "addTime": 1777003811
   }
 ]
