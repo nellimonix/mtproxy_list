@@ -84,13 +84,6 @@
     "addTime": 1777025205
   },
   {
-    "host": "mgproxytg.chickenkiller.com",
-    "port": 443,
-    "secret": "7peDGHEnkf46chAwExxRYQRtZ3Byb3h5dGcuY2hpY2tlbmtpbGxlci5jb20",
-    "country": "US",
-    "addTime": 1777025202
-  },
-  {
     "host": "proxy5.nhiaz.net",
     "port": 8443,
     "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
@@ -102,6 +95,13 @@
     "port": 8443,
     "secret": "bd402864d7e2ffa304c9bee508351297",
     "country": "RU",
+    "addTime": 1777025202
+  },
+  {
+    "host": "mgproxytg.chickenkiller.com",
+    "port": 443,
+    "secret": "7peDGHEnkf46chAwExxRYQRtZ3Byb3h5dGcuY2hpY2tlbmtpbGxlci5jb20",
+    "country": "US",
     "addTime": 1777025202
   },
   {
@@ -203,15 +203,15 @@
     "addTime": 1777025091
   },
   {
-    "host": "166.88.164.210",
-    "port": 65147,
+    "host": "166.88.164.219",
+    "port": 65365,
     "secret": "dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2",
     "country": "US",
     "addTime": 1777015042
   },
   {
-    "host": "166.88.164.219",
-    "port": 65365,
+    "host": "166.88.164.210",
+    "port": 65147,
     "secret": "dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2",
     "country": "US",
     "addTime": 1777015042
@@ -245,10 +245,10 @@
     "addTime": 1777014552
   },
   {
-    "host": "04t24prom.mtproxygram.pro",
+    "host": "24mt04.mtproxygram.pro",
     "port": 443,
-    "secret": "eebd8255eb75a87d6340ab4e18a84534e262726f777365722e79616e6465782e636f6d",
-    "country": "PL",
+    "secret": "eeb9478b1b5090c520be20ced93d0e816a62726f777365722e79616e6465782e636f6d",
+    "country": "DE",
     "addTime": 1777014294
   },
   {
@@ -259,17 +259,17 @@
     "addTime": 1777014294
   },
   {
+    "host": "04t24prom.mtproxygram.pro",
+    "port": 443,
+    "secret": "eebd8255eb75a87d6340ab4e18a84534e262726f777365722e79616e6465782e636f6d",
+    "country": "PL",
+    "addTime": 1777014294
+  },
+  {
     "host": "proxytg.live",
     "port": 443,
     "secret": "ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665",
     "country": "RU",
-    "addTime": 1777014294
-  },
-  {
-    "host": "24mt04.mtproxygram.pro",
-    "port": 443,
-    "secret": "eeb9478b1b5090c520be20ced93d0e816a62726f777365722e79616e6465782e636f6d",
-    "country": "DE",
     "addTime": 1777014294
   },
   {
@@ -329,16 +329,16 @@
     "addTime": 1776971372
   },
   {
-    "host": "telegram.crocnet.ru",
+    "host": "95.163.212.52",
     "port": 443,
-    "secret": "7ttVazDorvw0Q5Vvmpcb3Ox0ZWxlZ3JhbS5jcm9jbmV0LnJ1",
+    "secret": "fabd7ea1ab611ef9a56f79f9c63baf46",
     "country": "RU",
     "addTime": 1776971347
   },
   {
-    "host": "95.163.212.52",
+    "host": "telegram.crocnet.ru",
     "port": 443,
-    "secret": "fabd7ea1ab611ef9a56f79f9c63baf46",
+    "secret": "7ttVazDorvw0Q5Vvmpcb3Ox0ZWxlZ3JhbS5jcm9jbmV0LnJ1",
     "country": "RU",
     "addTime": 1776971347
   },
