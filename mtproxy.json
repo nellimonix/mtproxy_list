@@ -28,13 +28,6 @@
     "addTime": 1777057508
   },
   {
-    "host": "89.40.233.73",
-    "port": 4434,
-    "secret": "eea72e5e7562c9354daf5a087b9b233d95676f6f676c652e636f6d",
-    "country": "KZ",
-    "addTime": 1777057479
-  },
-  {
     "host": "2.27.12.157",
     "port": 443,
     "secret": "ee6711534ddf55a427699a01cfc60dcb847777772e77702e706c",
@@ -63,11 +56,25 @@
     "addTime": 1777057479
   },
   {
+    "host": "89.40.233.73",
+    "port": 4434,
+    "secret": "eea72e5e7562c9354daf5a087b9b233d95676f6f676c652e636f6d",
+    "country": "KZ",
+    "addTime": 1777057479
+  },
+  {
     "host": "mt.flashgate.store",
     "port": 443,
     "secret": "ee238f76077950079dfe5f1e3cc4be16cf6d742e666c617368676174652e73746f7265",
     "country": "RU",
     "addTime": 1777057476
+  },
+  {
+    "host": "gproxy-sosavpn.duckdns.org",
+    "port": 8443,
+    "secret": "bfb77f1c4bf8a5c89eb5a3c83954ce69",
+    "country": "RU",
+    "addTime": 1777057458
   },
   {
     "host": "212.113.118.148",
@@ -175,6 +182,13 @@
     "addTime": 1777035874
   },
   {
+    "host": "proxy3.mdnk.fun",
+    "port": 443,
+    "secret": "eec547ec12995f5e3501903a74c8c38945706574726f766963682e7275",
+    "country": "US",
+    "addTime": 1777035874
+  },
+  {
     "host": "www.istanbul-olsun.info",
     "port": 8443,
     "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
@@ -231,6 +245,13 @@
     "addTime": 1777025202
   },
   {
+    "host": "37.49.224.102",
+    "port": 443,
+    "secret": "7p88eo0uSxxvWn2OmwwvSh1tYXgucnU",
+    "country": "EE",
+    "addTime": 1777025201
+  },
+  {
     "host": "151.246.238.171",
     "port": 443,
     "secret": "7qoJh52k3D7cobAy02Hjtc9tYXgucnU",
@@ -242,13 +263,6 @@
     "port": 443,
     "secret": "eee1dd28572e7f579c4aba92e8ad701c536f7a6f6e2e7275",
     "country": "MD",
-    "addTime": 1777025201
-  },
-  {
-    "host": "37.49.224.102",
-    "port": 443,
-    "secret": "7p88eo0uSxxvWn2OmwwvSh1tYXgucnU",
-    "country": "EE",
     "addTime": 1777025201
   },
   {
@@ -287,17 +301,17 @@
     "addTime": 1777025107
   },
   {
-    "host": "188.137.254.117",
-    "port": 443,
-    "secret": "ee03391d9e585b20ee18f588274347c2ff646c2e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1777025099
-  },
-  {
     "host": "www.presnari.info",
     "port": 2083,
     "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
     "country": "AT",
+    "addTime": 1777025099
+  },
+  {
+    "host": "188.137.254.117",
+    "port": 443,
+    "secret": "ee03391d9e585b20ee18f588274347c2ff646c2e676f6f676c652e636f6d",
+    "country": "NL",
     "addTime": 1777025099
   },
   {
@@ -308,14 +322,14 @@
     "addTime": 1777025095
   },
   {
-    "host": "www.40-rooz-gozasht.info",
+    "host": "www.rasht-e-nazanin.info",
     "port": 2083,
     "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
     "country": "AT",
     "addTime": 1777025094
   },
   {
-    "host": "www.rasht-e-nazanin.info",
+    "host": "www.40-rooz-gozasht.info",
     "port": 2083,
     "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
     "country": "AT",
@@ -334,19 +348,5 @@
     "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
     "country": "RU",
     "addTime": 1777025091
-  },
-  {
-    "host": "166.88.164.219",
-    "port": 65365,
-    "secret": "dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2",
-    "country": "US",
-    "addTime": 1777015042
-  },
-  {
-    "host": "23.27.134.249",
-    "port": 65421,
-    "secret": "dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2",
-    "country": "US",
-    "addTime": 1777015042
   }
 ]
