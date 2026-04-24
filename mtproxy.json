@@ -49,13 +49,6 @@
     "addTime": 1776981873
   },
   {
-    "host": "204.168.232.187",
-    "port": 4312,
-    "secret": "ee104462821249bd7ac519130220c25d097362657262616e6b2e7275",
-    "country": "FI",
-    "addTime": 1776981861
-  },
-  {
     "host": "194.163.172.1",
     "port": 443,
     "secret": "ee189fa055d3d1084838047fd37a0f4547636c6f7564666c6172652e636f6d",
@@ -77,6 +70,13 @@
     "addTime": 1776981861
   },
   {
+    "host": "204.168.232.187",
+    "port": 4312,
+    "secret": "ee104462821249bd7ac519130220c25d097362657262616e6b2e7275",
+    "country": "FI",
+    "addTime": 1776981861
+  },
+  {
     "host": "2.27.13.204",
     "port": 4515,
     "secret": "ee36b4c4a184fccaaf69294acb086212706170706c652e636f6d",
@@ -84,21 +84,7 @@
     "addTime": 1776971372
   },
   {
-    "host": "213.227.135.45",
-    "port": 443,
-    "secret": "7ttVazDorvw0Q5Vvmpcb3Ox0ZWxlZ3JhbS5jcm9jbmV0LnJ1",
-    "country": "NL",
-    "addTime": 1776971347
-  },
-  {
     "host": "87.228.118.147",
-    "port": 443,
-    "secret": "7ttVazDorvw0Q5Vvmpcb3Ox0ZWxlZ3JhbS5jcm9jbmV0LnJ1",
-    "country": "RU",
-    "addTime": 1776971347
-  },
-  {
-    "host": "telegram.crocnet.ru",
     "port": 443,
     "secret": "7ttVazDorvw0Q5Vvmpcb3Ox0ZWxlZ3JhbS5jcm9jbmV0LnJ1",
     "country": "RU",
@@ -112,18 +98,25 @@
     "addTime": 1776971347
   },
   {
+    "host": "213.227.135.45",
+    "port": 443,
+    "secret": "7ttVazDorvw0Q5Vvmpcb3Ox0ZWxlZ3JhbS5jcm9jbmV0LnJ1",
+    "country": "NL",
+    "addTime": 1776971347
+  },
+  {
+    "host": "telegram.crocnet.ru",
+    "port": 443,
+    "secret": "7ttVazDorvw0Q5Vvmpcb3Ox0ZWxlZ3JhbS5jcm9jbmV0LnJ1",
+    "country": "RU",
+    "addTime": 1776971347
+  },
+  {
     "host": "backlog.fetial.glacial.hammersmith.heard.thepinoytv.net",
     "port": 4050,
     "secret": "ff01a5d12bbdab0273473442b5fca9b3",
     "country": "FI",
     "addTime": 1776971087
-  },
-  {
-    "host": "15.223.180.103",
-    "port": 443,
-    "secret": "ee7b4f8a2c1e9d3650ab7f4c821e3d9a5b6e6574666c69782e636f6d",
-    "country": "CA",
-    "addTime": 1776971084
   },
   {
     "host": "168.222.254.236",
@@ -210,6 +203,13 @@
     "addTime": 1776960362
   },
   {
+    "host": "109.196.101.230",
+    "port": 443,
+    "secret": "746fd4b401682ca92e8a000449c76625",
+    "country": "RU",
+    "addTime": 1776960297
+  },
+  {
     "host": "37.221.125.5",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65",
@@ -224,17 +224,17 @@
     "addTime": 1776960288
   },
   {
-    "host": "132.243.221.30",
-    "port": 443,
-    "secret": "eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65",
-    "country": "NL",
-    "addTime": 1776960288
-  },
-  {
     "host": "80.92.204.111",
     "port": 443,
     "secret": "eed68360458af63073bac1394e8c7a48da6f6e6570726f7879732e62657374",
     "country": "RU",
+    "addTime": 1776960288
+  },
+  {
+    "host": "132.243.221.30",
+    "port": 443,
+    "secret": "eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65",
+    "country": "NL",
     "addTime": 1776960288
   },
   {
