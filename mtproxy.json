@@ -1,12 +1,5 @@
 [
   {
-    "host": "free.tgsecurity.online",
-    "port": 443,
-    "secret": "dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f",
-    "country": "RU",
-    "addTime": 1777100741
-  },
-  {
     "host": "mtp2.strawberries.cfd",
     "port": 443,
     "secret": "eeb7036916cb57365ce1b7f69810efc0a16d61696c2e7275",
@@ -77,10 +70,10 @@
     "addTime": 1777089923
   },
   {
-    "host": "51.250.89.184",
+    "host": "144.31.49.239",
     "port": 443,
-    "secret": "eec3a80805cd5ee5d245ccea60ff27a3576d61696c2e79616e6465782e7275",
-    "country": "RU",
+    "secret": "eee299ec6bd7e1b952c0e72564fdcca03f766b2e7275",
+    "country": "US",
     "addTime": 1777089923
   },
   {
@@ -91,38 +84,17 @@
     "addTime": 1777089923
   },
   {
-    "host": "72.56.95.39",
-    "port": 8443,
-    "secret": "eee5b9b60d4f41e0000615c01a47f511c9636f63612e6e6c",
-    "country": "NL",
-    "addTime": 1777089923
-  },
-  {
-    "host": "64.188.98.207",
-    "port": 443,
-    "secret": "ee92dbce3f05c3fd68a8b340b3fa7a89ed6164732e78352e7275",
-    "country": "US",
-    "addTime": 1777089923
-  },
-  {
-    "host": "144.31.49.239",
-    "port": 443,
-    "secret": "eee299ec6bd7e1b952c0e72564fdcca03f766b2e7275",
-    "country": "US",
-    "addTime": 1777089923
-  },
-  {
-    "host": "2.26.49.50",
-    "port": 443,
-    "secret": "eebe930f8324c2a3bed5c98b0926f42fd0706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1777089923
-  },
-  {
     "host": "77.75.230.7",
     "port": 443,
     "secret": "ee49c4004ab91d8839446c6d2154e053a6416c7a612e637a",
     "country": "MD",
+    "addTime": 1777089923
+  },
+  {
+    "host": "72.56.95.39",
+    "port": 8443,
+    "secret": "eee5b9b60d4f41e0000615c01a47f511c9636f63612e6e6c",
+    "country": "NL",
     "addTime": 1777089923
   },
   {
@@ -133,17 +105,38 @@
     "addTime": 1777089923
   },
   {
-    "host": "2.26.20.25",
+    "host": "2.26.49.50",
     "port": 443,
-    "secret": "ee274cd877cbea067c44aa676f38ddc4e479616e6465782e7275",
+    "secret": "eebe930f8324c2a3bed5c98b0926f42fd0706574726f766963682e7275",
     "country": "US",
-    "addTime": 1777079107
+    "addTime": 1777089923
+  },
+  {
+    "host": "51.250.89.184",
+    "port": 443,
+    "secret": "eec3a80805cd5ee5d245ccea60ff27a3576d61696c2e79616e6465782e7275",
+    "country": "RU",
+    "addTime": 1777089923
+  },
+  {
+    "host": "64.188.98.207",
+    "port": 443,
+    "secret": "ee92dbce3f05c3fd68a8b340b3fa7a89ed6164732e78352e7275",
+    "country": "US",
+    "addTime": 1777089923
   },
   {
     "host": "mirza.parsazad.cyou",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "SE",
+    "addTime": 1777079107
+  },
+  {
+    "host": "2.26.20.25",
+    "port": 443,
+    "secret": "ee274cd877cbea067c44aa676f38ddc4e479616e6465782e7275",
+    "country": "US",
     "addTime": 1777079107
   },
   {
@@ -203,24 +196,17 @@
     "addTime": 1777068366
   },
   {
-    "host": "84.201.175.61",
+    "host": "217.60.25.63",
     "port": 443,
-    "secret": "eead24ce88888cf6231e908ca911628e",
-    "country": "RU",
-    "addTime": 1777068362
+    "secret": "ee56fe38876789d254a7d331aa998e8554746f7069632e7275",
+    "country": "PL",
+    "addTime": 1777068325
   },
   {
     "host": "77.221.143.121",
     "port": 443,
     "secret": "ae7fb26da5163ef62c4a18398d92882c",
     "country": "SE",
-    "addTime": 1777068325
-  },
-  {
-    "host": "217.60.25.63",
-    "port": 443,
-    "secret": "ee56fe38876789d254a7d331aa998e8554746f7069632e7275",
-    "country": "PL",
     "addTime": 1777068325
   },
   {
@@ -245,13 +231,6 @@
     "addTime": 1777068269
   },
   {
-    "host": "he.de-nu.7.mtproto.ru",
-    "port": 443,
-    "secret": "ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
-    "country": "DE",
-    "addTime": 1777068268
-  },
-  {
     "host": "193.124.58.199",
     "port": 443,
     "secret": "eebaeff305618d976e05d4e1d113d249036769746875622e636f6d",
@@ -259,11 +238,11 @@
     "addTime": 1777068268
   },
   {
-    "host": "77.110.110.179",
+    "host": "he.de-nu.7.mtproto.ru",
     "port": 443,
-    "secret": "ee72687e2188e615b214bffac01d399ee7766b2e636f6d",
-    "country": "AT",
-    "addTime": 1777068267
+    "secret": "ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
+    "country": "DE",
+    "addTime": 1777068268
   },
   {
     "host": "103.27.156.226",
@@ -301,6 +280,13 @@
     "addTime": 1777057508
   },
   {
+    "host": "72.56.238.99",
+    "port": 443,
+    "secret": "3788d8531070b4307f77da398eed8732",
+    "country": "US",
+    "addTime": 1777057479
+  },
+  {
     "host": "2.27.12.157",
     "port": 443,
     "secret": "ee6711534ddf55a427699a01cfc60dcb847777772e77702e706c",
@@ -322,13 +308,6 @@
     "addTime": 1777057479
   },
   {
-    "host": "72.56.238.99",
-    "port": 443,
-    "secret": "3788d8531070b4307f77da398eed8732",
-    "country": "US",
-    "addTime": 1777057479
-  },
-  {
     "host": "mt.flashgate.store",
     "port": 443,
     "secret": "ee238f76077950079dfe5f1e3cc4be16cf6d742e666c617368676174652e73746f7265",
@@ -336,17 +315,38 @@
     "addTime": 1777057476
   },
   {
-    "host": "gproxy-sosavpn.duckdns.org",
-    "port": 8443,
-    "secret": "bfb77f1c4bf8a5c89eb5a3c83954ce69",
-    "country": "RU",
-    "addTime": 1777057458
-  },
-  {
     "host": "212.113.118.148",
     "port": 443,
     "secret": "ee510fe4f44d671ed0965879fb175c17387777772e6d6963726f736f66742e636f6d",
     "country": "RU",
     "addTime": 1777046804
+  },
+  {
+    "host": "tg.crunchyx.xyz",
+    "port": 443,
+    "secret": "dda4f0f857a725005da00ebb0e4a949214",
+    "country": "FI",
+    "addTime": 1777046795
+  },
+  {
+    "host": "158.160.13.181",
+    "port": 443,
+    "secret": "ee1c8e6ef721ba2faecf6a09649b275627706574726f766963682e7275",
+    "country": "RU",
+    "addTime": 1777046740
+  },
+  {
+    "host": "49.13.145.84",
+    "port": 443,
+    "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
+    "country": "DE",
+    "addTime": 1777046738
+  },
+  {
+    "host": "beg.e-spectacular.ru",
+    "port": 443,
+    "secret": "ee988e08f0bbc94a9076c70588c62a4e896265672e652d73706563746163756c61722e7275",
+    "country": "RU",
+    "addTime": 1777046710
   }
 ]
