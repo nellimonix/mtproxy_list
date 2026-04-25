@@ -1,16 +1,16 @@
 [
   {
-    "host": "2.26.20.25",
+    "host": "2.26.252.117",
     "port": 443,
-    "secret": "ee274cd877cbea067c44aa676f38ddc4e479616e6465782e7275",
+    "secret": "ee7743474d402a82c4cc01ddf54267713b79616e6465782e7275",
     "country": "US",
     "addTime": 1777079107
   },
   {
-    "host": "mirza.parsazad.cyou",
+    "host": "2.26.20.25",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "SE",
+    "secret": "ee274cd877cbea067c44aa676f38ddc4e479616e6465782e7275",
+    "country": "US",
     "addTime": 1777079107
   },
   {
@@ -21,10 +21,10 @@
     "addTime": 1777079107
   },
   {
-    "host": "2.26.252.117",
+    "host": "mirza.parsazad.cyou",
     "port": 443,
-    "secret": "ee7743474d402a82c4cc01ddf54267713b79616e6465782e7275",
-    "country": "US",
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "country": "SE",
     "addTime": 1777079107
   },
   {
@@ -56,16 +56,16 @@
     "addTime": 1777068367
   },
   {
-    "host": "85.208.186.59",
+    "host": "188.137.253.206",
     "port": 443,
-    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e676f6f676c652e636f6d",
+    "secret": "dda8585b5db9b6b65dca746c6378292795",
     "country": "NL",
     "addTime": 1777068366
   },
   {
-    "host": "188.137.253.206",
+    "host": "85.208.186.59",
     "port": 443,
-    "secret": "dda8585b5db9b6b65dca746c6378292795",
+    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1777068366
   },
@@ -112,13 +112,6 @@
     "addTime": 1777068269
   },
   {
-    "host": "he.de-nu.7.mtproto.ru",
-    "port": 443,
-    "secret": "ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
-    "country": "DE",
-    "addTime": 1777068268
-  },
-  {
     "host": "193.124.58.199",
     "port": 443,
     "secret": "eebaeff305618d976e05d4e1d113d249036769746875622e636f6d",
@@ -126,17 +119,24 @@
     "addTime": 1777068268
   },
   {
-    "host": "85.137.251.165",
+    "host": "he.de-nu.7.mtproto.ru",
     "port": 443,
-    "secret": "7iZ5M6eulHeXSPmTYBsThoJhcHBsZS5jb20",
-    "country": "NL",
-    "addTime": 1777068267
+    "secret": "ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
+    "country": "DE",
+    "addTime": 1777068268
   },
   {
     "host": "77.110.110.179",
     "port": 443,
     "secret": "ee72687e2188e615b214bffac01d399ee7766b2e636f6d",
     "country": "AT",
+    "addTime": 1777068267
+  },
+  {
+    "host": "85.137.251.165",
+    "port": 443,
+    "secret": "7iZ5M6eulHeXSPmTYBsThoJhcHBsZS5jb20",
+    "country": "NL",
     "addTime": 1777068267
   },
   {
@@ -175,17 +175,17 @@
     "addTime": 1777057508
   },
   {
-    "host": "46.226.166.175",
-    "port": 443,
-    "secret": "eec7e4c3d2dfb3c8a1107a8f684ac3b6d7766b2e636f6d",
-    "country": "FR",
-    "addTime": 1777057479
-  },
-  {
     "host": "72.56.238.99",
     "port": 443,
     "secret": "3788d8531070b4307f77da398eed8732",
     "country": "US",
+    "addTime": 1777057479
+  },
+  {
+    "host": "77.73.135.166",
+    "port": 443,
+    "secret": "ee41ab28a235a527f950facce3193ad74e766b2e636f6d",
+    "country": "NL",
     "addTime": 1777057479
   },
   {
@@ -196,10 +196,10 @@
     "addTime": 1777057479
   },
   {
-    "host": "77.73.135.166",
+    "host": "46.226.166.175",
     "port": 443,
-    "secret": "ee41ab28a235a527f950facce3193ad74e766b2e636f6d",
-    "country": "NL",
+    "secret": "eec7e4c3d2dfb3c8a1107a8f684ac3b6d7766b2e636f6d",
+    "country": "FR",
     "addTime": 1777057479
   },
   {
@@ -322,6 +322,13 @@
     "addTime": 1777035874
   },
   {
+    "host": "v2.nexarstream.com",
+    "port": 8443,
+    "secret": "ee6d4bdb313942c2c80a16431392d898167275747562652e7275",
+    "country": "RU",
+    "addTime": 1777035856
+  },
+  {
     "host": "www.istanbul-olsun.info",
     "port": 8443,
     "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
@@ -341,12 +348,5 @@
     "secret": "ee79e7010200010007f0030386e24c3add68656c702e737465616d706f77657265642e636f6d",
     "country": "AT",
     "addTime": 1777025213
-  },
-  {
-    "host": "tg.ssirius.win",
-    "port": 443,
-    "secret": "eedbe4e1156293699309b58f7807723e2c6d61782e7275",
-    "country": "RU",
-    "addTime": 1777025209
   }
 ]
