@@ -14,13 +14,6 @@
     "addTime": 1777133387
   },
   {
-    "host": "147.45.103.62",
-    "port": 443,
-    "secret": "eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974",
-    "country": "RU",
-    "addTime": 1777133062
-  },
-  {
     "host": "130.49.160.199",
     "port": 443,
     "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
@@ -35,17 +28,17 @@
     "addTime": 1777133053
   },
   {
-    "host": "proxy.mc-zone.org",
-    "port": 443,
-    "secret": "b6003c259ecac3b8dd95100f9856b5fd",
-    "country": "US",
-    "addTime": 1777122380
-  },
-  {
     "host": "travofut.site",
     "port": 443,
     "secret": "ee48b1cdbd937bdbea12479c95325f6b157275747562652e7275",
     "country": "RU",
+    "addTime": 1777122380
+  },
+  {
+    "host": "proxy.mc-zone.org",
+    "port": 443,
+    "secret": "b6003c259ecac3b8dd95100f9856b5fd",
+    "country": "US",
     "addTime": 1777122380
   },
   {
@@ -63,16 +56,16 @@
     "addTime": 1777122358
   },
   {
-    "host": "moscow.tgda.top",
+    "host": "piter.probizvpn.com",
     "port": 443,
-    "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
+    "secret": "ee17b74055d5fc85cad97b0aacf95bf90d74677765622e70726f62697a76706e2e636f6d",
     "country": "NL",
     "addTime": 1777122316
   },
   {
-    "host": "piter.probizvpn.com",
+    "host": "moscow.tgda.top",
     "port": 443,
-    "secret": "ee17b74055d5fc85cad97b0aacf95bf90d74677765622e70726f62697a76706e2e636f6d",
+    "secret": "ee90e140fdfca22914d2848fff5f66dd047777772e746764612e746f70",
     "country": "NL",
     "addTime": 1777122316
   },
@@ -168,6 +161,13 @@
     "addTime": 1777100673
   },
   {
+    "host": "open.smartrix-check.sbs",
+    "port": 443,
+    "secret": "ee3c8aca6230c6c86af97f897dd8c6fa046f70656e2e736d6172747269782d636865636b2e736273",
+    "country": "NL",
+    "addTime": 1777100665
+  },
+  {
     "host": "62.60.252.181",
     "port": 8000,
     "secret": "dd3041b25c52eb89bf1489661f3322df76",
@@ -178,13 +178,6 @@
     "host": "185.224.215.172",
     "port": 443,
     "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1777100665
-  },
-  {
-    "host": "open.smartrix-check.sbs",
-    "port": 443,
-    "secret": "ee3c8aca6230c6c86af97f897dd8c6fa046f70656e2e736d6172747269782d636865636b2e736273",
     "country": "NL",
     "addTime": 1777100665
   },
@@ -203,16 +196,16 @@
     "addTime": 1777100659
   },
   {
-    "host": "72.56.95.39",
-    "port": 8443,
-    "secret": "eee5b9b60d4f41e0000615c01a47f511c9636f63612e6e6c",
-    "country": "NL",
+    "host": "80.66.81.27",
+    "port": 5443,
+    "secret": "ee1f460f3afac0e815fac861a7ef42d6056d736b2e73656e6b61706f706b612e7275",
+    "country": "RU",
     "addTime": 1777089923
   },
   {
-    "host": "2.26.49.50",
+    "host": "64.188.98.207",
     "port": 443,
-    "secret": "eebe930f8324c2a3bed5c98b0926f42fd0706574726f766963682e7275",
+    "secret": "ee92dbce3f05c3fd68a8b340b3fa7a89ed6164732e78352e7275",
     "country": "US",
     "addTime": 1777089923
   },
@@ -224,17 +217,10 @@
     "addTime": 1777089923
   },
   {
-    "host": "80.66.81.27",
-    "port": 5443,
-    "secret": "ee1f460f3afac0e815fac861a7ef42d6056d736b2e73656e6b61706f706b612e7275",
-    "country": "RU",
-    "addTime": 1777089923
-  },
-  {
-    "host": "fin.vpn.2d.su",
-    "port": 443,
-    "secret": "ee60f177e69a9995cb8fe9640f4f8e55bc6d692e636f6d",
-    "country": "FI",
+    "host": "72.56.95.39",
+    "port": 8443,
+    "secret": "eee5b9b60d4f41e0000615c01a47f511c9636f63612e6e6c",
+    "country": "NL",
     "addTime": 1777089923
   },
   {
@@ -242,13 +228,6 @@
     "port": 443,
     "secret": "ee49c4004ab91d8839446c6d2154e053a6416c7a612e637a",
     "country": "MD",
-    "addTime": 1777089923
-  },
-  {
-    "host": "64.188.98.207",
-    "port": 443,
-    "secret": "ee92dbce3f05c3fd68a8b340b3fa7a89ed6164732e78352e7275",
-    "country": "US",
     "addTime": 1777089923
   },
   {
@@ -263,6 +242,20 @@
     "port": 443,
     "secret": "eee299ec6bd7e1b952c0e72564fdcca03f766b2e7275",
     "country": "US",
+    "addTime": 1777089923
+  },
+  {
+    "host": "2.26.49.50",
+    "port": 443,
+    "secret": "eebe930f8324c2a3bed5c98b0926f42fd0706574726f766963682e7275",
+    "country": "US",
+    "addTime": 1777089923
+  },
+  {
+    "host": "fin.vpn.2d.su",
+    "port": 443,
+    "secret": "ee60f177e69a9995cb8fe9640f4f8e55bc6d692e636f6d",
+    "country": "FI",
     "addTime": 1777089923
   },
   {
@@ -322,13 +315,6 @@
     "addTime": 1777068366
   },
   {
-    "host": "84.201.175.61",
-    "port": 443,
-    "secret": "eead24ce88888cf6231e908ca911628e",
-    "country": "RU",
-    "addTime": 1777068362
-  },
-  {
     "host": "217.60.25.63",
     "port": 443,
     "secret": "ee56fe38876789d254a7d331aa998e8554746f7069632e7275",
@@ -348,5 +334,19 @@
     "secret": "eed28a6a29973dc4b3ca4d87955796b30f6d2e766b2e636f6d",
     "country": "DE",
     "addTime": 1777068309
+  },
+  {
+    "host": "192.248.186.123",
+    "port": 443,
+    "secret": "8670ec4a92291c9d9e350311632127b1",
+    "country": "DE",
+    "addTime": 1777068269
+  },
+  {
+    "host": "193.124.58.199",
+    "port": 443,
+    "secret": "eebaeff305618d976e05d4e1d113d249036769746875622e636f6d",
+    "country": "CZ",
+    "addTime": 1777068268
   }
 ]
