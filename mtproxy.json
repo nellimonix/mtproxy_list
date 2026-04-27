@@ -238,6 +238,13 @@
     "addTime": 1777273597
   },
   {
+    "host": "xfs1.gbird.top",
+    "port": 6443,
+    "secret": "ddecad3d673e42dc10cae6fa9bcebcd5f6",
+    "country": "GB",
+    "addTime": 1777273543
+  },
+  {
     "host": "incmtp.org",
     "port": 8443,
     "secret": "eeaf98ca661b5cdae7449eb7047b9a69826d74702e696e63686f73742e6f7267",
@@ -329,13 +336,6 @@
     "addTime": 1777230424
   },
   {
-    "host": "91.108.248.232",
-    "port": 443,
-    "secret": "eeb9c2c94e0bcac2138eced183ac00b64e79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1777230424
-  },
-  {
     "host": "91.108.248.239",
     "port": 443,
     "secret": "ee10735f18a2ac04969734e37de35dd15b79616e6465782e7275",
@@ -343,10 +343,10 @@
     "addTime": 1777230424
   },
   {
-    "host": "cand.cottager.irisation.rattrap.unstaffed.teleseryena.com",
-    "port": 4900,
-    "secret": "9e7e9817dd8472558dd030ef3795e185",
-    "country": "FI",
-    "addTime": 1777230376
+    "host": "91.108.248.232",
+    "port": 443,
+    "secret": "eeb9c2c94e0bcac2138eced183ac00b64e79616e6465782e7275",
+    "country": "NL",
+    "addTime": 1777230424
   }
 ]
