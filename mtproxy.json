@@ -28,17 +28,17 @@
     "addTime": 1777316786
   },
   {
-    "host": "open.aml-crypto-wallet.pro",
-    "port": 443,
-    "secret": "ee18334bdde7b4c5006c3930465654dc246f70656e2e616d6c2d63727970746f2d77616c6c65742e70726f",
-    "country": "NL",
-    "addTime": 1777316709
-  },
-  {
     "host": "tgproxy.stardevs.top",
     "port": 443,
     "secret": "ee6dc3bd97654d2e6ef34c4e02d98a8450746770726f78792e73746172646576732e746f70",
     "country": "DE",
+    "addTime": 1777316709
+  },
+  {
+    "host": "open.aml-crypto-wallet.pro",
+    "port": 443,
+    "secret": "ee18334bdde7b4c5006c3930465654dc246f70656e2e616d6c2d63727970746f2d77616c6c65742e70726f",
+    "country": "NL",
     "addTime": 1777316709
   },
   {
@@ -49,10 +49,31 @@
     "addTime": 1777316671
   },
   {
+    "host": "130.49.218.57",
+    "port": 443,
+    "secret": "ee8aa50573bd2e964427df682f93935ce4646c2e676f6f676c652e636f6d",
+    "country": "RU",
+    "addTime": 1777316666
+  },
+  {
+    "host": "data.enable-request.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "CY",
+    "addTime": 1777306063
+  },
+  {
     "host": "budge.pulsar.rest",
     "port": 443,
     "secret": "ee4cc750d4cf7b5762b6ca9949c778ef4162756467652e70756c7361722e72657374",
     "country": "DE",
+    "addTime": 1777305984
+  },
+  {
+    "host": "mypushking.ru",
+    "port": 1090,
+    "secret": "eea2b5a83321d52ab7f40f64ec09fb95f96d79707573686b696e672e7275",
+    "country": "NL",
     "addTime": 1777305984
   },
   {
@@ -67,13 +88,6 @@
     "port": 443,
     "secret": "eef896b7aa377546cbf860ae343f143b84676f6f676c652e636f6d",
     "country": "PL",
-    "addTime": 1777305984
-  },
-  {
-    "host": "mypushking.ru",
-    "port": 1090,
-    "secret": "eea2b5a83321d52ab7f40f64ec09fb95f96d79707573686b696e672e7275",
-    "country": "NL",
     "addTime": 1777305984
   },
   {
@@ -126,17 +140,17 @@
     "addTime": 1777305905
   },
   {
-    "host": "50.7.41.9",
-    "port": 443,
-    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
-    "country": "NL",
-    "addTime": 1777305860
-  },
-  {
     "host": "213.165.57.6",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
     "country": "FI",
+    "addTime": 1777305860
+  },
+  {
+    "host": "50.7.41.9",
+    "port": 443,
+    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
+    "country": "NL",
     "addTime": 1777305860
   },
   {
@@ -294,17 +308,24 @@
     "addTime": 1777241175
   },
   {
-    "host": "2.26.88.26",
-    "port": 443,
-    "secret": "dd409bdd587dd8fccb49276cd4234de80c",
-    "country": "GB",
-    "addTime": 1777241116
+    "host": "tel.vasilej.org",
+    "port": 8888,
+    "secret": "d7531dafb679f4b2ff739cae86d6d2ac",
+    "country": "RU",
+    "addTime": 1777241166
   },
   {
     "host": "212.43.146.172",
     "port": 443,
     "secret": "dd4f36d8993fb66b1f71a625f92e3ffeb5",
     "country": "DE",
+    "addTime": 1777241116
+  },
+  {
+    "host": "2.26.88.26",
+    "port": 443,
+    "secret": "dd409bdd587dd8fccb49276cd4234de80c",
+    "country": "GB",
     "addTime": 1777241116
   },
   {
@@ -327,26 +348,5 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1777241058
-  },
-  {
-    "host": "132.243.228.117",
-    "port": 443,
-    "secret": "ee3412e0e1319e90bc0e4b5b901391677179616e6465782e7275",
-    "country": "DE",
-    "addTime": 1777230433
-  },
-  {
-    "host": "91.108.248.238",
-    "port": 443,
-    "secret": "ee9f85f09ad4d1e8512e8f79adae9aa81579616e6465782e7275",
-    "country": "NL",
-    "addTime": 1777230433
-  },
-  {
-    "host": "132.243.228.122",
-    "port": 443,
-    "secret": "ee3f559a65de522cf368a66a7db7089c0379616e6465782e7275",
-    "country": "DE",
-    "addTime": 1777230433
   }
 ]
