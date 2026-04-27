@@ -14,6 +14,13 @@
     "addTime": 1777327535
   },
   {
+    "host": "90.188.4.105",
+    "port": 7997,
+    "secret": "ee4c670831e7ee84c7c3a287a2184181d8626979736b32322e7275",
+    "country": "RU",
+    "addTime": 1777327470
+  },
+  {
     "host": "147.45.42.104",
     "port": 443,
     "secret": "ee8905c5cfeaffb1fc2f7aa33e5c99df3d766b2e636f6d",
@@ -25,13 +32,6 @@
     "port": 443,
     "secret": "24bd7c651c0cdef3195110f94d4c92ce",
     "country": "BG",
-    "addTime": 1777327470
-  },
-  {
-    "host": "90.188.4.105",
-    "port": 7997,
-    "secret": "ee4c670831e7ee84c7c3a287a2184181d8626979736b32322e7275",
-    "country": "RU",
     "addTime": 1777327470
   },
   {
@@ -98,11 +98,11 @@
     "addTime": 1777316666
   },
   {
-    "host": "data.enable-request.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "CY",
-    "addTime": 1777306063
+    "host": "91.227.186.143",
+    "port": 443,
+    "secret": "eef896b7aa377546cbf860ae343f143b84676f6f676c652e636f6d",
+    "country": "PL",
+    "addTime": 1777305984
   },
   {
     "host": "budge.pulsar.rest",
@@ -116,13 +116,6 @@
     "port": 1090,
     "secret": "eea2b5a83321d52ab7f40f64ec09fb95f96d79707573686b696e672e7275",
     "country": "NL",
-    "addTime": 1777305984
-  },
-  {
-    "host": "91.227.186.143",
-    "port": 443,
-    "secret": "eef896b7aa377546cbf860ae343f143b84676f6f676c652e636f6d",
-    "country": "PL",
     "addTime": 1777305984
   },
   {
@@ -182,17 +175,17 @@
     "addTime": 1777305905
   },
   {
-    "host": "50.7.41.9",
-    "port": 443,
-    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
-    "country": "NL",
-    "addTime": 1777305860
-  },
-  {
     "host": "213.165.57.6",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
     "country": "FI",
+    "addTime": 1777305860
+  },
+  {
+    "host": "50.7.41.9",
+    "port": 443,
+    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
+    "country": "NL",
     "addTime": 1777305860
   },
   {
@@ -301,16 +294,16 @@
     "addTime": 1777284335
   },
   {
-    "host": "132.243.228.115",
+    "host": "132.243.228.119",
     "port": 443,
-    "secret": "ee3caf4d06bf6b23313068e4b3e743f91e79616e6465782e7275",
+    "secret": "ee4a55ee068cafd672d34d4fb76987946e79616e6465782e7275",
     "country": "DE",
     "addTime": 1777273612
   },
   {
-    "host": "132.243.228.119",
+    "host": "132.243.228.115",
     "port": 443,
-    "secret": "ee4a55ee068cafd672d34d4fb76987946e79616e6465782e7275",
+    "secret": "ee3caf4d06bf6b23313068e4b3e743f91e79616e6465782e7275",
     "country": "DE",
     "addTime": 1777273612
   },
@@ -343,10 +336,17 @@
     "addTime": 1777241175
   },
   {
-    "host": "tel.vasilej.org",
-    "port": 8888,
-    "secret": "d7531dafb679f4b2ff739cae86d6d2ac",
-    "country": "RU",
-    "addTime": 1777241166
+    "host": "212.43.146.172",
+    "port": 443,
+    "secret": "dd4f36d8993fb66b1f71a625f92e3ffeb5",
+    "country": "DE",
+    "addTime": 1777241116
+  },
+  {
+    "host": "2.26.88.26",
+    "port": 443,
+    "secret": "dd409bdd587dd8fccb49276cd4234de80c",
+    "country": "GB",
+    "addTime": 1777241116
   }
 ]
