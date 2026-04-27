@@ -1,8 +1,8 @@
 [
   {
-    "host": "shrink.pulsar.rest",
+    "host": "budge.pulsar.rest",
     "port": 443,
-    "secret": "eed32bfada03b362891b9d067d465baee3736872696e6b2e70756c7361722e72657374",
+    "secret": "ee4cc750d4cf7b5762b6ca9949c778ef4162756467652e70756c7361722e72657374",
     "country": "DE",
     "addTime": 1777305984
   },
@@ -21,9 +21,9 @@
     "addTime": 1777305984
   },
   {
-    "host": "budge.pulsar.rest",
+    "host": "shrink.pulsar.rest",
     "port": 443,
-    "secret": "ee4cc750d4cf7b5762b6ca9949c778ef4162756467652e70756c7361722e72657374",
+    "secret": "eed32bfada03b362891b9d067d465baee3736872696e6b2e70756c7361722e72657374",
     "country": "DE",
     "addTime": 1777305984
   },
@@ -39,13 +39,6 @@
     "port": 443,
     "secret": "ee1951e0fcea4d5194dabb0103e5573cfa79616e6465782e7275",
     "country": "DE",
-    "addTime": 1777305976
-  },
-  {
-    "host": "91.108.248.237",
-    "port": 443,
-    "secret": "ee7c3ba7df9241d1b8706d21522e4f11a979616e6465782e7275",
-    "country": "NL",
     "addTime": 1777305976
   },
   {
@@ -84,17 +77,17 @@
     "addTime": 1777305905
   },
   {
-    "host": "213.165.57.6",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "FI",
-    "addTime": 1777305860
-  },
-  {
     "host": "50.7.41.9",
     "port": 443,
     "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
     "country": "NL",
+    "addTime": 1777305860
+  },
+  {
+    "host": "213.165.57.6",
+    "port": 443,
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
+    "country": "FI",
     "addTime": 1777305860
   },
   {
@@ -151,13 +144,6 @@
     "port": 443,
     "secret": "ee96ff6ba603db304ef1190c261c09eba87777772e6d6963726f736f66742e636f6d",
     "country": "NL",
-    "addTime": 1777284473
-  },
-  {
-    "host": "132.243.228.123",
-    "port": 443,
-    "secret": "eeb1311d871e1e022a2479627c61b853f079616e6465782e7275",
-    "country": "DE",
     "addTime": 1777284473
   },
   {
@@ -259,17 +245,17 @@
     "addTime": 1777241175
   },
   {
-    "host": "212.43.146.172",
-    "port": 443,
-    "secret": "dd4f36d8993fb66b1f71a625f92e3ffeb5",
-    "country": "DE",
-    "addTime": 1777241116
-  },
-  {
     "host": "2.26.88.26",
     "port": 443,
     "secret": "dd409bdd587dd8fccb49276cd4234de80c",
     "country": "GB",
+    "addTime": 1777241116
+  },
+  {
+    "host": "212.43.146.172",
+    "port": 443,
+    "secret": "dd4f36d8993fb66b1f71a625f92e3ffeb5",
+    "country": "DE",
     "addTime": 1777241116
   },
   {
@@ -294,6 +280,13 @@
     "addTime": 1777241058
   },
   {
+    "host": "132.243.228.122",
+    "port": 443,
+    "secret": "ee3f559a65de522cf368a66a7db7089c0379616e6465782e7275",
+    "country": "DE",
+    "addTime": 1777230433
+  },
+  {
     "host": "132.243.228.117",
     "port": 443,
     "secret": "ee3412e0e1319e90bc0e4b5b901391677179616e6465782e7275",
@@ -308,25 +301,11 @@
     "addTime": 1777230433
   },
   {
-    "host": "132.243.228.122",
-    "port": 443,
-    "secret": "ee3f559a65de522cf368a66a7db7089c0379616e6465782e7275",
-    "country": "DE",
-    "addTime": 1777230433
-  },
-  {
     "host": "telemit.ran-chat.online",
     "port": 443,
     "secret": "ee7b6de790c0a9396b2a73bc00065b1634766b2e636f6d",
     "country": "CH",
     "addTime": 1777230430
-  },
-  {
-    "host": "132.243.228.120",
-    "port": 443,
-    "secret": "ee1d56bee671255d4e81d662d0743d2b5279616e6465782e7275",
-    "country": "DE",
-    "addTime": 1777230424
   },
   {
     "host": "91.108.248.232",
@@ -343,10 +322,31 @@
     "addTime": 1777230424
   },
   {
+    "host": "132.243.228.120",
+    "port": 443,
+    "secret": "ee1d56bee671255d4e81d662d0743d2b5279616e6465782e7275",
+    "country": "DE",
+    "addTime": 1777230424
+  },
+  {
     "host": "cand.cottager.irisation.rattrap.unstaffed.teleseryena.com",
     "port": 4900,
     "secret": "9e7e9817dd8472558dd030ef3795e185",
     "country": "FI",
     "addTime": 1777230376
+  },
+  {
+    "host": "wassup.voltlab.su",
+    "port": 443,
+    "secret": "eef92b876c69c41199e116afb3192f44c17761737375702e766f6c746c61622e7375",
+    "country": "RU",
+    "addTime": 1777230373
+  },
+  {
+    "host": "213.226.127.61",
+    "port": 443,
+    "secret": "eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974",
+    "country": "RU",
+    "addTime": 1777230297
   }
 ]
