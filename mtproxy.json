@@ -1,16 +1,16 @@
 [
   {
-    "host": "91.227.186.143",
-    "port": 443,
-    "secret": "eef896b7aa377546cbf860ae343f143b84676f6f676c652e636f6d",
-    "country": "PL",
-    "addTime": 1777305984
-  },
-  {
     "host": "mypushking.ru",
     "port": 1090,
     "secret": "eea2b5a83321d52ab7f40f64ec09fb95f96d79707573686b696e672e7275",
     "country": "NL",
+    "addTime": 1777305984
+  },
+  {
+    "host": "91.227.186.143",
+    "port": 443,
+    "secret": "eef896b7aa377546cbf860ae343f143b84676f6f676c652e636f6d",
+    "country": "PL",
     "addTime": 1777305984
   },
   {
@@ -147,17 +147,17 @@
     "addTime": 1777284485
   },
   {
-    "host": "89.124.90.209",
-    "port": 443,
-    "secret": "ee96ff6ba603db304ef1190c261c09eba87777772e6d6963726f736f66742e636f6d",
-    "country": "NL",
-    "addTime": 1777284473
-  },
-  {
     "host": "132.243.228.123",
     "port": 443,
     "secret": "eeb1311d871e1e022a2479627c61b853f079616e6465782e7275",
     "country": "DE",
+    "addTime": 1777284473
+  },
+  {
+    "host": "89.124.90.209",
+    "port": 443,
+    "secret": "ee96ff6ba603db304ef1190c261c09eba87777772e6d6963726f736f66742e636f6d",
+    "country": "NL",
     "addTime": 1777284473
   },
   {
@@ -217,16 +217,16 @@
     "addTime": 1777284335
   },
   {
-    "host": "132.243.228.115",
+    "host": "132.243.228.119",
     "port": 443,
-    "secret": "ee3caf4d06bf6b23313068e4b3e743f91e79616e6465782e7275",
+    "secret": "ee4a55ee068cafd672d34d4fb76987946e79616e6465782e7275",
     "country": "DE",
     "addTime": 1777273612
   },
   {
-    "host": "132.243.228.119",
+    "host": "132.243.228.115",
     "port": 443,
-    "secret": "ee4a55ee068cafd672d34d4fb76987946e79616e6465782e7275",
+    "secret": "ee3caf4d06bf6b23313068e4b3e743f91e79616e6465782e7275",
     "country": "DE",
     "addTime": 1777273612
   },
@@ -236,13 +236,6 @@
     "secret": "eeed430eb8e5ba42539fe60e551d48994779616e6465782e7275",
     "country": "DE",
     "addTime": 1777273597
-  },
-  {
-    "host": "xfs1.gbird.top",
-    "port": 6443,
-    "secret": "ddecad3d673e42dc10cae6fa9bcebcd5f6",
-    "country": "GB",
-    "addTime": 1777273543
   },
   {
     "host": "incmtp.org",
@@ -266,17 +259,17 @@
     "addTime": 1777241175
   },
   {
-    "host": "2.26.88.26",
-    "port": 443,
-    "secret": "dd409bdd587dd8fccb49276cd4234de80c",
-    "country": "GB",
-    "addTime": 1777241116
-  },
-  {
     "host": "212.43.146.172",
     "port": 443,
     "secret": "dd4f36d8993fb66b1f71a625f92e3ffeb5",
     "country": "DE",
+    "addTime": 1777241116
+  },
+  {
+    "host": "2.26.88.26",
+    "port": 443,
+    "secret": "dd409bdd587dd8fccb49276cd4234de80c",
+    "country": "GB",
     "addTime": 1777241116
   },
   {
@@ -301,6 +294,13 @@
     "addTime": 1777241058
   },
   {
+    "host": "91.108.248.238",
+    "port": 443,
+    "secret": "ee9f85f09ad4d1e8512e8f79adae9aa81579616e6465782e7275",
+    "country": "NL",
+    "addTime": 1777230433
+  },
+  {
     "host": "132.243.228.117",
     "port": 443,
     "secret": "ee3412e0e1319e90bc0e4b5b901391677179616e6465782e7275",
@@ -315,18 +315,18 @@
     "addTime": 1777230433
   },
   {
-    "host": "91.108.248.238",
-    "port": 443,
-    "secret": "ee9f85f09ad4d1e8512e8f79adae9aa81579616e6465782e7275",
-    "country": "NL",
-    "addTime": 1777230433
-  },
-  {
     "host": "telemit.ran-chat.online",
     "port": 443,
     "secret": "ee7b6de790c0a9396b2a73bc00065b1634766b2e636f6d",
     "country": "CH",
     "addTime": 1777230430
+  },
+  {
+    "host": "91.108.248.232",
+    "port": 443,
+    "secret": "eeb9c2c94e0bcac2138eced183ac00b64e79616e6465782e7275",
+    "country": "NL",
+    "addTime": 1777230424
   },
   {
     "host": "91.108.248.239",
@@ -343,10 +343,10 @@
     "addTime": 1777230424
   },
   {
-    "host": "91.108.248.232",
-    "port": 443,
-    "secret": "eeb9c2c94e0bcac2138eced183ac00b64e79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1777230424
+    "host": "cand.cottager.irisation.rattrap.unstaffed.teleseryena.com",
+    "port": 4900,
+    "secret": "9e7e9817dd8472558dd030ef3795e185",
+    "country": "FI",
+    "addTime": 1777230376
   }
 ]
