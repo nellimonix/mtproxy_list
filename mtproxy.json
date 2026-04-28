@@ -7,6 +7,13 @@
     "addTime": 1777403173
   },
   {
+    "host": "mix.nuv.su",
+    "port": 443,
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
+    "country": "GB",
+    "addTime": 1777403127
+  },
+  {
     "host": "secure.nuv.su",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
@@ -42,27 +49,6 @@
     "addTime": 1777392405
   },
   {
-    "host": "docs.freeprovider.online",
-    "port": 8444,
-    "secret": "ee94980ca2bd8d489b4caff9ad1032e3f579616e6465782e7275",
-    "country": "DE",
-    "addTime": 1777392383
-  },
-  {
-    "host": "llm.nikita-development.ru",
-    "port": 8443,
-    "secret": "ee6cee1d27f1b2dbeae61942bd165f7f666c6c6d2e6e696b6974612d646576656c6f706d656e742e7275",
-    "country": "PL",
-    "addTime": 1777392383
-  },
-  {
-    "host": "5.22.212.131",
-    "port": 443,
-    "secret": "dd59f5e4be6d8552266f38accfc9f7ff85",
-    "country": "DE",
-    "addTime": 1777392383
-  },
-  {
     "host": "noclip-tg.send-messege.top",
     "port": 443,
     "secret": "7pxzoPyMrn25tkM2NeK8dsNub2NsaXAtdGcuc2VuZC1tZXNzZWdlLnRvcA",
@@ -74,6 +60,27 @@
     "port": 443,
     "secret": "ee0ad08e831f91bc8abdcb941a3514cbdf706574726f766963682e7275",
     "country": "NL",
+    "addTime": 1777392383
+  },
+  {
+    "host": "5.22.212.131",
+    "port": 443,
+    "secret": "dd59f5e4be6d8552266f38accfc9f7ff85",
+    "country": "DE",
+    "addTime": 1777392383
+  },
+  {
+    "host": "llm.nikita-development.ru",
+    "port": 8443,
+    "secret": "ee6cee1d27f1b2dbeae61942bd165f7f666c6c6d2e6e696b6974612d646576656c6f706d656e742e7275",
+    "country": "PL",
+    "addTime": 1777392383
+  },
+  {
+    "host": "docs.freeprovider.online",
+    "port": 8444,
+    "secret": "ee94980ca2bd8d489b4caff9ad1032e3f579616e6465782e7275",
+    "country": "DE",
     "addTime": 1777392383
   },
   {
@@ -175,16 +182,16 @@
     "addTime": 1777370830
   },
   {
-    "host": "agamogenesis.crammed.excretive.mince.tache.rawisda.com",
-    "port": 6289,
-    "secret": "eeb8cb7d4c9db2860276cfdbed01bf85b5647a656e2e7275",
+    "host": "clbl.nl.odkumzqumjmwljqz.mtproto.ru",
+    "port": 443,
+    "secret": "ee21112222333344445555666677778888636c6f756463646e2d616d7331332e63646e2e79616e6465782e6e6574",
     "country": "DE",
     "addTime": 1777370812
   },
   {
-    "host": "clbl.nl.odkumzqumjmwljqz.mtproto.ru",
-    "port": 443,
-    "secret": "ee21112222333344445555666677778888636c6f756463646e2d616d7331332e63646e2e79616e6465782e6e6574",
+    "host": "agamogenesis.crammed.excretive.mince.tache.rawisda.com",
+    "port": 6289,
+    "secret": "eeb8cb7d4c9db2860276cfdbed01bf85b5647a656e2e7275",
     "country": "DE",
     "addTime": 1777370812
   },
@@ -217,20 +224,6 @@
     "addTime": 1777360024
   },
   {
-    "host": "130.49.188.88",
-    "port": 443,
-    "secret": "ddbfabfb919df5704cd3202c089f6fb249",
-    "country": "RU",
-    "addTime": 1777359975
-  },
-  {
-    "host": "38.180.131.98",
-    "port": 443,
-    "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
-    "country": "NL",
-    "addTime": 1777359975
-  },
-  {
     "host": "82.97.240.94",
     "port": 443,
     "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
@@ -245,11 +238,18 @@
     "addTime": 1777359975
   },
   {
-    "host": "tg.twenty-nine-vpn.site",
+    "host": "130.49.188.88",
     "port": 443,
-    "secret": "eefbd79dd1dde29f465570d4abe765fbbc766b2e7275",
+    "secret": "ddbfabfb919df5704cd3202c089f6fb249",
     "country": "RU",
-    "addTime": 1777349813
+    "addTime": 1777359975
+  },
+  {
+    "host": "38.180.131.98",
+    "port": 443,
+    "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
+    "country": "NL",
+    "addTime": 1777359975
   },
   {
     "host": "tg-ams.twenty-nine-vpn.site",
@@ -257,6 +257,20 @@
     "secret": "ddfbd79dd1dde29f465570d4abe765fbbc",
     "country": "NL",
     "addTime": 1777349813
+  },
+  {
+    "host": "tg.twenty-nine-vpn.site",
+    "port": 443,
+    "secret": "eefbd79dd1dde29f465570d4abe765fbbc766b2e7275",
+    "country": "RU",
+    "addTime": 1777349813
+  },
+  {
+    "host": "43.160.233.81",
+    "port": 65421,
+    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
+    "country": "SG",
+    "addTime": 1777349808
   },
   {
     "host": "43.160.220.202",
@@ -277,13 +291,6 @@
     "port": 51820,
     "secret": "eef45a589064ed06f30d8cab0e536f37eb636c6f7564666c6172652e636f6d",
     "country": "GE",
-    "addTime": 1777349808
-  },
-  {
-    "host": "43.160.233.81",
-    "port": 65421,
-    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
-    "country": "SG",
     "addTime": 1777349808
   },
   {
@@ -315,16 +322,9 @@
     "addTime": 1777349728
   },
   {
-    "host": "51.250.111.16",
+    "host": "109.61.108.147",
     "port": 443,
-    "secret": "eec3a80805cd5ee5d245ccea60ff27a3576d61696c2e79616e6465782e7275",
-    "country": "RU",
-    "addTime": 1777349723
-  },
-  {
-    "host": "132.243.214.236",
-    "port": 443,
-    "secret": "ee3f20b3758015038e7f6b4bc6438b7a2c6d6963726f736f66742e636f6d",
+    "secret": "eebed92191281b6d7a676b052f2797cad9646e732d73686f702e7275",
     "country": "RU",
     "addTime": 1777349723
   },
@@ -336,16 +336,16 @@
     "addTime": 1777349723
   },
   {
-    "host": "109.61.108.147",
+    "host": "love.kosmojoy.ru",
     "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9646e732d73686f702e7275",
+    "secret": "eead9639a82579888625e98a72876ab52531632e7275",
     "country": "RU",
     "addTime": 1777349723
   },
   {
-    "host": "love.kosmojoy.ru",
+    "host": "51.250.111.16",
     "port": 443,
-    "secret": "eead9639a82579888625e98a72876ab52531632e7275",
+    "secret": "eec3a80805cd5ee5d245ccea60ff27a3576d61696c2e79616e6465782e7275",
     "country": "RU",
     "addTime": 1777349723
   }
