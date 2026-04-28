@@ -1,12 +1,5 @@
 [
   {
-    "host": "tg.twenty-nine-vpn.site",
-    "port": 443,
-    "secret": "eefbd79dd1dde29f465570d4abe765fbbc766b2e7275",
-    "country": "RU",
-    "addTime": 1777349813
-  },
-  {
     "host": "tg-ams.twenty-nine-vpn.site",
     "port": 443,
     "secret": "ddfbd79dd1dde29f465570d4abe765fbbc",
@@ -14,15 +7,15 @@
     "addTime": 1777349813
   },
   {
-    "host": "43.160.220.202",
-    "port": 65147,
-    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
-    "country": "SG",
-    "addTime": 1777349808
+    "host": "tg.twenty-nine-vpn.site",
+    "port": 443,
+    "secret": "eefbd79dd1dde29f465570d4abe765fbbc766b2e7275",
+    "country": "RU",
+    "addTime": 1777349813
   },
   {
-    "host": "43.160.233.81",
-    "port": 65421,
+    "host": "43.160.247.112",
+    "port": 65365,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "SG",
     "addTime": 1777349808
@@ -35,8 +28,15 @@
     "addTime": 1777349808
   },
   {
-    "host": "43.160.247.112",
-    "port": 65365,
+    "host": "43.160.220.202",
+    "port": 65147,
+    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
+    "country": "SG",
+    "addTime": 1777349808
+  },
+  {
+    "host": "43.160.233.81",
+    "port": 65421,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "SG",
     "addTime": 1777349808
@@ -70,24 +70,10 @@
     "addTime": 1777349728
   },
   {
-    "host": "love.kosmojoy.ru",
+    "host": "109.61.108.147",
     "port": 443,
-    "secret": "eead9639a82579888625e98a72876ab52531632e7275",
+    "secret": "eebed92191281b6d7a676b052f2797cad9646e732d73686f702e7275",
     "country": "RU",
-    "addTime": 1777349723
-  },
-  {
-    "host": "51.250.111.16",
-    "port": 443,
-    "secret": "eec3a80805cd5ee5d245ccea60ff27a3576d61696c2e79616e6465782e7275",
-    "country": "RU",
-    "addTime": 1777349723
-  },
-  {
-    "host": "5.230.159.11",
-    "port": 443,
-    "secret": "eec6c206c4d429f36d13af11fbd3c35e786d742d70726f78792e6f7267",
-    "country": "GB",
     "addTime": 1777349723
   },
   {
@@ -98,9 +84,9 @@
     "addTime": 1777349723
   },
   {
-    "host": "109.61.108.147",
+    "host": "love.kosmojoy.ru",
     "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9646e732d73686f702e7275",
+    "secret": "eead9639a82579888625e98a72876ab52531632e7275",
     "country": "RU",
     "addTime": 1777349723
   },
@@ -119,17 +105,31 @@
     "addTime": 1777349723
   },
   {
-    "host": "proxy-lte.wwwinternet.ru",
-    "port": 444,
-    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
+    "host": "51.250.111.16",
+    "port": 443,
+    "secret": "eec3a80805cd5ee5d245ccea60ff27a3576d61696c2e79616e6465782e7275",
     "country": "RU",
-    "addTime": 1777349722
+    "addTime": 1777349723
+  },
+  {
+    "host": "5.230.159.11",
+    "port": 443,
+    "secret": "eec6c206c4d429f36d13af11fbd3c35e786d742d70726f78792e6f7267",
+    "country": "GB",
+    "addTime": 1777349723
   },
   {
     "host": "proxy-de.wwwinternet.ru",
     "port": 444,
     "secret": "ee2341dbf12e04bbb220b77464bf98cfa568616e616b6f72692e7275",
     "country": "IQ",
+    "addTime": 1777349722
+  },
+  {
+    "host": "proxy-lte.wwwinternet.ru",
+    "port": 444,
+    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
+    "country": "RU",
     "addTime": 1777349722
   },
   {
@@ -187,6 +187,13 @@
     "secret": "dd63ddf70c2fa66dfa8a66e5c244d02c13",
     "country": "US",
     "addTime": 1777338981
+  },
+  {
+    "host": "tg.pepewtf.top",
+    "port": 443,
+    "secret": "eecb3c473c7bbea00855003ab715668c5074672e706570657774662e746f70",
+    "country": "RU",
+    "addTime": 1777338887
   },
   {
     "host": "vero.myrka.digital",
@@ -252,17 +259,17 @@
     "addTime": 1777316868
   },
   {
-    "host": "ru.telegram.crocnet.ru",
-    "port": 443,
-    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
-    "country": "RU",
-    "addTime": 1777316787
-  },
-  {
     "host": "proxy-1-swe.endurancepro.space",
     "port": 443,
     "secret": "eead09fc6bdb5aa04c4e3fb381fb8b752970726f78792d312d7377652e656e647572616e636570726f2e7370616365",
     "country": "SE",
+    "addTime": 1777316787
+  },
+  {
+    "host": "ru.telegram.crocnet.ru",
+    "port": 443,
+    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
+    "country": "RU",
     "addTime": 1777316787
   },
   {
@@ -273,17 +280,17 @@
     "addTime": 1777316786
   },
   {
-    "host": "open.aml-crypto-wallet.pro",
-    "port": 443,
-    "secret": "ee18334bdde7b4c5006c3930465654dc246f70656e2e616d6c2d63727970746f2d77616c6c65742e70726f",
-    "country": "NL",
-    "addTime": 1777316709
-  },
-  {
     "host": "tgproxy.stardevs.top",
     "port": 443,
     "secret": "ee6dc3bd97654d2e6ef34c4e02d98a8450746770726f78792e73746172646576732e746f70",
     "country": "DE",
+    "addTime": 1777316709
+  },
+  {
+    "host": "open.aml-crypto-wallet.pro",
+    "port": 443,
+    "secret": "ee18334bdde7b4c5006c3930465654dc246f70656e2e616d6c2d63727970746f2d77616c6c65742e70726f",
+    "country": "NL",
     "addTime": 1777316709
   },
   {
@@ -297,7 +304,7 @@
     "host": "data.enable-request.co.uk",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "GB",
+    "country": "DE",
     "addTime": 1777306063
   },
   {
@@ -308,17 +315,17 @@
     "addTime": 1777305984
   },
   {
-    "host": "budge.pulsar.rest",
-    "port": 443,
-    "secret": "ee4cc750d4cf7b5762b6ca9949c778ef4162756467652e70756c7361722e72657374",
-    "country": "DE",
-    "addTime": 1777305984
-  },
-  {
     "host": "91.227.186.143",
     "port": 443,
     "secret": "eef896b7aa377546cbf860ae343f143b84676f6f676c652e636f6d",
     "country": "PL",
+    "addTime": 1777305984
+  },
+  {
+    "host": "budge.pulsar.rest",
+    "port": 443,
+    "secret": "ee4cc750d4cf7b5762b6ca9949c778ef4162756467652e70756c7361722e72657374",
+    "country": "DE",
     "addTime": 1777305984
   },
   {
@@ -341,12 +348,5 @@
     "secret": "ee1951e0fcea4d5194dabb0103e5573cfa79616e6465782e7275",
     "country": "DE",
     "addTime": 1777305976
-  },
-  {
-    "host": "ger2.belle.gold",
-    "port": 443,
-    "secret": "7l5I8CXHJjXGlqsWamOLzEd5YS5ydQ",
-    "country": "US",
-    "addTime": 1777305921
   }
 ]
