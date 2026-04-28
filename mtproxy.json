@@ -315,13 +315,6 @@
     "addTime": 1777273597
   },
   {
-    "host": "xfs1.gbird.top",
-    "port": 6443,
-    "secret": "ddecad3d673e42dc10cae6fa9bcebcd5f6",
-    "country": "RU",
-    "addTime": 1777273543
-  },
-  {
     "host": "incmtp.org",
     "port": 8443,
     "secret": "eeaf98ca661b5cdae7449eb7047b9a69826d74702e696e63686f73742e6f7267",
@@ -348,5 +341,12 @@
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "US",
     "addTime": 1777241175
+  },
+  {
+    "host": "tel.vasilej.org",
+    "port": 8888,
+    "secret": "d7531dafb679f4b2ff739cae86d6d2ac",
+    "country": "RU",
+    "addTime": 1777241166
   }
 ]
