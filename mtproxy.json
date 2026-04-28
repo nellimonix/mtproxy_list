@@ -70,9 +70,9 @@
     "addTime": 1777349728
   },
   {
-    "host": "51.250.111.16",
+    "host": "132.243.214.236",
     "port": 443,
-    "secret": "eec3a80805cd5ee5d245ccea60ff27a3576d61696c2e79616e6465782e7275",
+    "secret": "ee3f20b3758015038e7f6b4bc6438b7a2c6d6963726f736f66742e636f6d",
     "country": "RU",
     "addTime": 1777349723
   },
@@ -98,20 +98,6 @@
     "addTime": 1777349723
   },
   {
-    "host": "132.243.214.236",
-    "port": 443,
-    "secret": "ee3f20b3758015038e7f6b4bc6438b7a2c6d6963726f736f66742e636f6d",
-    "country": "RU",
-    "addTime": 1777349723
-  },
-  {
-    "host": "104.128.128.190",
-    "port": 443,
-    "secret": "ee64e16ca4a646a022d2b7f2e24d33f6316c6b2e78352e7275",
-    "country": "RU",
-    "addTime": 1777349723
-  },
-  {
     "host": "109.61.108.147",
     "port": 443,
     "secret": "eebed92191281b6d7a676b052f2797cad9646e732d73686f702e7275",
@@ -119,17 +105,24 @@
     "addTime": 1777349723
   },
   {
-    "host": "proxy-lte.wwwinternet.ru",
-    "port": 444,
-    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
+    "host": "51.250.111.16",
+    "port": 443,
+    "secret": "eec3a80805cd5ee5d245ccea60ff27a3576d61696c2e79616e6465782e7275",
     "country": "RU",
-    "addTime": 1777349722
+    "addTime": 1777349723
   },
   {
     "host": "proxy-de.wwwinternet.ru",
     "port": 444,
     "secret": "ee2341dbf12e04bbb220b77464bf98cfa568616e616b6f72692e7275",
     "country": "IQ",
+    "addTime": 1777349722
+  },
+  {
+    "host": "proxy-lte.wwwinternet.ru",
+    "port": 444,
+    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
+    "country": "RU",
     "addTime": 1777349722
   },
   {
@@ -140,14 +133,14 @@
     "addTime": 1777349688
   },
   {
-    "host": "proxy.bubavpn.com",
+    "host": "84.32.185.204",
     "port": 443,
     "secret": "ee1a7fed12818026e856e521c250efea5779616e6465782e636c6f7564",
     "country": "NL",
     "addTime": 1777349674
   },
   {
-    "host": "84.32.185.204",
+    "host": "proxy.bubavpn.com",
     "port": 443,
     "secret": "ee1a7fed12818026e856e521c250efea5779616e6465782e636c6f7564",
     "country": "NL",
@@ -175,17 +168,17 @@
     "addTime": 1777338986
   },
   {
-    "host": "v2rei.ignorelist.com",
-    "port": 6990,
-    "secret": "8585865b85858585b858585b64858582",
-    "country": "RU",
-    "addTime": 1777338981
-  },
-  {
     "host": "v2reiproxy.duckdns.org",
     "port": 443,
     "secret": "dd63ddf70c2fa66dfa8a66e5c244d02c13",
     "country": "US",
+    "addTime": 1777338981
+  },
+  {
+    "host": "v2rei.ignorelist.com",
+    "port": 6990,
+    "secret": "8585865b85858585b858585b64858582",
+    "country": "RU",
     "addTime": 1777338981
   },
   {
@@ -217,6 +210,13 @@
     "addTime": 1777327535
   },
   {
+    "host": "90.188.4.105",
+    "port": 7997,
+    "secret": "ee4c670831e7ee84c7c3a287a2184181d8626979736b32322e7275",
+    "country": "RU",
+    "addTime": 1777327470
+  },
+  {
     "host": "108.165.233.137",
     "port": 443,
     "secret": "24bd7c651c0cdef3195110f94d4c92ce",
@@ -224,10 +224,10 @@
     "addTime": 1777327470
   },
   {
-    "host": "90.188.4.105",
-    "port": 7997,
-    "secret": "ee4c670831e7ee84c7c3a287a2184181d8626979736b32322e7275",
-    "country": "RU",
+    "host": "147.45.42.104",
+    "port": 443,
+    "secret": "ee8905c5cfeaffb1fc2f7aa33e5c99df3d766b2e636f6d",
+    "country": "FR",
     "addTime": 1777327470
   },
   {
@@ -266,17 +266,17 @@
     "addTime": 1777316786
   },
   {
-    "host": "tgproxy.stardevs.top",
-    "port": 443,
-    "secret": "ee6dc3bd97654d2e6ef34c4e02d98a8450746770726f78792e73746172646576732e746f70",
-    "country": "DE",
-    "addTime": 1777316709
-  },
-  {
     "host": "open.aml-crypto-wallet.pro",
     "port": 443,
     "secret": "ee18334bdde7b4c5006c3930465654dc246f70656e2e616d6c2d63727970746f2d77616c6c65742e70726f",
     "country": "NL",
+    "addTime": 1777316709
+  },
+  {
+    "host": "tgproxy.stardevs.top",
+    "port": 443,
+    "secret": "ee6dc3bd97654d2e6ef34c4e02d98a8450746770726f78792e73746172646576732e746f70",
+    "country": "DE",
     "addTime": 1777316709
   },
   {
@@ -287,9 +287,23 @@
     "addTime": 1777316671
   },
   {
+    "host": "91.227.186.143",
+    "port": 443,
+    "secret": "eef896b7aa377546cbf860ae343f143b84676f6f676c652e636f6d",
+    "country": "PL",
+    "addTime": 1777305984
+  },
+  {
     "host": "budge.pulsar.rest",
     "port": 443,
     "secret": "ee4cc750d4cf7b5762b6ca9949c778ef4162756467652e70756c7361722e72657374",
+    "country": "DE",
+    "addTime": 1777305984
+  },
+  {
+    "host": "shrink.pulsar.rest",
+    "port": 443,
+    "secret": "eed32bfada03b362891b9d067d465baee3736872696e6b2e70756c7361722e72657374",
     "country": "DE",
     "addTime": 1777305984
   },
@@ -298,20 +312,6 @@
     "port": 1090,
     "secret": "eea2b5a83321d52ab7f40f64ec09fb95f96d79707573686b696e672e7275",
     "country": "NL",
-    "addTime": 1777305984
-  },
-  {
-    "host": "91.227.186.143",
-    "port": 443,
-    "secret": "eef896b7aa377546cbf860ae343f143b84676f6f676c652e636f6d",
-    "country": "PL",
-    "addTime": 1777305984
-  },
-  {
-    "host": "shrink.pulsar.rest",
-    "port": 443,
-    "secret": "eed32bfada03b362891b9d067d465baee3736872696e6b2e70756c7361722e72657374",
-    "country": "DE",
     "addTime": 1777305984
   },
   {
