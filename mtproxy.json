@@ -1,12 +1,5 @@
 [
   {
-    "host": "tg-ams.twenty-nine-vpn.site",
-    "port": 443,
-    "secret": "ddfbd79dd1dde29f465570d4abe765fbbc",
-    "country": "NL",
-    "addTime": 1777349813
-  },
-  {
     "host": "tg.twenty-nine-vpn.site",
     "port": 443,
     "secret": "eefbd79dd1dde29f465570d4abe765fbbc766b2e7275",
@@ -14,11 +7,11 @@
     "addTime": 1777349813
   },
   {
-    "host": "77.91.65.166",
-    "port": 51820,
-    "secret": "eef45a589064ed06f30d8cab0e536f37eb636c6f7564666c6172652e636f6d",
-    "country": "GE",
-    "addTime": 1777349808
+    "host": "tg-ams.twenty-nine-vpn.site",
+    "port": 443,
+    "secret": "ddfbd79dd1dde29f465570d4abe765fbbc",
+    "country": "NL",
+    "addTime": 1777349813
   },
   {
     "host": "43.160.220.202",
@@ -28,15 +21,22 @@
     "addTime": 1777349808
   },
   {
-    "host": "43.160.247.112",
-    "port": 65365,
+    "host": "43.160.233.81",
+    "port": 65421,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "SG",
     "addTime": 1777349808
   },
   {
-    "host": "43.160.233.81",
-    "port": 65421,
+    "host": "77.91.65.166",
+    "port": 51820,
+    "secret": "eef45a589064ed06f30d8cab0e536f37eb636c6f7564666c6172652e636f6d",
+    "country": "GE",
+    "addTime": 1777349808
+  },
+  {
+    "host": "43.160.247.112",
+    "port": 65365,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "SG",
     "addTime": 1777349808
@@ -70,10 +70,31 @@
     "addTime": 1777349728
   },
   {
+    "host": "love.kosmojoy.ru",
+    "port": 443,
+    "secret": "eead9639a82579888625e98a72876ab52531632e7275",
+    "country": "RU",
+    "addTime": 1777349723
+  },
+  {
+    "host": "51.250.111.16",
+    "port": 443,
+    "secret": "eec3a80805cd5ee5d245ccea60ff27a3576d61696c2e79616e6465782e7275",
+    "country": "RU",
+    "addTime": 1777349723
+  },
+  {
     "host": "5.230.159.11",
     "port": 443,
     "secret": "eec6c206c4d429f36d13af11fbd3c35e786d742d70726f78792e6f7267",
     "country": "GB",
+    "addTime": 1777349723
+  },
+  {
+    "host": "132.243.214.236",
+    "port": 443,
+    "secret": "ee3f20b3758015038e7f6b4bc6438b7a2c6d6963726f736f66742e636f6d",
+    "country": "RU",
     "addTime": 1777349723
   },
   {
@@ -98,38 +119,17 @@
     "addTime": 1777349723
   },
   {
-    "host": "51.250.111.16",
-    "port": 443,
-    "secret": "eec3a80805cd5ee5d245ccea60ff27a3576d61696c2e79616e6465782e7275",
+    "host": "proxy-lte.wwwinternet.ru",
+    "port": 444,
+    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
     "country": "RU",
-    "addTime": 1777349723
-  },
-  {
-    "host": "love.kosmojoy.ru",
-    "port": 443,
-    "secret": "eead9639a82579888625e98a72876ab52531632e7275",
-    "country": "RU",
-    "addTime": 1777349723
-  },
-  {
-    "host": "132.243.214.236",
-    "port": 443,
-    "secret": "ee3f20b3758015038e7f6b4bc6438b7a2c6d6963726f736f66742e636f6d",
-    "country": "RU",
-    "addTime": 1777349723
+    "addTime": 1777349722
   },
   {
     "host": "proxy-de.wwwinternet.ru",
     "port": 444,
     "secret": "ee2341dbf12e04bbb220b77464bf98cfa568616e616b6f72692e7275",
     "country": "IQ",
-    "addTime": 1777349722
-  },
-  {
-    "host": "proxy-lte.wwwinternet.ru",
-    "port": 444,
-    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
-    "country": "RU",
     "addTime": 1777349722
   },
   {
@@ -189,13 +189,6 @@
     "addTime": 1777338981
   },
   {
-    "host": "tg.pepewtf.top",
-    "port": 443,
-    "secret": "eecb3c473c7bbea00855003ab715668c5074672e706570657774662e746f70",
-    "country": "RU",
-    "addTime": 1777338887
-  },
-  {
     "host": "vero.myrka.digital",
     "port": 4443,
     "secret": "ee35a1a91f16f78dfd57013006ed2f12bf7665726f2e6d79726b612e6469676974616c",
@@ -224,17 +217,17 @@
     "addTime": 1777327535
   },
   {
-    "host": "108.165.233.137",
-    "port": 443,
-    "secret": "24bd7c651c0cdef3195110f94d4c92ce",
-    "country": "BG",
-    "addTime": 1777327470
-  },
-  {
     "host": "147.45.42.104",
     "port": 443,
     "secret": "ee8905c5cfeaffb1fc2f7aa33e5c99df3d766b2e636f6d",
     "country": "FR",
+    "addTime": 1777327470
+  },
+  {
+    "host": "108.165.233.137",
+    "port": 443,
+    "secret": "24bd7c651c0cdef3195110f94d4c92ce",
+    "country": "BG",
     "addTime": 1777327470
   },
   {
@@ -259,17 +252,17 @@
     "addTime": 1777316868
   },
   {
-    "host": "proxy-1-swe.endurancepro.space",
-    "port": 443,
-    "secret": "eead09fc6bdb5aa04c4e3fb381fb8b752970726f78792d312d7377652e656e647572616e636570726f2e7370616365",
-    "country": "SE",
-    "addTime": 1777316787
-  },
-  {
     "host": "ru.telegram.crocnet.ru",
     "port": 443,
     "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
     "country": "RU",
+    "addTime": 1777316787
+  },
+  {
+    "host": "proxy-1-swe.endurancepro.space",
+    "port": 443,
+    "secret": "eead09fc6bdb5aa04c4e3fb381fb8b752970726f78792d312d7377652e656e647572616e636570726f2e7370616365",
+    "country": "SE",
     "addTime": 1777316787
   },
   {
@@ -301,6 +294,13 @@
     "addTime": 1777316671
   },
   {
+    "host": "data.enable-request.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "GB",
+    "addTime": 1777306063
+  },
+  {
     "host": "mypushking.ru",
     "port": 1090,
     "secret": "eea2b5a83321d52ab7f40f64ec09fb95f96d79707573686b696e672e7275",
@@ -308,17 +308,17 @@
     "addTime": 1777305984
   },
   {
-    "host": "91.227.186.143",
-    "port": 443,
-    "secret": "eef896b7aa377546cbf860ae343f143b84676f6f676c652e636f6d",
-    "country": "PL",
-    "addTime": 1777305984
-  },
-  {
     "host": "budge.pulsar.rest",
     "port": 443,
     "secret": "ee4cc750d4cf7b5762b6ca9949c778ef4162756467652e70756c7361722e72657374",
     "country": "DE",
+    "addTime": 1777305984
+  },
+  {
+    "host": "91.227.186.143",
+    "port": 443,
+    "secret": "eef896b7aa377546cbf860ae343f143b84676f6f676c652e636f6d",
+    "country": "PL",
     "addTime": 1777305984
   },
   {
