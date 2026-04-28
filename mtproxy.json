@@ -49,16 +49,16 @@
     "addTime": 1777413860
   },
   {
-    "host": "s5.mtproxygram.lol",
+    "host": "n1.mtproxygram.lol",
     "port": 443,
-    "secret": "eeda4562412c256bdb1d2896cdc4a4da2962726f777365722e79616e6465782e636f6d",
+    "secret": "ee2e2c85a3cedad5d32e05f3015457078b62726f777365722e79616e6465782e636f6d",
     "country": "NL",
     "addTime": 1777413852
   },
   {
-    "host": "n1.mtproxygram.lol",
+    "host": "s5.mtproxygram.lol",
     "port": 443,
-    "secret": "ee2e2c85a3cedad5d32e05f3015457078b62726f777365722e79616e6465782e636f6d",
+    "secret": "eeda4562412c256bdb1d2896cdc4a4da2962726f777365722e79616e6465782e636f6d",
     "country": "NL",
     "addTime": 1777413852
   },
@@ -68,20 +68,6 @@
     "secret": "ee181e2ad5e63c27262781187f2dedc4bb7777772e636c6f7564666c6172652e636f6d",
     "country": "NL",
     "addTime": 1777403173
-  },
-  {
-    "host": "mix.nuv.su",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "GB",
-    "addTime": 1777403127
-  },
-  {
-    "host": "secure.nuv.su",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "GB",
-    "addTime": 1777403127
   },
   {
     "host": "changer.dynamometry.flan.issuant.shipshape.teleseryeheaven.com",
@@ -119,13 +105,6 @@
     "addTime": 1777392383
   },
   {
-    "host": "5.22.212.131",
-    "port": 443,
-    "secret": "dd59f5e4be6d8552266f38accfc9f7ff85",
-    "country": "DE",
-    "addTime": 1777392383
-  },
-  {
     "host": "docs.freeprovider.online",
     "port": 8444,
     "secret": "ee94980ca2bd8d489b4caff9ad1032e3f579616e6465782e7275",
@@ -140,18 +119,11 @@
     "addTime": 1777392383
   },
   {
-    "host": "llm.nikita-development.ru",
-    "port": 8443,
-    "secret": "ee6cee1d27f1b2dbeae61942bd165f7f666c6c6d2e6e696b6974612d646576656c6f706d656e742e7275",
-    "country": "PL",
-    "addTime": 1777392383
-  },
-  {
-    "host": "147.45.189.165",
+    "host": "5.22.212.131",
     "port": 443,
-    "secret": "ee318aecce01fb8ef78acef3c5ce88f67b6d61782e7275",
-    "country": "RU",
-    "addTime": 1777392293
+    "secret": "dd59f5e4be6d8552266f38accfc9f7ff85",
+    "country": "DE",
+    "addTime": 1777392383
   },
   {
     "host": "147.45.189.20",
@@ -161,10 +133,17 @@
     "addTime": 1777392293
   },
   {
+    "host": "147.45.189.165",
+    "port": 443,
+    "secret": "ee318aecce01fb8ef78acef3c5ce88f67b6d61782e7275",
+    "country": "RU",
+    "addTime": 1777392293
+  },
+  {
     "host": "proxym.world",
     "port": 443,
     "secret": "1b6453892473a467d07372d45eb05abc",
-    "country": "NL",
+    "country": "MD",
     "addTime": 1777381705
   },
   {
@@ -266,17 +245,17 @@
     "addTime": 1777370748
   },
   {
-    "host": "204.168.218.177",
-    "port": 443,
-    "secret": "ee1a499af9a7a18282da82e30714402e157777772e6165726f666c6f742e7275",
-    "country": "DE",
-    "addTime": 1777370702
-  },
-  {
     "host": "109.61.108.174",
     "port": 443,
     "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
     "country": "RU",
+    "addTime": 1777370702
+  },
+  {
+    "host": "204.168.218.177",
+    "port": 443,
+    "secret": "ee1a499af9a7a18282da82e30714402e157777772e6165726f666c6f742e7275",
+    "country": "DE",
     "addTime": 1777370702
   },
   {
@@ -294,10 +273,10 @@
     "addTime": 1777359975
   },
   {
-    "host": "148.222.186.204",
+    "host": "130.49.188.88",
     "port": 443,
-    "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
-    "country": "FI",
+    "secret": "ddbfabfb919df5704cd3202c089f6fb249",
+    "country": "RU",
     "addTime": 1777359975
   },
   {
@@ -308,10 +287,10 @@
     "addTime": 1777359975
   },
   {
-    "host": "130.49.188.88",
+    "host": "148.222.186.204",
     "port": 443,
-    "secret": "ddbfabfb919df5704cd3202c089f6fb249",
-    "country": "RU",
+    "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
+    "country": "FI",
     "addTime": 1777359975
   },
   {
@@ -336,6 +315,20 @@
     "addTime": 1777349808
   },
   {
+    "host": "77.91.65.166",
+    "port": 51820,
+    "secret": "eef45a589064ed06f30d8cab0e536f37eb636c6f7564666c6172652e636f6d",
+    "country": "GE",
+    "addTime": 1777349808
+  },
+  {
+    "host": "43.160.220.202",
+    "port": 65147,
+    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
+    "country": "SG",
+    "addTime": 1777349808
+  },
+  {
     "host": "43.160.233.81",
     "port": 65421,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
@@ -343,10 +336,17 @@
     "addTime": 1777349808
   },
   {
-    "host": "77.91.65.166",
-    "port": 51820,
-    "secret": "eef45a589064ed06f30d8cab0e536f37eb636c6f7564666c6172652e636f6d",
-    "country": "GE",
-    "addTime": 1777349808
+    "host": "2.26.125.94",
+    "port": 67,
+    "secret": "7gGpaDghoPv4TNk3XN649iR3d3cuc2t5LWxvY2sucnU",
+    "country": "DE",
+    "addTime": 1777349797
+  },
+  {
+    "host": "de-1.nvpn.quest",
+    "port": 8443,
+    "secret": "ee7b598ca8d7d989b159be2e667a59f05f62747269782e746f70",
+    "country": "DE",
+    "addTime": 1777349745
   }
 ]
