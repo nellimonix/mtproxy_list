@@ -7,13 +7,6 @@
     "addTime": 1777360024
   },
   {
-    "host": "38.180.131.98",
-    "port": 443,
-    "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
-    "country": "NL",
-    "addTime": 1777359975
-  },
-  {
     "host": "148.222.186.204",
     "port": 443,
     "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
@@ -21,10 +14,24 @@
     "addTime": 1777359975
   },
   {
+    "host": "38.180.131.98",
+    "port": 443,
+    "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
+    "country": "NL",
+    "addTime": 1777359975
+  },
+  {
     "host": "82.97.240.94",
     "port": 443,
     "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
     "country": "AU",
+    "addTime": 1777359975
+  },
+  {
+    "host": "130.49.188.88",
+    "port": 443,
+    "secret": "ddbfabfb919df5704cd3202c089f6fb249",
+    "country": "RU",
     "addTime": 1777359975
   },
   {
@@ -42,13 +49,6 @@
     "addTime": 1777349813
   },
   {
-    "host": "77.91.65.166",
-    "port": 51820,
-    "secret": "eef45a589064ed06f30d8cab0e536f37eb636c6f7564666c6172652e636f6d",
-    "country": "GE",
-    "addTime": 1777349808
-  },
-  {
     "host": "43.160.220.202",
     "port": 65147,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
@@ -56,15 +56,22 @@
     "addTime": 1777349808
   },
   {
-    "host": "43.160.247.112",
-    "port": 65365,
+    "host": "43.160.233.81",
+    "port": 65421,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "SG",
     "addTime": 1777349808
   },
   {
-    "host": "43.160.233.81",
-    "port": 65421,
+    "host": "77.91.65.166",
+    "port": 51820,
+    "secret": "eef45a589064ed06f30d8cab0e536f37eb636c6f7564666c6172652e636f6d",
+    "country": "GE",
+    "addTime": 1777349808
+  },
+  {
+    "host": "43.160.247.112",
+    "port": 65365,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "SG",
     "addTime": 1777349808
@@ -84,13 +91,6 @@
     "addTime": 1777349745
   },
   {
-    "host": "proxy.monalisgame.com",
-    "port": 443,
-    "secret": "bd5d182c66f93eced64e53dcb5c17003",
-    "country": "RU",
-    "addTime": 1777349733
-  },
-  {
     "host": "95.216.178.76",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -105,24 +105,10 @@
     "addTime": 1777349723
   },
   {
-    "host": "109.61.108.147",
+    "host": "love.kosmojoy.ru",
     "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9646e732d73686f702e7275",
+    "secret": "eead9639a82579888625e98a72876ab52531632e7275",
     "country": "RU",
-    "addTime": 1777349723
-  },
-  {
-    "host": "194.31.223.196",
-    "port": 443,
-    "secret": "eef43cfa0cb4b1d1124643927f09de3c7b616a61782e676f6f676c65617069732e636f6d",
-    "country": "DE",
-    "addTime": 1777349723
-  },
-  {
-    "host": "5.230.159.11",
-    "port": 443,
-    "secret": "eec6c206c4d429f36d13af11fbd3c35e786d742d70726f78792e6f7267",
-    "country": "GB",
     "addTime": 1777349723
   },
   {
@@ -133,24 +119,38 @@
     "addTime": 1777349723
   },
   {
-    "host": "love.kosmojoy.ru",
+    "host": "109.61.108.147",
     "port": 443,
-    "secret": "eead9639a82579888625e98a72876ab52531632e7275",
+    "secret": "eebed92191281b6d7a676b052f2797cad9646e732d73686f702e7275",
     "country": "RU",
     "addTime": 1777349723
   },
   {
-    "host": "proxy-lte.wwwinternet.ru",
-    "port": 444,
-    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
-    "country": "RU",
-    "addTime": 1777349722
+    "host": "5.230.159.11",
+    "port": 443,
+    "secret": "eec6c206c4d429f36d13af11fbd3c35e786d742d70726f78792e6f7267",
+    "country": "GB",
+    "addTime": 1777349723
+  },
+  {
+    "host": "194.31.223.196",
+    "port": 443,
+    "secret": "eef43cfa0cb4b1d1124643927f09de3c7b616a61782e676f6f676c65617069732e636f6d",
+    "country": "DE",
+    "addTime": 1777349723
   },
   {
     "host": "proxy-de.wwwinternet.ru",
     "port": 444,
     "secret": "ee2341dbf12e04bbb220b77464bf98cfa568616e616b6f72692e7275",
     "country": "IQ",
+    "addTime": 1777349722
+  },
+  {
+    "host": "proxy-lte.wwwinternet.ru",
+    "port": 444,
+    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
+    "country": "RU",
     "addTime": 1777349722
   },
   {
@@ -196,13 +196,6 @@
     "addTime": 1777338986
   },
   {
-    "host": "v2reiproxy.duckdns.org",
-    "port": 443,
-    "secret": "dd63ddf70c2fa66dfa8a66e5c244d02c13",
-    "country": "US",
-    "addTime": 1777338981
-  },
-  {
     "host": "v2rei.ignorelist.com",
     "port": 6990,
     "secret": "8585865b85858585b858585b64858582",
@@ -210,11 +203,11 @@
     "addTime": 1777338981
   },
   {
-    "host": "tg.pepewtf.top",
+    "host": "v2reiproxy.duckdns.org",
     "port": 443,
-    "secret": "eecb3c473c7bbea00855003ab715668c5074672e706570657774662e746f70",
-    "country": "RU",
-    "addTime": 1777338887
+    "secret": "dd63ddf70c2fa66dfa8a66e5c244d02c13",
+    "country": "US",
+    "addTime": 1777338981
   },
   {
     "host": "vero.myrka.digital",
@@ -245,13 +238,6 @@
     "addTime": 1777327535
   },
   {
-    "host": "90.188.4.105",
-    "port": 7997,
-    "secret": "ee4c670831e7ee84c7c3a287a2184181d8626979736b32322e7275",
-    "country": "RU",
-    "addTime": 1777327470
-  },
-  {
     "host": "108.165.233.137",
     "port": 443,
     "secret": "24bd7c651c0cdef3195110f94d4c92ce",
@@ -259,10 +245,10 @@
     "addTime": 1777327470
   },
   {
-    "host": "147.45.42.104",
-    "port": 443,
-    "secret": "ee8905c5cfeaffb1fc2f7aa33e5c99df3d766b2e636f6d",
-    "country": "FR",
+    "host": "90.188.4.105",
+    "port": 7997,
+    "secret": "ee4c670831e7ee84c7c3a287a2184181d8626979736b32322e7275",
+    "country": "RU",
     "addTime": 1777327470
   },
   {
@@ -329,13 +315,6 @@
     "addTime": 1777305984
   },
   {
-    "host": "mypushking.ru",
-    "port": 1090,
-    "secret": "eea2b5a83321d52ab7f40f64ec09fb95f96d79707573686b696e672e7275",
-    "country": "NL",
-    "addTime": 1777305984
-  },
-  {
     "host": "shrink.pulsar.rest",
     "port": 443,
     "secret": "eed32bfada03b362891b9d067d465baee3736872696e6b2e70756c7361722e72657374",
@@ -348,5 +327,26 @@
     "secret": "eef896b7aa377546cbf860ae343f143b84676f6f676c652e636f6d",
     "country": "PL",
     "addTime": 1777305984
+  },
+  {
+    "host": "mypushking.ru",
+    "port": 1090,
+    "secret": "eea2b5a83321d52ab7f40f64ec09fb95f96d79707573686b696e672e7275",
+    "country": "NL",
+    "addTime": 1777305984
+  },
+  {
+    "host": "194.113.37.29",
+    "port": 443,
+    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
+    "country": "US",
+    "addTime": 1777305978
+  },
+  {
+    "host": "2.27.86.108",
+    "port": 443,
+    "secret": "ee1951e0fcea4d5194dabb0103e5573cfa79616e6465782e7275",
+    "country": "DE",
+    "addTime": 1777305976
   }
 ]
