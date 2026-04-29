@@ -21,17 +21,17 @@
     "addTime": 1777435485
   },
   {
-    "host": "185.9.26.55",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275",
-    "country": "FI",
-    "addTime": 1777435485
-  },
-  {
     "host": "50.7.144.50",
     "port": 443,
     "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
     "country": "NL",
+    "addTime": 1777435485
+  },
+  {
+    "host": "185.9.26.55",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275",
+    "country": "FI",
     "addTime": 1777435485
   },
   {
@@ -42,16 +42,16 @@
     "addTime": 1777435484
   },
   {
-    "host": "185.73.126.125",
-    "port": 4443,
-    "secret": "eed4c81385714f7867b3777f10ffd2b63b62617262616e6572612e746f70",
+    "host": "132.243.214.71",
+    "port": 443,
+    "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
     "country": "RU",
     "addTime": 1777435484
   },
   {
-    "host": "132.243.214.71",
-    "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
+    "host": "185.73.126.125",
+    "port": 4443,
+    "secret": "eed4c81385714f7867b3777f10ffd2b63b62617262616e6572612e746f70",
     "country": "RU",
     "addTime": 1777435484
   },
@@ -91,21 +91,14 @@
     "addTime": 1777424793
   },
   {
-    "host": "https.porteghall.site",
-    "port": 8443,
-    "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "US",
-    "addTime": 1777424792
-  },
-  {
-    "host": "https.uptv443.shop",
+    "host": "www.uptv443.shop",
     "port": 8443,
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
     "country": "US",
     "addTime": 1777424792
   },
   {
-    "host": "www.uptv443.shop",
+    "host": "https.uptv443.shop",
     "port": 8443,
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
     "country": "US",
@@ -122,6 +115,13 @@
     "host": "www.x9q.pw",
     "port": 8443,
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "country": "US",
+    "addTime": 1777424792
+  },
+  {
+    "host": "https.porteghall.site",
+    "port": 8443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
     "country": "US",
     "addTime": 1777424792
   },
@@ -154,13 +154,6 @@
     "addTime": 1777424721
   },
   {
-    "host": "https.alo-alo.ink",
-    "port": 8443,
-    "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "US",
-    "addTime": 1777424716
-  },
-  {
     "host": "russia.publiclg.shop",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
@@ -168,17 +161,24 @@
     "addTime": 1777424716
   },
   {
-    "host": "masterklass-umelye-ruchki.voltlab.su",
-    "port": 443,
-    "secret": "eea5e1036a0432a85a0f1d73d05c643b9e6d61737465726b6c6173732d756d656c79652d727563686b692e766f6c746c61622e7375",
+    "host": "https.alo-alo.ink",
+    "port": 8443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
     "country": "US",
-    "addTime": 1777414010
+    "addTime": 1777424716
   },
   {
     "host": "rawmilk.voltlab.su",
     "port": 443,
     "secret": "eecacfc4d512f6456f443148a9ad484be77261776d696c6b2e766f6c746c61622e7375",
     "country": "FR",
+    "addTime": 1777414010
+  },
+  {
+    "host": "masterklass-umelye-ruchki.voltlab.su",
+    "port": 443,
+    "secret": "eea5e1036a0432a85a0f1d73d05c643b9e6d61737465726b6c6173732d756d656c79652d727563686b692e766f6c746c61622e7375",
+    "country": "US",
     "addTime": 1777414010
   },
   {
@@ -196,17 +196,17 @@
     "addTime": 1777413929
   },
   {
-    "host": "bella-cook.com",
-    "port": 443,
-    "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1777413866
-  },
-  {
     "host": "nya-nya.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
+    "addTime": 1777413866
+  },
+  {
+    "host": "bella-cook.com",
+    "port": 443,
+    "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
+    "country": "RU",
     "addTime": 1777413866
   },
   {
@@ -217,13 +217,6 @@
     "addTime": 1777413860
   },
   {
-    "host": "n1.mtproxygram.lol",
-    "port": 443,
-    "secret": "ee2e2c85a3cedad5d32e05f3015457078b62726f777365722e79616e6465782e636f6d",
-    "country": "NL",
-    "addTime": 1777413852
-  },
-  {
     "host": "s5.mtproxygram.lol",
     "port": 443,
     "secret": "eeda4562412c256bdb1d2896cdc4a4da2962726f777365722e79616e6465782e636f6d",
@@ -231,11 +224,11 @@
     "addTime": 1777413852
   },
   {
-    "host": "mtp.kndrsxraybot.com",
+    "host": "n1.mtproxygram.lol",
     "port": 443,
-    "secret": "dde9748eba6c95f9db1a0458166890a86d",
-    "country": "US",
-    "addTime": 1777403196
+    "secret": "ee2e2c85a3cedad5d32e05f3015457078b62726f777365722e79616e6465782e636f6d",
+    "country": "NL",
+    "addTime": 1777413852
   },
   {
     "host": "91.108.248.222",
@@ -245,17 +238,17 @@
     "addTime": 1777403173
   },
   {
-    "host": "secure.nuv.su",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "FR",
-    "addTime": 1777403127
-  },
-  {
     "host": "mix.nuv.su",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
     "country": "RU",
+    "addTime": 1777403127
+  },
+  {
+    "host": "secure.nuv.su",
+    "port": 443,
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
+    "country": "FR",
     "addTime": 1777403127
   },
   {
@@ -287,9 +280,23 @@
     "addTime": 1777392405
   },
   {
+    "host": "tg-de.axiomevpn.top",
+    "port": 443,
+    "secret": "ee0ad08e831f91bc8abdcb941a3514cbdf706574726f766963682e7275",
+    "country": "NL",
+    "addTime": 1777392383
+  },
+  {
     "host": "5.22.212.131",
     "port": 443,
     "secret": "dd59f5e4be6d8552266f38accfc9f7ff85",
+    "country": "DE",
+    "addTime": 1777392383
+  },
+  {
+    "host": "docs.freeprovider.online",
+    "port": 8444,
+    "secret": "ee94980ca2bd8d489b4caff9ad1032e3f579616e6465782e7275",
     "country": "DE",
     "addTime": 1777392383
   },
@@ -298,20 +305,6 @@
     "port": 8443,
     "secret": "ee6cee1d27f1b2dbeae61942bd165f7f666c6c6d2e6e696b6974612d646576656c6f706d656e742e7275",
     "country": "PL",
-    "addTime": 1777392383
-  },
-  {
-    "host": "tg-de.axiomevpn.top",
-    "port": 443,
-    "secret": "ee0ad08e831f91bc8abdcb941a3514cbdf706574726f766963682e7275",
-    "country": "NL",
-    "addTime": 1777392383
-  },
-  {
-    "host": "docs.freeprovider.online",
-    "port": 8444,
-    "secret": "ee94980ca2bd8d489b4caff9ad1032e3f579616e6465782e7275",
-    "country": "DE",
     "addTime": 1777392383
   },
   {
@@ -332,7 +325,7 @@
     "host": "proxym.world",
     "port": 443,
     "secret": "1b6453892473a467d07372d45eb05abc",
-    "country": "MD",
+    "country": "US",
     "addTime": 1777381705
   },
   {
@@ -348,5 +341,12 @@
     "secret": "e3e4adacb65786199672442a0c5209ba",
     "country": "US",
     "addTime": 1777381650
+  },
+  {
+    "host": "91.107.166.142",
+    "port": 8888,
+    "secret": "7rEMFbn2Wa4rnx5kbJx8H0BzMy5hbWF6b25hd3MuY29t",
+    "country": "DE",
+    "addTime": 1777381591
   }
 ]
