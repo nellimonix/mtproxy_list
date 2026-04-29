@@ -77,10 +77,10 @@
     "addTime": 1777435602
   },
   {
-    "host": "2.26.136.118",
+    "host": "185.9.26.55",
     "port": 443,
-    "secret": "ee176ff0639ed5582352da8e1df17791b877622e7275",
-    "country": "US",
+    "secret": "ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275",
+    "country": "FI",
     "addTime": 1777435485
   },
   {
@@ -91,13 +91,6 @@
     "addTime": 1777435485
   },
   {
-    "host": "185.9.26.55",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275",
-    "country": "FI",
-    "addTime": 1777435485
-  },
-  {
     "host": "50.7.144.50",
     "port": 443,
     "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
@@ -105,11 +98,11 @@
     "addTime": 1777435485
   },
   {
-    "host": "132.243.214.71",
+    "host": "2.26.136.118",
     "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
-    "country": "RU",
-    "addTime": 1777435484
+    "secret": "ee176ff0639ed5582352da8e1df17791b877622e7275",
+    "country": "US",
+    "addTime": 1777435485
   },
   {
     "host": "185.73.126.125",
@@ -126,6 +119,13 @@
     "addTime": 1777435484
   },
   {
+    "host": "132.243.214.71",
+    "port": 443,
+    "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
+    "country": "RU",
+    "addTime": 1777435484
+  },
+  {
     "host": "hi.publiclg.shop",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
@@ -133,15 +133,15 @@
     "addTime": 1777424814
   },
   {
-    "host": "166.88.164.116",
-    "port": 65365,
+    "host": "23.27.134.100",
+    "port": 65421,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "US",
     "addTime": 1777424802
   },
   {
-    "host": "23.27.134.100",
-    "port": 65421,
+    "host": "166.88.164.116",
+    "port": 65365,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "US",
     "addTime": 1777424802
@@ -152,13 +152,6 @@
     "secret": "dd79e7010200010007f0030386e24c3add",
     "country": "US",
     "addTime": 1777424793
-  },
-  {
-    "host": "https.uptv443.shop",
-    "port": 8443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "country": "US",
-    "addTime": 1777424792
   },
   {
     "host": "https.porteghall.site",
@@ -175,6 +168,13 @@
     "addTime": 1777424792
   },
   {
+    "host": "www.x9q.pw",
+    "port": 8443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "country": "US",
+    "addTime": 1777424792
+  },
+  {
     "host": "www.alo-alo.ink",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
@@ -182,7 +182,7 @@
     "addTime": 1777424792
   },
   {
-    "host": "www.x9q.pw",
+    "host": "https.uptv443.shop",
     "port": 8443,
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
     "country": "US",
@@ -229,13 +229,6 @@
     "secret": "dd79e7010200010007f0030386e24c3add",
     "country": "US",
     "addTime": 1777424716
-  },
-  {
-    "host": "rawmilk.voltlab.su",
-    "port": 443,
-    "secret": "eecacfc4d512f6456f443148a9ad484be77261776d696c6b2e766f6c746c61622e7375",
-    "country": "FR",
-    "addTime": 1777414010
   },
   {
     "host": "masterklass-umelye-ruchki.voltlab.su",
@@ -301,17 +294,17 @@
     "addTime": 1777403173
   },
   {
-    "host": "mix.nuv.su",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "RU",
-    "addTime": 1777403127
-  },
-  {
     "host": "secure.nuv.su",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
     "country": "FR",
+    "addTime": 1777403127
+  },
+  {
+    "host": "mix.nuv.su",
+    "port": 443,
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
+    "country": "RU",
     "addTime": 1777403127
   },
   {
@@ -336,17 +329,24 @@
     "addTime": 1777392467
   },
   {
-    "host": "docs.freeprovider.online",
-    "port": 8444,
-    "secret": "ee94980ca2bd8d489b4caff9ad1032e3f579616e6465782e7275",
-    "country": "DE",
-    "addTime": 1777392383
-  },
-  {
     "host": "llm.nikita-development.ru",
     "port": 8443,
     "secret": "ee6cee1d27f1b2dbeae61942bd165f7f666c6c6d2e6e696b6974612d646576656c6f706d656e742e7275",
     "country": "PL",
+    "addTime": 1777392383
+  },
+  {
+    "host": "noclip-tg.send-messege.top",
+    "port": 443,
+    "secret": "7pxzoPyMrn25tkM2NeK8dsNub2NsaXAtdGcuc2VuZC1tZXNzZWdlLnRvcA",
+    "country": "US",
+    "addTime": 1777392383
+  },
+  {
+    "host": "docs.freeprovider.online",
+    "port": 8444,
+    "secret": "ee94980ca2bd8d489b4caff9ad1032e3f579616e6465782e7275",
+    "country": "DE",
     "addTime": 1777392383
   }
 ]
