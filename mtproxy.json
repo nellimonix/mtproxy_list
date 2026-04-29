@@ -14,13 +14,6 @@
     "addTime": 1777446397
   },
   {
-    "host": "silvpn.su",
-    "port": 443,
-    "secret": "c7d9227942a916f5d61a4203355ce80a",
-    "country": "NL",
-    "addTime": 1777446392
-  },
-  {
     "host": "158.160.121.137",
     "port": 443,
     "secret": "de232b782405cbcdec53508eb349480d",
@@ -35,25 +28,11 @@
     "addTime": 1777446374
   },
   {
-    "host": "connect.x-modz.ru",
-    "port": 1337,
-    "secret": "ddc0c733ec1b86d03859cb13ed09f9f722",
-    "country": "RU",
-    "addTime": 1777446261
-  },
-  {
     "host": "new.tg-proxyes.ru",
     "port": 443,
     "secret": "078983aa56fd433d1366546ec9bc6517",
     "country": "SA",
     "addTime": 1777435602
-  },
-  {
-    "host": "2.26.136.118",
-    "port": 443,
-    "secret": "ee176ff0639ed5582352da8e1df17791b877622e7275",
-    "country": "US",
-    "addTime": 1777435485
   },
   {
     "host": "185.9.26.55",
@@ -77,6 +56,20 @@
     "addTime": 1777435485
   },
   {
+    "host": "2.26.136.118",
+    "port": 443,
+    "secret": "ee176ff0639ed5582352da8e1df17791b877622e7275",
+    "country": "US",
+    "addTime": 1777435485
+  },
+  {
+    "host": "132.243.214.71",
+    "port": 443,
+    "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
+    "country": "RU",
+    "addTime": 1777435484
+  },
+  {
     "host": "2.26.138.66",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275",
@@ -91,25 +84,11 @@
     "addTime": 1777435484
   },
   {
-    "host": "132.243.214.71",
-    "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
-    "country": "RU",
-    "addTime": 1777435484
-  },
-  {
     "host": "hi.publiclg.shop",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
     "country": "US",
     "addTime": 1777424814
-  },
-  {
-    "host": "23.27.134.100",
-    "port": 65421,
-    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
-    "country": "US",
-    "addTime": 1777424802
   },
   {
     "host": "166.88.164.192",
@@ -126,6 +105,13 @@
     "addTime": 1777424802
   },
   {
+    "host": "23.27.134.100",
+    "port": 65421,
+    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
+    "country": "US",
+    "addTime": 1777424802
+  },
+  {
     "host": "bmw.publiclg.shop",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
@@ -134,13 +120,6 @@
   },
   {
     "host": "www.alo-alo.ink",
-    "port": 8443,
-    "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "US",
-    "addTime": 1777424792
-  },
-  {
-    "host": "https.porteghall.site",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
     "country": "US",
@@ -164,6 +143,13 @@
     "host": "https.uptv443.shop",
     "port": 8443,
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "country": "US",
+    "addTime": 1777424792
+  },
+  {
+    "host": "https.porteghall.site",
+    "port": 8443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
     "country": "US",
     "addTime": 1777424792
   },
@@ -196,13 +182,6 @@
     "addTime": 1777424721
   },
   {
-    "host": "https.alo-alo.ink",
-    "port": 8443,
-    "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "US",
-    "addTime": 1777424716
-  },
-  {
     "host": "russia.publiclg.shop",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
@@ -210,17 +189,24 @@
     "addTime": 1777424716
   },
   {
-    "host": "rawmilk.voltlab.su",
-    "port": 443,
-    "secret": "eecacfc4d512f6456f443148a9ad484be77261776d696c6b2e766f6c746c61622e7375",
-    "country": "FR",
-    "addTime": 1777414010
+    "host": "https.alo-alo.ink",
+    "port": 8443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
+    "country": "US",
+    "addTime": 1777424716
   },
   {
     "host": "masterklass-umelye-ruchki.voltlab.su",
     "port": 443,
     "secret": "eea5e1036a0432a85a0f1d73d05c643b9e6d61737465726b6c6173732d756d656c79652d727563686b692e766f6c746c61622e7375",
     "country": "US",
+    "addTime": 1777414010
+  },
+  {
+    "host": "rawmilk.voltlab.su",
+    "port": 443,
+    "secret": "eecacfc4d512f6456f443148a9ad484be77261776d696c6b2e766f6c746c61622e7375",
+    "country": "FR",
     "addTime": 1777414010
   },
   {
@@ -238,17 +224,17 @@
     "addTime": 1777413929
   },
   {
-    "host": "nya-nya.top",
-    "port": 853,
-    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "country": "US",
-    "addTime": 1777413866
-  },
-  {
     "host": "bella-cook.com",
     "port": 443,
     "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
     "country": "RU",
+    "addTime": 1777413866
+  },
+  {
+    "host": "nya-nya.top",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
     "addTime": 1777413866
   },
   {
@@ -259,13 +245,6 @@
     "addTime": 1777413860
   },
   {
-    "host": "n1.mtproxygram.lol",
-    "port": 443,
-    "secret": "ee2e2c85a3cedad5d32e05f3015457078b62726f777365722e79616e6465782e636f6d",
-    "country": "NL",
-    "addTime": 1777413852
-  },
-  {
     "host": "s5.mtproxygram.lol",
     "port": 443,
     "secret": "eeda4562412c256bdb1d2896cdc4a4da2962726f777365722e79616e6465782e636f6d",
@@ -273,11 +252,11 @@
     "addTime": 1777413852
   },
   {
-    "host": "mtp.kndrsxraybot.com",
+    "host": "n1.mtproxygram.lol",
     "port": 443,
-    "secret": "dde9748eba6c95f9db1a0458166890a86d",
-    "country": "US",
-    "addTime": 1777403196
+    "secret": "ee2e2c85a3cedad5d32e05f3015457078b62726f777365722e79616e6465782e636f6d",
+    "country": "NL",
+    "addTime": 1777413852
   },
   {
     "host": "91.108.248.222",
@@ -322,10 +301,10 @@
     "addTime": 1777392383
   },
   {
-    "host": "llm.nikita-development.ru",
-    "port": 8443,
-    "secret": "ee6cee1d27f1b2dbeae61942bd165f7f666c6c6d2e6e696b6974612d646576656c6f706d656e742e7275",
-    "country": "PL",
+    "host": "tg-de.axiomevpn.top",
+    "port": 443,
+    "secret": "ee0ad08e831f91bc8abdcb941a3514cbdf706574726f766963682e7275",
+    "country": "NL",
     "addTime": 1777392383
   },
   {
@@ -336,11 +315,18 @@
     "addTime": 1777392383
   },
   {
-    "host": "tg-de.axiomevpn.top",
-    "port": 443,
-    "secret": "ee0ad08e831f91bc8abdcb941a3514cbdf706574726f766963682e7275",
-    "country": "NL",
+    "host": "llm.nikita-development.ru",
+    "port": 8443,
+    "secret": "ee6cee1d27f1b2dbeae61942bd165f7f666c6c6d2e6e696b6974612d646576656c6f706d656e742e7275",
+    "country": "PL",
     "addTime": 1777392383
+  },
+  {
+    "host": "147.45.189.20",
+    "port": 443,
+    "secret": "eeb7d7ae458510bfd63dbf3082f0d4b1446d61782e7275",
+    "country": "RU",
+    "addTime": 1777392293
   },
   {
     "host": "147.45.189.165",
@@ -348,5 +334,19 @@
     "secret": "ee318aecce01fb8ef78acef3c5ce88f67b6d61782e7275",
     "country": "RU",
     "addTime": 1777392293
+  },
+  {
+    "host": "proxym.world",
+    "port": 443,
+    "secret": "1b6453892473a467d07372d45eb05abc",
+    "country": "NL",
+    "addTime": 1777381705
+  },
+  {
+    "host": "tg.triwords.online",
+    "port": 443,
+    "secret": "eef6f280e7a4993c1b1ba5c31cf3dcba3774672e747269776f7264732e6f6e6c696e65",
+    "country": "US",
+    "addTime": 1777381656
   }
 ]
