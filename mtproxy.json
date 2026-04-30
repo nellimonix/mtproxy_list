@@ -42,6 +42,13 @@
     "addTime": 1777500418
   },
   {
+    "host": "free.fckrknbot.com",
+    "port": 443,
+    "secret": "eef48f621b110f302e468756840c29f916766b2e636f6d",
+    "country": "RU",
+    "addTime": 1777500416
+  },
+  {
     "host": "api.serv-tg.quest",
     "port": 443,
     "secret": "eef0e80002a7ddaf9016d2ec7095acef4d6170692e736572762d74672e7175657374",
@@ -140,13 +147,6 @@
     "addTime": 1777478786
   },
   {
-    "host": "prox31.vpncontrol.online",
-    "port": 443,
-    "secret": "dd63ddf70c2fa66dfa8a66e5c244d02c13",
-    "country": "US",
-    "addTime": 1777478774
-  },
-  {
     "host": "yonk.xselid.online",
     "port": 444,
     "secret": "c0dec0dec0dec0dec0dec0dec0dec0de",
@@ -154,10 +154,17 @@
     "addTime": 1777478774
   },
   {
-    "host": "50.7.196.42",
+    "host": "prox31.vpncontrol.online",
     "port": 443,
-    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
-    "country": "GB",
+    "secret": "dd63ddf70c2fa66dfa8a66e5c244d02c13",
+    "country": "US",
+    "addTime": 1777478774
+  },
+  {
+    "host": "185.130.113.188",
+    "port": 444,
+    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
+    "country": "RU",
     "addTime": 1777478773
   },
   {
@@ -175,9 +182,30 @@
     "addTime": 1777478773
   },
   {
-    "host": "185.130.113.188",
-    "port": 444,
-    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
+    "host": "82.22.41.177",
+    "port": 8443,
+    "secret": "ee6cee1d27f1b2dbeae61942bd165f7f666c6c6d2e6e696b6974612d646576656c6f706d656e742e7275",
+    "country": "PL",
+    "addTime": 1777478773
+  },
+  {
+    "host": "91.99.154.151",
+    "port": 8444,
+    "secret": "ee94980ca2bd8d489b4caff9ad1032e3f579616e6465782e7275",
+    "country": "DE",
+    "addTime": 1777478773
+  },
+  {
+    "host": "50.7.196.42",
+    "port": 443,
+    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
+    "country": "GB",
+    "addTime": 1777478773
+  },
+  {
+    "host": "158.160.253.241",
+    "port": 8443,
+    "secret": "734ee77915c1d90f976a82d000052ad5",
     "country": "RU",
     "addTime": 1777478773
   },
@@ -185,13 +213,6 @@
     "host": "87.228.118.152",
     "port": 443,
     "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
-    "country": "RU",
-    "addTime": 1777478773
-  },
-  {
-    "host": "158.160.253.241",
-    "port": 8443,
-    "secret": "734ee77915c1d90f976a82d000052ad5",
     "country": "RU",
     "addTime": 1777478773
   },
@@ -214,20 +235,6 @@
     "port": 443,
     "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
     "country": "RU",
-    "addTime": 1777478773
-  },
-  {
-    "host": "82.22.41.177",
-    "port": 8443,
-    "secret": "ee6cee1d27f1b2dbeae61942bd165f7f666c6c6d2e6e696b6974612d646576656c6f706d656e742e7275",
-    "country": "PL",
-    "addTime": 1777478773
-  },
-  {
-    "host": "91.99.154.151",
-    "port": 8444,
-    "secret": "ee94980ca2bd8d489b4caff9ad1032e3f579616e6465782e7275",
-    "country": "DE",
     "addTime": 1777478773
   },
   {
@@ -341,12 +348,5 @@
     "secret": "eea5e1036a0432a85a0f1d73d05c643b9e6d61737465726b6c6173732d756d656c79652d727563686b692e766f6c746c61622e7375",
     "country": "US",
     "addTime": 1777468046
-  },
-  {
-    "host": "fast.twistedos.shop",
-    "port": 443,
-    "secret": "ee4df5b493b9109cfc842c65aa62418619636c6f7564666c6172652e636f6d",
-    "country": "US",
-    "addTime": 1777468039
   }
 ]
