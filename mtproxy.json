@@ -7,13 +7,6 @@
     "addTime": 1777554362
   },
   {
-    "host": "2.27.14.241",
-    "port": 443,
-    "secret": "eeabf6cabef834363ece30186d00801c0e6974756e65732e6170706c652e636f6d",
-    "country": "US",
-    "addTime": 1777554295
-  },
-  {
     "host": "185.143.232.207",
     "port": 443,
     "secret": "ee68747470733a2f2f74656c656772616d2e6d65",
@@ -29,6 +22,13 @@
   },
   {
     "host": "185.143.232.204",
+    "port": 443,
+    "secret": "ee68747470733a2f2f74656c656772616d2e6d65",
+    "country": "IR",
+    "addTime": 1777554294
+  },
+  {
+    "host": "185.143.232.203",
     "port": 443,
     "secret": "ee68747470733a2f2f74656c656772616d2e6d65",
     "country": "IR",
@@ -126,13 +126,6 @@
     "addTime": 1777543567
   },
   {
-    "host": "185.143.232.181",
-    "port": 443,
-    "secret": "ee68747470733a2f2f74656c656772616d2e6d65",
-    "country": "IR",
-    "addTime": 1777543567
-  },
-  {
     "host": "45.84.222.105",
     "port": 443,
     "secret": "ee63ebfcafad3291239d6f94ec57ea5c386e657468312e61676572612d636f6e6e6563742e6c6f6c",
@@ -196,16 +189,16 @@
     "addTime": 1777511094
   },
   {
-    "host": "144.31.48.70",
+    "host": "95.163.211.72",
     "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad977696c64626572726965732e7275",
+    "secret": "ee973e178b06e6b204a3f6d8044dda69c774672e68656c6c6f6869726f2e7275",
     "country": "RU",
     "addTime": 1777511093
   },
   {
-    "host": "95.163.211.72",
+    "host": "144.31.48.70",
     "port": 443,
-    "secret": "ee973e178b06e6b204a3f6d8044dda69c774672e68656c6c6f6869726f2e7275",
+    "secret": "eebed92191281b6d7a676b052f2797cad977696c64626572726965732e7275",
     "country": "RU",
     "addTime": 1777511093
   },
@@ -229,13 +222,6 @@
     "secret": "dd63ddf70c2fa66dfa8a66e5c244d02c13",
     "country": "US",
     "addTime": 1777500418
-  },
-  {
-    "host": "free.fckrknbot.com",
-    "port": 443,
-    "secret": "eef48f621b110f302e468756840c29f916766b2e636f6d",
-    "country": "RU",
-    "addTime": 1777500416
   },
   {
     "host": "api.serv-tg.quest",
@@ -347,6 +333,20 @@
     "port": 8444,
     "secret": "ee94980ca2bd8d489b4caff9ad1032e3f579616e6465782e7275",
     "country": "DE",
+    "addTime": 1777478773
+  },
+  {
+    "host": "185.130.113.188",
+    "port": 444,
+    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
+    "country": "RU",
+    "addTime": 1777478773
+  },
+  {
+    "host": "83.166.233.142",
+    "port": 443,
+    "secret": "eead9639a82579888625e98a72876ab52531632e7275",
+    "country": "RU",
     "addTime": 1777478773
   }
 ]
