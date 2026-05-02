@@ -7,13 +7,6 @@
     "addTime": 1777673192
   },
   {
-    "host": "23.27.134.84",
-    "port": 443,
-    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
-    "country": "US",
-    "addTime": 1777673192
-  },
-  {
     "host": "23.27.134.61",
     "port": 443,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
@@ -21,11 +14,11 @@
     "addTime": 1777673192
   },
   {
-    "host": "psychotherapy.nfkavn.bond",
+    "host": "23.27.134.84",
     "port": 443,
-    "secret": "ee073ac845648254e91c2a5cb10bbd73cc79612e7275",
-    "country": "EE",
-    "addTime": 1777673188
+    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
+    "country": "US",
+    "addTime": 1777673192
   },
   {
     "host": "kria.snappy.icu",
@@ -105,13 +98,6 @@
     "addTime": 1777662290
   },
   {
-    "host": "5.231.56.165",
-    "port": 443,
-    "secret": "7c81481b8a23812706cbd96fb2c8b0b8",
-    "country": "DE",
-    "addTime": 1777662287
-  },
-  {
     "host": "who-are-you.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
@@ -119,17 +105,24 @@
     "addTime": 1777662287
   },
   {
-    "host": "2.26.85.57",
+    "host": "5.231.56.165",
     "port": 443,
-    "secret": "ee470ad979df6233ed96590c3dcde61b42706c617932676f2e636c6f7564",
-    "country": "GB",
-    "addTime": 1777651589
+    "secret": "7c81481b8a23812706cbd96fb2c8b0b8",
+    "country": "DE",
+    "addTime": 1777662287
   },
   {
     "host": "64.188.64.79",
     "port": 8443,
     "secret": "ee17fdfa167f6babdb3f893586ac3784977375623372656c61792e6475636b646e732e6f7267",
     "country": "DE",
+    "addTime": 1777651589
+  },
+  {
+    "host": "mt2.angald.ru",
+    "port": 443,
+    "secret": "ee6bdd2dd2758bcdce95675301e7b932aa6d61696c2e616e67616c642e7275",
+    "country": "SE",
     "addTime": 1777651589
   },
   {
@@ -140,10 +133,10 @@
     "addTime": 1777651589
   },
   {
-    "host": "mt2.angald.ru",
+    "host": "2.26.85.57",
     "port": 443,
-    "secret": "ee6bdd2dd2758bcdce95675301e7b932aa6d61696c2e616e67616c642e7275",
-    "country": "SE",
+    "secret": "ee470ad979df6233ed96590c3dcde61b42706c617932676f2e636c6f7564",
+    "country": "GB",
     "addTime": 1777651589
   },
   {
@@ -210,13 +203,6 @@
     "addTime": 1777640775
   },
   {
-    "host": "maxifree.ishrimp.xyz",
-    "port": 443,
-    "secret": "eeda276c4eeff7b94ceffde83ba1bca1fc6d617869667265652e69736872696d702e78797a",
-    "country": "NL",
-    "addTime": 1777640692
-  },
-  {
     "host": "proxy1.zeleniyslonik.guru",
     "port": 443,
     "secret": "eef75e1d0f1eaface44bd3e2339697827770726f7879312e7a656c656e6979736c6f6e696b2e67757275",
@@ -231,6 +217,13 @@
     "addTime": 1777640692
   },
   {
+    "host": "bin.mdnk.fun",
+    "port": 443,
+    "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
+    "country": "GB",
+    "addTime": 1777640692
+  },
+  {
     "host": "212.43.149.230",
     "port": 443,
     "secret": "ddbb2bb629e6110b10b43c4e1ecfdac6e1",
@@ -238,10 +231,10 @@
     "addTime": 1777640692
   },
   {
-    "host": "bin.mdnk.fun",
+    "host": "maxifree.ishrimp.xyz",
     "port": 443,
-    "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
-    "country": "GB",
+    "secret": "eeda276c4eeff7b94ceffde83ba1bca1fc6d617869667265652e69736872696d702e78797a",
+    "country": "NL",
     "addTime": 1777640692
   },
   {
@@ -339,7 +332,7 @@
     "host": "tg.tgtesla.click",
     "port": 443,
     "secret": "7k2Ycfkhv5UX8GgSlT2CtpZtYXgucnU",
-    "country": "RU",
+    "country": "CZ",
     "addTime": 1777619179
   },
   {
@@ -348,5 +341,12 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1777619110
+  },
+  {
+    "host": "91.108.239.182",
+    "port": 443,
+    "secret": "ee7b4ae6f614725c06bb224c6ffca974e479616e6465782e7275",
+    "country": "FI",
+    "addTime": 1777619102
   }
 ]
