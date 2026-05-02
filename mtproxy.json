@@ -21,14 +21,14 @@
     "addTime": 1777673192
   },
   {
-    "host": "23.27.134.61",
+    "host": "23.27.134.84",
     "port": 443,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "US",
     "addTime": 1777673192
   },
   {
-    "host": "23.27.134.84",
+    "host": "23.27.134.61",
     "port": 443,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "US",
@@ -126,10 +126,10 @@
     "addTime": 1777662287
   },
   {
-    "host": "mt2.angald.ru",
+    "host": "2.26.85.57",
     "port": 443,
-    "secret": "ee6bdd2dd2758bcdce95675301e7b932aa6d61696c2e616e67616c642e7275",
-    "country": "SE",
+    "secret": "ee470ad979df6233ed96590c3dcde61b42706c617932676f2e636c6f7564",
+    "country": "GB",
     "addTime": 1777651589
   },
   {
@@ -140,10 +140,10 @@
     "addTime": 1777651589
   },
   {
-    "host": "2.26.85.57",
+    "host": "mt2.angald.ru",
     "port": 443,
-    "secret": "ee470ad979df6233ed96590c3dcde61b42706c617932676f2e636c6f7564",
-    "country": "GB",
+    "secret": "ee6bdd2dd2758bcdce95675301e7b932aa6d61696c2e616e67616c642e7275",
+    "country": "SE",
     "addTime": 1777651589
   },
   {
@@ -217,17 +217,10 @@
     "addTime": 1777640775
   },
   {
-    "host": "154.83.208.125",
-    "port": 7443,
-    "secret": "ee38b9b0c4593e5f066d687ddcca5e636c6f7564666c6172652e636f6d",
-    "country": "SC",
-    "addTime": 1777640692
-  },
-  {
-    "host": "proxy1.zeleniyslonik.guru",
-    "port": 443,
-    "secret": "eef75e1d0f1eaface44bd3e2339697827770726f7879312e7a656c656e6979736c6f6e696b2e67757275",
-    "country": "DE",
+    "host": "45.15.129.62",
+    "port": 322,
+    "secret": "7jxWn4gNdE5lUgkqgbRKB253d3cuYW1hem9uLmNvbQ",
+    "country": "CY",
     "addTime": 1777640692
   },
   {
@@ -252,10 +245,17 @@
     "addTime": 1777640692
   },
   {
-    "host": "45.15.129.62",
-    "port": 322,
-    "secret": "7jxWn4gNdE5lUgkqgbRKB253d3cuYW1hem9uLmNvbQ",
-    "country": "CY",
+    "host": "proxy1.zeleniyslonik.guru",
+    "port": 443,
+    "secret": "eef75e1d0f1eaface44bd3e2339697827770726f7879312e7a656c656e6979736c6f6e696b2e67757275",
+    "country": "DE",
+    "addTime": 1777640692
+  },
+  {
+    "host": "154.83.208.125",
+    "port": 7443,
+    "secret": "ee38b9b0c4593e5f066d687ddcca5e636c6f7564666c6172652e636f6d",
+    "country": "SC",
     "addTime": 1777640692
   },
   {
@@ -266,17 +266,17 @@
     "addTime": 1777640690
   },
   {
-    "host": "141.98.7.73",
-    "port": 443,
-    "secret": "eebc827d6fc89b9506f04abbccc4a027e8676f6f676c652e636f6d",
-    "country": "DE",
-    "addTime": 1777640681
-  },
-  {
     "host": "81.90.21.237",
     "port": 443,
     "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
     "country": "SE",
+    "addTime": 1777640681
+  },
+  {
+    "host": "141.98.7.73",
+    "port": 443,
+    "secret": "eebc827d6fc89b9506f04abbccc4a027e8676f6f676c652e636f6d",
+    "country": "DE",
     "addTime": 1777640681
   },
   {
@@ -294,13 +294,6 @@
     "addTime": 1777629933
   },
   {
-    "host": "2.26.51.147",
-    "port": 443,
-    "secret": "ee6f7093c38d0dacfa050448dc24680b68706c617932676f2e636c6f7564",
-    "country": "GB",
-    "addTime": 1777629930
-  },
-  {
     "host": "tg-proxy.myoasis.fyi",
     "port": 8443,
     "secret": "ee7928236c568779906660113824147700676f6f676c652e636f6d",
@@ -312,6 +305,13 @@
     "port": 8443,
     "secret": "eeb3a63f669b860e5c4b734ecb75a6dba7676f6f676c652e636f6d",
     "country": "IL",
+    "addTime": 1777629930
+  },
+  {
+    "host": "2.26.51.147",
+    "port": 443,
+    "secret": "ee6f7093c38d0dacfa050448dc24680b68706c617932676f2e636c6f7564",
+    "country": "GB",
     "addTime": 1777629930
   },
   {
