@@ -1,12 +1,5 @@
 [
   {
-    "host": "23.27.134.88",
-    "port": 443,
-    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
-    "country": "US",
-    "addTime": 1777716389
-  },
-  {
     "host": "23.27.134.74",
     "port": 443,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
@@ -15,6 +8,13 @@
   },
   {
     "host": "23.27.134.73",
+    "port": 443,
+    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
+    "country": "US",
+    "addTime": 1777716389
+  },
+  {
+    "host": "23.27.134.88",
     "port": 443,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "US",
@@ -70,9 +70,9 @@
     "addTime": 1777705512
   },
   {
-    "host": "89.125.113.12",
+    "host": "89.125.113.10",
     "port": 443,
-    "secret": "ee5c435541940799bc8d9d4b591d62ddc179616e6465782e7275",
+    "secret": "ee700a15adb4cca8106fe1e0ad0dd35ce879616e6465782e7275",
     "country": "AE",
     "addTime": 1777705487
   },
@@ -84,9 +84,9 @@
     "addTime": 1777705487
   },
   {
-    "host": "89.125.113.10",
+    "host": "89.125.113.12",
     "port": 443,
-    "secret": "ee700a15adb4cca8106fe1e0ad0dd35ce879616e6465782e7275",
+    "secret": "ee5c435541940799bc8d9d4b591d62ddc179616e6465782e7275",
     "country": "AE",
     "addTime": 1777705487
   },
@@ -98,17 +98,17 @@
     "addTime": 1777705487
   },
   {
-    "host": "74.214.174.156",
-    "port": 443,
-    "secret": "ee12c3453dfec9f3cbcddf5792b90215e46d61696c2e676f6f676c652e636f6d",
-    "country": "US",
-    "addTime": 1777694823
-  },
-  {
     "host": "31.76.241.24",
     "port": 443,
     "secret": "ee3c1e842f9a5ee63a8fd68192a680e44f706574726f766963682e7275",
     "country": "GB",
+    "addTime": 1777694823
+  },
+  {
+    "host": "74.214.174.156",
+    "port": 443,
+    "secret": "ee12c3453dfec9f3cbcddf5792b90215e46d61696c2e676f6f676c652e636f6d",
+    "country": "US",
     "addTime": 1777694823
   },
   {
@@ -154,6 +154,13 @@
     "addTime": 1777683890
   },
   {
+    "host": "psychotherapy.nfkavn.bond",
+    "port": 443,
+    "secret": "ee073ac845648254e91c2a5cb10bbd73cc79612e7275",
+    "country": "EE",
+    "addTime": 1777673188
+  },
+  {
     "host": "random.50.mtproto.ru",
     "port": 443,
     "secret": "ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
@@ -187,6 +194,13 @@
     "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
     "country": "NL",
     "addTime": 1777662373
+  },
+  {
+    "host": "37.139.34.234",
+    "port": 443,
+    "secret": "64e4ff5d72601338f9205b0a0971b6d8",
+    "country": "RU",
+    "addTime": 1777662369
   },
   {
     "host": "mt.aeroplanvpn.ru",
@@ -231,6 +245,13 @@
     "addTime": 1777662290
   },
   {
+    "host": "5.231.56.165",
+    "port": 443,
+    "secret": "7c81481b8a23812706cbd96fb2c8b0b8",
+    "country": "DE",
+    "addTime": 1777662287
+  },
+  {
     "host": "who-are-you.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
@@ -238,11 +259,11 @@
     "addTime": 1777662287
   },
   {
-    "host": "5.231.56.165",
-    "port": 443,
-    "secret": "7c81481b8a23812706cbd96fb2c8b0b8",
+    "host": "sub3relay.duckdns.org",
+    "port": 8443,
+    "secret": "ee17fdfa167f6babdb3f893586ac3784977375623372656c61792e6475636b646e732e6f7267",
     "country": "DE",
-    "addTime": 1777662287
+    "addTime": 1777651589
   },
   {
     "host": "2.26.85.57",
@@ -262,13 +283,6 @@
     "host": "192.124.189.91",
     "port": 5228,
     "secret": "eeeef23efc8eeb72f8b96285fabeaa69f56d74616c6b2e676f6f676c652e636f6d",
-    "country": "DE",
-    "addTime": 1777651589
-  },
-  {
-    "host": "sub3relay.duckdns.org",
-    "port": 8443,
-    "secret": "ee17fdfa167f6babdb3f893586ac3784977375623372656c61792e6475636b646e732e6f7267",
     "country": "DE",
     "addTime": 1777651589
   },
@@ -334,19 +348,5 @@
     "secret": "ee0f68155dab6e68a8ea5621e86ff81dcf7777772e7370656564746573742e6e6574",
     "country": "US",
     "addTime": 1777640775
-  },
-  {
-    "host": "bin.mdnk.fun",
-    "port": 443,
-    "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
-    "country": "GB",
-    "addTime": 1777640692
-  },
-  {
-    "host": "154.83.208.125",
-    "port": 7443,
-    "secret": "ee38b9b0c4593e5f066d687ddcca5e636c6f7564666c6172652e636f6d",
-    "country": "SC",
-    "addTime": 1777640692
   }
 ]
