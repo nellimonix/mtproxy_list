@@ -1,5 +1,75 @@
 [
   {
+    "host": "23.27.134.74",
+    "port": 443,
+    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
+    "country": "US",
+    "addTime": 1777716389
+  },
+  {
+    "host": "23.27.134.73",
+    "port": 443,
+    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
+    "country": "US",
+    "addTime": 1777716389
+  },
+  {
+    "host": "23.27.134.88",
+    "port": 443,
+    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
+    "country": "US",
+    "addTime": 1777716389
+  },
+  {
+    "host": "tg.sorik.shop",
+    "port": 443,
+    "secret": "ee46a57e82b4ca89c6822f56d5e398ff72646c2e676f6f676c652e636f6d",
+    "country": "DE",
+    "addTime": 1777716383
+  },
+  {
+    "host": "41.216.188.19",
+    "port": 443,
+    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d",
+    "country": "DE",
+    "addTime": 1777716377
+  },
+  {
+    "host": "217.60.25.63",
+    "port": 443,
+    "secret": "ee56fe38876789d254a7d331aa998e8554746f7069632e7275",
+    "country": "PL",
+    "addTime": 1777716327
+  },
+  {
+    "host": "chronology.civex.fourfold.rimer.tablespoonful.filka.info",
+    "port": 40590,
+    "secret": "eeb478e49b2a5fc536c0f020ff86873e4a647a656e2e7275",
+    "country": "DE",
+    "addTime": 1777716322
+  },
+  {
+    "host": "2.26.48.211",
+    "port": 8443,
+    "secret": "eea51cac27a826e3e1af6be9a1c70b80ea676f6f676c652e636f6d",
+    "country": "GB",
+    "addTime": 1777716305
+  },
+  {
+    "host": "31.148.99.225",
+    "port": 443,
+    "secret": "eebaa4487c1c78b358153f3ae62b35ee85656e65726779666d2e7275",
+    "country": "GB",
+    "addTime": 1777716305
+  },
+  {
+    "host": "predator-artist.top",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
+    "addTime": 1777716295
+  },
+  {
     "host": "buss01.duckdns.org",
     "port": 443,
     "secret": "ee170dc0ce3bd8a892bffa8783d6edc39e6d616b7332792e6b32326a39386b7876787833762e6f6e6c696e65",
@@ -7,23 +77,9 @@
     "addTime": 1777705512
   },
   {
-    "host": "89.125.113.11",
-    "port": 443,
-    "secret": "eebcb694130943ff7dcaf08c93b0564ff179616e6465782e7275",
-    "country": "AE",
-    "addTime": 1777705487
-  },
-  {
     "host": "89.125.113.10",
     "port": 443,
     "secret": "ee700a15adb4cca8106fe1e0ad0dd35ce879616e6465782e7275",
-    "country": "AE",
-    "addTime": 1777705487
-  },
-  {
-    "host": "89.125.113.12",
-    "port": 443,
-    "secret": "ee5c435541940799bc8d9d4b591d62ddc179616e6465782e7275",
     "country": "AE",
     "addTime": 1777705487
   },
@@ -35,17 +91,31 @@
     "addTime": 1777705487
   },
   {
-    "host": "31.76.241.24",
+    "host": "89.125.113.11",
     "port": 443,
-    "secret": "ee3c1e842f9a5ee63a8fd68192a680e44f706574726f766963682e7275",
-    "country": "GB",
-    "addTime": 1777694823
+    "secret": "eebcb694130943ff7dcaf08c93b0564ff179616e6465782e7275",
+    "country": "AE",
+    "addTime": 1777705487
+  },
+  {
+    "host": "89.125.113.12",
+    "port": 443,
+    "secret": "ee5c435541940799bc8d9d4b591d62ddc179616e6465782e7275",
+    "country": "AE",
+    "addTime": 1777705487
   },
   {
     "host": "74.214.174.156",
     "port": 443,
     "secret": "ee12c3453dfec9f3cbcddf5792b90215e46d61696c2e676f6f676c652e636f6d",
     "country": "US",
+    "addTime": 1777694823
+  },
+  {
+    "host": "31.76.241.24",
+    "port": 443,
+    "secret": "ee3c1e842f9a5ee63a8fd68192a680e44f706574726f766963682e7275",
+    "country": "GB",
     "addTime": 1777694823
   },
   {
@@ -161,13 +231,6 @@
     "addTime": 1777662290
   },
   {
-    "host": "who-are-you.top",
-    "port": 853,
-    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "country": "US",
-    "addTime": 1777662287
-  },
-  {
     "host": "5.231.56.165",
     "port": 443,
     "secret": "7c81481b8a23812706cbd96fb2c8b0b8",
@@ -175,17 +238,24 @@
     "addTime": 1777662287
   },
   {
-    "host": "mt2.angald.ru",
-    "port": 443,
-    "secret": "ee6bdd2dd2758bcdce95675301e7b932aa6d61696c2e616e67616c642e7275",
-    "country": "SE",
-    "addTime": 1777651589
+    "host": "who-are-you.top",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
+    "addTime": 1777662287
   },
   {
     "host": "2.26.85.57",
     "port": 443,
     "secret": "ee470ad979df6233ed96590c3dcde61b42706c617932676f2e636c6f7564",
     "country": "GB",
+    "addTime": 1777651589
+  },
+  {
+    "host": "mt2.angald.ru",
+    "port": 443,
+    "secret": "ee6bdd2dd2758bcdce95675301e7b932aa6d61696c2e616e67616c642e7275",
+    "country": "SE",
     "addTime": 1777651589
   },
   {
@@ -266,34 +336,6 @@
     "addTime": 1777640775
   },
   {
-    "host": "maxifree.ishrimp.xyz",
-    "port": 443,
-    "secret": "eeda276c4eeff7b94ceffde83ba1bca1fc6d617869667265652e69736872696d702e78797a",
-    "country": "NL",
-    "addTime": 1777640692
-  },
-  {
-    "host": "proxy1.zeleniyslonik.guru",
-    "port": 443,
-    "secret": "eef75e1d0f1eaface44bd3e2339697827770726f7879312e7a656c656e6979736c6f6e696b2e67757275",
-    "country": "DE",
-    "addTime": 1777640692
-  },
-  {
-    "host": "212.43.149.230",
-    "port": 443,
-    "secret": "ddbb2bb629e6110b10b43c4e1ecfdac6e1",
-    "country": "NL",
-    "addTime": 1777640692
-  },
-  {
-    "host": "45.15.129.62",
-    "port": 322,
-    "secret": "7jxWn4gNdE5lUgkqgbRKB253d3cuYW1hem9uLmNvbQ",
-    "country": "CY",
-    "addTime": 1777640692
-  },
-  {
     "host": "bin.mdnk.fun",
     "port": 443,
     "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
@@ -306,47 +348,5 @@
     "secret": "ee38b9b0c4593e5f066d687ddcca5e636c6f7564666c6172652e636f6d",
     "country": "SC",
     "addTime": 1777640692
-  },
-  {
-    "host": "mtp.webvirt.cloud",
-    "port": 443,
-    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
-    "country": "NL",
-    "addTime": 1777640690
-  },
-  {
-    "host": "81.90.21.237",
-    "port": 443,
-    "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
-    "country": "SE",
-    "addTime": 1777640681
-  },
-  {
-    "host": "aajonus.voltlab.su",
-    "port": 443,
-    "secret": "7hbmURRC1pnW7EO7yt8FKVBhYWpvbnVzLnZvbHRsYWIuc3U",
-    "country": "SE",
-    "addTime": 1777630006
-  },
-  {
-    "host": "checker.garotte.headmistress.ideograph.undulating.umatno.info",
-    "port": 37203,
-    "secret": "eefed1c60d98aa2095471d77ce15054f2b647a656e2e7275",
-    "country": "DE",
-    "addTime": 1777629933
-  },
-  {
-    "host": "2.26.51.147",
-    "port": 443,
-    "secret": "ee6f7093c38d0dacfa050448dc24680b68706c617932676f2e636c6f7564",
-    "country": "GB",
-    "addTime": 1777629930
-  },
-  {
-    "host": "tg_proxy.myoasis.fyi",
-    "port": 8443,
-    "secret": "eeb3a63f669b860e5c4b734ecb75a6dba7676f6f676c652e636f6d",
-    "country": "IL",
-    "addTime": 1777629930
   }
 ]
