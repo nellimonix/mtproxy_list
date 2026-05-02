@@ -1,5 +1,47 @@
 [
   {
+    "host": "31.76.241.24",
+    "port": 443,
+    "secret": "ee3c1e842f9a5ee63a8fd68192a680e44f706574726f766963682e7275",
+    "country": "GB",
+    "addTime": 1777694823
+  },
+  {
+    "host": "74.214.174.156",
+    "port": 443,
+    "secret": "ee12c3453dfec9f3cbcddf5792b90215e46d61696c2e676f6f676c652e636f6d",
+    "country": "US",
+    "addTime": 1777694823
+  },
+  {
+    "host": "misanthrop.duckdns.org",
+    "port": 443,
+    "secret": "eed2d3dc7b80b3b9e824457f30b3403c1b676f6f676c652e636f6d",
+    "country": "SE",
+    "addTime": 1777694819
+  },
+  {
+    "host": "tgp23.chickenkiller.com",
+    "port": 443,
+    "secret": "ee6099ac3ad29479d98ad67ff3138bf4b26f7a6f6e2e7275",
+    "country": "GB",
+    "addTime": 1777694818
+  },
+  {
+    "host": "rdp.fi.1.mtproto.ru",
+    "port": 443,
+    "secret": "ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
+    "country": "FI",
+    "addTime": 1777694758
+  },
+  {
+    "host": "50.7.41.140",
+    "port": 443,
+    "secret": "ee4171cd13a37543e2eb8ddaecf4531034706574726f766963682e7275",
+    "country": "NL",
+    "addTime": 1777694701
+  },
+  {
     "host": "promo.begemot.cc",
     "port": 2083,
     "secret": "ee373d9145c48187996ee15a0ca68959e27275737369616e2d616e696d616c732e7275",
@@ -21,14 +63,14 @@
     "addTime": 1777673192
   },
   {
-    "host": "23.27.134.84",
+    "host": "23.27.134.61",
     "port": 443,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "US",
     "addTime": 1777673192
   },
   {
-    "host": "23.27.134.61",
+    "host": "23.27.134.84",
     "port": 443,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "US",
@@ -112,13 +154,6 @@
     "addTime": 1777662290
   },
   {
-    "host": "who-are-you.top",
-    "port": 853,
-    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "country": "US",
-    "addTime": 1777662287
-  },
-  {
     "host": "5.231.56.165",
     "port": 443,
     "secret": "7c81481b8a23812706cbd96fb2c8b0b8",
@@ -126,11 +161,11 @@
     "addTime": 1777662287
   },
   {
-    "host": "2.26.85.57",
-    "port": 443,
-    "secret": "ee470ad979df6233ed96590c3dcde61b42706c617932676f2e636c6f7564",
-    "country": "GB",
-    "addTime": 1777651589
+    "host": "who-are-you.top",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
+    "addTime": 1777662287
   },
   {
     "host": "192.124.189.91",
@@ -147,6 +182,13 @@
     "addTime": 1777651589
   },
   {
+    "host": "sub3relay.duckdns.org",
+    "port": 8443,
+    "secret": "ee17fdfa167f6babdb3f893586ac3784977375623372656c61792e6475636b646e732e6f7267",
+    "country": "DE",
+    "addTime": 1777651589
+  },
+  {
     "host": "64.188.64.79",
     "port": 8443,
     "secret": "ee17fdfa167f6babdb3f893586ac3784977375623372656c61792e6475636b646e732e6f7267",
@@ -154,10 +196,10 @@
     "addTime": 1777651589
   },
   {
-    "host": "sub3relay.duckdns.org",
-    "port": 8443,
-    "secret": "ee17fdfa167f6babdb3f893586ac3784977375623372656c61792e6475636b646e732e6f7267",
-    "country": "DE",
+    "host": "2.26.85.57",
+    "port": 443,
+    "secret": "ee470ad979df6233ed96590c3dcde61b42706c617932676f2e636c6f7564",
+    "country": "GB",
     "addTime": 1777651589
   },
   {
@@ -217,20 +259,6 @@
     "addTime": 1777640775
   },
   {
-    "host": "45.15.129.62",
-    "port": 322,
-    "secret": "7jxWn4gNdE5lUgkqgbRKB253d3cuYW1hem9uLmNvbQ",
-    "country": "CY",
-    "addTime": 1777640692
-  },
-  {
-    "host": "bin.mdnk.fun",
-    "port": 443,
-    "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
-    "country": "GB",
-    "addTime": 1777640692
-  },
-  {
     "host": "maxifree.ishrimp.xyz",
     "port": 443,
     "secret": "eeda276c4eeff7b94ceffde83ba1bca1fc6d617869667265652e69736872696d702e78797a",
@@ -245,6 +273,13 @@
     "addTime": 1777640692
   },
   {
+    "host": "bin.mdnk.fun",
+    "port": 443,
+    "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
+    "country": "GB",
+    "addTime": 1777640692
+  },
+  {
     "host": "proxy1.zeleniyslonik.guru",
     "port": 443,
     "secret": "eef75e1d0f1eaface44bd3e2339697827770726f7879312e7a656c656e6979736c6f6e696b2e67757275",
@@ -256,6 +291,13 @@
     "port": 7443,
     "secret": "ee38b9b0c4593e5f066d687ddcca5e636c6f7564666c6172652e636f6d",
     "country": "SC",
+    "addTime": 1777640692
+  },
+  {
+    "host": "45.15.129.62",
+    "port": 322,
+    "secret": "7jxWn4gNdE5lUgkqgbRKB253d3cuYW1hem9uLmNvbQ",
+    "country": "CY",
     "addTime": 1777640692
   },
   {
@@ -301,52 +343,10 @@
     "addTime": 1777629930
   },
   {
-    "host": "tg_proxy.myoasis.fyi",
-    "port": 8443,
-    "secret": "eeb3a63f669b860e5c4b734ecb75a6dba7676f6f676c652e636f6d",
-    "country": "IL",
-    "addTime": 1777629930
-  },
-  {
     "host": "2.26.51.147",
     "port": 443,
     "secret": "ee6f7093c38d0dacfa050448dc24680b68706c617932676f2e636c6f7564",
     "country": "GB",
     "addTime": 1777629930
-  },
-  {
-    "host": "ultra.telehelp.top",
-    "port": 443,
-    "secret": "ee1d36cba6cc6ae2eb779806189b95efb864726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1777629904
-  },
-  {
-    "host": "185.231.206.232",
-    "port": 443,
-    "secret": "deca2d45f33ae9c40dbcbae774ba7acb",
-    "country": "RU",
-    "addTime": 1777629884
-  },
-  {
-    "host": "94.183.177.239",
-    "port": 443,
-    "secret": "ee1f1e82326bfdd9633604a61d7df8018d7777772e6d6963726f736f66742e7275",
-    "country": "AE",
-    "addTime": 1777619207
-  },
-  {
-    "host": "tg.tgtesla.click",
-    "port": 443,
-    "secret": "7k2Ycfkhv5UX8GgSlT2CtpZtYXgucnU",
-    "country": "RU",
-    "addTime": 1777619179
-  },
-  {
-    "host": "62.238.0.202",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1777619110
   }
 ]
