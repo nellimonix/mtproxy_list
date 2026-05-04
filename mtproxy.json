@@ -17,7 +17,7 @@
     "host": "amsterdam.geodns.info",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
-    "country": "NL",
+    "country": "FI",
     "addTime": 1777889073
   },
   {
@@ -28,17 +28,17 @@
     "addTime": 1777889072
   },
   {
-    "host": "xanax.nfkavn.bond",
-    "port": 853,
-    "secret": "eee9f255f9c2d7801da00b28731c6fbe9d79612e7275",
-    "country": "PL",
-    "addTime": 1777878367
-  },
-  {
     "host": "94.183.177.201",
     "port": 443,
     "secret": "dd4dfae341b3dba1516cd9cfea3196f6ed",
     "country": "AE",
+    "addTime": 1777878367
+  },
+  {
+    "host": "xanax.nfkavn.bond",
+    "port": 853,
+    "secret": "eee9f255f9c2d7801da00b28731c6fbe9d79612e7275",
+    "country": "PL",
     "addTime": 1777878367
   },
   {
@@ -77,9 +77,16 @@
     "addTime": 1777856810
   },
   {
-    "host": "good.myrka.digital",
+    "host": "serich.myrka.digital",
     "port": 4515,
-    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
+    "secret": "ee1118ac512287eb41cb8d21448d5414487365726963682e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1777856688
+  },
+  {
+    "host": "verochka.myrka.digital",
+    "port": 4515,
+    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
     "country": "NL",
     "addTime": 1777856688
   },
@@ -91,20 +98,6 @@
     "addTime": 1777856688
   },
   {
-    "host": "pulsar.myrka.digital",
-    "port": 2053,
-    "secret": "ee26098516c821cb425ec599399fa656c470756c7361722e6d79726b612e6469676974616c",
-    "country": "SC",
-    "addTime": 1777856688
-  },
-  {
-    "host": "verochka.myrka.digital",
-    "port": 4515,
-    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1777856688
-  },
-  {
     "host": "dedicated.myrka.digital",
     "port": 2053,
     "secret": "ee4bf3a3831a9ec9b1a003ab660923bfa96465646963617465642e6d79726b612e6469676974616c",
@@ -112,9 +105,16 @@
     "addTime": 1777856688
   },
   {
-    "host": "serich.myrka.digital",
+    "host": "pulsar.myrka.digital",
+    "port": 2053,
+    "secret": "ee26098516c821cb425ec599399fa656c470756c7361722e6d79726b612e6469676974616c",
+    "country": "SC",
+    "addTime": 1777856688
+  },
+  {
+    "host": "good.myrka.digital",
     "port": 4515,
-    "secret": "ee1118ac512287eb41cb8d21448d5414487365726963682e6d79726b612e6469676974616c",
+    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
     "country": "NL",
     "addTime": 1777856688
   },
@@ -301,31 +301,17 @@
     "addTime": 1777802680
   },
   {
-    "host": "45.67.35.103",
-    "port": 443,
-    "secret": "ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365",
-    "country": "RU",
-    "addTime": 1777791993
-  },
-  {
-    "host": "213.155.11.209",
+    "host": "45.147.28.22",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275",
     "country": "FI",
     "addTime": 1777791993
   },
   {
-    "host": "72.56.39.50",
-    "port": 8980,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "country": "US",
-    "addTime": 1777791993
-  },
-  {
-    "host": "94.156.112.172",
+    "host": "45.67.35.103",
     "port": 443,
-    "secret": "eef7f61a772049acbf6712254678726d8477622e7275",
-    "country": "DE",
+    "secret": "ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365",
+    "country": "RU",
     "addTime": 1777791993
   },
   {
@@ -340,6 +326,20 @@
     "port": 443,
     "secret": "eea8f35c1d7e9042b6c4d19e2fb7630a586d61782e7275",
     "country": "RU",
+    "addTime": 1777791993
+  },
+  {
+    "host": "72.56.39.50",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "country": "US",
+    "addTime": 1777791993
+  },
+  {
+    "host": "94.156.112.172",
+    "port": 443,
+    "secret": "eef7f61a772049acbf6712254678726d8477622e7275",
+    "country": "DE",
     "addTime": 1777791993
   },
   {
