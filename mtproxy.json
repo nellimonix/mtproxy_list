@@ -94,7 +94,7 @@
     "host": "amsterdam.geodns.info",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
-    "country": "FR",
+    "country": "GB",
     "addTime": 1777889073
   },
   {
@@ -147,16 +147,23 @@
     "addTime": 1777856810
   },
   {
-    "host": "pulsar.myrka.digital",
-    "port": 2053,
-    "secret": "ee26098516c821cb425ec599399fa656c470756c7361722e6d79726b612e6469676974616c",
-    "country": "SC",
+    "host": "good.myrka.digital",
+    "port": 4515,
+    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
+    "country": "NL",
     "addTime": 1777856688
   },
   {
     "host": "serich.myrka.digital",
     "port": 4515,
     "secret": "ee1118ac512287eb41cb8d21448d5414487365726963682e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1777856688
+  },
+  {
+    "host": "verochka.myrka.digital",
+    "port": 4515,
+    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
     "country": "NL",
     "addTime": 1777856688
   },
@@ -175,17 +182,10 @@
     "addTime": 1777856688
   },
   {
-    "host": "good.myrka.digital",
-    "port": 4515,
-    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1777856688
-  },
-  {
-    "host": "verochka.myrka.digital",
-    "port": 4515,
-    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
-    "country": "NL",
+    "host": "pulsar.myrka.digital",
+    "port": 2053,
+    "secret": "ee26098516c821cb425ec599399fa656c470756c7361722e6d79726b612e6469676974616c",
+    "country": "SC",
     "addTime": 1777856688
   },
   {
@@ -236,6 +236,13 @@
     "secret": "3cbf2a123b24ef812eef61bd00bc18a2",
     "country": "GB",
     "addTime": 1777845867
+  },
+  {
+    "host": "81.90.21.150",
+    "port": 443,
+    "secret": "93cd207ce4b671f0d1a56236871abc59",
+    "country": "SE",
+    "addTime": 1777845865
   },
   {
     "host": "2.27.4.118",
@@ -341,12 +348,5 @@
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
     "addTime": 1777802699
-  },
-  {
-    "host": "195.254.165.208",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "country": "IR",
-    "addTime": 1777802680
   }
 ]
