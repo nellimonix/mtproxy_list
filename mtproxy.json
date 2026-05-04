@@ -14,6 +14,13 @@
     "addTime": 1777910731
   },
   {
+    "host": "test.mtproxy.pw",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
+    "country": "RU",
+    "addTime": 1777910726
+  },
+  {
     "host": "calcitrant.dewsbury.trusty.teleseryegroup.com",
     "port": 443,
     "secret": "eefd25c6b23a3c3601c3388b36f2d11bf6647a656e2e7275",
@@ -42,16 +49,16 @@
     "addTime": 1777899974
   },
   {
-    "host": "2.27.15.146",
+    "host": "fra77.mtproxygram.pro",
     "port": 443,
-    "secret": "ee54397c45c7ed12a4712de90b1b1bda5e706574726f766963682e7275",
+    "secret": "ee07633370b648eb4035235c2a29819e3262726f777365722e79616e6465782e636f6d",
     "country": "DE",
     "addTime": 1777899963
   },
   {
-    "host": "fra77.mtproxygram.pro",
+    "host": "2.27.15.146",
     "port": 443,
-    "secret": "ee07633370b648eb4035235c2a29819e3262726f777365722e79616e6465782e636f6d",
+    "secret": "ee54397c45c7ed12a4712de90b1b1bda5e706574726f766963682e7275",
     "country": "DE",
     "addTime": 1777899963
   },
@@ -75,6 +82,13 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1777899864
+  },
+  {
+    "host": "mtproto-fi1.nolimited.space",
+    "port": 443,
+    "secret": "ee297e5222c6724bb78c63cb38bc059eed6170692d6d6170732e79616e6465782e7275",
+    "country": "US",
+    "addTime": 1777889127
   },
   {
     "host": "bodaibo.chameleon.naughtness.predicative.turquoise.umatno.info",
@@ -147,6 +161,34 @@
     "addTime": 1777856810
   },
   {
+    "host": "kyra.myrka.digital",
+    "port": 8443,
+    "secret": "ee144813372280228013372280555514486b7972612e6d79726b612e6469676974616c",
+    "country": "MK",
+    "addTime": 1777856688
+  },
+  {
+    "host": "pulsar.myrka.digital",
+    "port": 2053,
+    "secret": "ee26098516c821cb425ec599399fa656c470756c7361722e6d79726b612e6469676974616c",
+    "country": "SC",
+    "addTime": 1777856688
+  },
+  {
+    "host": "verochka.myrka.digital",
+    "port": 4515,
+    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1777856688
+  },
+  {
+    "host": "good.myrka.digital",
+    "port": 4515,
+    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1777856688
+  },
+  {
     "host": "dedicated.myrka.digital",
     "port": 2053,
     "secret": "ee4bf3a3831a9ec9b1a003ab660923bfa96465646963617465642e6d79726b612e6469676974616c",
@@ -161,45 +203,17 @@
     "addTime": 1777856688
   },
   {
-    "host": "pulsar.myrka.digital",
-    "port": 2053,
-    "secret": "ee26098516c821cb425ec599399fa656c470756c7361722e6d79726b612e6469676974616c",
-    "country": "SC",
-    "addTime": 1777856688
-  },
-  {
-    "host": "good.myrka.digital",
-    "port": 4515,
-    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1777856688
-  },
-  {
-    "host": "kyra.myrka.digital",
-    "port": 8443,
-    "secret": "ee144813372280228013372280555514486b7972612e6d79726b612e6469676974616c",
-    "country": "MK",
-    "addTime": 1777856688
-  },
-  {
-    "host": "verochka.myrka.digital",
-    "port": 4515,
-    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1777856688
+    "host": "78.111.90.31",
+    "port": 8888,
+    "secret": "dd174397fc3aa67d86efc93885f964b4a9",
+    "country": "CA",
+    "addTime": 1777845975
   },
   {
     "host": "45.138.24.164",
     "port": 8888,
     "secret": "dd36d9a9b832ac1a3f1253de7f428ecbf2",
     "country": "NL",
-    "addTime": 1777845975
-  },
-  {
-    "host": "78.111.90.31",
-    "port": 8888,
-    "secret": "dd174397fc3aa67d86efc93885f964b4a9",
-    "country": "CA",
     "addTime": 1777845975
   },
   {
@@ -329,24 +343,10 @@
     "addTime": 1777802703
   },
   {
-    "host": "sw1337.ciaowner.lol",
-    "port": 443,
-    "secret": "ee60446ad1e814e00454e1f448eda0425d6d2e766b2e636f6d",
-    "country": "SE",
-    "addTime": 1777802702
-  },
-  {
     "host": "mtproto.wemakecode.ru",
     "port": 6443,
     "secret": "e569c9792f984167ea08d493735fe342",
     "country": "DE",
     "addTime": 1777802701
-  },
-  {
-    "host": "focus-ultimate.top",
-    "port": 853,
-    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "country": "US",
-    "addTime": 1777802699
   }
 ]
