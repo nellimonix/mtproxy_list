@@ -1,12 +1,5 @@
 [
   {
-    "host": "166.88.164.65",
-    "port": 65265,
-    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
-    "country": "US",
-    "addTime": 1777910774
-  },
-  {
     "host": "95.217.165.132",
     "port": 443,
     "secret": "ee0102030405060708090a0b0c0d0e0f1073332e616d617a6f6e6177732e636f6d",
@@ -49,16 +42,16 @@
     "addTime": 1777899974
   },
   {
-    "host": "fra77.mtproxygram.pro",
+    "host": "2.27.15.146",
     "port": 443,
-    "secret": "ee07633370b648eb4035235c2a29819e3262726f777365722e79616e6465782e636f6d",
+    "secret": "ee54397c45c7ed12a4712de90b1b1bda5e706574726f766963682e7275",
     "country": "DE",
     "addTime": 1777899963
   },
   {
-    "host": "2.27.15.146",
+    "host": "fra77.mtproxygram.pro",
     "port": 443,
-    "secret": "ee54397c45c7ed12a4712de90b1b1bda5e706574726f766963682e7275",
+    "secret": "ee07633370b648eb4035235c2a29819e3262726f777365722e79616e6465782e636f6d",
     "country": "DE",
     "addTime": 1777899963
   },
@@ -133,13 +126,6 @@
     "addTime": 1777878312
   },
   {
-    "host": "love.etherealvpn.uk",
-    "port": 443,
-    "secret": "ee5ef5207bf96aff8d40ca1c59d6eaa2437777772e6d6963726f736f66742e636f6d",
-    "country": "NL",
-    "addTime": 1777878311
-  },
-  {
     "host": "185.237.95.231",
     "port": 443,
     "secret": "ee4571396297582727452bf660db01b789676f6f676c652e636f6d",
@@ -161,6 +147,20 @@
     "addTime": 1777856810
   },
   {
+    "host": "pulsar.myrka.digital",
+    "port": 2053,
+    "secret": "ee26098516c821cb425ec599399fa656c470756c7361722e6d79726b612e6469676974616c",
+    "country": "SC",
+    "addTime": 1777856688
+  },
+  {
+    "host": "verochka.myrka.digital",
+    "port": 4515,
+    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1777856688
+  },
+  {
     "host": "good.myrka.digital",
     "port": 4515,
     "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
@@ -175,17 +175,10 @@
     "addTime": 1777856688
   },
   {
-    "host": "verochka.myrka.digital",
-    "port": 4515,
-    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1777856688
-  },
-  {
-    "host": "pulsar.myrka.digital",
-    "port": 2053,
-    "secret": "ee26098516c821cb425ec599399fa656c470756c7361722e6d79726b612e6469676974616c",
-    "country": "SC",
+    "host": "kyra.myrka.digital",
+    "port": 8443,
+    "secret": "ee144813372280228013372280555514486b7972612e6d79726b612e6469676974616c",
+    "country": "MK",
     "addTime": 1777856688
   },
   {
@@ -196,13 +189,6 @@
     "addTime": 1777856688
   },
   {
-    "host": "kyra.myrka.digital",
-    "port": 8443,
-    "secret": "ee144813372280228013372280555514486b7972612e6d79726b612e6469676974616c",
-    "country": "MK",
-    "addTime": 1777856688
-  },
-  {
     "host": "78.111.90.31",
     "port": 8888,
     "secret": "dd174397fc3aa67d86efc93885f964b4a9",
@@ -210,17 +196,17 @@
     "addTime": 1777845975
   },
   {
-    "host": "152.53.34.211",
-    "port": 8888,
-    "secret": "ddc7ea622226453fc0cb3c7a8cd61a8f00",
-    "country": "DE",
-    "addTime": 1777845975
-  },
-  {
     "host": "45.138.24.164",
     "port": 8888,
     "secret": "dd36d9a9b832ac1a3f1253de7f428ecbf2",
     "country": "NL",
+    "addTime": 1777845975
+  },
+  {
+    "host": "152.53.34.211",
+    "port": 8888,
+    "secret": "ddc7ea622226453fc0cb3c7a8cd61a8f00",
+    "country": "DE",
     "addTime": 1777845975
   },
   {
@@ -343,10 +329,24 @@
     "addTime": 1777802703
   },
   {
-    "host": "sw1337.ciaowner.lol",
+    "host": "mtproto.wemakecode.ru",
+    "port": 6443,
+    "secret": "e569c9792f984167ea08d493735fe342",
+    "country": "DE",
+    "addTime": 1777802701
+  },
+  {
+    "host": "focus-ultimate.top",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
+    "addTime": 1777802699
+  },
+  {
+    "host": "186.246.5.110",
     "port": 443,
-    "secret": "ee60446ad1e814e00454e1f448eda0425d6d2e766b2e636f6d",
-    "country": "SE",
-    "addTime": 1777802702
+    "secret": "ee34fd4e8e9b8d0008a2d80f7e8b80ce8277622e7275",
+    "country": "HK",
+    "addTime": 1777802693
   }
 ]
