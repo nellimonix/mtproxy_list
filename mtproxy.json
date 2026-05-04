@@ -73,7 +73,7 @@
     "host": "amsterdam.geodns.info",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
-    "country": "FI",
+    "country": "PL",
     "addTime": 1777889073
   },
   {
@@ -126,13 +126,6 @@
     "addTime": 1777856810
   },
   {
-    "host": "verochka.myrka.digital",
-    "port": 4515,
-    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1777856688
-  },
-  {
     "host": "serich.myrka.digital",
     "port": 4515,
     "secret": "ee1118ac512287eb41cb8d21448d5414487365726963682e6d79726b612e6469676974616c",
@@ -144,13 +137,6 @@
     "port": 4515,
     "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
     "country": "NL",
-    "addTime": 1777856688
-  },
-  {
-    "host": "dedicated.myrka.digital",
-    "port": 2053,
-    "secret": "ee4bf3a3831a9ec9b1a003ab660923bfa96465646963617465642e6d79726b612e6469676974616c",
-    "country": "US",
     "addTime": 1777856688
   },
   {
@@ -168,11 +154,18 @@
     "addTime": 1777856688
   },
   {
-    "host": "78.111.90.31",
-    "port": 8888,
-    "secret": "dd174397fc3aa67d86efc93885f964b4a9",
-    "country": "CA",
-    "addTime": 1777845975
+    "host": "verochka.myrka.digital",
+    "port": 4515,
+    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1777856688
+  },
+  {
+    "host": "dedicated.myrka.digital",
+    "port": 2053,
+    "secret": "ee4bf3a3831a9ec9b1a003ab660923bfa96465646963617465642e6d79726b612e6469676974616c",
+    "country": "US",
+    "addTime": 1777856688
   },
   {
     "host": "45.138.24.164",
@@ -186,6 +179,13 @@
     "port": 8888,
     "secret": "ddc7ea622226453fc0cb3c7a8cd61a8f00",
     "country": "DE",
+    "addTime": 1777845975
+  },
+  {
+    "host": "78.111.90.31",
+    "port": 8888,
+    "secret": "dd174397fc3aa67d86efc93885f964b4a9",
+    "country": "CA",
     "addTime": 1777845975
   },
   {
@@ -252,17 +252,17 @@
     "addTime": 1777835193
   },
   {
-    "host": "kria.insnap.bond",
-    "port": 443,
-    "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e696e736e61702e626f6e64",
-    "country": "DE",
-    "addTime": 1777835191
-  },
-  {
     "host": "2.27.42.18",
     "port": 443,
     "secret": "eea04d93701c5912f1e58cf67161dd45f6706c617932676f2e636c6f7564",
     "country": "FI",
+    "addTime": 1777835191
+  },
+  {
+    "host": "kria.insnap.bond",
+    "port": 443,
+    "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e696e736e61702e626f6e64",
+    "country": "DE",
     "addTime": 1777835191
   },
   {
@@ -336,10 +336,10 @@
     "addTime": 1777802680
   },
   {
-    "host": "2.27.15.97",
-    "port": 443,
-    "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
-    "country": "DE",
+    "host": "72.56.39.50",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "country": "US",
     "addTime": 1777791993
   },
   {
