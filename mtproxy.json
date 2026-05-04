@@ -147,17 +147,17 @@
     "addTime": 1777889072
   },
   {
-    "host": "xanax.nfkavn.bond",
-    "port": 853,
-    "secret": "eee9f255f9c2d7801da00b28731c6fbe9d79612e7275",
-    "country": "PL",
-    "addTime": 1777878367
-  },
-  {
     "host": "94.183.177.201",
     "port": 443,
     "secret": "dd4dfae341b3dba1516cd9cfea3196f6ed",
     "country": "AE",
+    "addTime": 1777878367
+  },
+  {
+    "host": "xanax.nfkavn.bond",
+    "port": 853,
+    "secret": "eee9f255f9c2d7801da00b28731c6fbe9d79612e7275",
+    "country": "PL",
     "addTime": 1777878367
   },
   {
@@ -166,6 +166,13 @@
     "secret": "eeee2df95325c79fa3a3b5a559bd59adfd706c617932676f2e636c6f7564",
     "country": "FI",
     "addTime": 1777878312
+  },
+  {
+    "host": "love.etherealvpn.uk",
+    "port": 443,
+    "secret": "ee5ef5207bf96aff8d40ca1c59d6eaa2437777772e6d6963726f736f66742e636f6d",
+    "country": "NL",
+    "addTime": 1777878311
   },
   {
     "host": "185.237.95.231",
@@ -189,13 +196,6 @@
     "addTime": 1777856810
   },
   {
-    "host": "good.myrka.digital",
-    "port": 4515,
-    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1777856688
-  },
-  {
     "host": "kyra.myrka.digital",
     "port": 8443,
     "secret": "ee144813372280228013372280555514486b7972612e6d79726b612e6469676974616c",
@@ -203,16 +203,23 @@
     "addTime": 1777856688
   },
   {
-    "host": "dedicated.myrka.digital",
-    "port": 2053,
-    "secret": "ee4bf3a3831a9ec9b1a003ab660923bfa96465646963617465642e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1777856688
-  },
-  {
     "host": "serich.myrka.digital",
     "port": 4515,
     "secret": "ee1118ac512287eb41cb8d21448d5414487365726963682e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1777856688
+  },
+  {
+    "host": "pulsar.myrka.digital",
+    "port": 2053,
+    "secret": "ee26098516c821cb425ec599399fa656c470756c7361722e6d79726b612e6469676974616c",
+    "country": "SC",
+    "addTime": 1777856688
+  },
+  {
+    "host": "good.myrka.digital",
+    "port": 4515,
+    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
     "country": "NL",
     "addTime": 1777856688
   },
@@ -224,11 +231,18 @@
     "addTime": 1777856688
   },
   {
-    "host": "pulsar.myrka.digital",
+    "host": "dedicated.myrka.digital",
     "port": 2053,
-    "secret": "ee26098516c821cb425ec599399fa656c470756c7361722e6d79726b612e6469676974616c",
-    "country": "SC",
+    "secret": "ee4bf3a3831a9ec9b1a003ab660923bfa96465646963617465642e6d79726b612e6469676974616c",
+    "country": "US",
     "addTime": 1777856688
+  },
+  {
+    "host": "78.111.90.31",
+    "port": 8888,
+    "secret": "dd174397fc3aa67d86efc93885f964b4a9",
+    "country": "CA",
+    "addTime": 1777845975
   },
   {
     "host": "45.138.24.164",
@@ -242,13 +256,6 @@
     "port": 8888,
     "secret": "ddc7ea622226453fc0cb3c7a8cd61a8f00",
     "country": "DE",
-    "addTime": 1777845975
-  },
-  {
-    "host": "78.111.90.31",
-    "port": 8888,
-    "secret": "dd174397fc3aa67d86efc93885f964b4a9",
-    "country": "CA",
     "addTime": 1777845975
   },
   {
@@ -315,17 +322,17 @@
     "addTime": 1777835193
   },
   {
-    "host": "2.27.42.18",
-    "port": 443,
-    "secret": "eea04d93701c5912f1e58cf67161dd45f6706c617932676f2e636c6f7564",
-    "country": "FI",
-    "addTime": 1777835191
-  },
-  {
     "host": "kria.insnap.bond",
     "port": 443,
     "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e696e736e61702e626f6e64",
     "country": "DE",
+    "addTime": 1777835191
+  },
+  {
+    "host": "2.27.42.18",
+    "port": 443,
+    "secret": "eea04d93701c5912f1e58cf67161dd45f6706c617932676f2e636c6f7564",
+    "country": "FI",
     "addTime": 1777835191
   },
   {
@@ -341,12 +348,5 @@
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
     "addTime": 1777835089
-  },
-  {
-    "host": "raketa67.duckdns.org",
-    "port": 443,
-    "secret": "eebc9ea86e9c3060dcb21e9f87e6bd9172696d616765732e6170706c652e636f6d",
-    "country": "NL",
-    "addTime": 1777824360
   }
 ]
