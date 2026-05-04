@@ -91,17 +91,10 @@
     "addTime": 1777889120
   },
   {
-    "host": "xfs1.gbird.top",
-    "port": 6443,
-    "secret": "ddecad3d673e42dc10cae6fa9bcebcd5f6",
-    "country": "HK",
-    "addTime": 1777889117
-  },
-  {
     "host": "amsterdam.geodns.info",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
-    "country": "PL",
+    "country": "FI",
     "addTime": 1777889073
   },
   {
@@ -133,13 +126,6 @@
     "addTime": 1777878312
   },
   {
-    "host": "love.etherealvpn.uk",
-    "port": 443,
-    "secret": "ee5ef5207bf96aff8d40ca1c59d6eaa2437777772e6d6963726f736f66742e636f6d",
-    "country": "NL",
-    "addTime": 1777878311
-  },
-  {
     "host": "185.237.95.231",
     "port": 443,
     "secret": "ee4571396297582727452bf660db01b789676f6f676c652e636f6d",
@@ -168,6 +154,13 @@
     "addTime": 1777856688
   },
   {
+    "host": "good.myrka.digital",
+    "port": 4515,
+    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1777856688
+  },
+  {
     "host": "dedicated.myrka.digital",
     "port": 2053,
     "secret": "ee4bf3a3831a9ec9b1a003ab660923bfa96465646963617465642e6d79726b612e6469676974616c",
@@ -175,9 +168,9 @@
     "addTime": 1777856688
   },
   {
-    "host": "good.myrka.digital",
+    "host": "serich.myrka.digital",
     "port": 4515,
-    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
+    "secret": "ee1118ac512287eb41cb8d21448d5414487365726963682e6d79726b612e6469676974616c",
     "country": "NL",
     "addTime": 1777856688
   },
@@ -196,11 +189,11 @@
     "addTime": 1777856688
   },
   {
-    "host": "serich.myrka.digital",
-    "port": 4515,
-    "secret": "ee1118ac512287eb41cb8d21448d5414487365726963682e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1777856688
+    "host": "78.111.90.31",
+    "port": 8888,
+    "secret": "dd174397fc3aa67d86efc93885f964b4a9",
+    "country": "CA",
+    "addTime": 1777845975
   },
   {
     "host": "45.138.24.164",
@@ -214,13 +207,6 @@
     "port": 8888,
     "secret": "ddc7ea622226453fc0cb3c7a8cd61a8f00",
     "country": "DE",
-    "addTime": 1777845975
-  },
-  {
-    "host": "78.111.90.31",
-    "port": 8888,
-    "secret": "dd174397fc3aa67d86efc93885f964b4a9",
-    "country": "CA",
     "addTime": 1777845975
   },
   {
@@ -348,5 +334,19 @@
     "secret": "ee60446ad1e814e00454e1f448eda0425d6d2e766b2e636f6d",
     "country": "SE",
     "addTime": 1777802702
+  },
+  {
+    "host": "mtproto.wemakecode.ru",
+    "port": 6443,
+    "secret": "e569c9792f984167ea08d493735fe342",
+    "country": "DE",
+    "addTime": 1777802701
+  },
+  {
+    "host": "focus-ultimate.top",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
+    "addTime": 1777802699
   }
 ]
