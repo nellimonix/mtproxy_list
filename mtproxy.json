@@ -1,16 +1,16 @@
 [
   {
-    "host": "142.132.227.42",
-    "port": 443,
-    "secret": "ee000000000000000000000000000000006d632e79616e6465782e7275",
-    "country": "DE",
-    "addTime": 1777975592
-  },
-  {
     "host": "5.252.118.142",
     "port": 443,
     "secret": "ee000000000000000000000000000000006e616d6176612e6972",
     "country": "NL",
+    "addTime": 1777975592
+  },
+  {
+    "host": "142.132.227.42",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000006d632e79616e6465782e7275",
+    "country": "DE",
     "addTime": 1777975592
   },
   {
@@ -49,13 +49,6 @@
     "addTime": 1777975508
   },
   {
-    "host": "host.etherealvpn.uk",
-    "port": 443,
-    "secret": "ee5eb2336f3a46a15cf19ca3d707781b4c7777772e6d6963726f736f66742e636f6d",
-    "country": "DE",
-    "addTime": 1777975483
-  },
-  {
     "host": "cover-acid.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
@@ -82,6 +75,13 @@
     "secret": "fe0713355da8737fb5f7b09d9cddb1e4",
     "country": "DE",
     "addTime": 1777964716
+  },
+  {
+    "host": "5.230.201.129",
+    "port": 443,
+    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d",
+    "country": "US",
+    "addTime": 1777964708
   },
   {
     "host": "77.42.123.21",
@@ -126,13 +126,6 @@
     "addTime": 1777943717
   },
   {
-    "host": "45.15.153.193",
-    "port": 443,
-    "secret": "eebd00ac0782aa783f9d505e2476c339f531632e7275",
-    "country": "CY",
-    "addTime": 1777943690
-  },
-  {
     "host": "194.88.232.2",
     "port": 443,
     "secret": "eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -147,13 +140,6 @@
     "addTime": 1777932334
   },
   {
-    "host": "connect.tproxyru.click",
-    "port": 8980,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "country": "RU",
-    "addTime": 1777932260
-  },
-  {
     "host": "linkflowhub.shop",
     "port": 443,
     "secret": "ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70",
@@ -161,11 +147,11 @@
     "addTime": 1777932260
   },
   {
-    "host": "etherealvpn.uk",
-    "port": 443,
-    "secret": "ee5ef5207bf96aff8d40ca1c59d6eaa2437777772e6d6963726f736f66742e636f6d",
-    "country": "SE",
-    "addTime": 1777932258
+    "host": "connect.tproxyru.click",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "country": "RU",
+    "addTime": 1777932260
   },
   {
     "host": "0xb00b5.top",
@@ -175,10 +161,17 @@
     "addTime": 1777932258
   },
   {
+    "host": "etherealvpn.uk",
+    "port": 443,
+    "secret": "ee5ef5207bf96aff8d40ca1c59d6eaa2437777772e6d6963726f736f66742e636f6d",
+    "country": "SE",
+    "addTime": 1777932258
+  },
+  {
     "host": "data.enable-request.co.uk",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "DE",
+    "country": "CY",
     "addTime": 1777921606
   },
   {
@@ -187,6 +180,13 @@
     "secret": "13872a1efb8511421b1ca76ad4499573",
     "country": "FI",
     "addTime": 1777921497
+  },
+  {
+    "host": "193.23.199.16",
+    "port": 8443,
+    "secret": "eed942e15d1c4f6a22a8c8fc1d631f6eb9646c2e676f6f676c652e636f6d",
+    "country": "DE",
+    "addTime": 1777921490
   },
   {
     "host": "i-love-boobs.top",
@@ -245,16 +245,16 @@
     "addTime": 1777899974
   },
   {
-    "host": "2.27.15.146",
+    "host": "fra77.mtproxygram.pro",
     "port": 443,
-    "secret": "ee54397c45c7ed12a4712de90b1b1bda5e706574726f766963682e7275",
+    "secret": "ee07633370b648eb4035235c2a29819e3262726f777365722e79616e6465782e636f6d",
     "country": "DE",
     "addTime": 1777899963
   },
   {
-    "host": "fra77.mtproxygram.pro",
+    "host": "2.27.15.146",
     "port": 443,
-    "secret": "ee07633370b648eb4035235c2a29819e3262726f777365722e79616e6465782e636f6d",
+    "secret": "ee54397c45c7ed12a4712de90b1b1bda5e706574726f766963682e7275",
     "country": "DE",
     "addTime": 1777899963
   },
@@ -266,18 +266,18 @@
     "addTime": 1777899892
   },
   {
+    "host": "130.12.242.152",
+    "port": 8443,
+    "secret": "ee650fb0356e691161e5af0f3ca862290a6b6f6d75732e7275",
+    "country": "NL",
+    "addTime": 1777899885
+  },
+  {
     "host": "135.181.31.175",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1777899864
-  },
-  {
-    "host": "mtproto-fi1.nolimited.space",
-    "port": 443,
-    "secret": "ee297e5222c6724bb78c63cb38bc059eed6170692d6d6170732e79616e6465782e7275",
-    "country": "US",
-    "addTime": 1777889127
   },
   {
     "host": "bodaibo.chameleon.naughtness.predicative.turquoise.umatno.info",
@@ -287,17 +287,10 @@
     "addTime": 1777889120
   },
   {
-    "host": "xfs1.gbird.top",
-    "port": 6443,
-    "secret": "ddecad3d673e42dc10cae6fa9bcebcd5f6",
-    "country": "HK",
-    "addTime": 1777889117
-  },
-  {
     "host": "amsterdam.geodns.info",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
-    "country": "FR",
+    "country": "PL",
     "addTime": 1777889073
   },
   {
@@ -308,17 +301,17 @@
     "addTime": 1777889072
   },
   {
-    "host": "xanax.nfkavn.bond",
-    "port": 853,
-    "secret": "eee9f255f9c2d7801da00b28731c6fbe9d79612e7275",
-    "country": "PL",
-    "addTime": 1777878367
-  },
-  {
     "host": "94.183.177.201",
     "port": 443,
     "secret": "dd4dfae341b3dba1516cd9cfea3196f6ed",
     "country": "AE",
+    "addTime": 1777878367
+  },
+  {
+    "host": "xanax.nfkavn.bond",
+    "port": 853,
+    "secret": "eee9f255f9c2d7801da00b28731c6fbe9d79612e7275",
+    "country": "PL",
     "addTime": 1777878367
   },
   {
@@ -348,5 +341,12 @@
     "secret": "dd79e344818749bd7ac519130220c25d09",
     "country": "IR",
     "addTime": 1777856810
+  },
+  {
+    "host": "good.myrka.digital",
+    "port": 4515,
+    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1777856688
   }
 ]
