@@ -70,6 +70,13 @@
     "addTime": 1777943717
   },
   {
+    "host": "45.15.153.193",
+    "port": 443,
+    "secret": "eebd00ac0782aa783f9d505e2476c339f531632e7275",
+    "country": "CY",
+    "addTime": 1777943690
+  },
+  {
     "host": "23.27.134.73",
     "port": 65265,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
@@ -91,25 +98,11 @@
     "addTime": 1777932334
   },
   {
-    "host": "linkflowhub.shop",
-    "port": 443,
-    "secret": "ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70",
-    "country": "DE",
-    "addTime": 1777932260
-  },
-  {
     "host": "connect.tproxyru.click",
     "port": 8980,
     "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
     "country": "RU",
     "addTime": 1777932260
-  },
-  {
-    "host": "etherealvpn.uk",
-    "port": 443,
-    "secret": "ee5ef5207bf96aff8d40ca1c59d6eaa2437777772e6d6963726f736f66742e636f6d",
-    "country": "SE",
-    "addTime": 1777932258
   },
   {
     "host": "0xb00b5.top",
@@ -119,10 +112,17 @@
     "addTime": 1777932258
   },
   {
+    "host": "etherealvpn.uk",
+    "port": 443,
+    "secret": "ee5ef5207bf96aff8d40ca1c59d6eaa2437777772e6d6963726f736f66742e636f6d",
+    "country": "SE",
+    "addTime": 1777932258
+  },
+  {
     "host": "data.enable-request.co.uk",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "US",
+    "country": "CY",
     "addTime": 1777921606
   },
   {
@@ -180,13 +180,6 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1777910722
-  },
-  {
-    "host": "getfastlink.click",
-    "port": 443,
-    "secret": "ee47e3a8b2c1f4e9d0a6b5c8d7e4f3a2b1676574666173746c696e6b2e636c69636b",
-    "country": "DE",
-    "addTime": 1777910684
   },
   {
     "host": "mt.citadel.rest",
@@ -301,20 +294,6 @@
     "addTime": 1777856810
   },
   {
-    "host": "good.myrka.digital",
-    "port": 4515,
-    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1777856688
-  },
-  {
-    "host": "verochka.myrka.digital",
-    "port": 4515,
-    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1777856688
-  },
-  {
     "host": "pulsar.myrka.digital",
     "port": 2053,
     "secret": "ee26098516c821cb425ec599399fa656c470756c7361722e6d79726b612e6469676974616c",
@@ -329,6 +308,20 @@
     "addTime": 1777856688
   },
   {
+    "host": "serich.myrka.digital",
+    "port": 4515,
+    "secret": "ee1118ac512287eb41cb8d21448d5414487365726963682e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1777856688
+  },
+  {
+    "host": "good.myrka.digital",
+    "port": 4515,
+    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1777856688
+  },
+  {
     "host": "kyra.myrka.digital",
     "port": 8443,
     "secret": "ee144813372280228013372280555514486b7972612e6d79726b612e6469676974616c",
@@ -336,11 +329,18 @@
     "addTime": 1777856688
   },
   {
-    "host": "serich.myrka.digital",
+    "host": "verochka.myrka.digital",
     "port": 4515,
-    "secret": "ee1118ac512287eb41cb8d21448d5414487365726963682e6d79726b612e6469676974616c",
+    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
     "country": "NL",
     "addTime": 1777856688
+  },
+  {
+    "host": "45.138.24.164",
+    "port": 8888,
+    "secret": "dd36d9a9b832ac1a3f1253de7f428ecbf2",
+    "country": "NL",
+    "addTime": 1777845975
   },
   {
     "host": "78.111.90.31",
