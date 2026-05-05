@@ -1,12 +1,5 @@
 [
   {
-    "host": "tel.vasilej.org",
-    "port": 8888,
-    "secret": "d7531dafb679f4b2ff739cae86d6d2ac",
-    "country": "US",
-    "addTime": 1777943798
-  },
-  {
     "host": "89.167.109.120",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -26,6 +19,13 @@
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
     "addTime": 1777943717
+  },
+  {
+    "host": "212.233.76.27",
+    "port": 443,
+    "secret": "dd8fb807a1ac8c4e95b8a2642e5bedd8fc",
+    "country": "RU",
+    "addTime": 1777943704
   },
   {
     "host": "23.27.134.73",
@@ -70,13 +70,6 @@
     "addTime": 1777932260
   },
   {
-    "host": "etherealvpn.uk",
-    "port": 443,
-    "secret": "ee5ef5207bf96aff8d40ca1c59d6eaa2437777772e6d6963726f736f66742e636f6d",
-    "country": "SE",
-    "addTime": 1777932258
-  },
-  {
     "host": "0xb00b5.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
@@ -91,11 +84,25 @@
     "addTime": 1777932258
   },
   {
+    "host": "etherealvpn.uk",
+    "port": 443,
+    "secret": "ee5ef5207bf96aff8d40ca1c59d6eaa2437777772e6d6963726f736f66742e636f6d",
+    "country": "SE",
+    "addTime": 1777932258
+  },
+  {
     "host": "data.enable-request.co.uk",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "country": "US",
     "addTime": 1777921606
+  },
+  {
+    "host": "cs005.xdfyyy.xyz",
+    "port": 29635,
+    "secret": "945fba78572867f57029dff098ab338f",
+    "country": "JP",
+    "addTime": 1777921562
   },
   {
     "host": "94.156.179.60",
@@ -168,6 +175,13 @@
     "addTime": 1777910722
   },
   {
+    "host": "getfastlink.click",
+    "port": 443,
+    "secret": "ee47e3a8b2c1f4e9d0a6b5c8d7e4f3a2b1676574666173746c696e6b2e636c69636b",
+    "country": "DE",
+    "addTime": 1777910684
+  },
+  {
     "host": "mt.citadel.rest",
     "port": 443,
     "secret": "ee9b1d957fabb94a8a114057bc69cf8f75706574726f766963682e7275",
@@ -220,7 +234,7 @@
     "host": "amsterdam.geodns.info",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
-    "country": "GB",
+    "country": "FR",
     "addTime": 1777889073
   },
   {
@@ -231,17 +245,17 @@
     "addTime": 1777889072
   },
   {
-    "host": "xanax.nfkavn.bond",
-    "port": 853,
-    "secret": "eee9f255f9c2d7801da00b28731c6fbe9d79612e7275",
-    "country": "PL",
-    "addTime": 1777878367
-  },
-  {
     "host": "94.183.177.201",
     "port": 443,
     "secret": "dd4dfae341b3dba1516cd9cfea3196f6ed",
     "country": "AE",
+    "addTime": 1777878367
+  },
+  {
+    "host": "xanax.nfkavn.bond",
+    "port": 853,
+    "secret": "eee9f255f9c2d7801da00b28731c6fbe9d79612e7275",
+    "country": "PL",
     "addTime": 1777878367
   },
   {
@@ -273,13 +287,6 @@
     "addTime": 1777856810
   },
   {
-    "host": "verochka.myrka.digital",
-    "port": 4515,
-    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1777856688
-  },
-  {
     "host": "dedicated.myrka.digital",
     "port": 2053,
     "secret": "ee4bf3a3831a9ec9b1a003ab660923bfa96465646963617465642e6d79726b612e6469676974616c",
@@ -287,10 +294,10 @@
     "addTime": 1777856688
   },
   {
-    "host": "serich.myrka.digital",
-    "port": 4515,
-    "secret": "ee1118ac512287eb41cb8d21448d5414487365726963682e6d79726b612e6469676974616c",
-    "country": "NL",
+    "host": "kyra.myrka.digital",
+    "port": 8443,
+    "secret": "ee144813372280228013372280555514486b7972612e6d79726b612e6469676974616c",
+    "country": "MK",
     "addTime": 1777856688
   },
   {
@@ -308,17 +315,24 @@
     "addTime": 1777856688
   },
   {
-    "host": "kyra.myrka.digital",
-    "port": 8443,
-    "secret": "ee144813372280228013372280555514486b7972612e6d79726b612e6469676974616c",
-    "country": "MK",
+    "host": "verochka.myrka.digital",
+    "port": 4515,
+    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
+    "country": "NL",
     "addTime": 1777856688
   },
   {
-    "host": "45.138.24.164",
-    "port": 8888,
-    "secret": "dd36d9a9b832ac1a3f1253de7f428ecbf2",
+    "host": "serich.myrka.digital",
+    "port": 4515,
+    "secret": "ee1118ac512287eb41cb8d21448d5414487365726963682e6d79726b612e6469676974616c",
     "country": "NL",
+    "addTime": 1777856688
+  },
+  {
+    "host": "78.111.90.31",
+    "port": 8888,
+    "secret": "dd174397fc3aa67d86efc93885f964b4a9",
+    "country": "CA",
     "addTime": 1777845975
   },
   {
@@ -329,24 +343,10 @@
     "addTime": 1777845975
   },
   {
-    "host": "78.111.90.31",
+    "host": "45.138.24.164",
     "port": 8888,
-    "secret": "dd174397fc3aa67d86efc93885f964b4a9",
-    "country": "CA",
+    "secret": "dd36d9a9b832ac1a3f1253de7f428ecbf2",
+    "country": "NL",
     "addTime": 1777845975
-  },
-  {
-    "host": "r1.newr1.co.uk",
-    "port": 85,
-    "secret": "FgMBAgABAAH8AxOG4kw63Q",
-    "country": "DE",
-    "addTime": 1777845887
-  },
-  {
-    "host": "pinklove.top",
-    "port": 853,
-    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "country": "US",
-    "addTime": 1777845882
   }
 ]
