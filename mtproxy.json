@@ -28,6 +28,13 @@
     "addTime": 1777932334
   },
   {
+    "host": "nigon.goida.info",
+    "port": 443,
+    "secret": "ee0ab814ab4b08fb7275718acf131b84a973616d73756e672e636f6d",
+    "country": "NL",
+    "addTime": 1777932269
+  },
+  {
     "host": "linkflowhub.shop",
     "port": 443,
     "secret": "ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70",
@@ -59,7 +66,7 @@
     "host": "data.enable-request.co.uk",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "US",
+    "country": "DE",
     "addTime": 1777921606
   },
   {
@@ -252,10 +259,10 @@
     "addTime": 1777856810
   },
   {
-    "host": "kyra.myrka.digital",
-    "port": 8443,
-    "secret": "ee144813372280228013372280555514486b7972612e6d79726b612e6469676974616c",
-    "country": "MK",
+    "host": "dedicated.myrka.digital",
+    "port": 2053,
+    "secret": "ee4bf3a3831a9ec9b1a003ab660923bfa96465646963617465642e6d79726b612e6469676974616c",
+    "country": "US",
     "addTime": 1777856688
   },
   {
@@ -273,13 +280,6 @@
     "addTime": 1777856688
   },
   {
-    "host": "pulsar.myrka.digital",
-    "port": 2053,
-    "secret": "ee26098516c821cb425ec599399fa656c470756c7361722e6d79726b612e6469676974616c",
-    "country": "SC",
-    "addTime": 1777856688
-  },
-  {
     "host": "good.myrka.digital",
     "port": 4515,
     "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
@@ -287,18 +287,18 @@
     "addTime": 1777856688
   },
   {
-    "host": "dedicated.myrka.digital",
+    "host": "pulsar.myrka.digital",
     "port": 2053,
-    "secret": "ee4bf3a3831a9ec9b1a003ab660923bfa96465646963617465642e6d79726b612e6469676974616c",
-    "country": "US",
+    "secret": "ee26098516c821cb425ec599399fa656c470756c7361722e6d79726b612e6469676974616c",
+    "country": "SC",
     "addTime": 1777856688
   },
   {
-    "host": "78.111.90.31",
-    "port": 8888,
-    "secret": "dd174397fc3aa67d86efc93885f964b4a9",
-    "country": "CA",
-    "addTime": 1777845975
+    "host": "kyra.myrka.digital",
+    "port": 8443,
+    "secret": "ee144813372280228013372280555514486b7972612e6d79726b612e6469676974616c",
+    "country": "MK",
+    "addTime": 1777856688
   },
   {
     "host": "152.53.34.211",
@@ -312,6 +312,13 @@
     "port": 8888,
     "secret": "dd36d9a9b832ac1a3f1253de7f428ecbf2",
     "country": "NL",
+    "addTime": 1777845975
+  },
+  {
+    "host": "78.111.90.31",
+    "port": 8888,
+    "secret": "dd174397fc3aa67d86efc93885f964b4a9",
+    "country": "CA",
     "addTime": 1777845975
   },
   {
@@ -341,12 +348,5 @@
     "secret": "3cbf2a123b24ef812eef61bd00bc18a2",
     "country": "GB",
     "addTime": 1777845867
-  },
-  {
-    "host": "81.90.21.150",
-    "port": 443,
-    "secret": "93cd207ce4b671f0d1a56236871abc59",
-    "country": "SE",
-    "addTime": 1777845865
   }
 ]
