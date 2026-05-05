@@ -77,17 +77,24 @@
     "addTime": 1777932335
   },
   {
-    "host": "connect.tproxyru.click",
-    "port": 8980,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "country": "RU",
-    "addTime": 1777932260
+    "host": "89.124.120.103",
+    "port": 443,
+    "secret": "be920f13285e10280511381b79c1008a",
+    "country": "NL",
+    "addTime": 1777932334
   },
   {
     "host": "linkflowhub.shop",
     "port": 443,
     "secret": "ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70",
     "country": "DE",
+    "addTime": 1777932260
+  },
+  {
+    "host": "connect.tproxyru.click",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "country": "RU",
     "addTime": 1777932260
   },
   {
@@ -159,6 +166,13 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1777910722
+  },
+  {
+    "host": "getfastlink.click",
+    "port": 443,
+    "secret": "ee47e3a8b2c1f4e9d0a6b5c8d7e4f3a2b1676574666173746c696e6b2e636c69636b",
+    "country": "DE",
+    "addTime": 1777910684
   },
   {
     "host": "mt.citadel.rest",
@@ -287,24 +301,10 @@
     "addTime": 1777856688
   },
   {
-    "host": "good.myrka.digital",
-    "port": 4515,
-    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1777856688
-  },
-  {
     "host": "kyra.myrka.digital",
     "port": 8443,
     "secret": "ee144813372280228013372280555514486b7972612e6d79726b612e6469676974616c",
     "country": "MK",
-    "addTime": 1777856688
-  },
-  {
-    "host": "dedicated.myrka.digital",
-    "port": 2053,
-    "secret": "ee4bf3a3831a9ec9b1a003ab660923bfa96465646963617465642e6d79726b612e6469676974616c",
-    "country": "US",
     "addTime": 1777856688
   },
   {
@@ -315,10 +315,24 @@
     "addTime": 1777856688
   },
   {
+    "host": "good.myrka.digital",
+    "port": 4515,
+    "secret": "eebe1a7fb8e27f7fd80075bad4be9c7258676f6f642e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1777856688
+  },
+  {
     "host": "serich.myrka.digital",
     "port": 4515,
     "secret": "ee1118ac512287eb41cb8d21448d5414487365726963682e6d79726b612e6469676974616c",
     "country": "NL",
+    "addTime": 1777856688
+  },
+  {
+    "host": "dedicated.myrka.digital",
+    "port": 2053,
+    "secret": "ee4bf3a3831a9ec9b1a003ab660923bfa96465646963617465642e6d79726b612e6469676974616c",
+    "country": "US",
     "addTime": 1777856688
   },
   {
@@ -334,19 +348,5 @@
     "secret": "dd174397fc3aa67d86efc93885f964b4a9",
     "country": "CA",
     "addTime": 1777845975
-  },
-  {
-    "host": "152.53.34.211",
-    "port": 8888,
-    "secret": "ddc7ea622226453fc0cb3c7a8cd61a8f00",
-    "country": "DE",
-    "addTime": 1777845975
-  },
-  {
-    "host": "r1.newr1.co.uk",
-    "port": 85,
-    "secret": "FgMBAgABAAH8AxOG4kw63Q",
-    "country": "DE",
-    "addTime": 1777845887
   }
 ]
