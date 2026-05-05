@@ -21,6 +21,13 @@
     "addTime": 1777997201
   },
   {
+    "host": "2.27.4.101",
+    "port": 444,
+    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
+    "country": "US",
+    "addTime": 1777997113
+  },
+  {
     "host": "2.27.4.102",
     "port": 3443,
     "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
@@ -32,13 +39,6 @@
     "port": 43003,
     "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
     "country": "RU",
-    "addTime": 1777997113
-  },
-  {
-    "host": "2.27.4.101",
-    "port": 444,
-    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
-    "country": "US",
     "addTime": 1777997113
   },
   {
@@ -98,17 +98,17 @@
     "addTime": 1777986297
   },
   {
-    "host": "5.252.118.142",
-    "port": 443,
-    "secret": "ee000000000000000000000000000000006e616d6176612e6972",
-    "country": "NL",
-    "addTime": 1777975592
-  },
-  {
     "host": "142.132.227.42",
     "port": 443,
     "secret": "ee000000000000000000000000000000006d632e79616e6465782e7275",
     "country": "DE",
+    "addTime": 1777975592
+  },
+  {
+    "host": "5.252.118.142",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000006e616d6176612e6972",
+    "country": "NL",
     "addTime": 1777975592
   },
   {
@@ -224,11 +224,11 @@
     "addTime": 1777943704
   },
   {
-    "host": "89.124.120.103",
+    "host": "nigon.goida.info",
     "port": 443,
-    "secret": "be920f13285e10280511381b79c1008a",
+    "secret": "ee0ab814ab4b08fb7275718acf131b84a973616d73756e672e636f6d",
     "country": "NL",
-    "addTime": 1777932334
+    "addTime": 1777932269
   },
   {
     "host": "connect.tproxyru.click",
@@ -238,17 +238,17 @@
     "addTime": 1777932260
   },
   {
-    "host": "etherealvpn.uk",
-    "port": 443,
-    "secret": "ee5ef5207bf96aff8d40ca1c59d6eaa2437777772e6d6963726f736f66742e636f6d",
-    "country": "SE",
-    "addTime": 1777932258
-  },
-  {
     "host": "0xb00b5.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
+    "addTime": 1777932258
+  },
+  {
+    "host": "etherealvpn.uk",
+    "port": 443,
+    "secret": "ee5ef5207bf96aff8d40ca1c59d6eaa2437777772e6d6963726f736f66742e636f6d",
+    "country": "SE",
     "addTime": 1777932258
   },
   {
