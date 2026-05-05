@@ -42,17 +42,17 @@
     "addTime": 1777986297
   },
   {
-    "host": "5.252.118.142",
-    "port": 443,
-    "secret": "ee000000000000000000000000000000006e616d6176612e6972",
-    "country": "NL",
-    "addTime": 1777975592
-  },
-  {
     "host": "142.132.227.42",
     "port": 443,
     "secret": "ee000000000000000000000000000000006d632e79616e6465782e7275",
     "country": "DE",
+    "addTime": 1777975592
+  },
+  {
+    "host": "5.252.118.142",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000006e616d6176612e6972",
+    "country": "NL",
     "addTime": 1777975592
   },
   {
@@ -63,17 +63,17 @@
     "addTime": 1777975589
   },
   {
-    "host": "45.90.98.40",
-    "port": 2443,
-    "secret": "ee9765b9f66307b92edf8751ce3953743964726f686c2e7265616c6d2d6f662d756c7472616d61722e7275",
-    "country": "DE",
-    "addTime": 1777975553
-  },
-  {
     "host": "87.120.244.44",
     "port": 2443,
     "secret": "ee51ef214060ee23ec3e8a0dc6ed38a1c27665737061746f722e7265616c6d2d6f662d756c7472616d61722e7275",
     "country": "NL",
+    "addTime": 1777975553
+  },
+  {
+    "host": "45.90.98.40",
+    "port": 2443,
+    "secret": "ee9765b9f66307b92edf8751ce3953743964726f686c2e7265616c6d2d6f662d756c7472616d61722e7275",
+    "country": "DE",
     "addTime": 1777975553
   },
   {
@@ -91,17 +91,17 @@
     "addTime": 1777975508
   },
   {
-    "host": "cover-acid.top",
-    "port": 853,
-    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "country": "US",
-    "addTime": 1777975483
-  },
-  {
     "host": "host.etherealvpn.uk",
     "port": 443,
     "secret": "ee5eb2336f3a46a15cf19ca3d707781b4c7777772e6d6963726f736f66742e636f6d",
     "country": "DE",
+    "addTime": 1777975483
+  },
+  {
+    "host": "cover-acid.top",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
     "addTime": 1777975483
   },
   {
@@ -173,6 +173,13 @@
     "secret": "be920f13285e10280511381b79c1008a",
     "country": "NL",
     "addTime": 1777932334
+  },
+  {
+    "host": "nigon.goida.info",
+    "port": 443,
+    "secret": "ee0ab814ab4b08fb7275718acf131b84a973616d73756e672e636f6d",
+    "country": "NL",
+    "addTime": 1777932269
   },
   {
     "host": "linkflowhub.shop",
@@ -341,12 +348,5 @@
     "secret": "eeee2df95325c79fa3a3b5a559bd59adfd706c617932676f2e636c6f7564",
     "country": "FI",
     "addTime": 1777878312
-  },
-  {
-    "host": "185.237.95.231",
-    "port": 443,
-    "secret": "ee4571396297582727452bf660db01b789676f6f676c652e636f6d",
-    "country": "DE",
-    "addTime": 1777867616
   }
 ]
