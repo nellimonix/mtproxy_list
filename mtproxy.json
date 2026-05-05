@@ -21,10 +21,10 @@
     "addTime": 1777997201
   },
   {
-    "host": "2.27.4.101",
-    "port": 444,
-    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
-    "country": "US",
+    "host": "gav.myrka.digital",
+    "port": 43003,
+    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
+    "country": "RU",
     "addTime": 1777997113
   },
   {
@@ -35,10 +35,10 @@
     "addTime": 1777997113
   },
   {
-    "host": "gav.myrka.digital",
-    "port": 43003,
-    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
-    "country": "RU",
+    "host": "2.27.4.101",
+    "port": 444,
+    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
+    "country": "US",
     "addTime": 1777997113
   },
   {
@@ -84,24 +84,17 @@
     "addTime": 1777986306
   },
   {
-    "host": "gg.etherealvpn.uk",
+    "host": "5.252.118.142",
     "port": 443,
-    "secret": "eee2c7176c8fc89b33fef34325dc5b9f01d186d17777772e6d6963726f736f66742e636f6d",
-    "country": "FI",
-    "addTime": 1777986297
+    "secret": "ee000000000000000000000000000000006e616d6176612e6972",
+    "country": "NL",
+    "addTime": 1777975592
   },
   {
     "host": "142.132.227.42",
     "port": 443,
     "secret": "ee000000000000000000000000000000006d632e79616e6465782e7275",
     "country": "DE",
-    "addTime": 1777975592
-  },
-  {
-    "host": "5.252.118.142",
-    "port": 443,
-    "secret": "ee000000000000000000000000000000006e616d6176612e6972",
-    "country": "NL",
     "addTime": 1777975592
   },
   {
@@ -133,6 +126,13 @@
     "addTime": 1777975508
   },
   {
+    "host": "host.etherealvpn.uk",
+    "port": 443,
+    "secret": "ee5eb2336f3a46a15cf19ca3d707781b4c7777772e6d6963726f736f66742e636f6d",
+    "country": "DE",
+    "addTime": 1777975483
+  },
+  {
     "host": "cover-acid.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
@@ -159,6 +159,13 @@
     "secret": "fe0713355da8737fb5f7b09d9cddb1e4",
     "country": "DE",
     "addTime": 1777964716
+  },
+  {
+    "host": "193.23.199.57",
+    "port": 443,
+    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d",
+    "country": "DE",
+    "addTime": 1777964708
   },
   {
     "host": "5.230.201.129",
@@ -217,6 +224,13 @@
     "addTime": 1777932334
   },
   {
+    "host": "nigon.goida.info",
+    "port": 443,
+    "secret": "ee0ab814ab4b08fb7275718acf131b84a973616d73756e672e636f6d",
+    "country": "NL",
+    "addTime": 1777932269
+  },
+  {
     "host": "connect.tproxyru.click",
     "port": 8980,
     "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
@@ -238,13 +252,6 @@
     "addTime": 1777932258
   },
   {
-    "host": "data.enable-request.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "US",
-    "addTime": 1777921606
-  },
-  {
     "host": "94.156.179.60",
     "port": 443,
     "secret": "eedde4f3cd120b53d313599b4a44d9d6cd7777772e636c6f7564666c6172652e636f6d",
@@ -257,6 +264,13 @@
     "secret": "13872a1efb8511421b1ca76ad4499573",
     "country": "FI",
     "addTime": 1777921497
+  },
+  {
+    "host": "193.23.199.16",
+    "port": 8443,
+    "secret": "eed942e15d1c4f6a22a8c8fc1d631f6eb9646c2e676f6f676c652e636f6d",
+    "country": "DE",
+    "addTime": 1777921490
   },
   {
     "host": "i-love-boobs.top",
@@ -334,19 +348,5 @@
     "secret": "ee650fb0356e691161e5af0f3ca862290a6b6f6d75732e7275",
     "country": "NL",
     "addTime": 1777899885
-  },
-  {
-    "host": "135.181.31.175",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1777899864
-  },
-  {
-    "host": "mtproto-fi1.nolimited.space",
-    "port": 443,
-    "secret": "ee297e5222c6724bb78c63cb38bc059eed6170692d6d6170732e79616e6465782e7275",
-    "country": "US",
-    "addTime": 1777889127
   }
 ]
