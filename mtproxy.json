@@ -84,17 +84,17 @@
     "addTime": 1777975508
   },
   {
-    "host": "host.etherealvpn.uk",
-    "port": 443,
-    "secret": "ee5eb2336f3a46a15cf19ca3d707781b4c7777772e6d6963726f736f66742e636f6d",
-    "country": "DE",
-    "addTime": 1777975483
-  },
-  {
     "host": "cover-acid.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
+    "addTime": 1777975483
+  },
+  {
+    "host": "host.etherealvpn.uk",
+    "port": 443,
+    "secret": "ee5eb2336f3a46a15cf19ca3d707781b4c7777772e6d6963726f736f66742e636f6d",
+    "country": "DE",
     "addTime": 1777975483
   },
   {
@@ -117,13 +117,6 @@
     "secret": "fe0713355da8737fb5f7b09d9cddb1e4",
     "country": "DE",
     "addTime": 1777964716
-  },
-  {
-    "host": "193.23.199.57",
-    "port": 443,
-    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d",
-    "country": "DE",
-    "addTime": 1777964708
   },
   {
     "host": "5.230.201.129",
@@ -180,6 +173,13 @@
     "secret": "ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70",
     "country": "DE",
     "addTime": 1777932260
+  },
+  {
+    "host": "etherealvpn.uk",
+    "port": 443,
+    "secret": "ee5ef5207bf96aff8d40ca1c59d6eaa2437777772e6d6963726f736f66742e636f6d",
+    "country": "SE",
+    "addTime": 1777932258
   },
   {
     "host": "0xb00b5.top",
@@ -301,10 +301,17 @@
     "addTime": 1777889120
   },
   {
+    "host": "xfs1.gbird.top",
+    "port": 6443,
+    "secret": "ddecad3d673e42dc10cae6fa9bcebcd5f6",
+    "country": "HK",
+    "addTime": 1777889117
+  },
+  {
     "host": "amsterdam.geodns.info",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
-    "country": "GB",
+    "country": "NL",
     "addTime": 1777889073
   },
   {
@@ -315,17 +322,17 @@
     "addTime": 1777889072
   },
   {
-    "host": "xanax.nfkavn.bond",
-    "port": 853,
-    "secret": "eee9f255f9c2d7801da00b28731c6fbe9d79612e7275",
-    "country": "PL",
-    "addTime": 1777878367
-  },
-  {
     "host": "94.183.177.201",
     "port": 443,
     "secret": "dd4dfae341b3dba1516cd9cfea3196f6ed",
     "country": "AE",
+    "addTime": 1777878367
+  },
+  {
+    "host": "xanax.nfkavn.bond",
+    "port": 853,
+    "secret": "eee9f255f9c2d7801da00b28731c6fbe9d79612e7275",
+    "country": "PL",
     "addTime": 1777878367
   },
   {
@@ -341,12 +348,5 @@
     "secret": "ee4571396297582727452bf660db01b789676f6f676c652e636f6d",
     "country": "DE",
     "addTime": 1777867616
-  },
-  {
-    "host": "s.qcold.online",
-    "port": 853,
-    "secret": "eea65967b55fdb60e0b3ac69aa46abc3de732e71636f6c642e6f6e6c696e65",
-    "country": "NL",
-    "addTime": 1777867490
   }
 ]
