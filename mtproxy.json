@@ -28,13 +28,6 @@
     "addTime": 1777997200
   },
   {
-    "host": "gav.myrka.digital",
-    "port": 43003,
-    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
-    "country": "RU",
-    "addTime": 1777997113
-  },
-  {
     "host": "2.27.4.101",
     "port": 444,
     "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
@@ -49,11 +42,25 @@
     "addTime": 1777997113
   },
   {
+    "host": "gav.myrka.digital",
+    "port": 43003,
+    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
+    "country": "RU",
+    "addTime": 1777997113
+  },
+  {
     "host": "proxyfsociety.mooo.com",
     "port": 443,
     "secret": "eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275",
     "country": "US",
     "addTime": 1777997103
+  },
+  {
+    "host": "swe-1.vespersubpage.tech",
+    "port": 443,
+    "secret": "ee503ff7a4c00ebb5fe94b58c1a418e16f706574726f766963682e7275",
+    "country": "GB",
+    "addTime": 1777997102
   },
   {
     "host": "telegram.woyt.pro",
@@ -126,17 +133,17 @@
     "addTime": 1777975553
   },
   {
-    "host": "103.56.114.117",
-    "port": 20001,
-    "secret": "eea5942ff95e1bc79f3598114dfc767d19617a7572652e6d6963726f736f66742e636f6d",
-    "country": "HK",
-    "addTime": 1777975508
-  },
-  {
     "host": "bioethics.order.paunchy.rebut.saturation.popochek.com",
     "port": 29102,
     "secret": "ee563ab7805b67afccb6684c32fcb3c891647a656e2e7275",
     "country": "DE",
+    "addTime": 1777975508
+  },
+  {
+    "host": "103.56.114.117",
+    "port": 20001,
+    "secret": "eea5942ff95e1bc79f3598114dfc767d19617a7572652e6d6963726f736f66742e636f6d",
+    "country": "HK",
     "addTime": 1777975508
   },
   {
@@ -217,25 +224,18 @@
     "addTime": 1777943717
   },
   {
+    "host": "212.233.76.27",
+    "port": 443,
+    "secret": "dd8fb807a1ac8c4e95b8a2642e5bedd8fc",
+    "country": "RU",
+    "addTime": 1777943704
+  },
+  {
     "host": "89.124.120.103",
     "port": 443,
     "secret": "be920f13285e10280511381b79c1008a",
     "country": "NL",
     "addTime": 1777932334
-  },
-  {
-    "host": "nigon.goida.info",
-    "port": 443,
-    "secret": "ee0ab814ab4b08fb7275718acf131b84a973616d73756e672e636f6d",
-    "country": "NL",
-    "addTime": 1777932269
-  },
-  {
-    "host": "0xb00b5.top",
-    "port": 853,
-    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "country": "US",
-    "addTime": 1777932258
   },
   {
     "host": "etherealvpn.uk",
@@ -245,10 +245,24 @@
     "addTime": 1777932258
   },
   {
+    "host": "0xb00b5.top",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
+    "addTime": 1777932258
+  },
+  {
+    "host": "130.49.218.57",
+    "port": 443,
+    "secret": "ee8aa50573bd2e964427df682f93935ce4646c2e676f6f676c652e636f6d",
+    "country": "RU",
+    "addTime": 1777932258
+  },
+  {
     "host": "data.enable-request.co.uk",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "US",
+    "country": "CY",
     "addTime": 1777921606
   },
   {
@@ -257,13 +271,6 @@
     "secret": "13872a1efb8511421b1ca76ad4499573",
     "country": "FI",
     "addTime": 1777921497
-  },
-  {
-    "host": "193.23.199.16",
-    "port": 8443,
-    "secret": "eed942e15d1c4f6a22a8c8fc1d631f6eb9646c2e676f6f676c652e636f6d",
-    "country": "DE",
-    "addTime": 1777921490
   },
   {
     "host": "i-love-boobs.top",
@@ -341,12 +348,5 @@
     "secret": "ee650fb0356e691161e5af0f3ca862290a6b6f6d75732e7275",
     "country": "NL",
     "addTime": 1777899885
-  },
-  {
-    "host": "135.181.31.175",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1777899864
   }
 ]
