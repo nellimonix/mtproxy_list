@@ -84,17 +84,17 @@
     "addTime": 1778029501
   },
   {
-    "host": "rodion.voltlab.su",
-    "port": 333,
-    "secret": "ee4fb4f50671cf171c891dfc1475609a0c726f64696f6e2e766f6c746c61622e7375",
-    "country": "FI",
-    "addTime": 1778018765
-  },
-  {
     "host": "tg.garden-gnomes.lol",
     "port": 443,
     "secret": "ee46b0971d5de93f825bc66f23a304c9367a61796d65722e7275",
     "country": "RU",
+    "addTime": 1778018765
+  },
+  {
+    "host": "rodion.voltlab.su",
+    "port": 333,
+    "secret": "ee4fb4f50671cf171c891dfc1475609a0c726f64696f6e2e766f6c746c61622e7375",
+    "country": "FI",
     "addTime": 1778018765
   },
   {
@@ -238,6 +238,13 @@
     "addTime": 1777997113
   },
   {
+    "host": "proxyfsociety.mooo.com",
+    "port": 443,
+    "secret": "eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275",
+    "country": "US",
+    "addTime": 1777997103
+  },
+  {
     "host": "swe-1.vespersubpage.tech",
     "port": 443,
     "secret": "ee503ff7a4c00ebb5fe94b58c1a418e16f706574726f766963682e7275",
@@ -341,12 +348,5 @@
     "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
     "country": "FI",
     "addTime": 1777964721
-  },
-  {
-    "host": "vpn.wemakecode.ru",
-    "port": 9443,
-    "secret": "fe0713355da8737fb5f7b09d9cddb1e4",
-    "country": "DE",
-    "addTime": 1777964716
   }
 ]
