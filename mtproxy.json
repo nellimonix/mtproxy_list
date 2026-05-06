@@ -14,13 +14,6 @@
     "addTime": 1778061900
   },
   {
-    "host": "free-nl-ru.kimt.space",
-    "port": 443,
-    "secret": "ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365",
-    "country": "MD",
-    "addTime": 1778061891
-  },
-  {
     "host": "calcium-credit.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
@@ -42,14 +35,14 @@
     "addTime": 1778051188
   },
   {
-    "host": "217.60.2.152",
+    "host": "217.60.2.195",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
     "addTime": 1778051181
   },
   {
-    "host": "217.60.2.195",
+    "host": "217.60.2.152",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
@@ -70,17 +63,17 @@
     "addTime": 1778051124
   },
   {
-    "host": "154.86.119.84",
-    "port": 8443,
-    "secret": "ee8839155c11a57823772ed5508a89fc106e6c30312e737062657965732e636f6d",
-    "country": "SC",
-    "addTime": 1778051096
-  },
-  {
     "host": "magic-networks.ru",
     "port": 2083,
     "secret": "4931e9e6000537266a0de4dbb81f81fa",
     "country": "DE",
+    "addTime": 1778051096
+  },
+  {
+    "host": "154.86.119.84",
+    "port": 8443,
+    "secret": "ee8839155c11a57823772ed5508a89fc106e6c30312e737062657965732e636f6d",
+    "country": "SC",
     "addTime": 1778051096
   },
   {
@@ -91,16 +84,16 @@
     "addTime": 1778040351
   },
   {
-    "host": "proxy03.vpnizator.online",
+    "host": "proxy01.vpnizator.online",
     "port": 2096,
-    "secret": "ee40c2874a9c922426e7f84967651bdc7c636c6f7564666c6172652e636f6d",
+    "secret": "eef6c85f66e07284036ad5fcbe883455e0636c6f7564666c6172652e636f6d",
     "country": "NL",
     "addTime": 1778029575
   },
   {
-    "host": "proxy01.vpnizator.online",
+    "host": "proxy03.vpnizator.online",
     "port": 2096,
-    "secret": "eef6c85f66e07284036ad5fcbe883455e0636c6f7564666c6172652e636f6d",
+    "secret": "ee40c2874a9c922426e7f84967651bdc7c636c6f7564666c6172652e636f6d",
     "country": "NL",
     "addTime": 1778029575
   },
@@ -145,13 +138,6 @@
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
     "addTime": 1778018759
-  },
-  {
-    "host": "193.23.199.49",
-    "port": 443,
-    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d",
-    "country": "DE",
-    "addTime": 1778018757
   },
   {
     "host": "mt-1.nvpn.quest",
@@ -217,10 +203,24 @@
     "addTime": 1778007903
   },
   {
+    "host": "t.vkgosuslugi.ru",
+    "port": 443,
+    "secret": "ee34fd4e8e9b8d0008a2d80f7e8b80ce8277622e7275",
+    "country": "RU",
+    "addTime": 1778007903
+  },
+  {
     "host": "proxyfsociety.strangled.net",
     "port": 443,
     "secret": "eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275",
     "country": "DE",
+    "addTime": 1778007898
+  },
+  {
+    "host": "now.tproxyru.click",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "country": "RU",
     "addTime": 1778007898
   },
   {
