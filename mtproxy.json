@@ -14,16 +14,16 @@
     "addTime": 1778040351
   },
   {
-    "host": "proxy03.vpnizator.online",
+    "host": "proxy01.vpnizator.online",
     "port": 2096,
-    "secret": "ee40c2874a9c922426e7f84967651bdc7c636c6f7564666c6172652e636f6d",
+    "secret": "eef6c85f66e07284036ad5fcbe883455e0636c6f7564666c6172652e636f6d",
     "country": "NL",
     "addTime": 1778029575
   },
   {
-    "host": "proxy01.vpnizator.online",
+    "host": "proxy03.vpnizator.online",
     "port": 2096,
-    "secret": "eef6c85f66e07284036ad5fcbe883455e0636c6f7564666c6172652e636f6d",
+    "secret": "ee40c2874a9c922426e7f84967651bdc7c636c6f7564666c6172652e636f6d",
     "country": "NL",
     "addTime": 1778029575
   },
@@ -56,6 +56,13 @@
     "addTime": 1778018769
   },
   {
+    "host": "tg.garden-gnomes.lol",
+    "port": 443,
+    "secret": "ee46b0971d5de93f825bc66f23a304c9367a61796d65722e7275",
+    "country": "RU",
+    "addTime": 1778018765
+  },
+  {
     "host": "62.60.250.4",
     "port": 443,
     "secret": "eeec3fce71a129da55aac3fda32e0d438a636c6f7564666c6172652e636f6d",
@@ -70,25 +77,11 @@
     "addTime": 1778018765
   },
   {
-    "host": "tg.garden-gnomes.lol",
-    "port": 443,
-    "secret": "ee46b0971d5de93f825bc66f23a304c9367a61796d65722e7275",
-    "country": "RU",
-    "addTime": 1778018765
-  },
-  {
     "host": "217.60.2.16",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
     "addTime": 1778018759
-  },
-  {
-    "host": "mtp.kndrsxraybot.com",
-    "port": 443,
-    "secret": "dde9748eba6c95f9db1a0458166890a86d",
-    "country": "US",
-    "addTime": 1778018758
   },
   {
     "host": "193.23.199.49",
@@ -126,17 +119,17 @@
     "addTime": 1778018672
   },
   {
-    "host": "mt.nya-aw.sbs",
-    "port": 1337,
-    "secret": "ee5478007af5bd2b1c565364585b705bc16164732e78352e7275",
-    "country": "DE",
-    "addTime": 1778008022
-  },
-  {
     "host": "45.194.66.132",
     "port": 443,
     "secret": "eee47c5a4b39dea286db7817a422fd21dd636c6f7564666c6172652e636f6d",
     "country": "SC",
+    "addTime": 1778008022
+  },
+  {
+    "host": "mt.nya-aw.sbs",
+    "port": 1337,
+    "secret": "ee5478007af5bd2b1c565364585b705bc16164732e78352e7275",
+    "country": "DE",
     "addTime": 1778008022
   },
   {
@@ -182,13 +175,6 @@
     "addTime": 1778007894
   },
   {
-    "host": "swekitty.grittytarantula.sbs",
-    "port": 443,
-    "secret": "ee60dc3a5afe391d9c938390f397ee534c7377656b697474792e677269747479746172616e74756c612e736273",
-    "country": "US",
-    "addTime": 1778007894
-  },
-  {
     "host": "154.86.119.68",
     "port": 443,
     "secret": "ee8bd9ab65c11475815321e8f64e33de32636c6f7564666c6172652e636f6d",
@@ -217,6 +203,13 @@
     "addTime": 1777997200
   },
   {
+    "host": "gav.myrka.digital",
+    "port": 43003,
+    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
+    "country": "RU",
+    "addTime": 1777997113
+  },
+  {
     "host": "2.27.4.102",
     "port": 3443,
     "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
@@ -229,20 +222,6 @@
     "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1777997113
-  },
-  {
-    "host": "gav.myrka.digital",
-    "port": 43003,
-    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
-    "country": "RU",
-    "addTime": 1777997113
-  },
-  {
-    "host": "proxyfsociety.mooo.com",
-    "port": 443,
-    "secret": "eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1777997103
   },
   {
     "host": "swe-1.vespersubpage.tech",
@@ -301,13 +280,6 @@
     "addTime": 1777975592
   },
   {
-    "host": "45.90.98.40",
-    "port": 2443,
-    "secret": "ee9765b9f66307b92edf8751ce3953743964726f686c2e7265616c6d2d6f662d756c7472616d61722e7275",
-    "country": "DE",
-    "addTime": 1777975553
-  },
-  {
     "host": "87.120.244.44",
     "port": 2443,
     "secret": "ee51ef214060ee23ec3e8a0dc6ed38a1c27665737061746f722e7265616c6d2d6f662d756c7472616d61722e7275",
@@ -315,17 +287,24 @@
     "addTime": 1777975553
   },
   {
-    "host": "bioethics.order.paunchy.rebut.saturation.popochek.com",
-    "port": 29102,
-    "secret": "ee563ab7805b67afccb6684c32fcb3c891647a656e2e7275",
+    "host": "45.90.98.40",
+    "port": 2443,
+    "secret": "ee9765b9f66307b92edf8751ce3953743964726f686c2e7265616c6d2d6f662d756c7472616d61722e7275",
     "country": "DE",
-    "addTime": 1777975508
+    "addTime": 1777975553
   },
   {
     "host": "103.56.114.117",
     "port": 20001,
     "secret": "eea5942ff95e1bc79f3598114dfc767d19617a7572652e6d6963726f736f66742e636f6d",
     "country": "HK",
+    "addTime": 1777975508
+  },
+  {
+    "host": "bioethics.order.paunchy.rebut.saturation.popochek.com",
+    "port": 29102,
+    "secret": "ee563ab7805b67afccb6684c32fcb3c891647a656e2e7275",
+    "country": "DE",
     "addTime": 1777975508
   },
   {
@@ -343,10 +322,31 @@
     "addTime": 1777964721
   },
   {
+    "host": "vpn.wemakecode.ru",
+    "port": 9443,
+    "secret": "fe0713355da8737fb5f7b09d9cddb1e4",
+    "country": "DE",
+    "addTime": 1777964716
+  },
+  {
+    "host": "193.23.199.57",
+    "port": 443,
+    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d",
+    "country": "DE",
+    "addTime": 1777964708
+  },
+  {
     "host": "5.230.201.129",
     "port": 443,
     "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d",
     "country": "US",
     "addTime": 1777964708
+  },
+  {
+    "host": "77.42.123.21",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "FI",
+    "addTime": 1777964698
   }
 ]
