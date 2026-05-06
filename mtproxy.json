@@ -14,6 +14,13 @@
     "addTime": 1778040351
   },
   {
+    "host": "proxy02.vpnizator.online",
+    "port": 443,
+    "secret": "ee37f87e4207f381eb514bcc7ee013834e676f6f676c652e636f6d",
+    "country": "FR",
+    "addTime": 1778029575
+  },
+  {
     "host": "proxy03.vpnizator.online",
     "port": 2096,
     "secret": "ee40c2874a9c922426e7f84967651bdc7c636c6f7564666c6172652e636f6d",
@@ -28,11 +35,11 @@
     "addTime": 1778029575
   },
   {
-    "host": "proxy02.vpnizator.online",
+    "host": "31.172.78.103",
     "port": 443,
-    "secret": "ee37f87e4207f381eb514bcc7ee013834e676f6f676c652e636f6d",
-    "country": "FR",
-    "addTime": 1778029575
+    "secret": "ee7362657262616e6b2e727522ad9304",
+    "country": "NL",
+    "addTime": 1778029518
   },
   {
     "host": "wxp2026.xyz",
@@ -42,14 +49,14 @@
     "addTime": 1778029501
   },
   {
-    "host": "166.88.164.71",
+    "host": "23.27.134.6",
     "port": 65265,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "US",
     "addTime": 1778018769
   },
   {
-    "host": "23.27.134.6",
+    "host": "166.88.164.71",
     "port": 65265,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "US",
@@ -154,6 +161,13 @@
     "addTime": 1778007925
   },
   {
+    "host": "t.vkgosuslugi.ru",
+    "port": 443,
+    "secret": "ee34fd4e8e9b8d0008a2d80f7e8b80ce8277622e7275",
+    "country": "RU",
+    "addTime": 1778007903
+  },
+  {
     "host": "79.137.194.64",
     "port": 443,
     "secret": "eeda4e8fff86bbd11132e908b76df9402b766b2e636f6d",
@@ -171,6 +185,13 @@
     "host": "i-love-femboys.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
+    "addTime": 1778007894
+  },
+  {
+    "host": "swekitty.grittytarantula.sbs",
+    "port": 443,
+    "secret": "ee60dc3a5afe391d9c938390f397ee534c7377656b697474792e677269747479746172616e74756c612e736273",
     "country": "US",
     "addTime": 1778007894
   },
@@ -203,10 +224,10 @@
     "addTime": 1777997200
   },
   {
-    "host": "2.27.4.101",
-    "port": 444,
-    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
-    "country": "US",
+    "host": "gav.myrka.digital",
+    "port": 43003,
+    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
+    "country": "RU",
     "addTime": 1777997113
   },
   {
@@ -217,10 +238,10 @@
     "addTime": 1777997113
   },
   {
-    "host": "gav.myrka.digital",
-    "port": 43003,
-    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
-    "country": "RU",
+    "host": "2.27.4.101",
+    "port": 444,
+    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
+    "country": "US",
     "addTime": 1777997113
   },
   {
@@ -273,17 +294,17 @@
     "addTime": 1777986306
   },
   {
-    "host": "142.132.227.42",
-    "port": 443,
-    "secret": "ee000000000000000000000000000000006d632e79616e6465782e7275",
-    "country": "DE",
-    "addTime": 1777975592
-  },
-  {
     "host": "5.252.118.142",
     "port": 443,
     "secret": "ee000000000000000000000000000000006e616d6176612e6972",
     "country": "NL",
+    "addTime": 1777975592
+  },
+  {
+    "host": "142.132.227.42",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000006d632e79616e6465782e7275",
+    "country": "DE",
     "addTime": 1777975592
   },
   {
@@ -327,26 +348,5 @@
     "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
     "country": "FI",
     "addTime": 1777964721
-  },
-  {
-    "host": "vpn.wemakecode.ru",
-    "port": 9443,
-    "secret": "fe0713355da8737fb5f7b09d9cddb1e4",
-    "country": "DE",
-    "addTime": 1777964716
-  },
-  {
-    "host": "5.230.201.129",
-    "port": 443,
-    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d",
-    "country": "US",
-    "addTime": 1777964708
-  },
-  {
-    "host": "77.42.123.21",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1777964698
   }
 ]
