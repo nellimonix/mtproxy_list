@@ -14,13 +14,6 @@
     "addTime": 1778040351
   },
   {
-    "host": "proxy01.vpnizator.online",
-    "port": 2096,
-    "secret": "eef6c85f66e07284036ad5fcbe883455e0636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1778029575
-  },
-  {
     "host": "proxy03.vpnizator.online",
     "port": 2096,
     "secret": "ee40c2874a9c922426e7f84967651bdc7c636c6f7564666c6172652e636f6d",
@@ -33,6 +26,20 @@
     "secret": "ee37f87e4207f381eb514bcc7ee013834e676f6f676c652e636f6d",
     "country": "FR",
     "addTime": 1778029575
+  },
+  {
+    "host": "proxy01.vpnizator.online",
+    "port": 2096,
+    "secret": "eef6c85f66e07284036ad5fcbe883455e0636c6f7564666c6172652e636f6d",
+    "country": "NL",
+    "addTime": 1778029575
+  },
+  {
+    "host": "31.172.78.103",
+    "port": 443,
+    "secret": "ee7362657262616e6b2e727522ad9304",
+    "country": "NL",
+    "addTime": 1778029518
   },
   {
     "host": "wxp2026.xyz",
@@ -154,13 +161,6 @@
     "addTime": 1778007925
   },
   {
-    "host": "t.vkgosuslugi.ru",
-    "port": 443,
-    "secret": "ee34fd4e8e9b8d0008a2d80f7e8b80ce8277622e7275",
-    "country": "RU",
-    "addTime": 1778007903
-  },
-  {
     "host": "79.137.194.64",
     "port": 443,
     "secret": "eeda4e8fff86bbd11132e908b76df9402b766b2e636f6d",
@@ -168,10 +168,24 @@
     "addTime": 1778007903
   },
   {
+    "host": "t.vkgosuslugi.ru",
+    "port": 443,
+    "secret": "ee34fd4e8e9b8d0008a2d80f7e8b80ce8277622e7275",
+    "country": "RU",
+    "addTime": 1778007903
+  },
+  {
     "host": "now.tproxyru.click",
     "port": 8980,
     "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
     "country": "RU",
+    "addTime": 1778007898
+  },
+  {
+    "host": "proxyfsociety.strangled.net",
+    "port": 443,
+    "secret": "eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275",
+    "country": "DE",
     "addTime": 1778007898
   },
   {
@@ -224,16 +238,16 @@
     "addTime": 1777997113
   },
   {
-    "host": "2.27.4.101",
-    "port": 444,
-    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
+    "host": "2.27.4.102",
+    "port": 3443,
+    "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
     "country": "US",
     "addTime": 1777997113
   },
   {
-    "host": "2.27.4.102",
-    "port": 3443,
-    "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
+    "host": "2.27.4.101",
+    "port": 444,
+    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1777997113
   },
@@ -243,13 +257,6 @@
     "secret": "eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275",
     "country": "US",
     "addTime": 1777997103
-  },
-  {
-    "host": "swe-1.vespersubpage.tech",
-    "port": 443,
-    "secret": "ee503ff7a4c00ebb5fe94b58c1a418e16f706574726f766963682e7275",
-    "country": "GB",
-    "addTime": 1777997102
   },
   {
     "host": "telegram.woyt.pro",
@@ -287,17 +294,17 @@
     "addTime": 1777986306
   },
   {
-    "host": "5.252.118.142",
-    "port": 443,
-    "secret": "ee000000000000000000000000000000006e616d6176612e6972",
-    "country": "NL",
-    "addTime": 1777975592
-  },
-  {
     "host": "142.132.227.42",
     "port": 443,
     "secret": "ee000000000000000000000000000000006d632e79616e6465782e7275",
     "country": "DE",
+    "addTime": 1777975592
+  },
+  {
+    "host": "5.252.118.142",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000006e616d6176612e6972",
+    "country": "NL",
     "addTime": 1777975592
   },
   {
@@ -315,17 +322,17 @@
     "addTime": 1777975553
   },
   {
-    "host": "103.56.114.117",
-    "port": 20001,
-    "secret": "eea5942ff95e1bc79f3598114dfc767d19617a7572652e6d6963726f736f66742e636f6d",
-    "country": "HK",
-    "addTime": 1777975508
-  },
-  {
     "host": "bioethics.order.paunchy.rebut.saturation.popochek.com",
     "port": 29102,
     "secret": "ee563ab7805b67afccb6684c32fcb3c891647a656e2e7275",
     "country": "DE",
+    "addTime": 1777975508
+  },
+  {
+    "host": "103.56.114.117",
+    "port": 20001,
+    "secret": "eea5942ff95e1bc79f3598114dfc767d19617a7572652e6d6963726f736f66742e636f6d",
+    "country": "HK",
     "addTime": 1777975508
   },
   {
@@ -341,12 +348,5 @@
     "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
     "country": "FI",
     "addTime": 1777964721
-  },
-  {
-    "host": "vpn.wemakecode.ru",
-    "port": 9443,
-    "secret": "fe0713355da8737fb5f7b09d9cddb1e4",
-    "country": "DE",
-    "addTime": 1777964716
   }
 ]
