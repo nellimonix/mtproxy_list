@@ -56,13 +56,6 @@
     "addTime": 1778061900
   },
   {
-    "host": "free-nl-ru.kimt.space",
-    "port": 443,
-    "secret": "ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365",
-    "country": "MD",
-    "addTime": 1778061891
-  },
-  {
     "host": "calcium-credit.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
@@ -84,14 +77,14 @@
     "addTime": 1778051188
   },
   {
-    "host": "217.60.2.152",
+    "host": "217.60.2.195",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
     "addTime": 1778051181
   },
   {
-    "host": "217.60.2.195",
+    "host": "217.60.2.152",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
@@ -182,6 +175,13 @@
     "addTime": 1778018758
   },
   {
+    "host": "193.23.199.49",
+    "port": 443,
+    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d",
+    "country": "DE",
+    "addTime": 1778018757
+  },
+  {
     "host": "mt-1.nvpn.quest",
     "port": 443,
     "secret": "ee80baefdc44578cbe584676fb46a48fb573756e312d32312e757365726170692e636f6d",
@@ -245,17 +245,10 @@
     "addTime": 1778007903
   },
   {
-    "host": "t.vkgosuslugi.ru",
-    "port": 443,
-    "secret": "ee34fd4e8e9b8d0008a2d80f7e8b80ce8277622e7275",
+    "host": "now.tproxyru.click",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
     "country": "RU",
-    "addTime": 1778007903
-  },
-  {
-    "host": "proxyfsociety.strangled.net",
-    "port": 443,
-    "secret": "eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275",
-    "country": "DE",
     "addTime": 1778007898
   },
   {
@@ -294,13 +287,6 @@
     "addTime": 1777997200
   },
   {
-    "host": "gav.myrka.digital",
-    "port": 43003,
-    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
-    "country": "RU",
-    "addTime": 1777997113
-  },
-  {
     "host": "2.27.4.101",
     "port": 444,
     "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
@@ -312,6 +298,13 @@
     "port": 3443,
     "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
     "country": "US",
+    "addTime": 1777997113
+  },
+  {
+    "host": "gav.myrka.digital",
+    "port": 43003,
+    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
+    "country": "RU",
     "addTime": 1777997113
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee2111222233334444555566667777888865756331312e706c61796c6973742e7474766e772e6e6574",
     "country": "DE",
     "addTime": 1777986372
+  },
+  {
+    "host": "2.27.42.231",
+    "port": 443,
+    "secret": "ee4f93dd09cb3301c90fbef6feabce2654706574726f766963682e7275",
+    "country": "FI",
+    "addTime": 1777986306
   }
 ]
