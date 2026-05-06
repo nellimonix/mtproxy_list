@@ -28,16 +28,16 @@
     "addTime": 1778072717
   },
   {
-    "host": "176.108.246.212",
-    "port": 8888,
-    "secret": "ee6cb451efb8f357733feda81aa8e8066c6164732e78352e7275",
+    "host": "176.123.164.2",
+    "port": 443,
+    "secret": "ee238769e7429435643399dc21169d8ffe636c6f75642e7275",
     "country": "RU",
     "addTime": 1778072717
   },
   {
-    "host": "176.123.164.2",
-    "port": 443,
-    "secret": "ee238769e7429435643399dc21169d8ffe636c6f75642e7275",
+    "host": "176.108.246.212",
+    "port": 8888,
+    "secret": "ee6cb451efb8f357733feda81aa8e8066c6164732e78352e7275",
     "country": "RU",
     "addTime": 1778072717
   },
@@ -54,6 +54,13 @@
     "secret": "eedc25d223a122a903d7f3e9a9b2b0ea6a647a656e2e7275",
     "country": "DE",
     "addTime": 1778061900
+  },
+  {
+    "host": "free-nl-ru.kimt.space",
+    "port": 443,
+    "secret": "ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365",
+    "country": "MD",
+    "addTime": 1778061891
   },
   {
     "host": "calcium-credit.top",
@@ -77,14 +84,14 @@
     "addTime": 1778051188
   },
   {
-    "host": "217.60.2.195",
+    "host": "217.60.2.152",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
     "addTime": 1778051181
   },
   {
-    "host": "217.60.2.152",
+    "host": "217.60.2.195",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
@@ -133,6 +140,13 @@
     "addTime": 1778029575
   },
   {
+    "host": "proxy03.vpnizator.online",
+    "port": 2096,
+    "secret": "ee40c2874a9c922426e7f84967651bdc7c636c6f7564666c6172652e636f6d",
+    "country": "NL",
+    "addTime": 1778029575
+  },
+  {
     "host": "31.172.78.103",
     "port": 443,
     "secret": "ee7362657262616e6b2e727522ad9304",
@@ -166,13 +180,6 @@
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
     "addTime": 1778018759
-  },
-  {
-    "host": "mtp.kndrsxraybot.com",
-    "port": 443,
-    "secret": "dde9748eba6c95f9db1a0458166890a86d",
-    "country": "US",
-    "addTime": 1778018758
   },
   {
     "host": "193.23.199.49",
@@ -252,6 +259,13 @@
     "addTime": 1778007898
   },
   {
+    "host": "proxyfsociety.strangled.net",
+    "port": 443,
+    "secret": "eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275",
+    "country": "DE",
+    "addTime": 1778007898
+  },
+  {
     "host": "i-love-femboys.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
@@ -287,10 +301,10 @@
     "addTime": 1777997200
   },
   {
-    "host": "2.27.4.101",
-    "port": 444,
-    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
-    "country": "US",
+    "host": "gav.myrka.digital",
+    "port": 43003,
+    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
+    "country": "RU",
     "addTime": 1777997113
   },
   {
@@ -301,10 +315,10 @@
     "addTime": 1777997113
   },
   {
-    "host": "gav.myrka.digital",
-    "port": 43003,
-    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
-    "country": "RU",
+    "host": "2.27.4.101",
+    "port": 444,
+    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
+    "country": "US",
     "addTime": 1777997113
   },
   {
@@ -334,19 +348,5 @@
     "secret": "cdd2b1d2f6d78b1dc81b981410f05789",
     "country": "NL",
     "addTime": 1777986375
-  },
-  {
-    "host": "mtc4ljewns40nc4yndq.he-de-05.mtproto.icu",
-    "port": 443,
-    "secret": "ee2111222233334444555566667777888865756331312e706c61796c6973742e7474766e772e6e6574",
-    "country": "DE",
-    "addTime": 1777986372
-  },
-  {
-    "host": "2.27.42.231",
-    "port": 443,
-    "secret": "ee4f93dd09cb3301c90fbef6feabce2654706574726f766963682e7275",
-    "country": "FI",
-    "addTime": 1777986306
   }
 ]
