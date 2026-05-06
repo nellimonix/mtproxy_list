@@ -315,13 +315,6 @@
     "addTime": 1778072864
   },
   {
-    "host": "ya.silvpn.su",
-    "port": 443,
-    "secret": "eeea7a1978e167c0842ce31a16749038da79612e6e657763646e2e7275",
-    "country": "RU",
-    "addTime": 1778072854
-  },
-  {
     "host": "tg.myaeroplan.ru",
     "port": 443,
     "secret": "ee8a33c4889bc447aceb6be857937532456d742e6d796165726f706c616e2e7275",
@@ -346,6 +339,13 @@
     "host": "176.123.164.2",
     "port": 443,
     "secret": "ee238769e7429435643399dc21169d8ffe636c6f75642e7275",
+    "country": "RU",
+    "addTime": 1778072717
+  },
+  {
+    "host": "176.108.246.212",
+    "port": 8888,
+    "secret": "ee6cb451efb8f357733feda81aa8e8066c6164732e78352e7275",
     "country": "RU",
     "addTime": 1778072717
   }
