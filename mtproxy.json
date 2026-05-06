@@ -189,14 +189,7 @@
     "addTime": 1778083639
   },
   {
-    "host": "2.26.90.123",
-    "port": 443,
-    "secret": "eec17aae3ad18d5e9f796a19779bc294d96f6b63646e2e7275",
-    "country": "GB",
-    "addTime": 1778083639
-  },
-  {
-    "host": "82.21.7.106",
+    "host": "82.21.7.108",
     "port": 443,
     "secret": "ee5c4790a1051c8881b97cc3abe1955b0a6e2e6d7466612e6363",
     "country": "NL",
@@ -207,6 +200,13 @@
     "port": 443,
     "secret": "ee46b0971d5de93f825bc66f23a304c9367a61796d65722e7275",
     "country": "RU",
+    "addTime": 1778083639
+  },
+  {
+    "host": "2.26.90.123",
+    "port": 443,
+    "secret": "eec17aae3ad18d5e9f796a19779bc294d96f6b63646e2e7275",
+    "country": "GB",
     "addTime": 1778083639
   },
   {
@@ -224,7 +224,7 @@
     "addTime": 1778083639
   },
   {
-    "host": "82.21.7.108",
+    "host": "82.21.7.106",
     "port": 443,
     "secret": "ee5c4790a1051c8881b97cc3abe1955b0a6e2e6d7466612e6363",
     "country": "NL",
@@ -273,17 +273,17 @@
     "addTime": 1778083496
   },
   {
-    "host": "theoriginalproxies-5.com",
-    "port": 443,
-    "secret": "ee722ba6ba8dca2a31690a58c3a3223e2f7777772e636c6f7564666c6172652e636f6d",
-    "country": "GB",
-    "addTime": 1778083487
-  },
-  {
     "host": "mtp.ascel.la",
     "port": 8443,
     "secret": "dd5a168da5855fbccf12ccba3e0c4df359",
     "country": "RU",
+    "addTime": 1778083487
+  },
+  {
+    "host": "theoriginalproxies-5.com",
+    "port": 443,
+    "secret": "ee722ba6ba8dca2a31690a58c3a3223e2f7777772e636c6f7564666c6172652e636f6d",
+    "country": "GB",
     "addTime": 1778083487
   },
   {
@@ -294,17 +294,17 @@
     "addTime": 1778083484
   },
   {
-    "host": "87.99.156.54",
-    "port": 443,
-    "secret": "dd00112233445566778899aabbccddeeff",
-    "country": "US",
-    "addTime": 1778083469
-  },
-  {
     "host": "95.216.178.41",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
+    "addTime": 1778083469
+  },
+  {
+    "host": "87.99.156.54",
+    "port": 443,
+    "secret": "dd00112233445566778899aabbccddeeff",
+    "country": "US",
     "addTime": 1778083469
   },
   {
@@ -313,6 +313,13 @@
     "secret": "2b00a8e628b9511e2533b50cb4dd97e9",
     "country": "DE",
     "addTime": 1778072864
+  },
+  {
+    "host": "ya.silvpn.su",
+    "port": 443,
+    "secret": "eeea7a1978e167c0842ce31a16749038da79612e6e657763646e2e7275",
+    "country": "RU",
+    "addTime": 1778072854
   },
   {
     "host": "tg.myaeroplan.ru",
@@ -329,24 +336,17 @@
     "addTime": 1778072770
   },
   {
-    "host": "176.123.164.2",
-    "port": 443,
-    "secret": "ee238769e7429435643399dc21169d8ffe636c6f75642e7275",
-    "country": "RU",
-    "addTime": 1778072717
-  },
-  {
-    "host": "176.108.246.212",
-    "port": 8888,
-    "secret": "ee6cb451efb8f357733feda81aa8e8066c6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1778072717
-  },
-  {
     "host": "84.234.29.45",
     "port": 8888,
     "secret": "ee4656d7c87840f4055fd990f2c856fb3b676f6f676c652e636f6d",
     "country": "CH",
+    "addTime": 1778072717
+  },
+  {
+    "host": "176.123.164.2",
+    "port": 443,
+    "secret": "ee238769e7429435643399dc21169d8ffe636c6f75642e7275",
+    "country": "RU",
     "addTime": 1778072717
   }
 ]
