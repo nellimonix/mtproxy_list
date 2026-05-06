@@ -14,6 +14,13 @@
     "addTime": 1778061900
   },
   {
+    "host": "free-nl-ru.kimt.space",
+    "port": 443,
+    "secret": "ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365",
+    "country": "MD",
+    "addTime": 1778061891
+  },
+  {
     "host": "calcium-credit.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
@@ -35,14 +42,14 @@
     "addTime": 1778051188
   },
   {
-    "host": "217.60.2.195",
+    "host": "217.60.2.152",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
     "addTime": 1778051181
   },
   {
-    "host": "217.60.2.152",
+    "host": "217.60.2.195",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
@@ -63,17 +70,17 @@
     "addTime": 1778051124
   },
   {
-    "host": "154.86.119.84",
-    "port": 8443,
-    "secret": "ee8839155c11a57823772ed5508a89fc106e6c30312e737062657965732e636f6d",
-    "country": "SC",
-    "addTime": 1778051096
-  },
-  {
     "host": "magic-networks.ru",
     "port": 2083,
     "secret": "4931e9e6000537266a0de4dbb81f81fa",
     "country": "DE",
+    "addTime": 1778051096
+  },
+  {
+    "host": "154.86.119.84",
+    "port": 8443,
+    "secret": "ee8839155c11a57823772ed5508a89fc106e6c30312e737062657965732e636f6d",
+    "country": "SC",
     "addTime": 1778051096
   },
   {
@@ -82,13 +89,6 @@
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
     "addTime": 1778040351
-  },
-  {
-    "host": "proxy03.vpnizator.online",
-    "port": 2096,
-    "secret": "ee40c2874a9c922426e7f84967651bdc7c636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1778029575
   },
   {
     "host": "proxy01.vpnizator.online",
@@ -102,6 +102,13 @@
     "port": 443,
     "secret": "ee37f87e4207f381eb514bcc7ee013834e676f6f676c652e636f6d",
     "country": "FR",
+    "addTime": 1778029575
+  },
+  {
+    "host": "proxy03.vpnizator.online",
+    "port": 2096,
+    "secret": "ee40c2874a9c922426e7f84967651bdc7c636c6f7564666c6172652e636f6d",
+    "country": "NL",
     "addTime": 1778029575
   },
   {
@@ -252,10 +259,10 @@
     "addTime": 1777997200
   },
   {
-    "host": "2.27.4.102",
-    "port": 3443,
-    "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
-    "country": "US",
+    "host": "gav.myrka.digital",
+    "port": 43003,
+    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
+    "country": "RU",
     "addTime": 1777997113
   },
   {
@@ -266,10 +273,10 @@
     "addTime": 1777997113
   },
   {
-    "host": "gav.myrka.digital",
-    "port": 43003,
-    "secret": "ee111890d11ee341448911227c1a0c14486761762e6d79726b612e6469676974616c",
-    "country": "RU",
+    "host": "2.27.4.102",
+    "port": 3443,
+    "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
+    "country": "US",
     "addTime": 1777997113
   },
   {
@@ -341,12 +348,5 @@
     "secret": "ee51ef214060ee23ec3e8a0dc6ed38a1c27665737061746f722e7265616c6d2d6f662d756c7472616d61722e7275",
     "country": "NL",
     "addTime": 1777975553
-  },
-  {
-    "host": "bioethics.order.paunchy.rebut.saturation.popochek.com",
-    "port": 29102,
-    "secret": "ee563ab7805b67afccb6684c32fcb3c891647a656e2e7275",
-    "country": "DE",
-    "addTime": 1777975508
   }
 ]
