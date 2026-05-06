@@ -7,14 +7,14 @@
     "addTime": 1778051188
   },
   {
-    "host": "217.60.2.195",
+    "host": "217.60.2.152",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
     "addTime": 1778051181
   },
   {
-    "host": "217.60.2.152",
+    "host": "217.60.2.195",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
@@ -35,17 +35,17 @@
     "addTime": 1778051124
   },
   {
-    "host": "magic-networks.ru",
-    "port": 2083,
-    "secret": "4931e9e6000537266a0de4dbb81f81fa",
-    "country": "DE",
-    "addTime": 1778051096
-  },
-  {
     "host": "154.86.119.84",
     "port": 8443,
     "secret": "ee8839155c11a57823772ed5508a89fc106e6c30312e737062657965732e636f6d",
     "country": "SC",
+    "addTime": 1778051096
+  },
+  {
+    "host": "magic-networks.ru",
+    "port": 2083,
+    "secret": "4931e9e6000537266a0de4dbb81f81fa",
+    "country": "DE",
     "addTime": 1778051096
   },
   {
@@ -54,6 +54,13 @@
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
     "addTime": 1778040351
+  },
+  {
+    "host": "proxy02.vpnizator.online",
+    "port": 443,
+    "secret": "ee37f87e4207f381eb514bcc7ee013834e676f6f676c652e636f6d",
+    "country": "FR",
+    "addTime": 1778029575
   },
   {
     "host": "proxy01.vpnizator.online",
@@ -70,39 +77,11 @@
     "addTime": 1778029575
   },
   {
-    "host": "proxy02.vpnizator.online",
-    "port": 443,
-    "secret": "ee37f87e4207f381eb514bcc7ee013834e676f6f676c652e636f6d",
-    "country": "FR",
-    "addTime": 1778029575
-  },
-  {
     "host": "wxp2026.xyz",
     "port": 443,
     "secret": "ee659157f923726a8feb52e4ec74810fa8652e6d61696c2e7275",
     "country": "AT",
     "addTime": 1778029501
-  },
-  {
-    "host": "23.27.134.6",
-    "port": 65265,
-    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
-    "country": "US",
-    "addTime": 1778018769
-  },
-  {
-    "host": "tg.garden-gnomes.lol",
-    "port": 443,
-    "secret": "ee46b0971d5de93f825bc66f23a304c9367a61796d65722e7275",
-    "country": "RU",
-    "addTime": 1778018765
-  },
-  {
-    "host": "62.60.250.4",
-    "port": 443,
-    "secret": "eeec3fce71a129da55aac3fda32e0d438a636c6f7564666c6172652e636f6d",
-    "country": "IR",
-    "addTime": 1778018765
   },
   {
     "host": "rodion.voltlab.su",
@@ -112,18 +91,18 @@
     "addTime": 1778018765
   },
   {
+    "host": "tg.garden-gnomes.lol",
+    "port": 443,
+    "secret": "ee46b0971d5de93f825bc66f23a304c9367a61796d65722e7275",
+    "country": "RU",
+    "addTime": 1778018765
+  },
+  {
     "host": "217.60.2.16",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "AE",
     "addTime": 1778018759
-  },
-  {
-    "host": "mtp.kndrsxraybot.com",
-    "port": 443,
-    "secret": "dde9748eba6c95f9db1a0458166890a86d",
-    "country": "US",
-    "addTime": 1778018758
   },
   {
     "host": "mt-1.nvpn.quest",
@@ -154,17 +133,17 @@
     "addTime": 1778018672
   },
   {
-    "host": "mt.nya-aw.sbs",
-    "port": 1337,
-    "secret": "ee5478007af5bd2b1c565364585b705bc16164732e78352e7275",
-    "country": "DE",
-    "addTime": 1778008022
-  },
-  {
     "host": "45.194.66.132",
     "port": 443,
     "secret": "eee47c5a4b39dea286db7817a422fd21dd636c6f7564666c6172652e636f6d",
     "country": "SC",
+    "addTime": 1778008022
+  },
+  {
+    "host": "mt.nya-aw.sbs",
+    "port": 1337,
+    "secret": "ee5478007af5bd2b1c565364585b705bc16164732e78352e7275",
+    "country": "DE",
     "addTime": 1778008022
   },
   {
@@ -238,16 +217,16 @@
     "addTime": 1777997200
   },
   {
-    "host": "2.27.4.101",
-    "port": 444,
-    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
+    "host": "2.27.4.102",
+    "port": 3443,
+    "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
     "country": "US",
     "addTime": 1777997113
   },
   {
-    "host": "2.27.4.102",
-    "port": 3443,
-    "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
+    "host": "2.27.4.101",
+    "port": 444,
+    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1777997113
   },
@@ -315,6 +294,13 @@
     "addTime": 1777975592
   },
   {
+    "host": "23.27.134.129",
+    "port": 65265,
+    "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
+    "country": "US",
+    "addTime": 1777975589
+  },
+  {
     "host": "45.90.98.40",
     "port": 2443,
     "secret": "ee9765b9f66307b92edf8751ce3953743964726f686c2e7265616c6d2d6f662d756c7472616d61722e7275",
@@ -348,5 +334,19 @@
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
     "addTime": 1777975483
+  },
+  {
+    "host": "144.31.156.210",
+    "port": 443,
+    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
+    "country": "FI",
+    "addTime": 1777964721
+  },
+  {
+    "host": "vpn.wemakecode.ru",
+    "port": 9443,
+    "secret": "fe0713355da8737fb5f7b09d9cddb1e4",
+    "country": "DE",
+    "addTime": 1777964716
   }
 ]
