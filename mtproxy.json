@@ -7,13 +7,6 @@
     "addTime": 1778137572
   },
   {
-    "host": "vibe.xomodz.fit",
-    "port": 853,
-    "secret": "ee78a3039828ea09d09f328b2590943c65766962652e786f6d6f647a2e666974",
-    "country": "DE",
-    "addTime": 1778137501
-  },
-  {
     "host": "de.xomodz.fit",
     "port": 853,
     "secret": "ee78a3039828ea09d09f328b2590943c6564652e786f6d6f647a2e666974",
@@ -21,14 +14,21 @@
     "addTime": 1778137501
   },
   {
-    "host": "prod.mtproxy.pw",
+    "host": "vibe.xomodz.fit",
+    "port": 853,
+    "secret": "ee78a3039828ea09d09f328b2590943c65766962652e786f6d6f647a2e666974",
+    "country": "DE",
+    "addTime": 1778137501
+  },
+  {
+    "host": "main.mtproxy.pw",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
     "country": "RU",
     "addTime": 1778137499
   },
   {
-    "host": "main.mtproxy.pw",
+    "host": "prod.mtproxy.pw",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
     "country": "RU",
@@ -98,14 +98,14 @@
     "addTime": 1778105151
   },
   {
-    "host": "166.88.164.238",
+    "host": "23.27.134.156",
     "port": 65265,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "US",
     "addTime": 1778105148
   },
   {
-    "host": "23.27.134.156",
+    "host": "166.88.164.238",
     "port": 65265,
     "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
     "country": "US",
@@ -175,6 +175,13 @@
     "addTime": 1778094352
   },
   {
+    "host": "turbo.proxymtproto.net",
+    "port": 443,
+    "secret": "ee33b4081c23579f7d6ca619d38baf0b46706574726f766963682e7275",
+    "country": "BR",
+    "addTime": 1778094352
+  },
+  {
     "host": "telegramfree2.idind.ru",
     "port": 443,
     "secret": "ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275",
@@ -189,11 +196,11 @@
     "addTime": 1778094352
   },
   {
-    "host": "turbo.proxymtproto.net",
+    "host": "theoriginalproxies-1.com",
     "port": 443,
-    "secret": "ee33b4081c23579f7d6ca619d38baf0b46706574726f766963682e7275",
-    "country": "BR",
-    "addTime": 1778094352
+    "secret": "ee27c4532f9315ca77089fab62f2f1ed8c7777772e79616e6465782e7275",
+    "country": "DE",
+    "addTime": 1778094344
   },
   {
     "host": "garrotte.liard.matronly.minimus.waythorn.pinoyteleseryelove.com",
@@ -217,9 +224,9 @@
     "addTime": 1778094279
   },
   {
-    "host": "154.85.18.63",
-    "port": 54855,
-    "secret": "ee0e5b732531471b2c2ee1e311162082c9617a7572652e6d6963726f736f66742e636f6d",
+    "host": "156.231.113.189",
+    "port": 51546,
+    "secret": "ee1c5746a1bb248832516d2bd32b80e97c617a7572652e6d6963726f736f66742e636f6d",
     "country": "JP",
     "addTime": 1778094261
   },
@@ -231,9 +238,9 @@
     "addTime": 1778094261
   },
   {
-    "host": "156.231.113.189",
-    "port": 51546,
-    "secret": "ee1c5746a1bb248832516d2bd32b80e97c617a7572652e6d6963726f736f66742e636f6d",
+    "host": "154.85.18.63",
+    "port": 54855,
+    "secret": "ee0e5b732531471b2c2ee1e311162082c9617a7572652e6d6963726f736f66742e636f6d",
     "country": "JP",
     "addTime": 1778094261
   },
@@ -259,17 +266,17 @@
     "addTime": 1778083639
   },
   {
-    "host": "50.7.41.210",
-    "port": 443,
-    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
-    "country": "NL",
-    "addTime": 1778083639
-  },
-  {
     "host": "31.76.240.187",
     "port": 443,
     "secret": "ee49dc1068b452d2bf05d6e6028c74a4cd7765622e6d61782e7275",
     "country": "US",
+    "addTime": 1778083639
+  },
+  {
+    "host": "50.7.41.210",
+    "port": 443,
+    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
+    "country": "NL",
     "addTime": 1778083639
   },
   {
@@ -280,16 +287,16 @@
     "addTime": 1778083639
   },
   {
-    "host": "85.239.58.119",
-    "port": 1414,
-    "secret": "7rxKryi6jSS0GuZqYwNaoCVoaS5mcmVldHJhaWwud2lu",
+    "host": "90.156.210.51",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
     "country": "RU",
     "addTime": 1778083639
   },
   {
-    "host": "90.156.210.51",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
+    "host": "85.239.58.119",
+    "port": 1414,
+    "secret": "7rxKryi6jSS0GuZqYwNaoCVoaS5mcmVldHJhaWwud2lu",
     "country": "RU",
     "addTime": 1778083639
   },
@@ -318,13 +325,6 @@
     "host": "82.21.7.106",
     "port": 443,
     "secret": "ee5c4790a1051c8881b97cc3abe1955b0a6e2e6d7466612e6363",
-    "country": "NL",
-    "addTime": 1778083639
-  },
-  {
-    "host": "2.27.7.215",
-    "port": 4515,
-    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
     "country": "NL",
     "addTime": 1778083639
   },
