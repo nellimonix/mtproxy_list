@@ -126,13 +126,6 @@
     "addTime": 1778137572
   },
   {
-    "host": "vibe.xomodz.fit",
-    "port": 853,
-    "secret": "ee78a3039828ea09d09f328b2590943c65766962652e786f6d6f647a2e666974",
-    "country": "DE",
-    "addTime": 1778137501
-  },
-  {
     "host": "de.xomodz.fit",
     "port": 853,
     "secret": "ee78a3039828ea09d09f328b2590943c6564652e786f6d6f647a2e666974",
@@ -140,17 +133,24 @@
     "addTime": 1778137501
   },
   {
+    "host": "vibe.xomodz.fit",
+    "port": 853,
+    "secret": "ee78a3039828ea09d09f328b2590943c65766962652e786f6d6f647a2e666974",
+    "country": "DE",
+    "addTime": 1778137501
+  },
+  {
     "host": "prod.mtproxy.pw",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
-    "country": "US",
+    "country": "RU",
     "addTime": 1778137499
   },
   {
     "host": "main.mtproxy.pw",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
-    "country": "RU",
+    "country": "US",
     "addTime": 1778137499
   },
   {
@@ -234,7 +234,7 @@
     "host": "live.mtproxy.pw",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
-    "country": "US",
+    "country": "RU",
     "addTime": 1778105090
   },
   {
@@ -280,10 +280,10 @@
     "addTime": 1778094358
   },
   {
-    "host": "telegramfree3.idind.ru",
+    "host": "telegramfree2.idind.ru",
     "port": 443,
-    "secret": "ee4318bd9fa023e118eca03abed6d0414c736e692e6964696e642e7275",
-    "country": "FR",
+    "secret": "ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275",
+    "country": "GB",
     "addTime": 1778094352
   },
   {
@@ -294,10 +294,10 @@
     "addTime": 1778094352
   },
   {
-    "host": "telegramfree2.idind.ru",
+    "host": "telegramfree3.idind.ru",
     "port": 443,
-    "secret": "ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275",
-    "country": "GB",
+    "secret": "ee4318bd9fa023e118eca03abed6d0414c736e692e6964696e642e7275",
+    "country": "FR",
     "addTime": 1778094352
   },
   {
