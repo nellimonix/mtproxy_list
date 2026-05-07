@@ -42,16 +42,16 @@
     "addTime": 1778180718
   },
   {
-    "host": "devil.myrka.digital",
-    "port": 3443,
-    "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
+    "host": "45.91.53.125",
+    "port": 443,
+    "secret": "ee47d132ee8d001d39e9d39d505371b752616e696d652e6d79726b612e6469676974616c",
     "country": "GB",
     "addTime": 1778180678
   },
   {
-    "host": "45.91.53.125",
-    "port": 443,
-    "secret": "ee47d132ee8d001d39e9d39d505371b752616e696d652e6d79726b612e6469676974616c",
+    "host": "devil.myrka.digital",
+    "port": 3443,
+    "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
     "country": "GB",
     "addTime": 1778180678
   },
@@ -80,7 +80,7 @@
     "host": "dedicated.love.mambabot.net",
     "port": 4515,
     "secret": "ee33b4081c23579f7d6ca619d38baf0b46626973636f7474692e79656b74616e65742e636f6d",
-    "country": "FI",
+    "country": "BR",
     "addTime": 1778180672
   },
   {
@@ -98,17 +98,17 @@
     "addTime": 1778169925
   },
   {
-    "host": "158.160.188.98",
-    "port": 8443,
-    "secret": "dd73675b09ac6690ff559bffa7b39a94c8",
-    "country": "RU",
-    "addTime": 1778169919
-  },
-  {
     "host": "gold.flarevpn.top",
     "port": 443,
     "secret": "ee3dd1018840a3488d2571092614a5ca44706c617932676f2e636c6f7564",
     "country": "FI",
+    "addTime": 1778169919
+  },
+  {
+    "host": "158.160.188.98",
+    "port": 8443,
+    "secret": "dd73675b09ac6690ff559bffa7b39a94c8",
+    "country": "RU",
     "addTime": 1778169919
   },
   {
@@ -140,16 +140,16 @@
     "addTime": 1778159232
   },
   {
-    "host": "193.233.245.200",
+    "host": "138.124.127.220",
     "port": 443,
-    "secret": "ee84723cf15581f39a5e8262ee311d8867636c6f7564666c6172652e636f6d",
-    "country": "RU",
+    "secret": "ee92299868d121915c92475badcc5ef1fe6173736574732e6d736e2e636f6d",
+    "country": "SE",
     "addTime": 1778159226
   },
   {
-    "host": "musbest.space",
+    "host": "193.233.245.200",
     "port": 443,
-    "secret": "eecaca160442c8a4af24c6d96b04337d656d6f647363656e7465722e6f7267",
+    "secret": "ee84723cf15581f39a5e8262ee311d8867636c6f7564666c6172652e636f6d",
     "country": "RU",
     "addTime": 1778159226
   },
@@ -161,10 +161,10 @@
     "addTime": 1778159226
   },
   {
-    "host": "138.124.127.220",
+    "host": "musbest.space",
     "port": 443,
-    "secret": "ee92299868d121915c92475badcc5ef1fe6173736574732e6d736e2e636f6d",
-    "country": "SE",
+    "secret": "eecaca160442c8a4af24c6d96b04337d656d6f647363656e7465722e6f7267",
+    "country": "RU",
     "addTime": 1778159226
   },
   {
@@ -175,17 +175,31 @@
     "addTime": 1778159171
   },
   {
-    "host": "217.60.26.176",
+    "host": "89.125.113.189",
     "port": 443,
-    "secret": "dd0fb5092090adebd56e9696803418a7de",
-    "country": "JP",
-    "addTime": 1778148377
+    "secret": "ee19835aa301cd9a6ceb68ad8d5ad9e0ac79616e6465782e7275",
+    "country": "AE",
+    "addTime": 1778159074
+  },
+  {
+    "host": "89.125.113.155",
+    "port": 443,
+    "secret": "ee67af7b545eb72c3c47fc2ccb74aa41c979616e6465782e7275",
+    "country": "AE",
+    "addTime": 1778159072
   },
   {
     "host": "ninja.spectranet.pro",
     "port": 443,
     "secret": "eec72c7ef46ddd254e5fb5f248521c4f986e696e6a612e737065637472616e65742e70726f",
     "country": "DE",
+    "addTime": 1778148377
+  },
+  {
+    "host": "217.60.26.176",
+    "port": 443,
+    "secret": "dd0fb5092090adebd56e9696803418a7de",
+    "country": "JP",
     "addTime": 1778148377
   },
   {
@@ -206,7 +220,7 @@
     "host": "main.mtproxy.pw",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
-    "country": "RU",
+    "country": "US",
     "addTime": 1778137499
   },
   {
@@ -234,7 +248,7 @@
     "host": "html.geo-cdn.ru",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
-    "country": "GB",
+    "country": "FR",
     "addTime": 1778137486
   },
   {
@@ -334,19 +348,5 @@
     "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D",
     "country": "DE",
     "addTime": 1778094362
-  },
-  {
-    "host": "v2rei.duckdns.org",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1778094358
-  },
-  {
-    "host": "telegramfree2.idind.ru",
-    "port": 443,
-    "secret": "ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275",
-    "country": "GB",
-    "addTime": 1778094352
   }
 ]
