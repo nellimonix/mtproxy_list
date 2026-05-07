@@ -35,9 +35,9 @@
     "addTime": 1778169913
   },
   {
-    "host": "45.66.228.148",
+    "host": "64.188.65.136",
     "port": 443,
-    "secret": "eea432a48faa550283cfffabe62f7047e9d186d17777772e6d6963726f736f66742e636f6d",
+    "secret": "eec11798ab008831b474066c9e1ebf5c997777772e78352e7275",
     "country": "DE",
     "addTime": 1778159232
   },
@@ -49,10 +49,17 @@
     "addTime": 1778159232
   },
   {
-    "host": "79.137.184.72",
+    "host": "45.66.228.148",
     "port": 443,
-    "secret": "7gBXcVHTFVtaVvgLwjIhBS53d3cubWljcm9zb2Z0LmNvbQ",
-    "country": "FI",
+    "secret": "eea432a48faa550283cfffabe62f7047e9d186d17777772e6d6963726f736f66742e636f6d",
+    "country": "DE",
+    "addTime": 1778159232
+  },
+  {
+    "host": "193.233.245.200",
+    "port": 443,
+    "secret": "ee84723cf15581f39a5e8262ee311d8867636c6f7564666c6172652e636f6d",
+    "country": "RU",
     "addTime": 1778159226
   },
   {
@@ -70,18 +77,11 @@
     "addTime": 1778159226
   },
   {
-    "host": "193.233.245.200",
+    "host": "79.137.184.72",
     "port": 443,
-    "secret": "ee84723cf15581f39a5e8262ee311d8867636c6f7564666c6172652e636f6d",
-    "country": "RU",
+    "secret": "7gBXcVHTFVtaVvgLwjIhBS53d3cubWljcm9zb2Z0LmNvbQ",
+    "country": "FI",
     "addTime": 1778159226
-  },
-  {
-    "host": "msk.xomodz.fit",
-    "port": 853,
-    "secret": "ee78a3039828ea09d09f328b2590943c656d736b2e786f6d6f647a2e666974",
-    "country": "US",
-    "addTime": 1778159171
   },
   {
     "host": "168.119.98.242",
@@ -157,15 +157,8 @@
     "host": "main.mtproxy.pw",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
-    "country": "US",
+    "country": "RU",
     "addTime": 1778137499
-  },
-  {
-    "host": "free.flarevpn.top",
-    "port": 443,
-    "secret": "eecf2a450b5d04742848c5271703a9d401706c617932676f2e636c6f7564",
-    "country": "FI",
-    "addTime": 1778137493
   },
   {
     "host": "s1.smetanka.click",
@@ -175,10 +168,17 @@
     "addTime": 1778137493
   },
   {
+    "host": "free.flarevpn.top",
+    "port": 443,
+    "secret": "eecf2a450b5d04742848c5271703a9d401706c617932676f2e636c6f7564",
+    "country": "FI",
+    "addTime": 1778137493
+  },
+  {
     "host": "html.geo-cdn.ru",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
-    "country": "US",
+    "country": "GB",
     "addTime": 1778137486
   },
   {
@@ -241,7 +241,7 @@
     "host": "live.mtproxy.pw",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
-    "country": "RU",
+    "country": "US",
     "addTime": 1778105090
   },
   {
@@ -294,17 +294,17 @@
     "addTime": 1778094352
   },
   {
-    "host": "telegramfree2.idind.ru",
-    "port": 443,
-    "secret": "ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275",
-    "country": "GB",
-    "addTime": 1778094352
-  },
-  {
     "host": "telegramfree3.idind.ru",
     "port": 443,
     "secret": "ee4318bd9fa023e118eca03abed6d0414c736e692e6964696e642e7275",
     "country": "FR",
+    "addTime": 1778094352
+  },
+  {
+    "host": "telegramfree2.idind.ru",
+    "port": 443,
+    "secret": "ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275",
+    "country": "GB",
     "addTime": 1778094352
   },
   {
