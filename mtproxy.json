@@ -84,9 +84,9 @@
     "addTime": 1778180718
   },
   {
-    "host": "45.91.53.125",
-    "port": 443,
-    "secret": "ee47d132ee8d001d39e9d39d505371b752616e696d652e6d79726b612e6469676974616c",
+    "host": "devil.myrka.digital",
+    "port": 3443,
+    "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
     "country": "GB",
     "addTime": 1778180678
   },
@@ -98,9 +98,9 @@
     "addTime": 1778180678
   },
   {
-    "host": "devil.myrka.digital",
-    "port": 3443,
-    "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
+    "host": "45.91.53.125",
+    "port": 443,
+    "secret": "ee47d132ee8d001d39e9d39d505371b752616e696d652e6d79726b612e6469676974616c",
     "country": "GB",
     "addTime": 1778180678
   },
@@ -140,17 +140,17 @@
     "addTime": 1778169925
   },
   {
-    "host": "158.160.188.98",
-    "port": 8443,
-    "secret": "dd73675b09ac6690ff559bffa7b39a94c8",
-    "country": "RU",
-    "addTime": 1778169919
-  },
-  {
     "host": "gold.flarevpn.top",
     "port": 443,
     "secret": "ee3dd1018840a3488d2571092614a5ca44706c617932676f2e636c6f7564",
     "country": "FI",
+    "addTime": 1778169919
+  },
+  {
+    "host": "158.160.188.98",
+    "port": 8443,
+    "secret": "dd73675b09ac6690ff559bffa7b39a94c8",
+    "country": "RU",
     "addTime": 1778169919
   },
   {
@@ -262,7 +262,7 @@
     "host": "prod.mtproxy.pw",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
-    "country": "RU",
+    "country": "US",
     "addTime": 1778137499
   },
   {
@@ -273,13 +273,6 @@
     "addTime": 1778137499
   },
   {
-    "host": "s1.smetanka.click",
-    "port": 443,
-    "secret": "ee80229c70b86eb8ec094dae3d69c00914736d6574616e6b612e636c69636b",
-    "country": "AT",
-    "addTime": 1778137493
-  },
-  {
     "host": "free.flarevpn.top",
     "port": 443,
     "secret": "eecf2a450b5d04742848c5271703a9d401706c617932676f2e636c6f7564",
@@ -287,10 +280,17 @@
     "addTime": 1778137493
   },
   {
+    "host": "s1.smetanka.click",
+    "port": 443,
+    "secret": "ee80229c70b86eb8ec094dae3d69c00914736d6574616e6b612e636c69636b",
+    "country": "AT",
+    "addTime": 1778137493
+  },
+  {
     "host": "html.geo-cdn.ru",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
-    "country": "FR",
+    "country": "PL",
     "addTime": 1778137486
   },
   {
