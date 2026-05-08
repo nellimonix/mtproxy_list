@@ -21,13 +21,6 @@
     "addTime": 1778223868
   },
   {
-    "host": "85.192.38.64",
-    "port": 443,
-    "secret": "ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275",
-    "country": "GB",
-    "addTime": 1778202343
-  },
-  {
     "host": "185.182.65.174",
     "port": 443,
     "secret": "eecaca160442c8a4af24c6d96b04337d656d6f647363656e7465722e6f7267",
@@ -70,6 +63,13 @@
     "addTime": 1778202343
   },
   {
+    "host": "85.192.38.64",
+    "port": 443,
+    "secret": "ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275",
+    "country": "GB",
+    "addTime": 1778202343
+  },
+  {
     "host": "138.124.127.207",
     "port": 443,
     "secret": "ee010517f90cfe4469d2d5bafa32aa3551736e692e6964696e642e7275",
@@ -91,17 +91,17 @@
     "addTime": 1778202311
   },
   {
-    "host": "sex.spectranet.pro",
-    "port": 443,
-    "secret": "eec72c7ef46ddd254e5fb5f248521c4f986e696e6a612e737065637472616e65742e70726f",
-    "country": "DE",
-    "addTime": 1778191554
-  },
-  {
     "host": "de5.kuzmos.ru",
     "port": 8090,
     "secret": "7sJdagm5y9lVtxqjePMjo3hwZXRyb3ZpY2gucnU",
     "country": "NL",
+    "addTime": 1778191554
+  },
+  {
+    "host": "sex.spectranet.pro",
+    "port": 443,
+    "secret": "eec72c7ef46ddd254e5fb5f248521c4f986e696e6a612e737065637472616e65742e70726f",
+    "country": "DE",
     "addTime": 1778191554
   },
   {
@@ -213,7 +213,7 @@
     "host": "dedicated.love.mambabot.net",
     "port": 4515,
     "secret": "ee33b4081c23579f7d6ca619d38baf0b46626973636f7474692e79656b74616e65742e636f6d",
-    "country": "BR",
+    "country": "FI",
     "addTime": 1778180672
   },
   {
@@ -231,17 +231,17 @@
     "addTime": 1778169925
   },
   {
-    "host": "gold.flarevpn.top",
-    "port": 443,
-    "secret": "ee3dd1018840a3488d2571092614a5ca44706c617932676f2e636c6f7564",
-    "country": "FI",
-    "addTime": 1778169919
-  },
-  {
     "host": "158.160.188.98",
     "port": 8443,
     "secret": "dd73675b09ac6690ff559bffa7b39a94c8",
     "country": "RU",
+    "addTime": 1778169919
+  },
+  {
+    "host": "gold.flarevpn.top",
+    "port": 443,
+    "secret": "ee3dd1018840a3488d2571092614a5ca44706c617932676f2e636c6f7564",
+    "country": "FI",
     "addTime": 1778169919
   },
   {
@@ -250,13 +250,6 @@
     "secret": "dd402d7c35d73d302ccd9c6ba8243a9430",
     "country": "FR",
     "addTime": 1778169913
-  },
-  {
-    "host": "45.66.228.148",
-    "port": 443,
-    "secret": "eea432a48faa550283cfffabe62f7047e9d186d17777772e6d6963726f736f66742e636f6d",
-    "country": "DE",
-    "addTime": 1778159232
   },
   {
     "host": "64.188.65.136",
@@ -273,6 +266,20 @@
     "addTime": 1778159232
   },
   {
+    "host": "45.66.228.148",
+    "port": 443,
+    "secret": "eea432a48faa550283cfffabe62f7047e9d186d17777772e6d6963726f736f66742e636f6d",
+    "country": "DE",
+    "addTime": 1778159232
+  },
+  {
+    "host": "193.233.245.200",
+    "port": 443,
+    "secret": "ee84723cf15581f39a5e8262ee311d8867636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1778159226
+  },
+  {
     "host": "musbest.space",
     "port": 443,
     "secret": "eecaca160442c8a4af24c6d96b04337d656d6f647363656e7465722e6f7267",
@@ -284,13 +291,6 @@
     "port": 443,
     "secret": "7gBXcVHTFVtaVvgLwjIhBS53d3cubWljcm9zb2Z0LmNvbQ",
     "country": "FI",
-    "addTime": 1778159226
-  },
-  {
-    "host": "193.233.245.200",
-    "port": 443,
-    "secret": "ee84723cf15581f39a5e8262ee311d8867636c6f7564666c6172652e636f6d",
-    "country": "RU",
     "addTime": 1778159226
   },
   {
@@ -313,13 +313,6 @@
     "secret": "ee19835aa301cd9a6ceb68ad8d5ad9e0ac79616e6465782e7275",
     "country": "AE",
     "addTime": 1778159074
-  },
-  {
-    "host": "89.125.113.155",
-    "port": 443,
-    "secret": "ee67af7b545eb72c3c47fc2ccb74aa41c979616e6465782e7275",
-    "country": "AE",
-    "addTime": 1778159072
   },
   {
     "host": "ninja.spectranet.pro",
@@ -346,7 +339,14 @@
     "host": "main.mtproxy.pw",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
-    "country": "US",
+    "country": "RU",
     "addTime": 1778137499
+  },
+  {
+    "host": "free.flarevpn.top",
+    "port": 443,
+    "secret": "eecf2a450b5d04742848c5271703a9d401706c617932676f2e636c6f7564",
+    "country": "FI",
+    "addTime": 1778137493
   }
 ]
