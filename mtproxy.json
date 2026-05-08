@@ -21,11 +21,18 @@
     "addTime": 1778256294
   },
   {
-    "host": "mtproto1.wieldvpn.ru",
+    "host": "181.215.15.219",
+    "port": 9443,
+    "secret": "ee42e0a49ddfbb0dba41468bd173badadf6d6f6e65792e6b7a",
+    "country": "GE",
+    "addTime": 1778256283
+  },
+  {
+    "host": "45.131.186.142",
     "port": 443,
-    "secret": "ee42c3fcba858298575daf6f97fa2e9bb8636c6f75642e7275",
+    "secret": "eebed92191281b6d7a676b052f2797cad96f7a6f6e2e7275",
     "country": "RU",
-    "addTime": 1778256292
+    "addTime": 1778256283
   },
   {
     "host": "verika.myrka.digital",
@@ -39,20 +46,6 @@
     "port": 8443,
     "secret": "ee3bc87dc18609b3c84c768f1d5e49dfd56e6f63682e6d79726b612e6469676974616c",
     "country": "US",
-    "addTime": 1778256283
-  },
-  {
-    "host": "181.215.15.219",
-    "port": 9443,
-    "secret": "ee42e0a49ddfbb0dba41468bd173badadf6d6f6e65792e6b7a",
-    "country": "GE",
-    "addTime": 1778256283
-  },
-  {
-    "host": "45.131.186.142",
-    "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad96f7a6f6e2e7275",
-    "country": "RU",
     "addTime": 1778256283
   },
   {
@@ -84,6 +77,13 @@
     "addTime": 1778245579
   },
   {
+    "host": "132.243.230.229",
+    "port": 443,
+    "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
+    "country": "RU",
+    "addTime": 1778245578
+  },
+  {
     "host": "84.201.135.111",
     "port": 8443,
     "secret": "eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6676f6f676c652e636f6d",
@@ -98,23 +98,16 @@
     "addTime": 1778245578
   },
   {
-    "host": "5.188.60.17",
+    "host": "132.243.230.196",
     "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad96d61782e7275",
-    "country": "BG",
+    "secret": "eebed92191281b6d7a676b052f2797cad9617669746f2e7275",
+    "country": "RU",
     "addTime": 1778245578
   },
   {
     "host": "158.160.225.168",
     "port": 8443,
     "secret": "586e7c4a4069d61bbeee19bcb6e81eae",
-    "country": "RU",
-    "addTime": 1778245578
-  },
-  {
-    "host": "132.243.230.229",
-    "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
     "country": "RU",
     "addTime": 1778245578
   },
@@ -126,10 +119,10 @@
     "addTime": 1778245578
   },
   {
-    "host": "132.243.230.196",
+    "host": "5.188.60.17",
     "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9617669746f2e7275",
-    "country": "RU",
+    "secret": "eebed92191281b6d7a676b052f2797cad96d61782e7275",
+    "country": "BG",
     "addTime": 1778245578
   },
   {
@@ -210,16 +203,16 @@
     "addTime": 1778234721
   },
   {
-    "host": "194.50.94.98",
+    "host": "132.243.235.201",
     "port": 443,
-    "secret": "ee75a53853cb3f53976737c82a53d4f13879616e6465782e7275",
+    "secret": "ee9e0de647c5d593c800e577d6cc16f41d79616e6465782e7275",
     "country": "NL",
     "addTime": 1778234670
   },
   {
-    "host": "132.243.235.201",
+    "host": "194.50.94.98",
     "port": 443,
-    "secret": "ee9e0de647c5d593c800e577d6cc16f41d79616e6465782e7275",
+    "secret": "ee75a53853cb3f53976737c82a53d4f13879616e6465782e7275",
     "country": "NL",
     "addTime": 1778234670
   },
@@ -252,20 +245,6 @@
     "addTime": 1778223868
   },
   {
-    "host": "85.192.38.64",
-    "port": 443,
-    "secret": "ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275",
-    "country": "GB",
-    "addTime": 1778202343
-  },
-  {
-    "host": "46.226.166.219",
-    "port": 443,
-    "secret": "ee4318bd9fa023e118eca03abed6d0414c736e692e6964696e642e7275",
-    "country": "FR",
-    "addTime": 1778202343
-  },
-  {
     "host": "135.181.114.221",
     "port": 443,
     "secret": "7pfKo8aIg2byaxL5lPAuzxpzMy5hbWF6b25hd3MuY29t",
@@ -280,10 +259,24 @@
     "addTime": 1778202343
   },
   {
+    "host": "46.226.166.219",
+    "port": 443,
+    "secret": "ee4318bd9fa023e118eca03abed6d0414c736e692e6964696e642e7275",
+    "country": "FR",
+    "addTime": 1778202343
+  },
+  {
     "host": "141.98.6.83",
     "port": 8090,
     "secret": "7sJdagm5y9lVtxqjePMjo3hwZXRyb3ZpY2gucnU",
     "country": "NL",
+    "addTime": 1778202343
+  },
+  {
+    "host": "85.192.38.64",
+    "port": 443,
+    "secret": "ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275",
+    "country": "GB",
     "addTime": 1778202343
   },
   {
@@ -348,5 +341,12 @@
     "secret": "dda4c7c07709a2c6a29fca4fc63b1ae411",
     "country": "DE",
     "addTime": 1778180784
+  },
+  {
+    "host": "r.mtfa.cc",
+    "port": 443,
+    "secret": "ee80934d041d338b1475c8e4bd59cf2515722e6d7466612e6363",
+    "country": "RU",
+    "addTime": 1778180781
   }
 ]
