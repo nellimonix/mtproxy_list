@@ -21,9 +21,23 @@
     "addTime": 1778256294
   },
   {
+    "host": "181.215.15.219",
+    "port": 9443,
+    "secret": "ee42e0a49ddfbb0dba41468bd173badadf6d6f6e65792e6b7a",
+    "country": "GE",
+    "addTime": 1778256283
+  },
+  {
     "host": "45.131.186.142",
     "port": 443,
     "secret": "eebed92191281b6d7a676b052f2797cad96f7a6f6e2e7275",
+    "country": "RU",
+    "addTime": 1778256283
+  },
+  {
+    "host": "158.160.238.245",
+    "port": 443,
+    "secret": "eeea7a1978e167c0842ce31a16749038da79612e6e657763646e2e7275",
     "country": "RU",
     "addTime": 1778256283
   },
@@ -42,21 +56,7 @@
     "addTime": 1778256283
   },
   {
-    "host": "181.215.15.219",
-    "port": 9443,
-    "secret": "ee42e0a49ddfbb0dba41468bd173badadf6d6f6e65792e6b7a",
-    "country": "GE",
-    "addTime": 1778256283
-  },
-  {
-    "host": "158.160.238.245",
-    "port": 443,
-    "secret": "eeea7a1978e167c0842ce31a16749038da79612e6e657763646e2e7275",
-    "country": "RU",
-    "addTime": 1778256283
-  },
-  {
-    "host": "nsk.catpaws.ru",
+    "host": "193.23.195.101",
     "port": 443,
     "secret": "ee6288b4d5d9526c8d60cf8052e7eb0d3473742e6f6b63646e2e7275",
     "country": "US",
@@ -70,30 +70,16 @@
     "addTime": 1778245579
   },
   {
-    "host": "193.23.195.101",
+    "host": "nsk.catpaws.ru",
     "port": 443,
     "secret": "ee6288b4d5d9526c8d60cf8052e7eb0d3473742e6f6b63646e2e7275",
     "country": "US",
     "addTime": 1778245579
   },
   {
-    "host": "132.243.230.229",
+    "host": "132.243.230.196",
     "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
-    "country": "RU",
-    "addTime": 1778245578
-  },
-  {
-    "host": "5.188.60.17",
-    "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad96d61782e7275",
-    "country": "BG",
-    "addTime": 1778245578
-  },
-  {
-    "host": "84.201.135.111",
-    "port": 8443,
-    "secret": "eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6676f6f676c652e636f6d",
+    "secret": "eebed92191281b6d7a676b052f2797cad9617669746f2e7275",
     "country": "RU",
     "addTime": 1778245578
   },
@@ -119,9 +105,23 @@
     "addTime": 1778245578
   },
   {
-    "host": "132.243.230.196",
+    "host": "84.201.135.111",
+    "port": 8443,
+    "secret": "eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6676f6f676c652e636f6d",
+    "country": "RU",
+    "addTime": 1778245578
+  },
+  {
+    "host": "5.188.60.17",
     "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9617669746f2e7275",
+    "secret": "eebed92191281b6d7a676b052f2797cad96d61782e7275",
+    "country": "BG",
+    "addTime": 1778245578
+  },
+  {
+    "host": "132.243.230.229",
+    "port": 443,
+    "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
     "country": "RU",
     "addTime": 1778245578
   },
@@ -231,13 +231,6 @@
     "addTime": 1778223876
   },
   {
-    "host": "132.243.235.197",
-    "port": 443,
-    "secret": "ee284388d5f6d5c468daaeb9b9fa2b01b179616e6465782e7275",
-    "country": "NL",
-    "addTime": 1778223868
-  },
-  {
     "host": "132.243.235.196",
     "port": 443,
     "secret": "ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275",
@@ -245,18 +238,11 @@
     "addTime": 1778223868
   },
   {
-    "host": "135.181.114.221",
+    "host": "132.243.235.197",
     "port": 443,
-    "secret": "7pfKo8aIg2byaxL5lPAuzxpzMy5hbWF6b25hd3MuY29t",
-    "country": "FI",
-    "addTime": 1778202343
-  },
-  {
-    "host": "138.124.127.207",
-    "port": 443,
-    "secret": "ee010517f90cfe4469d2d5bafa32aa3551736e692e6964696e642e7275",
-    "country": "SE",
-    "addTime": 1778202343
+    "secret": "ee284388d5f6d5c468daaeb9b9fa2b01b179616e6465782e7275",
+    "country": "NL",
+    "addTime": 1778223868
   },
   {
     "host": "141.98.6.83",
@@ -280,6 +266,13 @@
     "addTime": 1778202343
   },
   {
+    "host": "138.124.127.207",
+    "port": 443,
+    "secret": "ee010517f90cfe4469d2d5bafa32aa3551736e692e6964696e642e7275",
+    "country": "SE",
+    "addTime": 1778202343
+  },
+  {
     "host": "go.downloaddog.online",
     "port": 8443,
     "secret": "ee25724302a72d3054ee411b69fd07b433676f2e646f776e6c6f6164646f672e6f6e6c696e65",
@@ -287,17 +280,17 @@
     "addTime": 1778202311
   },
   {
-    "host": "sex.spectranet.pro",
-    "port": 443,
-    "secret": "eec72c7ef46ddd254e5fb5f248521c4f986e696e6a612e737065637472616e65742e70726f",
-    "country": "DE",
-    "addTime": 1778191554
-  },
-  {
     "host": "de5.kuzmos.ru",
     "port": 8090,
     "secret": "7sJdagm5y9lVtxqjePMjo3hwZXRyb3ZpY2gucnU",
     "country": "NL",
+    "addTime": 1778191554
+  },
+  {
+    "host": "sex.spectranet.pro",
+    "port": 443,
+    "secret": "eec72c7ef46ddd254e5fb5f248521c4f986e696e6a612e737065637472616e65742e70726f",
+    "country": "DE",
     "addTime": 1778191554
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee80934d041d338b1475c8e4bd59cf2515722e6d7466612e6363",
     "country": "RU",
     "addTime": 1778180781
+  },
+  {
+    "host": "84.201.168.161",
+    "port": 8443,
+    "secret": "ddf7d43a5e2ca0a8fa4cec27829869cb6b",
+    "country": "RU",
+    "addTime": 1778180773
   }
 ]
