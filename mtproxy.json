@@ -56,10 +56,10 @@
     "addTime": 1778223868
   },
   {
-    "host": "138.124.127.207",
+    "host": "46.226.166.219",
     "port": 443,
-    "secret": "ee010517f90cfe4469d2d5bafa32aa3551736e692e6964696e642e7275",
-    "country": "SE",
+    "secret": "ee4318bd9fa023e118eca03abed6d0414c736e692e6964696e642e7275",
+    "country": "FR",
     "addTime": 1778202343
   },
   {
@@ -70,10 +70,10 @@
     "addTime": 1778202343
   },
   {
-    "host": "46.226.166.219",
+    "host": "138.124.127.207",
     "port": 443,
-    "secret": "ee4318bd9fa023e118eca03abed6d0414c736e692e6964696e642e7275",
-    "country": "FR",
+    "secret": "ee010517f90cfe4469d2d5bafa32aa3551736e692e6964696e642e7275",
+    "country": "SE",
     "addTime": 1778202343
   },
   {
@@ -245,17 +245,17 @@
     "addTime": 1778159232
   },
   {
-    "host": "64.188.65.136",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c997777772e78352e7275",
-    "country": "DE",
-    "addTime": 1778159232
-  },
-  {
     "host": "proxy.citadel.rest",
     "port": 443,
     "secret": "ee3c1e842f9a5ee63a8fd68192a680e44f706574726f766963682e7275",
     "country": "US",
+    "addTime": 1778159232
+  },
+  {
+    "host": "64.188.65.136",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c997777772e78352e7275",
+    "country": "DE",
     "addTime": 1778159232
   },
   {
@@ -315,14 +315,14 @@
     "addTime": 1778148298
   },
   {
-    "host": "main.mtproxy.pw",
+    "host": "prod.mtproxy.pw",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
     "country": "PL",
     "addTime": 1778137499
   },
   {
-    "host": "prod.mtproxy.pw",
+    "host": "main.mtproxy.pw",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
     "country": "PL",
@@ -346,7 +346,7 @@
     "host": "html.geo-cdn.ru",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
-    "country": "FR",
+    "country": "PL",
     "addTime": 1778137486
   }
 ]
