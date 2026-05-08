@@ -21,13 +21,6 @@
     "addTime": 1778202343
   },
   {
-    "host": "188.68.222.245",
-    "port": 443,
-    "secret": "ee46b0971d5de93f825bc66f23a304c93665786973742e7275",
-    "country": "RU",
-    "addTime": 1778202343
-  },
-  {
     "host": "141.105.64.231",
     "port": 443,
     "secret": "ee80934d041d338b1475c8e4bd59cf2515722e6d7466612e6363",
@@ -42,9 +35,9 @@
     "addTime": 1778202343
   },
   {
-    "host": "185.182.65.174",
+    "host": "83.217.201.39",
     "port": 443,
-    "secret": "eecaca160442c8a4af24c6d96b04337d656d6f647363656e7465722e6f7267",
+    "secret": "ee388609e067375305b09cefdf72d4ab3862656765742e636f6d",
     "country": "RU",
     "addTime": 1778202343
   },
@@ -56,9 +49,16 @@
     "addTime": 1778202343
   },
   {
-    "host": "83.217.201.39",
+    "host": "188.68.222.245",
     "port": 443,
-    "secret": "ee388609e067375305b09cefdf72d4ab3862656765742e636f6d",
+    "secret": "ee46b0971d5de93f825bc66f23a304c93665786973742e7275",
+    "country": "RU",
+    "addTime": 1778202343
+  },
+  {
+    "host": "185.182.65.174",
+    "port": 443,
+    "secret": "eecaca160442c8a4af24c6d96b04337d656d6f647363656e7465722e6f7267",
     "country": "RU",
     "addTime": 1778202343
   },
@@ -161,17 +161,17 @@
     "addTime": 1778180678
   },
   {
-    "host": "45.91.53.125",
-    "port": 443,
-    "secret": "ee47d132ee8d001d39e9d39d505371b752616e696d652e6d79726b612e6469676974616c",
-    "country": "GB",
-    "addTime": 1778180678
-  },
-  {
     "host": "nelox.myrka.digital",
     "port": 36829,
     "secret": "ee408a31221fc47ac9a7096b828eec1b786e656c6f782e6d79726b612e6469676974616c",
     "country": "NL",
+    "addTime": 1778180678
+  },
+  {
+    "host": "45.91.53.125",
+    "port": 443,
+    "secret": "ee47d132ee8d001d39e9d39d505371b752616e696d652e6d79726b612e6469676974616c",
+    "country": "GB",
     "addTime": 1778180678
   },
   {
@@ -192,7 +192,7 @@
     "host": "dedicated.love.mambabot.net",
     "port": 4515,
     "secret": "ee33b4081c23579f7d6ca619d38baf0b46626973636f7474692e79656b74616e65742e636f6d",
-    "country": "FI",
+    "country": "BR",
     "addTime": 1778180672
   },
   {
@@ -252,10 +252,10 @@
     "addTime": 1778159232
   },
   {
-    "host": "musbest.space",
+    "host": "79.137.184.72",
     "port": 443,
-    "secret": "eecaca160442c8a4af24c6d96b04337d656d6f647363656e7465722e6f7267",
-    "country": "RU",
+    "secret": "7gBXcVHTFVtaVvgLwjIhBS53d3cubWljcm9zb2Z0LmNvbQ",
+    "country": "FI",
     "addTime": 1778159226
   },
   {
@@ -266,16 +266,16 @@
     "addTime": 1778159226
   },
   {
-    "host": "79.137.184.72",
-    "port": 443,
-    "secret": "7gBXcVHTFVtaVvgLwjIhBS53d3cubWljcm9zb2Z0LmNvbQ",
-    "country": "FI",
-    "addTime": 1778159226
-  },
-  {
     "host": "193.233.245.200",
     "port": 443,
     "secret": "ee84723cf15581f39a5e8262ee311d8867636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1778159226
+  },
+  {
+    "host": "musbest.space",
+    "port": 443,
+    "secret": "eecaca160442c8a4af24c6d96b04337d656d6f647363656e7465722e6f7267",
     "country": "RU",
     "addTime": 1778159226
   },
@@ -285,13 +285,6 @@
     "secret": "ee78a3039828ea09d09f328b2590943c656d736b2e786f6d6f647a2e666974",
     "country": "US",
     "addTime": 1778159171
-  },
-  {
-    "host": "89.125.113.189",
-    "port": 443,
-    "secret": "ee19835aa301cd9a6ceb68ad8d5ad9e0ac79616e6465782e7275",
-    "country": "AE",
-    "addTime": 1778159074
   },
   {
     "host": "89.125.113.155",
@@ -318,7 +311,7 @@
     "host": "prod.mtproxy.pw",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
-    "country": "RU",
+    "country": "US",
     "addTime": 1778137499
   },
   {
@@ -329,17 +322,17 @@
     "addTime": 1778137499
   },
   {
-    "host": "s1.smetanka.click",
-    "port": 443,
-    "secret": "ee80229c70b86eb8ec094dae3d69c00914736d6574616e6b612e636c69636b",
-    "country": "AT",
-    "addTime": 1778137493
-  },
-  {
     "host": "free.flarevpn.top",
     "port": 443,
     "secret": "eecf2a450b5d04742848c5271703a9d401706c617932676f2e636c6f7564",
     "country": "FI",
+    "addTime": 1778137493
+  },
+  {
+    "host": "s1.smetanka.click",
+    "port": 443,
+    "secret": "ee80229c70b86eb8ec094dae3d69c00914736d6574616e6b612e636c69636b",
+    "country": "AT",
     "addTime": 1778137493
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee79e344818749bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1778137486
+  },
+  {
+    "host": "resolver.pulsar.rest",
+    "port": 443,
+    "secret": "ee6380b29de557553580bd626ff659ef3f7265736f6c7665722e70756c7361722e72657374",
+    "country": "DE",
+    "addTime": 1778126741
   }
 ]
