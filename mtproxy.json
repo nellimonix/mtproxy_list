@@ -1,5 +1,12 @@
 [
   {
+    "host": "95.85.227.132",
+    "port": 8443,
+    "secret": "ee1bfafcf08d8bda00d8671ca9e40bb8",
+    "country": "PL",
+    "addTime": 1778234825
+  },
+  {
     "host": "akt.alotaxi.info",
     "port": 4515,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
@@ -12,6 +19,13 @@
     "secret": "eef0eadcd7dab09738cd80586c66418781647a656e2e7275",
     "country": "DE",
     "addTime": 1778234721
+  },
+  {
+    "host": "109.196.101.230",
+    "port": 443,
+    "secret": "746fd4b401682ca92e8a000449c76625",
+    "country": "RU",
+    "addTime": 1778234709
   },
   {
     "host": "132.243.235.201",
@@ -42,13 +56,6 @@
     "addTime": 1778223876
   },
   {
-    "host": "132.243.235.197",
-    "port": 443,
-    "secret": "ee284388d5f6d5c468daaeb9b9fa2b01b179616e6465782e7275",
-    "country": "NL",
-    "addTime": 1778223868
-  },
-  {
     "host": "132.243.235.196",
     "port": 443,
     "secret": "ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275",
@@ -56,11 +63,11 @@
     "addTime": 1778223868
   },
   {
-    "host": "85.192.38.64",
+    "host": "132.243.235.197",
     "port": 443,
-    "secret": "ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275",
-    "country": "GB",
-    "addTime": 1778202343
+    "secret": "ee284388d5f6d5c468daaeb9b9fa2b01b179616e6465782e7275",
+    "country": "NL",
+    "addTime": 1778223868
   },
   {
     "host": "46.226.166.219",
@@ -70,10 +77,10 @@
     "addTime": 1778202343
   },
   {
-    "host": "135.181.114.221",
+    "host": "85.192.38.64",
     "port": 443,
-    "secret": "7pfKo8aIg2byaxL5lPAuzxpzMy5hbWF6b25hd3MuY29t",
-    "country": "FI",
+    "secret": "ee69310a070af876540d46a637c9e8464a736e692e6964696e642e7275",
+    "country": "GB",
     "addTime": 1778202343
   },
   {
@@ -88,6 +95,13 @@
     "port": 8090,
     "secret": "7sJdagm5y9lVtxqjePMjo3hwZXRyb3ZpY2gucnU",
     "country": "NL",
+    "addTime": 1778202343
+  },
+  {
+    "host": "135.181.114.221",
+    "port": 443,
+    "secret": "7pfKo8aIg2byaxL5lPAuzxpzMy5hbWF6b25hd3MuY29t",
+    "country": "FI",
     "addTime": 1778202343
   },
   {
@@ -224,17 +238,17 @@
     "addTime": 1778169925
   },
   {
-    "host": "158.160.188.98",
-    "port": 8443,
-    "secret": "dd73675b09ac6690ff559bffa7b39a94c8",
-    "country": "RU",
-    "addTime": 1778169919
-  },
-  {
     "host": "gold.flarevpn.top",
     "port": 443,
     "secret": "ee3dd1018840a3488d2571092614a5ca44706c617932676f2e636c6f7564",
     "country": "FI",
+    "addTime": 1778169919
+  },
+  {
+    "host": "158.160.188.98",
+    "port": 8443,
+    "secret": "dd73675b09ac6690ff559bffa7b39a94c8",
+    "country": "RU",
     "addTime": 1778169919
   },
   {
@@ -249,6 +263,13 @@
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c997777772e78352e7275",
     "country": "DE",
+    "addTime": 1778159232
+  },
+  {
+    "host": "proxy.citadel.rest",
+    "port": 443,
+    "secret": "ee3c1e842f9a5ee63a8fd68192a680e44f706574726f766963682e7275",
+    "country": "LK",
     "addTime": 1778159232
   },
   {
@@ -308,20 +329,6 @@
     "addTime": 1778148298
   },
   {
-    "host": "main.mtproxy.pw",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
-    "country": "PL",
-    "addTime": 1778137499
-  },
-  {
-    "host": "prod.mtproxy.pw",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527",
-    "country": "PL",
-    "addTime": 1778137499
-  },
-  {
     "host": "free.flarevpn.top",
     "port": 443,
     "secret": "eecf2a450b5d04742848c5271703a9d401706c617932676f2e636c6f7564",
@@ -339,14 +346,7 @@
     "host": "html.geo-cdn.ru",
     "port": 443,
     "secret": "ee79e344818749bd7ac519130220c25d09",
-    "country": "FI",
+    "country": "PL",
     "addTime": 1778137486
-  },
-  {
-    "host": "resolver.pulsar.rest",
-    "port": 443,
-    "secret": "ee6380b29de557553580bd626ff659ef3f7265736f6c7665722e70756c7361722e72657374",
-    "country": "DE",
-    "addTime": 1778126741
   }
 ]
