@@ -70,17 +70,17 @@
     "addTime": 1778202311
   },
   {
-    "host": "de5.kuzmos.ru",
-    "port": 8090,
-    "secret": "7sJdagm5y9lVtxqjePMjo3hwZXRyb3ZpY2gucnU",
-    "country": "NL",
-    "addTime": 1778191554
-  },
-  {
     "host": "sex.spectranet.pro",
     "port": 443,
     "secret": "eec72c7ef46ddd254e5fb5f248521c4f986e696e6a612e737065637472616e65742e70726f",
     "country": "DE",
+    "addTime": 1778191554
+  },
+  {
+    "host": "de5.kuzmos.ru",
+    "port": 8090,
+    "secret": "7sJdagm5y9lVtxqjePMjo3hwZXRyb3ZpY2gucnU",
+    "country": "NL",
     "addTime": 1778191554
   },
   {
@@ -154,9 +154,9 @@
     "addTime": 1778180718
   },
   {
-    "host": "45.91.53.125",
-    "port": 443,
-    "secret": "ee47d132ee8d001d39e9d39d505371b752616e696d652e6d79726b612e6469676974616c",
+    "host": "devil.myrka.digital",
+    "port": 3443,
+    "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
     "country": "GB",
     "addTime": 1778180678
   },
@@ -168,9 +168,9 @@
     "addTime": 1778180678
   },
   {
-    "host": "devil.myrka.digital",
-    "port": 3443,
-    "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
+    "host": "45.91.53.125",
+    "port": 443,
+    "secret": "ee47d132ee8d001d39e9d39d505371b752616e696d652e6d79726b612e6469676974616c",
     "country": "GB",
     "addTime": 1778180678
   },
@@ -192,7 +192,7 @@
     "host": "dedicated.love.mambabot.net",
     "port": 4515,
     "secret": "ee33b4081c23579f7d6ca619d38baf0b46626973636f7474692e79656b74616e65742e636f6d",
-    "country": "FI",
+    "country": "BR",
     "addTime": 1778180672
   },
   {
@@ -231,16 +231,16 @@
     "addTime": 1778169913
   },
   {
-    "host": "45.66.228.148",
+    "host": "64.188.65.136",
     "port": 443,
-    "secret": "eea432a48faa550283cfffabe62f7047e9d186d17777772e6d6963726f736f66742e636f6d",
+    "secret": "eec11798ab008831b474066c9e1ebf5c997777772e78352e7275",
     "country": "DE",
     "addTime": 1778159232
   },
   {
-    "host": "64.188.65.136",
+    "host": "45.66.228.148",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c997777772e78352e7275",
+    "secret": "eea432a48faa550283cfffabe62f7047e9d186d17777772e6d6963726f736f66742e636f6d",
     "country": "DE",
     "addTime": 1778159232
   },
@@ -250,6 +250,20 @@
     "secret": "ee3c1e842f9a5ee63a8fd68192a680e44f706574726f766963682e7275",
     "country": "US",
     "addTime": 1778159232
+  },
+  {
+    "host": "138.124.127.220",
+    "port": 443,
+    "secret": "ee92299868d121915c92475badcc5ef1fe6173736574732e6d736e2e636f6d",
+    "country": "SE",
+    "addTime": 1778159226
+  },
+  {
+    "host": "musbest.space",
+    "port": 443,
+    "secret": "eecaca160442c8a4af24c6d96b04337d656d6f647363656e7465722e6f7267",
+    "country": "RU",
+    "addTime": 1778159226
   },
   {
     "host": "193.233.245.200",
@@ -266,20 +280,6 @@
     "addTime": 1778159226
   },
   {
-    "host": "musbest.space",
-    "port": 443,
-    "secret": "eecaca160442c8a4af24c6d96b04337d656d6f647363656e7465722e6f7267",
-    "country": "RU",
-    "addTime": 1778159226
-  },
-  {
-    "host": "138.124.127.220",
-    "port": 443,
-    "secret": "ee92299868d121915c92475badcc5ef1fe6173736574732e6d736e2e636f6d",
-    "country": "SE",
-    "addTime": 1778159226
-  },
-  {
     "host": "msk.xomodz.fit",
     "port": 853,
     "secret": "ee78a3039828ea09d09f328b2590943c656d736b2e786f6d6f647a2e666974",
@@ -292,6 +292,13 @@
     "secret": "ee19835aa301cd9a6ceb68ad8d5ad9e0ac79616e6465782e7275",
     "country": "AE",
     "addTime": 1778159074
+  },
+  {
+    "host": "89.125.113.155",
+    "port": 443,
+    "secret": "ee67af7b545eb72c3c47fc2ccb74aa41c979616e6465782e7275",
+    "country": "AE",
+    "addTime": 1778159072
   },
   {
     "host": "ninja.spectranet.pro",
@@ -341,12 +348,5 @@
     "secret": "eecf2a450b5d04742848c5271703a9d401706c617932676f2e636c6f7564",
     "country": "FI",
     "addTime": 1778137493
-  },
-  {
-    "host": "html.geo-cdn.ru",
-    "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
-    "country": "FR",
-    "addTime": 1778137486
   }
 ]
