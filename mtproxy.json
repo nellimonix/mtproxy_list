@@ -84,16 +84,16 @@
     "addTime": 1778341276
   },
   {
-    "host": "kria.insnappy.icu",
+    "host": "45.86.159.75",
     "port": 443,
-    "secret": "ee18334bdde7b4c5006c3930465654dc2473332e616d617a6f6e6177732e636f6d",
+    "secret": "eeb94b721196395ace273b33f7e124bf636164732e78352e7275",
     "country": "GB",
     "addTime": 1778341271
   },
   {
-    "host": "45.86.159.75",
+    "host": "kria.insnappy.icu",
     "port": 443,
-    "secret": "eeb94b721196395ace273b33f7e124bf636164732e78352e7275",
+    "secret": "ee18334bdde7b4c5006c3930465654dc2473332e616d617a6f6e6177732e636f6d",
     "country": "GB",
     "addTime": 1778341271
   },
@@ -112,17 +112,17 @@
     "addTime": 1778331944
   },
   {
-    "host": "mtproto.spectrum.vu",
-    "port": 443,
-    "secret": "ee161aebb85990493447ac98461dd6ea70766b2e636f6d",
-    "country": "NL",
-    "addTime": 1778331938
-  },
-  {
     "host": "kpop.brickstack.ru",
     "port": 443,
     "secret": "ee3ffae0e386f34d3f026972391c8fcb166b706f702e627269636b737461636b2e7275",
     "country": "RU",
+    "addTime": 1778331938
+  },
+  {
+    "host": "mtproto.spectrum.vu",
+    "port": 443,
+    "secret": "ee161aebb85990493447ac98461dd6ea70766b2e636f6d",
+    "country": "US",
     "addTime": 1778331938
   },
   {
@@ -161,17 +161,17 @@
     "addTime": 1778321099
   },
   {
-    "host": "venus.flarevpn.top",
-    "port": 443,
-    "secret": "eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564",
-    "country": "FI",
-    "addTime": 1778321096
-  },
-  {
     "host": "mtproto2.wieldvpn.ru",
     "port": 444,
     "secret": "eed9bf7f87ace5399874a19462eadc28d8636c6f75642e7275",
     "country": "RU",
+    "addTime": 1778321096
+  },
+  {
+    "host": "venus.flarevpn.top",
+    "port": 443,
+    "secret": "eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564",
+    "country": "FI",
     "addTime": 1778321096
   },
   {
@@ -222,6 +222,13 @@
     "secret": "ee2111222233334444555566667777888865756331312e706c61796c6973742e7474766e772e6e6574",
     "country": "DE",
     "addTime": 1778310295
+  },
+  {
+    "host": "mtp.yard-tg-bot.ru",
+    "port": 443,
+    "secret": "eef658bb6d89b284874149c13e7d27d9da79616e6465782e7275",
+    "country": "DE",
+    "addTime": 1778310287
   },
   {
     "host": "195.200.18.220",
@@ -315,6 +322,13 @@
     "addTime": 1778256292
   },
   {
+    "host": "verika.myrka.digital",
+    "port": 443,
+    "secret": "eedab1a45fdc30ef9f19f7d630e03e80ab667265616b2e6d79726b612e6469676974616c",
+    "country": "GB",
+    "addTime": 1778256283
+  },
+  {
     "host": "45.131.186.142",
     "port": 443,
     "secret": "eebed92191281b6d7a676b052f2797cad96f7a6f6e2e7275",
@@ -329,24 +343,10 @@
     "addTime": 1778256283
   },
   {
-    "host": "verika.myrka.digital",
-    "port": 443,
-    "secret": "eedab1a45fdc30ef9f19f7d630e03e80ab667265616b2e6d79726b612e6469676974616c",
-    "country": "GB",
-    "addTime": 1778256283
-  },
-  {
     "host": "noch.myrka.digital",
     "port": 8443,
     "secret": "ee3bc87dc18609b3c84c768f1d5e49dfd56e6f63682e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1778256283
-  },
-  {
-    "host": "193.23.195.101",
-    "port": 443,
-    "secret": "ee6288b4d5d9526c8d60cf8052e7eb0d3473742e6f6b63646e2e7275",
-    "country": "US",
-    "addTime": 1778245579
   }
 ]
