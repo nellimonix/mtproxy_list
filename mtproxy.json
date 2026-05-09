@@ -77,6 +77,13 @@
     "addTime": 1778310295
   },
   {
+    "host": "mtp.yard-tg-bot.ru",
+    "port": 443,
+    "secret": "eef658bb6d89b284874149c13e7d27d9da79616e6465782e7275",
+    "country": "DE",
+    "addTime": 1778310287
+  },
+  {
     "host": "47.76.42.231",
     "port": 443,
     "secret": "eed9e61d439649ce53e17736f28814641a617a7572652e6d6963726f736f66742e636f6d",
@@ -91,6 +98,13 @@
     "addTime": 1778288748
   },
   {
+    "host": "alisa.myrka.digital",
+    "port": 8443,
+    "secret": "ee11112222333344445555666677778888616c6973612e6d79726b612e6469676974616c",
+    "country": "DE",
+    "addTime": 1778288663
+  },
+  {
     "host": "laitik.myrka.digital",
     "port": 8443,
     "secret": "ee888877773333abcd55556666777788886c616974696b2e6d79726b612e6469676974616c",
@@ -98,11 +112,11 @@
     "addTime": 1778288663
   },
   {
-    "host": "alisa.myrka.digital",
-    "port": 8443,
-    "secret": "ee11112222333344445555666677778888616c6973612e6d79726b612e6469676974616c",
-    "country": "DE",
-    "addTime": 1778288663
+    "host": "37.139.34.234",
+    "port": 443,
+    "secret": "64e4ff5d72601338f9205b0a0971b6d8",
+    "country": "RU",
+    "addTime": 1778278019
   },
   {
     "host": "another.life.mambabot.net",
@@ -161,11 +175,11 @@
     "addTime": 1778256294
   },
   {
-    "host": "noch.myrka.digital",
-    "port": 8443,
-    "secret": "ee3bc87dc18609b3c84c768f1d5e49dfd56e6f63682e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1778256283
+    "host": "mtproto1.wieldvpn.ru",
+    "port": 443,
+    "secret": "ee42c3fcba858298575daf6f97fa2e9bb8636c6f75642e7275",
+    "country": "RU",
+    "addTime": 1778256292
   },
   {
     "host": "45.131.186.142",
@@ -189,17 +203,24 @@
     "addTime": 1778256283
   },
   {
-    "host": "nsk.catpaws.ru",
-    "port": 443,
-    "secret": "ee6288b4d5d9526c8d60cf8052e7eb0d3473742e6f6b63646e2e7275",
+    "host": "noch.myrka.digital",
+    "port": 8443,
+    "secret": "ee3bc87dc18609b3c84c768f1d5e49dfd56e6f63682e6d79726b612e6469676974616c",
     "country": "US",
-    "addTime": 1778245579
+    "addTime": 1778256283
   },
   {
     "host": "2.26.87.169",
     "port": 443,
     "secret": "ee185b95de945e9a2ead35ecb9ca82d4c66769746875622e636f6d",
     "country": "GB",
+    "addTime": 1778245579
+  },
+  {
+    "host": "nsk.catpaws.ru",
+    "port": 443,
+    "secret": "ee6288b4d5d9526c8d60cf8052e7eb0d3473742e6f6b63646e2e7275",
+    "country": "US",
     "addTime": 1778245579
   },
   {
@@ -327,26 +348,5 @@
     "secret": "eef0eadcd7dab09738cd80586c66418781647a656e2e7275",
     "country": "DE",
     "addTime": 1778234721
-  },
-  {
-    "host": "132.243.235.201",
-    "port": 443,
-    "secret": "ee9e0de647c5d593c800e577d6cc16f41d79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1778234670
-  },
-  {
-    "host": "194.50.94.98",
-    "port": 443,
-    "secret": "ee75a53853cb3f53976737c82a53d4f13879616e6465782e7275",
-    "country": "NL",
-    "addTime": 1778234670
-  },
-  {
-    "host": "194.50.94.65",
-    "port": 443,
-    "secret": "ee0c534d144bf266c6b7a09c532a2e529f79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1778234667
   }
 ]
