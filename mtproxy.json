@@ -66,7 +66,7 @@
     "host": "mtproto.spectrum.vu",
     "port": 443,
     "secret": "ee161aebb85990493447ac98461dd6ea70766b2e636f6d",
-    "country": "RU",
+    "country": "FI",
     "addTime": 1778331938
   },
   {
@@ -105,17 +105,17 @@
     "addTime": 1778321099
   },
   {
-    "host": "venus.flarevpn.top",
-    "port": 443,
-    "secret": "eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564",
-    "country": "FI",
-    "addTime": 1778321096
-  },
-  {
     "host": "mtproto2.wieldvpn.ru",
     "port": 444,
     "secret": "eed9bf7f87ace5399874a19462eadc28d8636c6f75642e7275",
     "country": "RU",
+    "addTime": 1778321096
+  },
+  {
+    "host": "venus.flarevpn.top",
+    "port": 443,
+    "secret": "eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564",
+    "country": "FI",
     "addTime": 1778321096
   },
   {
@@ -182,16 +182,16 @@
     "addTime": 1778288748
   },
   {
-    "host": "laitik.myrka.digital",
+    "host": "alisa.myrka.digital",
     "port": 8443,
-    "secret": "ee888877773333abcd55556666777788886c616974696b2e6d79726b612e6469676974616c",
+    "secret": "ee11112222333344445555666677778888616c6973612e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1778288663
   },
   {
-    "host": "alisa.myrka.digital",
+    "host": "laitik.myrka.digital",
     "port": 8443,
-    "secret": "ee11112222333344445555666677778888616c6973612e6d79726b612e6469676974616c",
+    "secret": "ee888877773333abcd55556666777788886c616974696b2e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1778288663
   },
@@ -252,20 +252,6 @@
     "addTime": 1778256294
   },
   {
-    "host": "mtproto1.wieldvpn.ru",
-    "port": 443,
-    "secret": "ee42c3fcba858298575daf6f97fa2e9bb8636c6f75642e7275",
-    "country": "RU",
-    "addTime": 1778256292
-  },
-  {
-    "host": "verika.myrka.digital",
-    "port": 443,
-    "secret": "eedab1a45fdc30ef9f19f7d630e03e80ab667265616b2e6d79726b612e6469676974616c",
-    "country": "GB",
-    "addTime": 1778256283
-  },
-  {
     "host": "181.215.15.219",
     "port": 9443,
     "secret": "ee42e0a49ddfbb0dba41468bd173badadf6d6f6e65792e6b7a",
@@ -284,6 +270,13 @@
     "port": 443,
     "secret": "eebed92191281b6d7a676b052f2797cad96f7a6f6e2e7275",
     "country": "RU",
+    "addTime": 1778256283
+  },
+  {
+    "host": "verika.myrka.digital",
+    "port": 443,
+    "secret": "eedab1a45fdc30ef9f19f7d630e03e80ab667265616b2e6d79726b612e6469676974616c",
+    "country": "GB",
     "addTime": 1778256283
   },
   {
@@ -348,5 +341,12 @@
     "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
     "country": "RU",
     "addTime": 1778245578
+  },
+  {
+    "host": "91.108.239.182",
+    "port": 443,
+    "secret": "ee7b4ae6f614725c06bb224c6ffca974e479616e6465782e7275",
+    "country": "FI",
+    "addTime": 1778245560
   }
 ]
