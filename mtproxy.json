@@ -115,7 +115,7 @@
     "host": "mtproto.spectrum.vu",
     "port": 443,
     "secret": "ee161aebb85990493447ac98461dd6ea70766b2e636f6d",
-    "country": "RU",
+    "country": "US",
     "addTime": 1778331938
   },
   {
@@ -189,13 +189,6 @@
     "addTime": 1778321082
   },
   {
-    "host": "proxy.yard-tg-bot.ru",
-    "port": 443,
-    "secret": "ee1cfe2c07741ef6c9d9dde94a7f14a3db79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1778321073
-  },
-  {
     "host": "2.26.98.239",
     "port": 443,
     "secret": "ee2b65f9171b435d2eee91225b93089127d186d1",
@@ -238,16 +231,16 @@
     "addTime": 1778288748
   },
   {
-    "host": "laitik.myrka.digital",
+    "host": "alisa.myrka.digital",
     "port": 8443,
-    "secret": "ee888877773333abcd55556666777788886c616974696b2e6d79726b612e6469676974616c",
+    "secret": "ee11112222333344445555666677778888616c6973612e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1778288663
   },
   {
-    "host": "alisa.myrka.digital",
+    "host": "laitik.myrka.digital",
     "port": 8443,
-    "secret": "ee11112222333344445555666677778888616c6973612e6d79726b612e6469676974616c",
+    "secret": "ee888877773333abcd55556666777788886c616974696b2e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1778288663
   },
@@ -322,10 +315,24 @@
     "addTime": 1778256292
   },
   {
+    "host": "45.131.186.142",
+    "port": 443,
+    "secret": "eebed92191281b6d7a676b052f2797cad96f7a6f6e2e7275",
+    "country": "RU",
+    "addTime": 1778256283
+  },
+  {
     "host": "verika.myrka.digital",
     "port": 443,
     "secret": "eedab1a45fdc30ef9f19f7d630e03e80ab667265616b2e6d79726b612e6469676974616c",
     "country": "GB",
+    "addTime": 1778256283
+  },
+  {
+    "host": "noch.myrka.digital",
+    "port": 8443,
+    "secret": "ee3bc87dc18609b3c84c768f1d5e49dfd56e6f63682e6d79726b612e6469676974616c",
+    "country": "US",
     "addTime": 1778256283
   },
   {
@@ -336,17 +343,10 @@
     "addTime": 1778256283
   },
   {
-    "host": "45.131.186.142",
+    "host": "193.23.195.101",
     "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad96f7a6f6e2e7275",
-    "country": "RU",
-    "addTime": 1778256283
-  },
-  {
-    "host": "noch.myrka.digital",
-    "port": 8443,
-    "secret": "ee3bc87dc18609b3c84c768f1d5e49dfd56e6f63682e6d79726b612e6469676974616c",
+    "secret": "ee6288b4d5d9526c8d60cf8052e7eb0d3473742e6f6b63646e2e7275",
     "country": "US",
-    "addTime": 1778256283
+    "addTime": 1778245579
   }
 ]
