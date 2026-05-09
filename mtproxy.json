@@ -7,17 +7,17 @@
     "addTime": 1778364278
   },
   {
-    "host": "sorgo.myrka.digital",
-    "port": 8443,
-    "secret": "eed1665043b7c388a742aef2f0417d3b1b736f72676f2e6d79726b612e6469676974616c",
-    "country": "FI",
-    "addTime": 1778364267
-  },
-  {
     "host": "vera.myrka.digital",
     "port": 8443,
     "secret": "ee6b4e96070a73618561e9b263bb759735766572612e6d79726b612e6469676974616c",
     "country": "SE",
+    "addTime": 1778364267
+  },
+  {
+    "host": "sorgo.myrka.digital",
+    "port": 8443,
+    "secret": "eed1665043b7c388a742aef2f0417d3b1b736f72676f2e6d79726b612e6469676974616c",
+    "country": "FI",
     "addTime": 1778364267
   },
   {
@@ -26,13 +26,6 @@
     "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
     "country": "FI",
     "addTime": 1778364267
-  },
-  {
-    "host": "arixo.shop",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c9978352e7275",
-    "country": "NL",
-    "addTime": 1778364260
   },
   {
     "host": "74.214.174.250",
@@ -70,17 +63,17 @@
     "addTime": 1778353448
   },
   {
-    "host": "147.45.71.230",
-    "port": 4443,
-    "secret": "eec25d8e668a1b6d15dfc967deaf239b307777772e6170706c652e636f6d",
-    "country": "AT",
-    "addTime": 1778342706
-  },
-  {
     "host": "max.telehelp.top",
     "port": 443,
     "secret": "ee27252638159317e07b706d5114d73e0b64726976652e676f6f676c652e636f6d",
     "country": "NL",
+    "addTime": 1778342706
+  },
+  {
+    "host": "147.45.71.230",
+    "port": 4443,
+    "secret": "eec25d8e668a1b6d15dfc967deaf239b307777772e6170706c652e636f6d",
+    "country": "AT",
     "addTime": 1778342706
   },
   {
@@ -161,17 +154,17 @@
     "addTime": 1778331938
   },
   {
-    "host": "132.243.65.11",
-    "port": 8443,
-    "secret": "eea932d5a9c5620df6397f2240e5a0c1b57177657274792e6d79726b612e6469676974616c",
-    "country": "EE",
-    "addTime": 1778331879
-  },
-  {
     "host": "2.27.40.22",
     "port": 36829,
     "secret": "ee408a31221fc47ac9a7096b828eec1b786e656c6f782e6d79726b612e6469676974616c",
     "country": "NL",
+    "addTime": 1778331879
+  },
+  {
+    "host": "132.243.65.11",
+    "port": 8443,
+    "secret": "eea932d5a9c5620df6397f2240e5a0c1b57177657274792e6d79726b612e6469676974616c",
+    "country": "EE",
     "addTime": 1778331879
   },
   {
@@ -196,17 +189,17 @@
     "addTime": 1778321099
   },
   {
-    "host": "mtproto2.wieldvpn.ru",
-    "port": 444,
-    "secret": "eed9bf7f87ace5399874a19462eadc28d8636c6f75642e7275",
-    "country": "RU",
-    "addTime": 1778321096
-  },
-  {
     "host": "venus.flarevpn.top",
     "port": 443,
     "secret": "eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564",
     "country": "FI",
+    "addTime": 1778321096
+  },
+  {
+    "host": "mtproto2.wieldvpn.ru",
+    "port": 444,
+    "secret": "eed9bf7f87ace5399874a19462eadc28d8636c6f75642e7275",
+    "country": "RU",
     "addTime": 1778321096
   },
   {
@@ -273,16 +266,16 @@
     "addTime": 1778288748
   },
   {
-    "host": "laitik.myrka.digital",
+    "host": "alisa.myrka.digital",
     "port": 8443,
-    "secret": "ee888877773333abcd55556666777788886c616974696b2e6d79726b612e6469676974616c",
+    "secret": "ee11112222333344445555666677778888616c6973612e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1778288663
   },
   {
-    "host": "alisa.myrka.digital",
+    "host": "laitik.myrka.digital",
     "port": 8443,
-    "secret": "ee11112222333344445555666677778888616c6973612e6d79726b612e6469676974616c",
+    "secret": "ee888877773333abcd55556666777788886c616974696b2e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1778288663
   },
@@ -348,5 +341,12 @@
     "secret": "eea11523a87cd89fead908fe3d2fbf95c7647a656e2e7275",
     "country": "DE",
     "addTime": 1778256294
+  },
+  {
+    "host": "mtproto1.wieldvpn.ru",
+    "port": 443,
+    "secret": "ee42c3fcba858298575daf6f97fa2e9bb8636c6f75642e7275",
+    "country": "RU",
+    "addTime": 1778256292
   }
 ]
