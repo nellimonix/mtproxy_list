@@ -14,6 +14,13 @@
     "addTime": 1778407571
   },
   {
+    "host": "132.243.235.189",
+    "port": 443,
+    "secret": "ee580a561631a7217d4a0607bb2be8930e79616e6465782e7275",
+    "country": "NL",
+    "addTime": 1778407498
+  },
+  {
     "host": "132.243.235.190",
     "port": 443,
     "secret": "ee157938a8c2f93afd4880d5bc6a1c8da279616e6465782e7275",
@@ -35,6 +42,13 @@
     "addTime": 1778396858
   },
   {
+    "host": "138.124.127.179",
+    "port": 443,
+    "secret": "eef3c8fea5c83c9c837e5e292b2025afd8766b2e636f6d",
+    "country": "SE",
+    "addTime": 1778396732
+  },
+  {
     "host": "132.243.235.191",
     "port": 443,
     "secret": "ee62c1113f25b902304012745a2b34649979616e6465782e7275",
@@ -42,17 +56,17 @@
     "addTime": 1778396723
   },
   {
+    "host": "193.43.91.8",
+    "port": 8656,
+    "secret": "ee871b6976e127f5457f908aba1902316e73332e676f6f676c652e636f6d",
+    "country": "RU",
+    "addTime": 1778375770
+  },
+  {
     "host": "5.79.68.181",
     "port": 80,
     "secret": "ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000",
     "country": "NL",
-    "addTime": 1778375770
-  },
-  {
-    "host": "23.88.45.183",
-    "port": 443,
-    "secret": "eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d",
-    "country": "DE",
     "addTime": 1778375770
   },
   {
@@ -63,24 +77,10 @@
     "addTime": 1778375770
   },
   {
-    "host": "45.77.46.55",
+    "host": "23.88.45.183",
     "port": 443,
-    "secret": "eec64ecb61f5791762b9e101469669ed17617a7572652e6d6963726f736f66742e636f6d",
-    "country": "SG",
-    "addTime": 1778375770
-  },
-  {
-    "host": "193.43.91.8",
-    "port": 8656,
-    "secret": "ee871b6976e127f5457f908aba1902316e73332e676f6f676c652e636f6d",
-    "country": "RU",
-    "addTime": 1778375770
-  },
-  {
-    "host": "77.232.39.167",
-    "port": 443,
-    "secret": "ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d",
-    "country": "RU",
+    "secret": "eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d",
+    "country": "DE",
     "addTime": 1778375770
   },
   {
@@ -98,6 +98,20 @@
     "addTime": 1778375770
   },
   {
+    "host": "77.232.39.167",
+    "port": 443,
+    "secret": "ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d",
+    "country": "RU",
+    "addTime": 1778375770
+  },
+  {
+    "host": "45.77.46.55",
+    "port": 443,
+    "secret": "eec64ecb61f5791762b9e101469669ed17617a7572652e6d6963726f736f66742e636f6d",
+    "country": "SG",
+    "addTime": 1778375770
+  },
+  {
     "host": "5.9.133.26",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d",
@@ -105,17 +119,17 @@
     "addTime": 1778375770
   },
   {
-    "host": "hella.2pac.live",
-    "port": 443,
-    "secret": "ee8bc27dfdd23b31bd7badf79291b4ff507777772e616d642e636f6d",
-    "country": "FI",
-    "addTime": 1778375764
-  },
-  {
     "host": "wiseprox.sbrf-cdn342.ru",
     "port": 443,
     "secret": "ee4e7fd635e4a98c210d350de964df1bd86f7a6f6e2e7275",
     "country": "RU",
+    "addTime": 1778375764
+  },
+  {
+    "host": "hella.2pac.live",
+    "port": 443,
+    "secret": "ee8bc27dfdd23b31bd7badf79291b4ff507777772e616d642e636f6d",
+    "country": "FI",
     "addTime": 1778375764
   },
   {
@@ -217,17 +231,24 @@
     "addTime": 1778353448
   },
   {
-    "host": "max.telehelp.top",
+    "host": "silvpn.su",
     "port": 443,
-    "secret": "ee27252638159317e07b706d5114d73e0b64726976652e676f6f676c652e636f6d",
+    "secret": "c7d9227942a916f5d61a4203355ce80a",
     "country": "NL",
-    "addTime": 1778342706
+    "addTime": 1778342848
   },
   {
     "host": "147.45.71.230",
     "port": 4443,
     "secret": "eec25d8e668a1b6d15dfc967deaf239b307777772e6170706c652e636f6d",
     "country": "AT",
+    "addTime": 1778342706
+  },
+  {
+    "host": "max.telehelp.top",
+    "port": 443,
+    "secret": "ee27252638159317e07b706d5114d73e0b64726976652e676f6f676c652e636f6d",
+    "country": "NL",
     "addTime": 1778342706
   },
   {
@@ -238,17 +259,17 @@
     "addTime": 1778342705
   },
   {
-    "host": "bot.amivpn.ru",
-    "port": 9443,
-    "secret": "ee708d436e066a86793f27b4405c9d47596d61696c2e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1778341326
-  },
-  {
     "host": "ultraxlswed.chickenkiller.com",
     "port": 443,
     "secret": "ee818cdaff3303c67fc346e0d83a8aa6b3756c747261786c737765642e636869636b656e6b696c6c65722e636f6d",
     "country": "TR",
+    "addTime": 1778341326
+  },
+  {
+    "host": "bot.amivpn.ru",
+    "port": 9443,
+    "secret": "ee708d436e066a86793f27b4405c9d47596d61696c2e676f6f676c652e636f6d",
+    "country": "NL",
     "addTime": 1778341326
   },
   {
@@ -294,17 +315,17 @@
     "addTime": 1778331944
   },
   {
-    "host": "mtproto.spectrum.vu",
-    "port": 443,
-    "secret": "ee161aebb85990493447ac98461dd6ea70766b2e636f6d",
-    "country": "NL",
-    "addTime": 1778331938
-  },
-  {
     "host": "kpop.brickstack.ru",
     "port": 443,
     "secret": "ee3ffae0e386f34d3f026972391c8fcb166b706f702e627269636b737461636b2e7275",
     "country": "RU",
+    "addTime": 1778331938
+  },
+  {
+    "host": "mtproto.spectrum.vu",
+    "port": 443,
+    "secret": "ee161aebb85990493447ac98461dd6ea70766b2e636f6d",
+    "country": "FI",
     "addTime": 1778331938
   },
   {
@@ -327,26 +348,5 @@
     "secret": "ee1d49946a9bd11022149e2c68f1d75f6774656c2e66736f632d6170702e6f6e6c696e65",
     "country": "US",
     "addTime": 1778331868
-  },
-  {
-    "host": "lovevesper.zoryx.tech",
-    "port": 853,
-    "secret": "ee2a43151ca1c75d56a2f8f63c87bfaae374726176656c6c696e652e7275",
-    "country": "SE",
-    "addTime": 1778321184
-  },
-  {
-    "host": "banderol.carrie.crescive.directory.pediatry.shivann.com",
-    "port": 7723,
-    "secret": "ee16f76f202992a746b5d6dfceb3382061647a656e2e7275",
-    "country": "DE",
-    "addTime": 1778321099
-  },
-  {
-    "host": "mtproto2.wieldvpn.ru",
-    "port": 444,
-    "secret": "eed9bf7f87ace5399874a19462eadc28d8636c6f75642e7275",
-    "country": "RU",
-    "addTime": 1778321096
   }
 ]
