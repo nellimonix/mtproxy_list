@@ -14,17 +14,17 @@
     "addTime": 1778364267
   },
   {
-    "host": "kosha.myrka.digital",
-    "port": 12345,
-    "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
-    "country": "FI",
-    "addTime": 1778364267
-  },
-  {
     "host": "vera.myrka.digital",
     "port": 8443,
     "secret": "ee6b4e96070a73618561e9b263bb759735766572612e6d79726b612e6469676974616c",
     "country": "SE",
+    "addTime": 1778364267
+  },
+  {
+    "host": "kosha.myrka.digital",
+    "port": 12345,
+    "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
+    "country": "FI",
     "addTime": 1778364267
   },
   {
@@ -98,17 +98,17 @@
     "addTime": 1778342705
   },
   {
-    "host": "ultraxlswed.chickenkiller.com",
-    "port": 443,
-    "secret": "ee818cdaff3303c67fc346e0d83a8aa6b3756c747261786c737765642e636869636b656e6b696c6c65722e636f6d",
-    "country": "TR",
-    "addTime": 1778341326
-  },
-  {
     "host": "bot.amivpn.ru",
     "port": 9443,
     "secret": "ee708d436e066a86793f27b4405c9d47596d61696c2e676f6f676c652e636f6d",
     "country": "NL",
+    "addTime": 1778341326
+  },
+  {
+    "host": "ultraxlswed.chickenkiller.com",
+    "port": 443,
+    "secret": "ee818cdaff3303c67fc346e0d83a8aa6b3756c747261786c737765642e636869636b656e6b696c6c65722e636f6d",
+    "country": "TR",
     "addTime": 1778341326
   },
   {
@@ -126,16 +126,16 @@
     "addTime": 1778341276
   },
   {
-    "host": "kria.insnappy.icu",
+    "host": "45.86.159.75",
     "port": 443,
-    "secret": "ee18334bdde7b4c5006c3930465654dc2473332e616d617a6f6e6177732e636f6d",
+    "secret": "eeb94b721196395ace273b33f7e124bf636164732e78352e7275",
     "country": "GB",
     "addTime": 1778341271
   },
   {
-    "host": "45.86.159.75",
+    "host": "kria.insnappy.icu",
     "port": 443,
-    "secret": "eeb94b721196395ace273b33f7e124bf636164732e78352e7275",
+    "secret": "ee18334bdde7b4c5006c3930465654dc2473332e616d617a6f6e6177732e636f6d",
     "country": "GB",
     "addTime": 1778341271
   },
@@ -203,13 +203,6 @@
     "addTime": 1778321099
   },
   {
-    "host": "venus.flarevpn.top",
-    "port": 443,
-    "secret": "eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564",
-    "country": "FI",
-    "addTime": 1778321096
-  },
-  {
     "host": "mtproto2.wieldvpn.ru",
     "port": 444,
     "secret": "eed9bf7f87ace5399874a19462eadc28d8636c6f75642e7275",
@@ -217,11 +210,11 @@
     "addTime": 1778321096
   },
   {
-    "host": "47.86.161.97",
-    "port": 8888,
-    "secret": "ee19d0344285f58bde06f9b1fe96f0542d7777772e6d6963726f736f66742e636f6d",
-    "country": "HK",
-    "addTime": 1778321088
+    "host": "venus.flarevpn.top",
+    "port": 443,
+    "secret": "eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564",
+    "country": "FI",
+    "addTime": 1778321096
   },
   {
     "host": "anime.myrka.digital",
@@ -348,5 +341,12 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1778256295
+  },
+  {
+    "host": "esurient.lobbyist.location.teleseryeme.com",
+    "port": 443,
+    "secret": "eea11523a87cd89fead908fe3d2fbf95c7647a656e2e7275",
+    "country": "DE",
+    "addTime": 1778256294
   }
 ]
