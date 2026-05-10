@@ -7,9 +7,9 @@
     "addTime": 1778364278
   },
   {
-    "host": "sorgo.myrka.digital",
-    "port": 8443,
-    "secret": "eed1665043b7c388a742aef2f0417d3b1b736f72676f2e6d79726b612e6469676974616c",
+    "host": "kosha.myrka.digital",
+    "port": 12345,
+    "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
     "country": "FI",
     "addTime": 1778364267
   },
@@ -21,9 +21,9 @@
     "addTime": 1778364267
   },
   {
-    "host": "kosha.myrka.digital",
-    "port": 12345,
-    "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
+    "host": "sorgo.myrka.digital",
+    "port": 8443,
+    "secret": "eed1665043b7c388a742aef2f0417d3b1b736f72676f2e6d79726b612e6469676974616c",
     "country": "FI",
     "addTime": 1778364267
   },
@@ -68,13 +68,6 @@
     "secret": "ee636c6f7564666c6172652e636f6db6",
     "country": "DE",
     "addTime": 1778353448
-  },
-  {
-    "host": "silvpn.su",
-    "port": 443,
-    "secret": "c7d9227942a916f5d61a4203355ce80a",
-    "country": "NL",
-    "addTime": 1778342848
   },
   {
     "host": "max.telehelp.top",
@@ -126,16 +119,16 @@
     "addTime": 1778341276
   },
   {
-    "host": "45.86.159.75",
+    "host": "kria.insnappy.icu",
     "port": 443,
-    "secret": "eeb94b721196395ace273b33f7e124bf636164732e78352e7275",
+    "secret": "ee18334bdde7b4c5006c3930465654dc2473332e616d617a6f6e6177732e636f6d",
     "country": "GB",
     "addTime": 1778341271
   },
   {
-    "host": "kria.insnappy.icu",
+    "host": "45.86.159.75",
     "port": 443,
-    "secret": "ee18334bdde7b4c5006c3930465654dc2473332e616d617a6f6e6177732e636f6d",
+    "secret": "eeb94b721196395ace273b33f7e124bf636164732e78352e7275",
     "country": "GB",
     "addTime": 1778341271
   },
@@ -154,17 +147,17 @@
     "addTime": 1778331944
   },
   {
+    "host": "mtproto.spectrum.vu",
+    "port": 443,
+    "secret": "ee161aebb85990493447ac98461dd6ea70766b2e636f6d",
+    "country": "FI",
+    "addTime": 1778331938
+  },
+  {
     "host": "kpop.brickstack.ru",
     "port": 443,
     "secret": "ee3ffae0e386f34d3f026972391c8fcb166b706f702e627269636b737461636b2e7275",
     "country": "RU",
-    "addTime": 1778331938
-  },
-  {
-    "host": "mtproto.spectrum.vu",
-    "port": 443,
-    "secret": "ee161aebb85990493447ac98461dd6ea70766b2e636f6d",
-    "country": "NL",
     "addTime": 1778331938
   },
   {
@@ -203,6 +196,13 @@
     "addTime": 1778321099
   },
   {
+    "host": "venus.flarevpn.top",
+    "port": 443,
+    "secret": "eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564",
+    "country": "FI",
+    "addTime": 1778321096
+  },
+  {
     "host": "mtproto2.wieldvpn.ru",
     "port": 444,
     "secret": "eed9bf7f87ace5399874a19462eadc28d8636c6f75642e7275",
@@ -210,11 +210,11 @@
     "addTime": 1778321096
   },
   {
-    "host": "venus.flarevpn.top",
-    "port": 443,
-    "secret": "eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564",
-    "country": "FI",
-    "addTime": 1778321096
+    "host": "47.86.161.97",
+    "port": 8888,
+    "secret": "ee19d0344285f58bde06f9b1fe96f0542d7777772e6d6963726f736f66742e636f6d",
+    "country": "HK",
+    "addTime": 1778321088
   },
   {
     "host": "anime.myrka.digital",
