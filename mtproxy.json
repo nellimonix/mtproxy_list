@@ -49,6 +49,13 @@
     "addTime": 1778580423
   },
   {
+    "host": "195.184.247.13",
+    "port": 443,
+    "secret": "eef4c8d7ed51d87da9550d1132b84169706c6f67696e2e766b2e636f6d",
+    "country": "GB",
+    "addTime": 1778580423
+  },
+  {
     "host": "84.75.202.28",
     "port": 48995,
     "secret": "feff39bcddb62859ade093fcad935858",
@@ -59,7 +66,7 @@
     "host": "xycrastination.org",
     "port": 443,
     "secret": "eef00a88fd4b67fa2f96bfb3402fceb5ea7777772e676f6f676c652e636f6d",
-    "country": "DE",
+    "country": "SE",
     "addTime": 1778580341
   },
   {
@@ -119,13 +126,6 @@
     "addTime": 1778558829
   },
   {
-    "host": "85.192.38.43",
-    "port": 443,
-    "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e736e617070792e696375",
-    "country": "GB",
-    "addTime": 1778558785
-  },
-  {
     "host": "144.31.48.231",
     "port": 443,
     "secret": "eebed92191281b6d7a676b052f2797cad9617669746f2e7275",
@@ -147,16 +147,16 @@
     "addTime": 1778537070
   },
   {
-    "host": "s1.proxytg.space",
+    "host": "proxy.fluxoria.it.com",
     "port": 443,
-    "secret": "ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d",
+    "secret": "ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d",
     "country": "NL",
     "addTime": 1778537063
   },
   {
-    "host": "proxy.fluxoria.it.com",
+    "host": "s1.proxytg.space",
     "port": 443,
-    "secret": "ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d",
+    "secret": "ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1778537063
   },
@@ -238,20 +238,6 @@
     "addTime": 1778515948
   },
   {
-    "host": "207.89.17.5",
-    "port": 12345,
-    "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
-    "country": "FI",
-    "addTime": 1778515948
-  },
-  {
-    "host": "46.226.163.172",
-    "port": 443,
-    "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375",
-    "country": "GB",
-    "addTime": 1778515948
-  },
-  {
     "host": "95.85.227.248",
     "port": 443,
     "secret": "ee0740e2e79a9ad7a2ec62a5f14bbb63df74656c69612e7365",
@@ -259,10 +245,24 @@
     "addTime": 1778515948
   },
   {
+    "host": "207.89.17.5",
+    "port": 12345,
+    "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
+    "country": "FI",
+    "addTime": 1778515948
+  },
+  {
     "host": "167.17.183.28",
     "port": 443,
     "secret": "ee86519ddae69adcd227b0bfbfc877e23c6d61782e7275",
     "country": "DE",
+    "addTime": 1778515948
+  },
+  {
+    "host": "46.226.163.172",
+    "port": 443,
+    "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375",
+    "country": "GB",
     "addTime": 1778515948
   },
   {
