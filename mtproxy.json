@@ -14,13 +14,6 @@
     "addTime": 1778602000
   },
   {
-    "host": "147.45.166.163",
-    "port": 443,
-    "secret": "eee320b18016cfb493f6ca37e07c67e6bf617669746f2e7275",
-    "country": "RU",
-    "addTime": 1778601975
-  },
-  {
     "host": "departmental.dryer.pekoe.pilipinoteleserye.com",
     "port": 443,
     "secret": "ee85fe76b8510323f50f507a93f615a450647a656e2e7275",
@@ -77,11 +70,11 @@
     "addTime": 1778591156
   },
   {
-    "host": "2.26.106.100",
+    "host": "68.209.58.136",
     "port": 443,
-    "secret": "eeec75f0f7cbc3edef76b6c45a22a8de08636c6f7564666c6172652e636f6d",
-    "country": "US",
-    "addTime": 1778591143
+    "secret": "eeaae59d83ead3dfe249eaa024f0a37c6b6f7a6f6e2e7275",
+    "country": "CA",
+    "addTime": 1778591135
   },
   {
     "host": "mt.corph.ru",
@@ -112,17 +105,17 @@
     "addTime": 1778580480
   },
   {
-    "host": "fit.proxytg.space",
-    "port": 443,
-    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1778580475
-  },
-  {
     "host": "31.56.179.91",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "FI",
+    "addTime": 1778580475
+  },
+  {
+    "host": "fit.proxytg.space",
+    "port": 443,
+    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
+    "country": "NL",
     "addTime": 1778580475
   },
   {
@@ -157,7 +150,7 @@
     "host": "xycrastination.org",
     "port": 443,
     "secret": "eef00a88fd4b67fa2f96bfb3402fceb5ea7777772e676f6f676c652e636f6d",
-    "country": "SE",
+    "country": "US",
     "addTime": 1778580341
   },
   {
@@ -182,17 +175,17 @@
     "addTime": 1778569481
   },
   {
-    "host": "212.74.39.233",
-    "port": 443,
-    "secret": "eea7275375377d7ecf60ee4a811aba3e087777772e636c6f7564666c6172652e636f6d",
-    "country": "GB",
-    "addTime": 1778569469
-  },
-  {
     "host": "proxy.xomodz.fit",
     "port": 853,
     "secret": "ee78a3039828ea09d09f328b2590943c6570726f78792e786f6d6f647a2e666974",
     "country": "NL",
+    "addTime": 1778569469
+  },
+  {
+    "host": "212.74.39.233",
+    "port": 443,
+    "secret": "eea7275375377d7ecf60ee4a811aba3e087777772e636c6f7564666c6172652e636f6d",
+    "country": "GB",
     "addTime": 1778569469
   },
   {
@@ -227,15 +220,8 @@
     "host": "proxyobhod.online",
     "port": 443,
     "secret": "01b307acba4f54f55aafc33bb06bbbf6",
-    "country": "MD",
+    "country": "US",
     "addTime": 1778537070
-  },
-  {
-    "host": "s1.proxytg.space",
-    "port": 443,
-    "secret": "ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1778537063
   },
   {
     "host": "proxy.fluxoria.it.com",
@@ -243,13 +229,6 @@
     "secret": "ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d",
     "country": "NL",
     "addTime": 1778537063
-  },
-  {
-    "host": "111.88.156.136",
-    "port": 443,
-    "secret": "dd8e8284414d21cdc5575cf17d59c5307e",
-    "country": "RU",
-    "addTime": 1778537061
   },
   {
     "host": "proxy.pushvpn.space",
@@ -315,17 +294,10 @@
     "addTime": 1778515950
   },
   {
-    "host": "207.89.17.5",
-    "port": 12345,
-    "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
-    "country": "FI",
-    "addTime": 1778515948
-  },
-  {
-    "host": "95.85.227.248",
+    "host": "167.17.183.28",
     "port": 443,
-    "secret": "ee0740e2e79a9ad7a2ec62a5f14bbb63df74656c69612e7365",
-    "country": "PL",
+    "secret": "ee86519ddae69adcd227b0bfbfc877e23c6d61782e7275",
+    "country": "DE",
     "addTime": 1778515948
   },
   {
@@ -343,10 +315,38 @@
     "addTime": 1778515948
   },
   {
-    "host": "167.17.183.28",
-    "port": 443,
-    "secret": "ee86519ddae69adcd227b0bfbfc877e23c6d61782e7275",
-    "country": "DE",
+    "host": "207.89.17.5",
+    "port": 12345,
+    "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
+    "country": "FI",
     "addTime": 1778515948
+  },
+  {
+    "host": "95.85.227.248",
+    "port": 443,
+    "secret": "ee0740e2e79a9ad7a2ec62a5f14bbb63df74656c69612e7365",
+    "country": "PL",
+    "addTime": 1778515948
+  },
+  {
+    "host": "herod.roomful.stepsister.wowteleserye.com",
+    "port": 443,
+    "secret": "eec05ae92d8a9cbd7ee8ed5d8ca74d6f53647a656e2e7275",
+    "country": "DE",
+    "addTime": 1778515743
+  },
+  {
+    "host": "66.206.25.194",
+    "port": 443,
+    "secret": "ddc2100744c7c9f87ce4c23e061499cd04",
+    "country": "DE",
+    "addTime": 1778515743
+  },
+  {
+    "host": "146.185.210.203",
+    "port": 8443,
+    "secret": "ee3fdb0b25c9bc2b4e112b18876dfded9576696e796c2e63616c6c736d6565652e78797a",
+    "country": "GB",
+    "addTime": 1778515544
   }
 ]
