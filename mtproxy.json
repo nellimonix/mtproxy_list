@@ -14,13 +14,6 @@
     "addTime": 1778602000
   },
   {
-    "host": "147.45.166.163",
-    "port": 443,
-    "secret": "eee320b18016cfb493f6ca37e07c67e6bf617669746f2e7275",
-    "country": "RU",
-    "addTime": 1778601975
-  },
-  {
     "host": "departmental.dryer.pekoe.pilipinoteleserye.com",
     "port": 443,
     "secret": "ee85fe76b8510323f50f507a93f615a450647a656e2e7275",
@@ -63,17 +56,17 @@
     "addTime": 1778591199
   },
   {
-    "host": "2.26.122.243",
-    "port": 853,
-    "secret": "ee78a3039828ea09d09f328b2590943c656361742e786f6d6f647a2e666974",
-    "country": "FI",
-    "addTime": 1778591156
-  },
-  {
     "host": "i-love-femboys.etherealvpn.uk",
     "port": 443,
     "secret": "ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275",
     "country": "AE",
+    "addTime": 1778591156
+  },
+  {
+    "host": "2.26.122.243",
+    "port": 853,
+    "secret": "ee78a3039828ea09d09f328b2590943c656361742e786f6d6f647a2e666974",
+    "country": "FI",
     "addTime": 1778591156
   },
   {
@@ -112,17 +105,17 @@
     "addTime": 1778580480
   },
   {
-    "host": "fit.proxytg.space",
-    "port": 443,
-    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1778580475
-  },
-  {
     "host": "31.56.179.91",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "FI",
+    "addTime": 1778580475
+  },
+  {
+    "host": "fit.proxytg.space",
+    "port": 443,
+    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
+    "country": "NL",
     "addTime": 1778580475
   },
   {
@@ -182,10 +175,10 @@
     "addTime": 1778569481
   },
   {
-    "host": "cat.xomodz.fit",
+    "host": "proxy.xomodz.fit",
     "port": 853,
-    "secret": "ee78a3039828ea09d09f328b2590943c656361742e786f6d6f647a2e666974",
-    "country": "FI",
+    "secret": "ee78a3039828ea09d09f328b2590943c6570726f78792e786f6d6f647a2e666974",
+    "country": "NL",
     "addTime": 1778569469
   },
   {
@@ -193,6 +186,13 @@
     "port": 443,
     "secret": "eea7275375377d7ecf60ee4a811aba3e087777772e636c6f7564666c6172652e636f6d",
     "country": "GB",
+    "addTime": 1778569469
+  },
+  {
+    "host": "cat.xomodz.fit",
+    "port": 853,
+    "secret": "ee78a3039828ea09d09f328b2590943c656361742e786f6d6f647a2e666974",
+    "country": "FI",
     "addTime": 1778569469
   },
   {
@@ -215,13 +215,6 @@
     "secret": "eed2082d28b4c047cc2a783b84e9a52a1635706f73742d676174652e78352e7275",
     "country": "FI",
     "addTime": 1778547868
-  },
-  {
-    "host": "proxyobhod.online",
-    "port": 443,
-    "secret": "01b307acba4f54f55aafc33bb06bbbf6",
-    "country": "MD",
-    "addTime": 1778537070
   },
   {
     "host": "s1.proxytg.space",
@@ -308,6 +301,20 @@
     "addTime": 1778515950
   },
   {
+    "host": "167.17.183.28",
+    "port": 443,
+    "secret": "ee86519ddae69adcd227b0bfbfc877e23c6d61782e7275",
+    "country": "DE",
+    "addTime": 1778515948
+  },
+  {
+    "host": "77.91.86.235",
+    "port": 853,
+    "secret": "eee849ff3641c7d71148efb55beb06b25174656c2e6c6f76652d70757373792e7275",
+    "country": "DE",
+    "addTime": 1778515948
+  },
+  {
     "host": "95.85.227.248",
     "port": 443,
     "secret": "ee0740e2e79a9ad7a2ec62a5f14bbb63df74656c69612e7365",
@@ -322,13 +329,6 @@
     "addTime": 1778515948
   },
   {
-    "host": "77.91.86.235",
-    "port": 853,
-    "secret": "eee849ff3641c7d71148efb55beb06b25174656c2e6c6f76652d70757373792e7275",
-    "country": "DE",
-    "addTime": 1778515948
-  },
-  {
     "host": "46.226.163.172",
     "port": 443,
     "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375",
@@ -336,16 +336,16 @@
     "addTime": 1778515948
   },
   {
-    "host": "167.17.183.28",
-    "port": 443,
-    "secret": "ee86519ddae69adcd227b0bfbfc877e23c6d61782e7275",
-    "country": "DE",
-    "addTime": 1778515948
-  },
-  {
     "host": "66.206.25.194",
     "port": 443,
     "secret": "ddc2100744c7c9f87ce4c23e061499cd04",
+    "country": "DE",
+    "addTime": 1778515743
+  },
+  {
+    "host": "herod.roomful.stepsister.wowteleserye.com",
+    "port": 443,
+    "secret": "eec05ae92d8a9cbd7ee8ed5d8ca74d6f53647a656e2e7275",
     "country": "DE",
     "addTime": 1778515743
   }
