@@ -70,17 +70,10 @@
     "addTime": 1778547868
   },
   {
-    "host": "xfs1.gbird.top",
-    "port": 6443,
-    "secret": "ddecad3d673e42dc10cae6fa9bcebcd5f6",
-    "country": "HK",
-    "addTime": 1778537129
-  },
-  {
     "host": "proxyobhod.online",
     "port": 443,
     "secret": "01b307acba4f54f55aafc33bb06bbbf6",
-    "country": "US",
+    "country": "MD",
     "addTime": 1778537070
   },
   {
@@ -126,17 +119,17 @@
     "addTime": 1778526312
   },
   {
-    "host": "62.60.159.150",
-    "port": 903,
-    "secret": "ee60d7b79b76287c2993abc5bbc4b67e60326769732e636f6d",
-    "country": "SE",
-    "addTime": 1778526310
-  },
-  {
     "host": "31.220.42.70",
     "port": 443,
     "secret": "ee5598b9a52d58d43caecfa0adc1cf0e6d7777772e676f6f676c652e636f6d",
     "country": "NL",
+    "addTime": 1778526310
+  },
+  {
+    "host": "62.60.159.150",
+    "port": 903,
+    "secret": "ee60d7b79b76287c2993abc5bbc4b67e60326769732e636f6d",
+    "country": "SE",
     "addTime": 1778526310
   },
   {
@@ -175,34 +168,6 @@
     "addTime": 1778515950
   },
   {
-    "host": "45.147.28.17",
-    "port": 853,
-    "secret": "ee4f4c5c34212ac9de89bcb7db982acf03732e3738393935362e78797a",
-    "country": "FI",
-    "addTime": 1778515948
-  },
-  {
-    "host": "46.226.163.172",
-    "port": 443,
-    "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375",
-    "country": "GB",
-    "addTime": 1778515948
-  },
-  {
-    "host": "77.91.86.235",
-    "port": 853,
-    "secret": "eee849ff3641c7d71148efb55beb06b25174656c2e6c6f76652d70757373792e7275",
-    "country": "DE",
-    "addTime": 1778515948
-  },
-  {
-    "host": "167.17.183.28",
-    "port": 443,
-    "secret": "ee86519ddae69adcd227b0bfbfc877e23c6d61782e7275",
-    "country": "DE",
-    "addTime": 1778515948
-  },
-  {
     "host": "207.89.17.5",
     "port": 12345,
     "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
@@ -214,6 +179,34 @@
     "port": 443,
     "secret": "ee0740e2e79a9ad7a2ec62a5f14bbb63df74656c69612e7365",
     "country": "PL",
+    "addTime": 1778515948
+  },
+  {
+    "host": "45.147.28.17",
+    "port": 853,
+    "secret": "ee4f4c5c34212ac9de89bcb7db982acf03732e3738393935362e78797a",
+    "country": "FI",
+    "addTime": 1778515948
+  },
+  {
+    "host": "77.91.86.235",
+    "port": 853,
+    "secret": "eee849ff3641c7d71148efb55beb06b25174656c2e6c6f76652d70757373792e7275",
+    "country": "DE",
+    "addTime": 1778515948
+  },
+  {
+    "host": "46.226.163.172",
+    "port": 443,
+    "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375",
+    "country": "GB",
+    "addTime": 1778515948
+  },
+  {
+    "host": "167.17.183.28",
+    "port": 443,
+    "secret": "ee86519ddae69adcd227b0bfbfc877e23c6d61782e7275",
+    "country": "DE",
     "addTime": 1778515948
   },
   {
@@ -238,17 +231,17 @@
     "addTime": 1778515544
   },
   {
-    "host": "t.hhelios.ru",
-    "port": 443,
-    "secret": "eebfe8fc1c84e404ccdfb33c0990ba5c4435706f73742d676174652e78352e7275",
-    "country": "FI",
-    "addTime": 1778515531
-  },
-  {
     "host": "s.arixo.shop",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c997777772e617669746f2e7275",
     "country": "HK",
+    "addTime": 1778515531
+  },
+  {
+    "host": "t.hhelios.ru",
+    "port": 443,
+    "secret": "eebfe8fc1c84e404ccdfb33c0990ba5c4435706f73742d676174652e78352e7275",
+    "country": "FI",
     "addTime": 1778515531
   },
   {
@@ -348,5 +341,12 @@
     "secret": "dd03f8eddaafaf36efd072490cae01447f",
     "country": "ZA",
     "addTime": 1778472403
+  },
+  {
+    "host": "104.253.79.188",
+    "port": 443,
+    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
+    "country": "FR",
+    "addTime": 1778472402
   }
 ]
