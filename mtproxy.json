@@ -35,18 +35,18 @@
     "addTime": 1778591143
   },
   {
+    "host": "68.209.58.136",
+    "port": 443,
+    "secret": "eeaae59d83ead3dfe249eaa024f0a37c6b6f7a6f6e2e7275",
+    "country": "CA",
+    "addTime": 1778591135
+  },
+  {
     "host": "mt.corph.ru",
     "port": 443,
     "secret": "ee2ed7517b077ef414e24b106e0729335d6d742e636f7270682e7275",
     "country": "RU",
     "addTime": 1778591094
-  },
-  {
-    "host": "89.125.48.232",
-    "port": 443,
-    "secret": "ee72f3ca54320d22b0c5d8daf53168962d706574726f766963682e7275",
-    "country": "NL",
-    "addTime": 1778591080
   },
   {
     "host": "188.137.255.14",
@@ -91,13 +91,6 @@
     "addTime": 1778580425
   },
   {
-    "host": "mercury.flarevpn.top",
-    "port": 443,
-    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
-    "country": "FI",
-    "addTime": 1778580423
-  },
-  {
     "host": "195.184.247.13",
     "port": 443,
     "secret": "eef4c8d7ed51d87da9550d1132b84169706c6f67696e2e766b2e636f6d",
@@ -105,10 +98,17 @@
     "addTime": 1778580423
   },
   {
+    "host": "mercury.flarevpn.top",
+    "port": 443,
+    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
+    "country": "FI",
+    "addTime": 1778580423
+  },
+  {
     "host": "xycrastination.org",
     "port": 443,
     "secret": "eef00a88fd4b67fa2f96bfb3402fceb5ea7777772e676f6f676c652e636f6d",
-    "country": "DE",
+    "country": "US",
     "addTime": 1778580341
   },
   {
@@ -161,18 +161,18 @@
     "addTime": 1778558671
   },
   {
-    "host": "tg.hhelios.ru",
-    "port": 443,
-    "secret": "eed2082d28b4c047cc2a783b84e9a52a1635706f73742d676174652e78352e7275",
-    "country": "FI",
-    "addTime": 1778547868
-  },
-  {
     "host": "proxyobhod.online",
     "port": 443,
     "secret": "01b307acba4f54f55aafc33bb06bbbf6",
-    "country": "MD",
+    "country": "NL",
     "addTime": 1778537070
+  },
+  {
+    "host": "s1.proxytg.space",
+    "port": 443,
+    "secret": "ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d",
+    "country": "NL",
+    "addTime": 1778537063
   },
   {
     "host": "proxy.fluxoria.it.com",
@@ -182,11 +182,11 @@
     "addTime": 1778537063
   },
   {
-    "host": "s1.proxytg.space",
+    "host": "111.88.156.136",
     "port": 443,
-    "secret": "ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1778537063
+    "secret": "dd8e8284414d21cdc5575cf17d59c5307e",
+    "country": "RU",
+    "addTime": 1778537061
   },
   {
     "host": "proxy.pushvpn.space",
@@ -252,17 +252,17 @@
     "addTime": 1778515950
   },
   {
-    "host": "167.17.183.28",
-    "port": 443,
-    "secret": "ee86519ddae69adcd227b0bfbfc877e23c6d61782e7275",
-    "country": "DE",
-    "addTime": 1778515948
-  },
-  {
     "host": "95.85.227.248",
     "port": 443,
     "secret": "ee0740e2e79a9ad7a2ec62a5f14bbb63df74656c69612e7365",
     "country": "PL",
+    "addTime": 1778515948
+  },
+  {
+    "host": "167.17.183.28",
+    "port": 443,
+    "secret": "ee86519ddae69adcd227b0bfbfc877e23c6d61782e7275",
+    "country": "DE",
     "addTime": 1778515948
   },
   {
@@ -308,13 +308,6 @@
     "addTime": 1778515544
   },
   {
-    "host": "t.hhelios.ru",
-    "port": 443,
-    "secret": "eebfe8fc1c84e404ccdfb33c0990ba5c4435706f73742d676174652e78352e7275",
-    "country": "FI",
-    "addTime": 1778515531
-  },
-  {
     "host": "186.246.5.110",
     "port": 443,
     "secret": "ee34fd4e8e9b8d0008a2d80f7e8b80ce8277622e7275",
@@ -348,5 +341,12 @@
     "secret": "ee5555444455554444555544445555444473706163652e7a6572696e682e6e6574",
     "country": "US",
     "addTime": 1778494009
+  },
+  {
+    "host": "bratty.chlorinate.forborne.hasher.prostyle.hapka.info",
+    "port": 48848,
+    "secret": "ee780e05d1a6f6583829be307d9054e01f647a656e2e7275",
+    "country": "DE",
+    "addTime": 1778493996
   }
 ]
