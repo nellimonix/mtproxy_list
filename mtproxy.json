@@ -14,17 +14,17 @@
     "addTime": 1778580480
   },
   {
-    "host": "fit.proxytg.space",
-    "port": 443,
-    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1778580475
-  },
-  {
     "host": "31.56.179.91",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "FI",
+    "addTime": 1778580475
+  },
+  {
+    "host": "fit.proxytg.space",
+    "port": 443,
+    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
+    "country": "NL",
     "addTime": 1778580475
   },
   {
@@ -49,13 +49,6 @@
     "addTime": 1778580423
   },
   {
-    "host": "195.184.247.13",
-    "port": 443,
-    "secret": "eef4c8d7ed51d87da9550d1132b84169706c6f67696e2e766b2e636f6d",
-    "country": "GB",
-    "addTime": 1778580423
-  },
-  {
     "host": "84.75.202.28",
     "port": 48995,
     "secret": "feff39bcddb62859ade093fcad935858",
@@ -66,7 +59,7 @@
     "host": "xycrastination.org",
     "port": 443,
     "secret": "eef00a88fd4b67fa2f96bfb3402fceb5ea7777772e676f6f676c652e636f6d",
-    "country": "SE",
+    "country": "DE",
     "addTime": 1778580341
   },
   {
@@ -105,17 +98,17 @@
     "addTime": 1778569474
   },
   {
-    "host": "212.74.39.233",
-    "port": 443,
-    "secret": "eea7275375377d7ecf60ee4a811aba3e087777772e636c6f7564666c6172652e636f6d",
-    "country": "GB",
-    "addTime": 1778569469
-  },
-  {
     "host": "proxy.xomodz.fit",
     "port": 853,
     "secret": "ee78a3039828ea09d09f328b2590943c6570726f78792e786f6d6f647a2e666974",
     "country": "NL",
+    "addTime": 1778569469
+  },
+  {
+    "host": "212.74.39.233",
+    "port": 443,
+    "secret": "eea7275375377d7ecf60ee4a811aba3e087777772e636c6f7564666c6172652e636f6d",
+    "country": "GB",
     "addTime": 1778569469
   },
   {
@@ -150,7 +143,7 @@
     "host": "proxyobhod.online",
     "port": 443,
     "secret": "01b307acba4f54f55aafc33bb06bbbf6",
-    "country": "US",
+    "country": "MD",
     "addTime": 1778537070
   },
   {
@@ -172,13 +165,6 @@
     "port": 443,
     "secret": "307242dd41275c771f40035565d0750a",
     "country": "NL",
-    "addTime": 1778537061
-  },
-  {
-    "host": "111.88.156.136",
-    "port": 443,
-    "secret": "dd8e8284414d21cdc5575cf17d59c5307e",
-    "country": "RU",
     "addTime": 1778537061
   },
   {
@@ -245,17 +231,10 @@
     "addTime": 1778515950
   },
   {
-    "host": "167.17.183.28",
-    "port": 443,
-    "secret": "ee86519ddae69adcd227b0bfbfc877e23c6d61782e7275",
+    "host": "77.91.86.235",
+    "port": 853,
+    "secret": "eee849ff3641c7d71148efb55beb06b25174656c2e6c6f76652d70757373792e7275",
     "country": "DE",
-    "addTime": 1778515948
-  },
-  {
-    "host": "95.85.227.248",
-    "port": 443,
-    "secret": "ee0740e2e79a9ad7a2ec62a5f14bbb63df74656c69612e7365",
-    "country": "PL",
     "addTime": 1778515948
   },
   {
@@ -273,9 +252,16 @@
     "addTime": 1778515948
   },
   {
-    "host": "77.91.86.235",
-    "port": 853,
-    "secret": "eee849ff3641c7d71148efb55beb06b25174656c2e6c6f76652d70757373792e7275",
+    "host": "95.85.227.248",
+    "port": 443,
+    "secret": "ee0740e2e79a9ad7a2ec62a5f14bbb63df74656c69612e7365",
+    "country": "PL",
+    "addTime": 1778515948
+  },
+  {
+    "host": "167.17.183.28",
+    "port": 443,
+    "secret": "ee86519ddae69adcd227b0bfbfc877e23c6d61782e7275",
     "country": "DE",
     "addTime": 1778515948
   },
@@ -322,14 +308,14 @@
     "addTime": 1778504700
   },
   {
-    "host": "shadow.spectranet.pro",
+    "host": "2.26.53.140",
     "port": 8443,
     "secret": "ee11692222333217445555615377778888322e32362e35332e313430",
     "country": "US",
     "addTime": 1778494057
   },
   {
-    "host": "2.26.53.140",
+    "host": "shadow.spectranet.pro",
     "port": 8443,
     "secret": "ee11692222333217445555615377778888322e32362e35332e313430",
     "country": "US",
@@ -348,5 +334,19 @@
     "secret": "ee780e05d1a6f6583829be307d9054e01f647a656e2e7275",
     "country": "DE",
     "addTime": 1778493996
+  },
+  {
+    "host": "2.27.22.112",
+    "port": 443,
+    "secret": "ee17ea0a2562ea669ebe7308ee7f9ae63b706574726f766963682e7275",
+    "country": "US",
+    "addTime": 1778493923
+  },
+  {
+    "host": "iriska.myrka.digital",
+    "port": 8443,
+    "secret": "eee7084fde01cfbce4b201b0c92e176c51697269736b612e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1778493919
   }
 ]
