@@ -28,6 +28,13 @@
     "addTime": 1778569474
   },
   {
+    "host": "proxy.xomodz.fit",
+    "port": 853,
+    "secret": "ee78a3039828ea09d09f328b2590943c6570726f78792e786f6d6f647a2e666974",
+    "country": "NL",
+    "addTime": 1778569469
+  },
+  {
     "host": "212.74.39.233",
     "port": 443,
     "secret": "eea7275375377d7ecf60ee4a811aba3e087777772e636c6f7564666c6172652e636f6d",
@@ -63,6 +70,13 @@
     "addTime": 1778547868
   },
   {
+    "host": "xfs1.gbird.top",
+    "port": 6443,
+    "secret": "ddecad3d673e42dc10cae6fa9bcebcd5f6",
+    "country": "HK",
+    "addTime": 1778537129
+  },
+  {
     "host": "proxyobhod.online",
     "port": 443,
     "secret": "01b307acba4f54f55aafc33bb06bbbf6",
@@ -70,16 +84,16 @@
     "addTime": 1778537070
   },
   {
-    "host": "s1.proxytg.space",
+    "host": "proxy.fluxoria.it.com",
     "port": 443,
-    "secret": "ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d",
+    "secret": "ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d",
     "country": "NL",
     "addTime": 1778537063
   },
   {
-    "host": "proxy.fluxoria.it.com",
+    "host": "s1.proxytg.space",
     "port": 443,
-    "secret": "ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d",
+    "secret": "ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1778537063
   },
@@ -161,10 +175,10 @@
     "addTime": 1778515950
   },
   {
-    "host": "95.85.227.248",
-    "port": 443,
-    "secret": "ee0740e2e79a9ad7a2ec62a5f14bbb63df74656c69612e7365",
-    "country": "PL",
+    "host": "45.147.28.17",
+    "port": 853,
+    "secret": "ee4f4c5c34212ac9de89bcb7db982acf03732e3738393935362e78797a",
+    "country": "FI",
     "addTime": 1778515948
   },
   {
@@ -172,13 +186,6 @@
     "port": 443,
     "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375",
     "country": "GB",
-    "addTime": 1778515948
-  },
-  {
-    "host": "207.89.17.5",
-    "port": 12345,
-    "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
-    "country": "FI",
     "addTime": 1778515948
   },
   {
@@ -196,10 +203,17 @@
     "addTime": 1778515948
   },
   {
-    "host": "45.147.28.17",
-    "port": 853,
-    "secret": "ee4f4c5c34212ac9de89bcb7db982acf03732e3738393935362e78797a",
+    "host": "207.89.17.5",
+    "port": 12345,
+    "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
     "country": "FI",
+    "addTime": 1778515948
+  },
+  {
+    "host": "95.85.227.248",
+    "port": 443,
+    "secret": "ee0740e2e79a9ad7a2ec62a5f14bbb63df74656c69612e7365",
+    "country": "PL",
     "addTime": 1778515948
   },
   {
@@ -259,14 +273,14 @@
     "addTime": 1778494060
   },
   {
-    "host": "shadow.spectranet.pro",
+    "host": "2.26.53.140",
     "port": 8443,
     "secret": "ee11692222333217445555615377778888322e32362e35332e313430",
     "country": "US",
     "addTime": 1778494057
   },
   {
-    "host": "2.26.53.140",
+    "host": "shadow.spectranet.pro",
     "port": 8443,
     "secret": "ee11692222333217445555615377778888322e32362e35332e313430",
     "country": "US",
@@ -301,6 +315,13 @@
     "addTime": 1778493919
   },
   {
+    "host": "iriska.myrka.digital",
+    "port": 8443,
+    "secret": "eee7084fde01cfbce4b201b0c92e176c51697269736b612e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1778493919
+  },
+  {
     "host": "mtp.love-pussy.ru",
     "port": 853,
     "secret": "eee849ff3641c7d71148efb55beb06b25174656c2e6c6f76652d70757373792e7275",
@@ -327,26 +348,5 @@
     "secret": "dd03f8eddaafaf36efd072490cae01447f",
     "country": "ZA",
     "addTime": 1778472403
-  },
-  {
-    "host": "104.253.79.188",
-    "port": 443,
-    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
-    "country": "FR",
-    "addTime": 1778472402
-  },
-  {
-    "host": "tg.nosokvpn.com",
-    "port": 443,
-    "secret": "dd118fb8496cb1abb9cd6e0fbe1000ad92",
-    "country": "DE",
-    "addTime": 1778472348
-  },
-  {
-    "host": "mt.rimuruproject.ru",
-    "port": 8443,
-    "secret": "ee0b32a6d19fd9f1c1f8b3e48c8638a29c7777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1778462146
   }
 ]
