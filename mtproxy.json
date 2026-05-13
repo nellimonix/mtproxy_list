@@ -119,13 +119,6 @@
     "addTime": 1778688426
   },
   {
-    "host": "178.105.113.91",
-    "port": 8080,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1778688424
-  },
-  {
     "host": "51.250.41.151",
     "port": 443,
     "secret": "ee5f8d0cc4df9d650d5b2231a867247d8b74672e74756e6e656c792e617070",
@@ -141,6 +134,13 @@
   },
   {
     "host": "88.198.203.112",
+    "port": 8080,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1778688424
+  },
+  {
+    "host": "178.105.113.91",
     "port": 8080,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -224,14 +224,14 @@
     "addTime": 1778666763
   },
   {
-    "host": "217.60.197.243",
+    "host": "217.60.197.240",
     "port": 4515,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
     "country": "AU",
     "addTime": 1778666761
   },
   {
-    "host": "217.60.197.240",
+    "host": "217.60.197.243",
     "port": 4515,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
     "country": "AU",
@@ -241,7 +241,7 @@
     "host": "croatia.zagreb.ir",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "DE",
+    "country": "FI",
     "addTime": 1778656175
   },
   {
