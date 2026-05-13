@@ -14,13 +14,6 @@
     "addTime": 1778624118
   },
   {
-    "host": "mt1.shifor.live",
-    "port": 443,
-    "secret": "ee591d42555613d98af502d991892478346d74312e736869666f722e6c697665",
-    "country": "NL",
-    "addTime": 1778624080
-  },
-  {
     "host": "178.104.98.160",
     "port": 443,
     "secret": "ee636c6f7564666c6172652e636f6db6",
@@ -70,16 +63,16 @@
     "addTime": 1778612698
   },
   {
-    "host": "ryzen.myrka.digital",
-    "port": 228,
-    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
+    "host": "vecher.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1778612690
   },
   {
-    "host": "vecher.myrka.digital",
-    "port": 8243,
-    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "host": "ryzen.myrka.digital",
+    "port": 228,
+    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1778612690
   },
@@ -210,17 +203,17 @@
     "addTime": 1778580480
   },
   {
-    "host": "fit.proxytg.space",
-    "port": 443,
-    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1778580475
-  },
-  {
     "host": "31.56.179.91",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "FI",
+    "addTime": 1778580475
+  },
+  {
+    "host": "fit.proxytg.space",
+    "port": 443,
+    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
+    "country": "NL",
     "addTime": 1778580475
   },
   {
@@ -238,17 +231,17 @@
     "addTime": 1778580425
   },
   {
-    "host": "195.184.247.13",
-    "port": 443,
-    "secret": "eef4c8d7ed51d87da9550d1132b84169706c6f67696e2e766b2e636f6d",
-    "country": "GB",
-    "addTime": 1778580423
-  },
-  {
     "host": "mercury.flarevpn.top",
     "port": 443,
     "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
     "country": "FI",
+    "addTime": 1778580423
+  },
+  {
+    "host": "195.184.247.13",
+    "port": 443,
+    "secret": "eef4c8d7ed51d87da9550d1132b84169706c6f67696e2e766b2e636f6d",
+    "country": "GB",
     "addTime": 1778580423
   },
   {
@@ -322,6 +315,13 @@
     "addTime": 1778547868
   },
   {
+    "host": "xfs1.gbird.top",
+    "port": 6443,
+    "secret": "ddecad3d673e42dc10cae6fa9bcebcd5f6",
+    "country": "GB",
+    "addTime": 1778537129
+  },
+  {
     "host": "proxyobhod.online",
     "port": 443,
     "secret": "01b307acba4f54f55aafc33bb06bbbf6",
@@ -329,16 +329,16 @@
     "addTime": 1778537070
   },
   {
-    "host": "s1.proxytg.space",
+    "host": "proxy.fluxoria.it.com",
     "port": 443,
-    "secret": "ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d",
+    "secret": "ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d",
     "country": "NL",
     "addTime": 1778537063
   },
   {
-    "host": "proxy.fluxoria.it.com",
+    "host": "s1.proxytg.space",
     "port": 443,
-    "secret": "ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d",
+    "secret": "ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1778537063
   },
