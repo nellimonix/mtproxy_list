@@ -42,6 +42,13 @@
     "addTime": 1778677543
   },
   {
+    "host": "94.139.245.54",
+    "port": 443,
+    "secret": "2bb5e160fa2ae1bcc4936446a908ff3e",
+    "country": "RU",
+    "addTime": 1778677541
+  },
+  {
     "host": "157.180.69.178",
     "port": 8080,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -87,7 +94,7 @@
     "host": "croatia.zagreb.ir",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "FI",
+    "country": "DE",
     "addTime": 1778656175
   },
   {
@@ -152,6 +159,13 @@
     "secret": "ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275",
     "country": "NL",
     "addTime": 1778645300
+  },
+  {
+    "host": "mtp.kndrsxraybot.com",
+    "port": 443,
+    "secret": "dde9748eba6c95f9db1a0458166890a86d",
+    "country": "US",
+    "addTime": 1778645288
   },
   {
     "host": "alttg.oblivionvpn.ru",
@@ -259,16 +273,16 @@
     "addTime": 1778612698
   },
   {
-    "host": "vecher.myrka.digital",
-    "port": 8243,
-    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "host": "ryzen.myrka.digital",
+    "port": 228,
+    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1778612690
   },
   {
-    "host": "ryzen.myrka.digital",
-    "port": 228,
-    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
+    "host": "vecher.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1778612690
   },
@@ -334,19 +348,5 @@
     "secret": "ee40c0c13000d2b71453f949c1e46594bc62726f777365722e79616e6465782e636f6d",
     "country": "PL",
     "addTime": 1778591199
-  },
-  {
-    "host": "2.26.122.243",
-    "port": 853,
-    "secret": "ee78a3039828ea09d09f328b2590943c656361742e786f6d6f647a2e666974",
-    "country": "FI",
-    "addTime": 1778591156
-  },
-  {
-    "host": "2.26.106.100",
-    "port": 443,
-    "secret": "eeec75f0f7cbc3edef76b6c45a22a8de08636c6f7564666c6172652e636f6d",
-    "country": "US",
-    "addTime": 1778591143
   }
 ]
