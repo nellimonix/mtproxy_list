@@ -42,13 +42,6 @@
     "addTime": 1778677543
   },
   {
-    "host": "94.139.245.54",
-    "port": 443,
-    "secret": "2bb5e160fa2ae1bcc4936446a908ff3e",
-    "country": "RU",
-    "addTime": 1778677541
-  },
-  {
     "host": "157.180.69.178",
     "port": 8080,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -108,7 +101,7 @@
     "host": "croatia.zagreb.ir",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "FI",
+    "country": "DE",
     "addTime": 1778656175
   },
   {
@@ -280,16 +273,16 @@
     "addTime": 1778612698
   },
   {
-    "host": "ryzen.myrka.digital",
-    "port": 228,
-    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
+    "host": "vecher.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1778612690
   },
   {
-    "host": "vecher.myrka.digital",
-    "port": 8243,
-    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "host": "ryzen.myrka.digital",
+    "port": 228,
+    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1778612690
   },
@@ -301,17 +294,17 @@
     "addTime": 1778612674
   },
   {
-    "host": "mtp.catpaws.ru",
-    "port": 443,
-    "secret": "ee58c2807d6ee43ab9a42107ff7ef4f7b579612e7275",
-    "country": "NL",
-    "addTime": 1778602000
-  },
-  {
     "host": "87.120.108.178",
     "port": 443,
     "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
     "country": "LK",
+    "addTime": 1778602000
+  },
+  {
+    "host": "mtp.catpaws.ru",
+    "port": 443,
+    "secret": "ee58c2807d6ee43ab9a42107ff7ef4f7b579612e7275",
+    "country": "NL",
     "addTime": 1778602000
   },
   {
@@ -348,5 +341,12 @@
     "secret": "eee961e8bb57463af4b6f9f9c5d2bbff1170617472696172636869612e7275",
     "country": "US",
     "addTime": 1778591202
+  },
+  {
+    "host": "proto.loveproxy.xyz",
+    "port": 443,
+    "secret": "ee40c0c13000d2b71453f949c1e46594bc62726f777365722e79616e6465782e636f6d",
+    "country": "PL",
+    "addTime": 1778591199
   }
 ]
