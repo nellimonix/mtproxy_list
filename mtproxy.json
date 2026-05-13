@@ -112,16 +112,16 @@
     "addTime": 1778612698
   },
   {
-    "host": "ryzen.myrka.digital",
-    "port": 228,
-    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
+    "host": "vecher.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1778612690
   },
   {
-    "host": "vecher.myrka.digital",
-    "port": 8243,
-    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "host": "ryzen.myrka.digital",
+    "port": 228,
+    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1778612690
   },
@@ -189,17 +189,17 @@
     "addTime": 1778591199
   },
   {
-    "host": "i-love-femboys.etherealvpn.uk",
-    "port": 443,
-    "secret": "ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275",
-    "country": "AE",
-    "addTime": 1778591156
-  },
-  {
     "host": "2.26.122.243",
     "port": 853,
     "secret": "ee78a3039828ea09d09f328b2590943c656361742e786f6d6f647a2e666974",
     "country": "FI",
+    "addTime": 1778591156
+  },
+  {
+    "host": "i-love-femboys.etherealvpn.uk",
+    "port": 443,
+    "secret": "ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275",
+    "country": "AE",
     "addTime": 1778591156
   },
   {
@@ -252,13 +252,6 @@
     "addTime": 1778580475
   },
   {
-    "host": "fit.proxytg.space",
-    "port": 443,
-    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1778580475
-  },
-  {
     "host": "45.86.159.83",
     "port": 443,
     "secret": "eeb94b721196395ace273b33f7e124bf636164732e78352e7275",
@@ -273,13 +266,6 @@
     "addTime": 1778580425
   },
   {
-    "host": "mercury.flarevpn.top",
-    "port": 443,
-    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
-    "country": "FI",
-    "addTime": 1778580423
-  },
-  {
     "host": "195.184.247.13",
     "port": 443,
     "secret": "eef4c8d7ed51d87da9550d1132b84169706c6f67696e2e766b2e636f6d",
@@ -287,10 +273,17 @@
     "addTime": 1778580423
   },
   {
+    "host": "mercury.flarevpn.top",
+    "port": 443,
+    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
+    "country": "FI",
+    "addTime": 1778580423
+  },
+  {
     "host": "xycrastination.org",
     "port": 443,
     "secret": "eef00a88fd4b67fa2f96bfb3402fceb5ea7777772e676f6f676c652e636f6d",
-    "country": "US",
+    "country": "SE",
     "addTime": 1778580341
   },
   {
@@ -348,5 +341,12 @@
     "secret": "eebed92191281b6d7a676b052f2797cad9617669746f2e7275",
     "country": "RU",
     "addTime": 1778558671
+  },
+  {
+    "host": "tg.hhelios.ru",
+    "port": 443,
+    "secret": "eed2082d28b4c047cc2a783b84e9a52a1635706f73742d676174652e78352e7275",
+    "country": "FI",
+    "addTime": 1778547868
   }
 ]
