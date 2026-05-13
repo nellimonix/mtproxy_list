@@ -7,6 +7,13 @@
     "addTime": 1778634442
   },
   {
+    "host": "194.87.140.180",
+    "port": 443,
+    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
+    "country": "CZ",
+    "addTime": 1778634393
+  },
+  {
     "host": "tg.magnumbot.site",
     "port": 443,
     "secret": "ee724c1abbc52f30bd4c740fa98d8edca86d61782e7275",
@@ -19,13 +26,6 @@
     "secret": "61df1273266dd9a8f1d0b5785bd83d90",
     "country": "NL",
     "addTime": 1778624118
-  },
-  {
-    "host": "mt1.shifor.live",
-    "port": 443,
-    "secret": "ee591d42555613d98af502d991892478346d74312e736869666f722e6c697665",
-    "country": "NL",
-    "addTime": 1778624080
   },
   {
     "host": "178.104.98.160",
@@ -245,17 +245,17 @@
     "addTime": 1778580425
   },
   {
-    "host": "195.184.247.13",
-    "port": 443,
-    "secret": "eef4c8d7ed51d87da9550d1132b84169706c6f67696e2e766b2e636f6d",
-    "country": "GB",
-    "addTime": 1778580423
-  },
-  {
     "host": "mercury.flarevpn.top",
     "port": 443,
     "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
     "country": "FI",
+    "addTime": 1778580423
+  },
+  {
+    "host": "195.184.247.13",
+    "port": 443,
+    "secret": "eef4c8d7ed51d87da9550d1132b84169706c6f67696e2e766b2e636f6d",
+    "country": "GB",
     "addTime": 1778580423
   },
   {
@@ -332,20 +332,20 @@
     "host": "proxyobhod.online",
     "port": 443,
     "secret": "01b307acba4f54f55aafc33bb06bbbf6",
-    "country": "NL",
+    "country": "US",
     "addTime": 1778537070
-  },
-  {
-    "host": "proxy.fluxoria.it.com",
-    "port": 443,
-    "secret": "ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d",
-    "country": "NL",
-    "addTime": 1778537063
   },
   {
     "host": "s1.proxytg.space",
     "port": 443,
     "secret": "ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d",
+    "country": "NL",
+    "addTime": 1778537063
+  },
+  {
+    "host": "proxy.fluxoria.it.com",
+    "port": 443,
+    "secret": "ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d",
     "country": "NL",
     "addTime": 1778537063
   }
