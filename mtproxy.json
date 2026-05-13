@@ -28,14 +28,14 @@
     "addTime": 1778666763
   },
   {
-    "host": "217.60.197.240",
+    "host": "217.60.197.243",
     "port": 4515,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
     "country": "AU",
     "addTime": 1778666761
   },
   {
-    "host": "217.60.197.243",
+    "host": "217.60.197.240",
     "port": 4515,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
     "country": "AU",
@@ -91,13 +91,6 @@
     "addTime": 1778655975
   },
   {
-    "host": "proxy.proxymtproto.net",
-    "port": 443,
-    "secret": "dd97caa3c6888366f26b12f994f02ecf1a",
-    "country": "FI",
-    "addTime": 1778655960
-  },
-  {
     "host": "94.130.191.164",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -110,13 +103,6 @@
     "secret": "ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275",
     "country": "NL",
     "addTime": 1778645300
-  },
-  {
-    "host": "mtp.kndrsxraybot.com",
-    "port": 443,
-    "secret": "dde9748eba6c95f9db1a0458166890a86d",
-    "country": "US",
-    "addTime": 1778645288
   },
   {
     "host": "alttg.oblivionvpn.ru",
@@ -217,13 +203,6 @@
     "addTime": 1778612700
   },
   {
-    "host": "80.249.148.51",
-    "port": 2055,
-    "secret": "eec46e24a0e7e36e4d7ed6711650b3b13279616e6465782e7275",
-    "country": "RU",
-    "addTime": 1778612698
-  },
-  {
     "host": "vecher.myrka.digital",
     "port": 8243,
     "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
@@ -301,17 +280,17 @@
     "addTime": 1778591199
   },
   {
-    "host": "i-love-femboys.etherealvpn.uk",
-    "port": 443,
-    "secret": "ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275",
-    "country": "AE",
-    "addTime": 1778591156
-  },
-  {
     "host": "2.26.122.243",
     "port": 853,
     "secret": "ee78a3039828ea09d09f328b2590943c656361742e786f6d6f647a2e666974",
     "country": "FI",
+    "addTime": 1778591156
+  },
+  {
+    "host": "i-love-femboys.etherealvpn.uk",
+    "port": 443,
+    "secret": "ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275",
+    "country": "AE",
     "addTime": 1778591156
   },
   {
@@ -348,5 +327,26 @@
     "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
     "country": "SG",
     "addTime": 1778580480
+  },
+  {
+    "host": "31.56.179.91",
+    "port": 443,
+    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
+    "country": "FI",
+    "addTime": 1778580475
+  },
+  {
+    "host": "fit.proxytg.space",
+    "port": 443,
+    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
+    "country": "NL",
+    "addTime": 1778580475
+  },
+  {
+    "host": "45.86.159.83",
+    "port": 443,
+    "secret": "eeb94b721196395ace273b33f7e124bf636164732e78352e7275",
+    "country": "GB",
+    "addTime": 1778580456
   }
 ]
