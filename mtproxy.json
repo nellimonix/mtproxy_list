@@ -189,16 +189,16 @@
     "addTime": 1778656175
   },
   {
-    "host": "186.246.1.187",
+    "host": "92.51.45.199",
     "port": 443,
-    "secret": "ee724c1abbc52f30bd4c740fa98d8edca86d61782e7275",
+    "secret": "ee8b67f8f7b11a36af7fb170eda5da28b579616e6465782e7275",
     "country": "RU",
     "addTime": 1778656063
   },
   {
-    "host": "92.51.45.199",
+    "host": "186.246.1.187",
     "port": 443,
-    "secret": "ee8b67f8f7b11a36af7fb170eda5da28b579616e6465782e7275",
+    "secret": "ee724c1abbc52f30bd4c740fa98d8edca86d61782e7275",
     "country": "RU",
     "addTime": 1778656063
   },
@@ -301,6 +301,13 @@
     "addTime": 1778624118
   },
   {
+    "host": "mt1.shifor.live",
+    "port": 443,
+    "secret": "ee591d42555613d98af502d991892478346d74312e736869666f722e6c697665",
+    "country": "NL",
+    "addTime": 1778624080
+  },
+  {
     "host": "178.104.98.160",
     "port": 443,
     "secret": "ee636c6f7564666c6172652e636f6db6",
@@ -315,16 +322,16 @@
     "addTime": 1778612725
   },
   {
-    "host": "2.26.92.216",
-    "port": 443,
-    "secret": "ee6686a4f0ab176ccdcdc44442aad5e2c46d61782e7275",
+    "host": "mtp.love-pussy.online",
+    "port": 853,
+    "secret": "eeb6506e69d11db32d81c215a14850a1947777772e666173746c792e636f6d",
     "country": "US",
     "addTime": 1778612713
   },
   {
-    "host": "mtp.love-pussy.online",
-    "port": 853,
-    "secret": "eeb6506e69d11db32d81c215a14850a1947777772e666173746c792e636f6d",
+    "host": "2.26.92.216",
+    "port": 443,
+    "secret": "ee6686a4f0ab176ccdcdc44442aad5e2c46d61782e7275",
     "country": "US",
     "addTime": 1778612713
   },
@@ -341,12 +348,5 @@
     "secret": "eec46e24a0e7e36e4d7ed6711650b3b13279616e6465782e7275",
     "country": "RU",
     "addTime": 1778612698
-  },
-  {
-    "host": "ryzen.myrka.digital",
-    "port": 228,
-    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1778612690
   }
 ]
