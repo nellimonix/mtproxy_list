@@ -70,14 +70,14 @@
     "addTime": 1778666763
   },
   {
-    "host": "217.60.197.243",
+    "host": "217.60.197.240",
     "port": 4515,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
     "country": "AU",
     "addTime": 1778666761
   },
   {
-    "host": "217.60.197.240",
+    "host": "217.60.197.243",
     "port": 4515,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
     "country": "AU",
@@ -161,17 +161,17 @@
     "addTime": 1778645164
   },
   {
-    "host": "spaceship.myrka.digital",
-    "port": 2053,
-    "secret": "ee112212285f31122549c4e214482214487370616365736869702e6d79726b612e6469676974616c",
-    "country": "DE",
-    "addTime": 1778645162
-  },
-  {
     "host": "109.61.108.127",
     "port": 443,
     "secret": "eebed92191281b6d7a676b052f2797cad9646e732d73686f702e7275",
     "country": "RU",
+    "addTime": 1778645162
+  },
+  {
+    "host": "spaceship.myrka.digital",
+    "port": 2053,
+    "secret": "ee112212285f31122549c4e214482214487370616365736869702e6d79726b612e6469676974616c",
+    "country": "DE",
     "addTime": 1778645162
   },
   {
@@ -180,13 +180,6 @@
     "secret": "f29640b148781b897c10ecf51938086c",
     "country": "US",
     "addTime": 1778634442
-  },
-  {
-    "host": "194.87.140.180",
-    "port": 443,
-    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
-    "country": "CZ",
-    "addTime": 1778634393
   },
   {
     "host": "tg.magnumbot.site",
@@ -348,5 +341,12 @@
     "secret": "eeaae59d83ead3dfe249eaa024f0a37c6b6f7a6f6e2e7275",
     "country": "CA",
     "addTime": 1778591135
+  },
+  {
+    "host": "mt.corph.ru",
+    "port": 443,
+    "secret": "ee2ed7517b077ef414e24b106e0729335d6d742e636f7270682e7275",
+    "country": "RU",
+    "addTime": 1778591094
   }
 ]
