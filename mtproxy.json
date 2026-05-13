@@ -7,13 +7,6 @@
     "addTime": 1778634442
   },
   {
-    "host": "194.87.140.180",
-    "port": 443,
-    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
-    "country": "CZ",
-    "addTime": 1778634393
-  },
-  {
     "host": "tg.magnumbot.site",
     "port": 443,
     "secret": "ee724c1abbc52f30bd4c740fa98d8edca86d61782e7275",
@@ -56,16 +49,16 @@
     "addTime": 1778612725
   },
   {
-    "host": "mtp.love-pussy.online",
-    "port": 853,
-    "secret": "eeb6506e69d11db32d81c215a14850a1947777772e666173746c792e636f6d",
+    "host": "2.26.92.216",
+    "port": 443,
+    "secret": "ee6686a4f0ab176ccdcdc44442aad5e2c46d61782e7275",
     "country": "US",
     "addTime": 1778612713
   },
   {
-    "host": "2.26.92.216",
-    "port": 443,
-    "secret": "ee6686a4f0ab176ccdcdc44442aad5e2c46d61782e7275",
+    "host": "mtp.love-pussy.online",
+    "port": 853,
+    "secret": "eeb6506e69d11db32d81c215a14850a1947777772e666173746c792e636f6d",
     "country": "US",
     "addTime": 1778612713
   },
@@ -224,17 +217,17 @@
     "addTime": 1778580480
   },
   {
-    "host": "fit.proxytg.space",
-    "port": 443,
-    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1778580475
-  },
-  {
     "host": "31.56.179.91",
     "port": 443,
     "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
     "country": "FI",
+    "addTime": 1778580475
+  },
+  {
+    "host": "fit.proxytg.space",
+    "port": 443,
+    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
+    "country": "NL",
     "addTime": 1778580475
   },
   {
@@ -252,13 +245,6 @@
     "addTime": 1778580425
   },
   {
-    "host": "mercury.flarevpn.top",
-    "port": 443,
-    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
-    "country": "FI",
-    "addTime": 1778580423
-  },
-  {
     "host": "195.184.247.13",
     "port": 443,
     "secret": "eef4c8d7ed51d87da9550d1132b84169706c6f67696e2e766b2e636f6d",
@@ -266,10 +252,17 @@
     "addTime": 1778580423
   },
   {
+    "host": "mercury.flarevpn.top",
+    "port": 443,
+    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
+    "country": "FI",
+    "addTime": 1778580423
+  },
+  {
     "host": "xycrastination.org",
     "port": 443,
     "secret": "eef00a88fd4b67fa2f96bfb3402fceb5ea7777772e676f6f676c652e636f6d",
-    "country": "SE",
+    "country": "DE",
     "addTime": 1778580341
   },
   {
@@ -294,10 +287,10 @@
     "addTime": 1778569481
   },
   {
-    "host": "proxy.xomodz.fit",
+    "host": "cat.xomodz.fit",
     "port": 853,
-    "secret": "ee78a3039828ea09d09f328b2590943c6570726f78792e786f6d6f647a2e666974",
-    "country": "NL",
+    "secret": "ee78a3039828ea09d09f328b2590943c656361742e786f6d6f647a2e666974",
+    "country": "FI",
     "addTime": 1778569469
   },
   {
@@ -308,10 +301,10 @@
     "addTime": 1778569469
   },
   {
-    "host": "cat.xomodz.fit",
+    "host": "proxy.xomodz.fit",
     "port": 853,
-    "secret": "ee78a3039828ea09d09f328b2590943c656361742e786f6d6f647a2e666974",
-    "country": "FI",
+    "secret": "ee78a3039828ea09d09f328b2590943c6570726f78792e786f6d6f647a2e666974",
+    "country": "NL",
     "addTime": 1778569469
   },
   {
@@ -336,16 +329,23 @@
     "addTime": 1778547868
   },
   {
+    "host": "xfs1.gbird.top",
+    "port": 6443,
+    "secret": "ddecad3d673e42dc10cae6fa9bcebcd5f6",
+    "country": "HK",
+    "addTime": 1778537129
+  },
+  {
     "host": "proxyobhod.online",
     "port": 443,
     "secret": "01b307acba4f54f55aafc33bb06bbbf6",
-    "country": "NL",
+    "country": "MD",
     "addTime": 1778537070
   },
   {
-    "host": "s1.proxytg.space",
+    "host": "proxy.fluxoria.it.com",
     "port": 443,
-    "secret": "ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d",
+    "secret": "ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d",
     "country": "NL",
     "addTime": 1778537063
   }
