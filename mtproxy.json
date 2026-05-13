@@ -21,13 +21,6 @@
     "addTime": 1778666792
   },
   {
-    "host": "s4.wyckoff.one",
-    "port": 443,
-    "secret": "eee091a124d81e530d3c1197f6e65c284b617669746f2e7275",
-    "country": "RU",
-    "addTime": 1778666777
-  },
-  {
     "host": "146.185.243.44",
     "port": 8888,
     "secret": "eee4a6b355fe3c240a8931a283fc5341f472752d6d736b342e6170692e6d696e65756e696f6e2e6e6574",
@@ -35,14 +28,14 @@
     "addTime": 1778666763
   },
   {
-    "host": "217.60.197.243",
+    "host": "217.60.197.240",
     "port": 4515,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
     "country": "AU",
     "addTime": 1778666761
   },
   {
-    "host": "217.60.197.240",
+    "host": "217.60.197.243",
     "port": 4515,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
     "country": "AU",
@@ -56,16 +49,16 @@
     "addTime": 1778656175
   },
   {
-    "host": "92.51.45.199",
+    "host": "186.246.1.187",
     "port": 443,
-    "secret": "ee8b67f8f7b11a36af7fb170eda5da28b579616e6465782e7275",
+    "secret": "ee724c1abbc52f30bd4c740fa98d8edca86d61782e7275",
     "country": "RU",
     "addTime": 1778656063
   },
   {
-    "host": "186.246.1.187",
+    "host": "92.51.45.199",
     "port": 443,
-    "secret": "ee724c1abbc52f30bd4c740fa98d8edca86d61782e7275",
+    "secret": "ee8b67f8f7b11a36af7fb170eda5da28b579616e6465782e7275",
     "country": "RU",
     "addTime": 1778656063
   },
@@ -112,13 +105,6 @@
     "addTime": 1778645300
   },
   {
-    "host": "mtp.kndrsxraybot.com",
-    "port": 443,
-    "secret": "dde9748eba6c95f9db1a0458166890a86d",
-    "country": "US",
-    "addTime": 1778645288
-  },
-  {
     "host": "alttg.oblivionvpn.ru",
     "port": 8443,
     "secret": "ee7665e821049470fc6c331d83208eee9d6e6c7467736e2e6f626c6976696f6e76706e2e7275",
@@ -133,17 +119,17 @@
     "addTime": 1778645164
   },
   {
-    "host": "spaceship.myrka.digital",
-    "port": 2053,
-    "secret": "ee112212285f31122549c4e214482214487370616365736869702e6d79726b612e6469676974616c",
-    "country": "DE",
-    "addTime": 1778645162
-  },
-  {
     "host": "109.61.108.127",
     "port": 443,
     "secret": "eebed92191281b6d7a676b052f2797cad9646e732d73686f702e7275",
     "country": "RU",
+    "addTime": 1778645162
+  },
+  {
+    "host": "spaceship.myrka.digital",
+    "port": 2053,
+    "secret": "ee112212285f31122549c4e214482214487370616365736869702e6d79726b612e6469676974616c",
+    "country": "DE",
     "addTime": 1778645162
   },
   {
@@ -166,6 +152,13 @@
     "secret": "61df1273266dd9a8f1d0b5785bd83d90",
     "country": "NL",
     "addTime": 1778624118
+  },
+  {
+    "host": "mt1.shifor.live",
+    "port": 443,
+    "secret": "ee591d42555613d98af502d991892478346d74312e736869666f722e6c697665",
+    "country": "NL",
+    "addTime": 1778624080
   },
   {
     "host": "178.104.98.160",
@@ -217,16 +210,16 @@
     "addTime": 1778612698
   },
   {
-    "host": "vecher.myrka.digital",
-    "port": 8243,
-    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "host": "ryzen.myrka.digital",
+    "port": 228,
+    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1778612690
   },
   {
-    "host": "ryzen.myrka.digital",
-    "port": 228,
-    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
+    "host": "vecher.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1778612690
   },
@@ -294,17 +287,17 @@
     "addTime": 1778591199
   },
   {
-    "host": "2.26.122.243",
-    "port": 853,
-    "secret": "ee78a3039828ea09d09f328b2590943c656361742e786f6d6f647a2e666974",
-    "country": "FI",
-    "addTime": 1778591156
-  },
-  {
     "host": "i-love-femboys.etherealvpn.uk",
     "port": 443,
     "secret": "ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275",
     "country": "AE",
+    "addTime": 1778591156
+  },
+  {
+    "host": "2.26.122.243",
+    "port": 853,
+    "secret": "ee78a3039828ea09d09f328b2590943c656361742e786f6d6f647a2e666974",
+    "country": "FI",
     "addTime": 1778591156
   },
   {
@@ -347,6 +340,13 @@
     "port": 443,
     "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
     "country": "NL",
+    "addTime": 1778580475
+  },
+  {
+    "host": "31.56.179.91",
+    "port": 443,
+    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
+    "country": "FI",
     "addTime": 1778580475
   }
 ]
