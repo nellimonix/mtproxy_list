@@ -7,6 +7,13 @@
     "addTime": 1778645300
   },
   {
+    "host": "mtp.kndrsxraybot.com",
+    "port": 443,
+    "secret": "dde9748eba6c95f9db1a0458166890a86d",
+    "country": "US",
+    "addTime": 1778645288
+  },
+  {
     "host": "alttg.oblivionvpn.ru",
     "port": 8443,
     "secret": "ee7665e821049470fc6c331d83208eee9d6e6c7467736e2e6f626c6976696f6e76706e2e7275",
@@ -21,17 +28,17 @@
     "addTime": 1778645164
   },
   {
-    "host": "109.61.108.127",
-    "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9646e732d73686f702e7275",
-    "country": "RU",
-    "addTime": 1778645162
-  },
-  {
     "host": "spaceship.myrka.digital",
     "port": 2053,
     "secret": "ee112212285f31122549c4e214482214487370616365736869702e6d79726b612e6469676974616c",
     "country": "DE",
+    "addTime": 1778645162
+  },
+  {
+    "host": "109.61.108.127",
+    "port": 443,
+    "secret": "eebed92191281b6d7a676b052f2797cad9646e732d73686f702e7275",
+    "country": "RU",
     "addTime": 1778645162
   },
   {
@@ -252,6 +259,13 @@
     "addTime": 1778580475
   },
   {
+    "host": "fit.proxytg.space",
+    "port": 443,
+    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
+    "country": "NL",
+    "addTime": 1778580475
+  },
+  {
     "host": "45.86.159.83",
     "port": 443,
     "secret": "eeb94b721196395ace273b33f7e124bf636164732e78352e7275",
@@ -266,13 +280,6 @@
     "addTime": 1778580425
   },
   {
-    "host": "mercury.flarevpn.top",
-    "port": 443,
-    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
-    "country": "FI",
-    "addTime": 1778580423
-  },
-  {
     "host": "195.184.247.13",
     "port": 443,
     "secret": "eef4c8d7ed51d87da9550d1132b84169706c6f67696e2e766b2e636f6d",
@@ -280,10 +287,17 @@
     "addTime": 1778580423
   },
   {
+    "host": "mercury.flarevpn.top",
+    "port": 443,
+    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
+    "country": "FI",
+    "addTime": 1778580423
+  },
+  {
     "host": "xycrastination.org",
     "port": 443,
     "secret": "eef00a88fd4b67fa2f96bfb3402fceb5ea7777772e676f6f676c652e636f6d",
-    "country": "US",
+    "country": "SE",
     "addTime": 1778580341
   },
   {
@@ -315,17 +329,17 @@
     "addTime": 1778569469
   },
   {
-    "host": "cat.xomodz.fit",
-    "port": 853,
-    "secret": "ee78a3039828ea09d09f328b2590943c656361742e786f6d6f647a2e666974",
-    "country": "FI",
-    "addTime": 1778569469
-  },
-  {
     "host": "proxy.xomodz.fit",
     "port": 853,
     "secret": "ee78a3039828ea09d09f328b2590943c6570726f78792e786f6d6f647a2e666974",
     "country": "NL",
+    "addTime": 1778569469
+  },
+  {
+    "host": "cat.xomodz.fit",
+    "port": 853,
+    "secret": "ee78a3039828ea09d09f328b2590943c656361742e786f6d6f647a2e666974",
+    "country": "FI",
     "addTime": 1778569469
   },
   {
@@ -334,19 +348,5 @@
     "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
     "country": "NL",
     "addTime": 1778558829
-  },
-  {
-    "host": "144.31.48.231",
-    "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9617669746f2e7275",
-    "country": "RU",
-    "addTime": 1778558671
-  },
-  {
-    "host": "tg.hhelios.ru",
-    "port": 443,
-    "secret": "eed2082d28b4c047cc2a783b84e9a52a1635706f73742d676174652e78352e7275",
-    "country": "FI",
-    "addTime": 1778547868
   }
 ]
