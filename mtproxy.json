@@ -87,7 +87,7 @@
     "host": "croatia.zagreb.ir",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "FI",
+    "country": "DE",
     "addTime": 1778656175
   },
   {
@@ -180,6 +180,13 @@
     "secret": "f29640b148781b897c10ecf51938086c",
     "country": "US",
     "addTime": 1778634442
+  },
+  {
+    "host": "194.87.140.180",
+    "port": 443,
+    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
+    "country": "CZ",
+    "addTime": 1778634393
   },
   {
     "host": "tg.magnumbot.site",
@@ -341,12 +348,5 @@
     "secret": "eeaae59d83ead3dfe249eaa024f0a37c6b6f7a6f6e2e7275",
     "country": "CA",
     "addTime": 1778591135
-  },
-  {
-    "host": "mt.corph.ru",
-    "port": 443,
-    "secret": "ee2ed7517b077ef414e24b106e0729335d6d742e636f7270682e7275",
-    "country": "RU",
-    "addTime": 1778591094
   }
 ]
