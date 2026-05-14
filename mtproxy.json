@@ -28,6 +28,13 @@
     "addTime": 1778774835
   },
   {
+    "host": "zaebalsya.uk",
+    "port": 443,
+    "secret": "eede42c8b90b621e288a4dedefd79ec1c8636c6f7564666c6172652e636f6d",
+    "country": "NL",
+    "addTime": 1778774834
+  },
+  {
     "host": "t.avocadovpn.net",
     "port": 443,
     "secret": "eebced5e8d724dee1ba056e959c5b3b442636c6f7564666c6172652e636f6d",
@@ -39,13 +46,6 @@
     "port": 443,
     "secret": "eeb94b721196395ace273b33f7e124bf636164732e78352e7275",
     "country": "GB",
-    "addTime": 1778774834
-  },
-  {
-    "host": "zaebalsya.uk",
-    "port": 443,
-    "secret": "eede42c8b90b621e288a4dedefd79ec1c8636c6f7564666c6172652e636f6d",
-    "country": "NL",
     "addTime": 1778774834
   },
   {
@@ -140,16 +140,16 @@
     "addTime": 1778753107
   },
   {
-    "host": "fuckrkn.myaeroplan.ru",
-    "port": 443,
-    "secret": "ee54d03d058a505fc8674365fd46b7077f6469736b2e6d796165726f706c616e2e7275",
+    "host": "proxy1.nhiaz.net",
+    "port": 8443,
+    "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
     "country": "RU",
     "addTime": 1778742395
   },
   {
-    "host": "proxy1.nhiaz.net",
-    "port": 8443,
-    "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
+    "host": "fuckrkn.myaeroplan.ru",
+    "port": 443,
+    "secret": "ee54d03d058a505fc8674365fd46b7077f6469736b2e6d796165726f706c616e2e7275",
     "country": "RU",
     "addTime": 1778742395
   },
@@ -238,14 +238,14 @@
     "addTime": 1778709880
   },
   {
-    "host": "2.26.126.153",
+    "host": "2.26.126.80",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
     "addTime": 1778709880
   },
   {
-    "host": "2.26.126.80",
+    "host": "2.26.126.153",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
@@ -322,17 +322,17 @@
     "addTime": 1778688424
   },
   {
-    "host": "51.250.41.151",
-    "port": 443,
-    "secret": "ee5f8d0cc4df9d650d5b2231a867247d8b74672e74756e6e656c792e617070",
-    "country": "RU",
-    "addTime": 1778688424
-  },
-  {
     "host": "178.105.113.91",
     "port": 8080,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
+    "addTime": 1778688424
+  },
+  {
+    "host": "51.250.41.151",
+    "port": 443,
+    "secret": "ee5f8d0cc4df9d650d5b2231a867247d8b74672e74756e6e656c792e617070",
+    "country": "RU",
     "addTime": 1778688424
   },
   {
