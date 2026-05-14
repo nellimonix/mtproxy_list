@@ -35,13 +35,6 @@
     "addTime": 1778763938
   },
   {
-    "host": "xd.rkn.lat",
-    "port": 443,
-    "secret": "eec58bbb0e46e9fe769afc157088d87a076d61782e7275",
-    "country": "SG",
-    "addTime": 1778763933
-  },
-  {
     "host": "b129.loveproxy.xyz",
     "port": 443,
     "secret": "ee88c142f86664a4f26db2f3c86c7fb43662726f777365722e79616e6465782e636f6d",
@@ -84,16 +77,16 @@
     "addTime": 1778753107
   },
   {
-    "host": "fuckrkn.myaeroplan.ru",
-    "port": 443,
-    "secret": "ee54d03d058a505fc8674365fd46b7077f6469736b2e6d796165726f706c616e2e7275",
+    "host": "proxy1.nhiaz.net",
+    "port": 8443,
+    "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
     "country": "RU",
     "addTime": 1778742395
   },
   {
-    "host": "proxy1.nhiaz.net",
-    "port": 8443,
-    "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
+    "host": "fuckrkn.myaeroplan.ru",
+    "port": 443,
+    "secret": "ee54d03d058a505fc8674365fd46b7077f6469736b2e6d796165726f706c616e2e7275",
     "country": "RU",
     "addTime": 1778742395
   },
@@ -154,13 +147,6 @@
     "addTime": 1778720674
   },
   {
-    "host": "89.125.48.95",
-    "port": 443,
-    "secret": "ee76741a222fce20505ee26a78c2b8ad95706574726f766963682e7275",
-    "country": "NL",
-    "addTime": 1778709946
-  },
-  {
     "host": "185.130.113.188",
     "port": 444,
     "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
@@ -175,17 +161,17 @@
     "addTime": 1778709882
   },
   {
-    "host": "2.26.126.153",
-    "port": 853,
-    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "country": "US",
-    "addTime": 1778709880
-  },
-  {
     "host": "178.17.49.178",
     "port": 8443,
     "secret": "ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275",
     "country": "IQ",
+    "addTime": 1778709880
+  },
+  {
+    "host": "2.26.126.153",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
     "addTime": 1778709880
   },
   {
@@ -203,17 +189,17 @@
     "addTime": 1778699229
   },
   {
-    "host": "213.21.248.52",
-    "port": 443,
-    "secret": "ee4ddda7e244d2a9f99c04ae8cfc42973e746f7069632e7275",
-    "country": "LV",
-    "addTime": 1778699198
-  },
-  {
     "host": "83.171.227.177",
     "port": 443,
     "secret": "eef7a79948d6340e25e0dacf2ab0e1ceb3746f7069632e7275",
     "country": "RU",
+    "addTime": 1778699198
+  },
+  {
+    "host": "213.21.248.52",
+    "port": 443,
+    "secret": "ee4ddda7e244d2a9f99c04ae8cfc42973e746f7069632e7275",
+    "country": "LV",
     "addTime": 1778699198
   },
   {
@@ -348,5 +334,19 @@
     "secret": "dd85ef6ecd92f203218e81dca690be8f10",
     "country": "RU",
     "addTime": 1778666820
+  },
+  {
+    "host": "s4.wyckoff.one",
+    "port": 443,
+    "secret": "eee091a124d81e530d3c1197f6e65c284b617669746f2e7275",
+    "country": "BG",
+    "addTime": 1778666777
+  },
+  {
+    "host": "146.185.243.44",
+    "port": 8888,
+    "secret": "eee4a6b355fe3c240a8931a283fc5341f472752d6d736b342e6170692e6d696e65756e696f6e2e6e6574",
+    "country": "RU",
+    "addTime": 1778666763
   }
 ]
