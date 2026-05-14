@@ -105,17 +105,17 @@
     "addTime": 1778753266
   },
   {
-    "host": "proofgram.loveproxy.xyz",
-    "port": 443,
-    "secret": "eef1e86a6c2b936f8dfbfab3d64b1b6f4762726f777365722e79616e6465782e636f6d",
-    "country": "DE",
-    "addTime": 1778753252
-  },
-  {
     "host": "hot.proxytg.space",
     "port": 443,
     "secret": "ee12ff13d128ef99c8565ff9b580577959686f742e70726f787974672e7370616365",
     "country": "NL",
+    "addTime": 1778753252
+  },
+  {
+    "host": "proofgram.loveproxy.xyz",
+    "port": 443,
+    "secret": "eef1e86a6c2b936f8dfbfab3d64b1b6f4762726f777365722e79616e6465782e636f6d",
+    "country": "DE",
     "addTime": 1778753252
   },
   {
@@ -175,17 +175,17 @@
     "addTime": 1778720676
   },
   {
-    "host": "b1.myrka.digital",
-    "port": 443,
-    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
-    "country": "RU",
-    "addTime": 1778720676
-  },
-  {
     "host": "ens3.myrka.digital",
     "port": 4515,
     "secret": "eeb641df2d369ca4120d05ecab9b09df7e656e73332e6d79726b612e6469676974616c",
     "country": "SE",
+    "addTime": 1778720676
+  },
+  {
+    "host": "b1.myrka.digital",
+    "port": 443,
+    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
+    "country": "RU",
     "addTime": 1778720676
   },
   {
@@ -201,6 +201,13 @@
     "secret": "ee973e178b06e6b204a3f6d8044dda69c774672e68656c6c6f6869726f2e7275",
     "country": "RU",
     "addTime": 1778720674
+  },
+  {
+    "host": "89.125.48.95",
+    "port": 443,
+    "secret": "ee76741a222fce20505ee26a78c2b8ad95706574726f766963682e7275",
+    "country": "NL",
+    "addTime": 1778709946
   },
   {
     "host": "31.129.42.35",
@@ -341,12 +348,5 @@
     "secret": "ee40785eb436e2c9bce293356b0db1ed2e79616e6465782e7275",
     "country": "FI",
     "addTime": 1778677586
-  },
-  {
-    "host": "edge.myrka.digital",
-    "port": 444,
-    "secret": "ee4790e86954cff57415f0fb8e4c7d54977665726f69736f72676f2e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1778677546
   }
 ]
