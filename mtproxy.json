@@ -35,6 +35,13 @@
     "addTime": 1778720674
   },
   {
+    "host": "95.163.211.67",
+    "port": 443,
+    "secret": "ee973e178b06e6b204a3f6d8044dda69c774672e68656c6c6f6869726f2e7275",
+    "country": "RU",
+    "addTime": 1778720674
+  },
+  {
     "host": "89.125.48.95",
     "port": 443,
     "secret": "ee76741a222fce20505ee26a78c2b8ad95706574726f766963682e7275",
@@ -49,16 +56,16 @@
     "addTime": 1778709895
   },
   {
-    "host": "31.129.42.35",
-    "port": 443,
-    "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275",
+    "host": "185.130.113.188",
+    "port": 444,
+    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
     "country": "RU",
     "addTime": 1778709882
   },
   {
-    "host": "185.130.113.188",
-    "port": 444,
-    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
+    "host": "31.129.42.35",
+    "port": 443,
+    "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275",
     "country": "RU",
     "addTime": 1778709882
   },
@@ -70,14 +77,14 @@
     "addTime": 1778709880
   },
   {
-    "host": "2.26.126.153",
+    "host": "2.26.126.80",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
     "addTime": 1778709880
   },
   {
-    "host": "2.26.126.80",
+    "host": "2.26.126.153",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
@@ -140,14 +147,7 @@
     "addTime": 1778688426
   },
   {
-    "host": "51.250.41.151",
-    "port": 443,
-    "secret": "ee5f8d0cc4df9d650d5b2231a867247d8b74672e74756e6e656c792e617070",
-    "country": "RU",
-    "addTime": 1778688424
-  },
-  {
-    "host": "178.105.113.91",
+    "host": "88.198.203.112",
     "port": 8080,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -161,7 +161,14 @@
     "addTime": 1778688424
   },
   {
-    "host": "88.198.203.112",
+    "host": "51.250.41.151",
+    "port": 443,
+    "secret": "ee5f8d0cc4df9d650d5b2231a867247d8b74672e74756e6e656c792e617070",
+    "country": "RU",
+    "addTime": 1778688424
+  },
+  {
+    "host": "178.105.113.91",
     "port": 8080,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -210,6 +217,13 @@
     "addTime": 1778677543
   },
   {
+    "host": "94.139.245.54",
+    "port": 443,
+    "secret": "2bb5e160fa2ae1bcc4936446a908ff3e",
+    "country": "RU",
+    "addTime": 1778677541
+  },
+  {
     "host": "157.180.69.178",
     "port": 8080,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -245,14 +259,14 @@
     "addTime": 1778666763
   },
   {
-    "host": "217.60.197.240",
+    "host": "217.60.197.243",
     "port": 4515,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
     "country": "AU",
     "addTime": 1778666761
   },
   {
-    "host": "217.60.197.243",
+    "host": "217.60.197.240",
     "port": 4515,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
     "country": "AU",
@@ -262,7 +276,7 @@
     "host": "croatia.zagreb.ir",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "DE",
+    "country": "FI",
     "addTime": 1778656175
   },
   {
@@ -334,19 +348,5 @@
     "secret": "ee112212285f31122549c4e214482214487370616365736869702e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1778645162
-  },
-  {
-    "host": "109.61.108.127",
-    "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9646e732d73686f702e7275",
-    "country": "RU",
-    "addTime": 1778645162
-  },
-  {
-    "host": "mtp1.shadowsocks.wtf",
-    "port": 443,
-    "secret": "f29640b148781b897c10ecf51938086c",
-    "country": "US",
-    "addTime": 1778634442
   }
 ]
