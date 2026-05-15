@@ -77,10 +77,10 @@
     "addTime": 1778861064
   },
   {
-    "host": "94.26.105.235",
+    "host": "91.211.115.62",
     "port": 443,
-    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
-    "country": "BG",
+    "secret": "eede42c8b90b621e288a4dedefd79ec1c8636c6f7564666c6172652e636f6d",
+    "country": "NL",
     "addTime": 1778850490
   },
   {
@@ -91,20 +91,6 @@
     "addTime": 1778850490
   },
   {
-    "host": "95.163.214.170",
-    "port": 8443,
-    "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
-    "country": "RU",
-    "addTime": 1778850490
-  },
-  {
-    "host": "78.17.62.222",
-    "port": 443,
-    "secret": "ee65fc7553a1f5ca8b50b71c015b387224766473696e612e7275",
-    "country": "AE",
-    "addTime": 1778850490
-  },
-  {
     "host": "94.26.105.236",
     "port": 443,
     "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
@@ -112,10 +98,10 @@
     "addTime": 1778850490
   },
   {
-    "host": "91.211.115.62",
-    "port": 443,
-    "secret": "eede42c8b90b621e288a4dedefd79ec1c8636c6f7564666c6172652e636f6d",
-    "country": "NL",
+    "host": "95.163.214.170",
+    "port": 8443,
+    "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
+    "country": "RU",
     "addTime": 1778850490
   },
   {
@@ -148,6 +134,13 @@
   },
   {
     "host": "94.26.105.234",
+    "port": 443,
+    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
+    "country": "BG",
+    "addTime": 1778850490
+  },
+  {
+    "host": "94.26.105.235",
     "port": 443,
     "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
     "country": "BG",
@@ -287,17 +280,17 @@
     "addTime": 1778796278
   },
   {
-    "host": "77.110.98.131",
-    "port": 443,
-    "secret": "eee81e60b985ab58eb0d4c219ed761f249616d617a6f6e2e636f6d",
-    "country": "FI",
-    "addTime": 1778796275
-  },
-  {
     "host": "144.31.221.15",
     "port": 443,
     "secret": "a882fe13626155c2ea56b8b79639576c",
     "country": "DE",
+    "addTime": 1778796275
+  },
+  {
+    "host": "77.110.98.131",
+    "port": 443,
+    "secret": "eee81e60b985ab58eb0d4c219ed761f249616d617a6f6e2e636f6d",
+    "country": "FI",
     "addTime": 1778796275
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ddced2208ce52ba1345a02de78709105ee",
     "country": "NL",
     "addTime": 1778774909
+  },
+  {
+    "host": "diuresis.gents.undereducated.teleseryegroup.com",
+    "port": 443,
+    "secret": "eebf59d99c1d5dae0a80d25eaa6f0af5c2647a656e2e7275",
+    "country": "DE",
+    "addTime": 1778774835
   }
 ]
