@@ -70,13 +70,6 @@
     "addTime": 1778817967
   },
   {
-    "host": "vinyl.callsmeee.xyz",
-    "port": 8443,
-    "secret": "ee3fdb0b25c9bc2b4e112b18876dfded9576696e796c2e63616c6c736d6565652e78797a",
-    "country": "GB",
-    "addTime": 1778817879
-  },
-  {
     "host": "tg.elysium.su",
     "port": 8443,
     "secret": "ee42c8a64c132ec4aebc445296ed884fed74672e656c797369756d2e7375",
@@ -182,17 +175,17 @@
     "addTime": 1778774834
   },
   {
-    "host": "zaebalsya.uk",
-    "port": 443,
-    "secret": "eede42c8b90b621e288a4dedefd79ec1c8636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1778774834
-  },
-  {
     "host": "t.avocadovpn.net",
     "port": 443,
     "secret": "eebced5e8d724dee1ba056e959c5b3b442636c6f7564666c6172652e636f6d",
     "country": "DE",
+    "addTime": 1778774834
+  },
+  {
+    "host": "zaebalsya.uk",
+    "port": 443,
+    "secret": "eede42c8b90b621e288a4dedefd79ec1c8636c6f7564666c6172652e636f6d",
+    "country": "NL",
     "addTime": 1778774834
   },
   {
@@ -217,17 +210,17 @@
     "addTime": 1778764074
   },
   {
-    "host": "vpn.nl.b917130b.nip.io",
-    "port": 3443,
-    "secret": "eed29acf23d8258f389b8deb2a07c68f647777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1778763938
-  },
-  {
     "host": "proxy.aprux.ru",
     "port": 443,
     "secret": "ee2f23604857121c44e119a4b9a1af939d7777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
+    "addTime": 1778763938
+  },
+  {
+    "host": "vpn.nl.b917130b.nip.io",
+    "port": 3443,
+    "secret": "eed29acf23d8258f389b8deb2a07c68f647777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
     "addTime": 1778763938
   },
   {
@@ -322,10 +315,10 @@
     "addTime": 1778731573
   },
   {
-    "host": "ens3.myrka.digital",
-    "port": 4515,
-    "secret": "eeb641df2d369ca4120d05ecab9b09df7e656e73332e6d79726b612e6469676974616c",
-    "country": "SE",
+    "host": "b2.myrka.digital",
+    "port": 775,
+    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
+    "country": "RU",
     "addTime": 1778720676
   },
   {
@@ -336,10 +329,10 @@
     "addTime": 1778720676
   },
   {
-    "host": "b2.myrka.digital",
-    "port": 775,
-    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
-    "country": "RU",
+    "host": "ens3.myrka.digital",
+    "port": 4515,
+    "secret": "eeb641df2d369ca4120d05ecab9b09df7e656e73332e6d79726b612e6469676974616c",
+    "country": "SE",
     "addTime": 1778720676
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee973e178b06e6b204a3f6d8044dda69c774672e68656c6c6f6869726f2e7275",
     "country": "RU",
     "addTime": 1778720674
+  },
+  {
+    "host": "89.125.48.95",
+    "port": 443,
+    "secret": "ee76741a222fce20505ee26a78c2b8ad95706574726f766963682e7275",
+    "country": "NL",
+    "addTime": 1778709946
   }
 ]
