@@ -119,17 +119,17 @@
     "addTime": 1778774835
   },
   {
-    "host": "zaebalsya.uk",
-    "port": 443,
-    "secret": "eede42c8b90b621e288a4dedefd79ec1c8636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1778774834
-  },
-  {
     "host": "t.avocadovpn.net",
     "port": 443,
     "secret": "eebced5e8d724dee1ba056e959c5b3b442636c6f7564666c6172652e636f6d",
     "country": "DE",
+    "addTime": 1778774834
+  },
+  {
+    "host": "zaebalsya.uk",
+    "port": 443,
+    "secret": "eede42c8b90b621e288a4dedefd79ec1c8636c6f7564666c6172652e636f6d",
+    "country": "NL",
     "addTime": 1778774834
   },
   {
@@ -238,6 +238,13 @@
     "addTime": 1778742395
   },
   {
+    "host": "proxy1.nhiaz.net",
+    "port": 8443,
+    "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
+    "country": "RU",
+    "addTime": 1778742395
+  },
+  {
     "host": "pika.proxytg.space",
     "port": 443,
     "secret": "ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365",
@@ -259,17 +266,17 @@
     "addTime": 1778731573
   },
   {
-    "host": "ens3.myrka.digital",
-    "port": 4515,
-    "secret": "eeb641df2d369ca4120d05ecab9b09df7e656e73332e6d79726b612e6469676974616c",
-    "country": "SE",
-    "addTime": 1778720676
-  },
-  {
     "host": "b1.myrka.digital",
     "port": 443,
     "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
     "country": "RU",
+    "addTime": 1778720676
+  },
+  {
+    "host": "ens3.myrka.digital",
+    "port": 4515,
+    "secret": "eeb641df2d369ca4120d05ecab9b09df7e656e73332e6d79726b612e6469676974616c",
+    "country": "SE",
     "addTime": 1778720676
   },
   {
@@ -301,6 +308,13 @@
     "addTime": 1778709946
   },
   {
+    "host": "185.130.113.188",
+    "port": 444,
+    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
+    "country": "RU",
+    "addTime": 1778709882
+  },
+  {
     "host": "31.129.42.35",
     "port": 443,
     "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275",
@@ -308,11 +322,11 @@
     "addTime": 1778709882
   },
   {
-    "host": "185.130.113.188",
-    "port": 444,
-    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
-    "country": "RU",
-    "addTime": 1778709882
+    "host": "2.26.126.80",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
+    "addTime": 1778709880
   },
   {
     "host": "2.26.126.153",
@@ -329,24 +343,10 @@
     "addTime": 1778709880
   },
   {
-    "host": "2.26.126.80",
-    "port": 853,
-    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "country": "US",
-    "addTime": 1778709880
-  },
-  {
     "host": "foreignpayproxytg.top",
     "port": 443,
     "secret": "ee6d61782e7275e467763b2a1379ff21",
     "country": "RU",
     "addTime": 1778699229
-  },
-  {
-    "host": "213.21.248.52",
-    "port": 443,
-    "secret": "ee4ddda7e244d2a9f99c04ae8cfc42973e746f7069632e7275",
-    "country": "LV",
-    "addTime": 1778699198
   }
 ]
