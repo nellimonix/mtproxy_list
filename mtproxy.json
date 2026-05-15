@@ -7,13 +7,6 @@
     "addTime": 1778796474
   },
   {
-    "host": "87.120.187.143",
-    "port": 443,
-    "secret": "2e48dbc09200e6e96c444548a10ec421",
-    "country": "DE",
-    "addTime": 1778796418
-  },
-  {
     "host": "217.16.26.248",
     "port": 8181,
     "secret": "649f1b87b822ca634ad5503340df1e44",
@@ -28,17 +21,24 @@
     "addTime": 1778796418
   },
   {
-    "host": "188.137.237.240",
+    "host": "87.120.187.143",
     "port": 443,
-    "secret": "ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365",
-    "country": "NL",
-    "addTime": 1778796278
+    "secret": "2e48dbc09200e6e96c444548a10ec421",
+    "country": "DE",
+    "addTime": 1778796418
   },
   {
     "host": "2.26.126.82",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
+    "addTime": 1778796278
+  },
+  {
+    "host": "188.137.237.240",
+    "port": 443,
+    "secret": "ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365",
+    "country": "NL",
     "addTime": 1778796278
   },
   {
@@ -112,6 +112,13 @@
     "addTime": 1778774835
   },
   {
+    "host": "45.86.159.84",
+    "port": 443,
+    "secret": "eeb94b721196395ace273b33f7e124bf636164732e78352e7275",
+    "country": "GB",
+    "addTime": 1778774834
+  },
+  {
     "host": "t.avocadovpn.net",
     "port": 443,
     "secret": "eebced5e8d724dee1ba056e959c5b3b442636c6f7564666c6172652e636f6d",
@@ -123,13 +130,6 @@
     "port": 443,
     "secret": "eede42c8b90b621e288a4dedefd79ec1c8636c6f7564666c6172652e636f6d",
     "country": "NL",
-    "addTime": 1778774834
-  },
-  {
-    "host": "45.86.159.84",
-    "port": 443,
-    "secret": "eeb94b721196395ace273b33f7e124bf636164732e78352e7275",
-    "country": "GB",
     "addTime": 1778774834
   },
   {
@@ -189,17 +189,17 @@
     "addTime": 1778753266
   },
   {
-    "host": "hot.proxytg.space",
-    "port": 443,
-    "secret": "ee12ff13d128ef99c8565ff9b580577959686f742e70726f787974672e7370616365",
-    "country": "NL",
-    "addTime": 1778753252
-  },
-  {
     "host": "proofgram.loveproxy.xyz",
     "port": 443,
     "secret": "eef1e86a6c2b936f8dfbfab3d64b1b6f4762726f777365722e79616e6465782e636f6d",
     "country": "DE",
+    "addTime": 1778753252
+  },
+  {
+    "host": "hot.proxytg.space",
+    "port": 443,
+    "secret": "ee12ff13d128ef99c8565ff9b580577959686f742e70726f787974672e7370616365",
+    "country": "NL",
     "addTime": 1778753252
   },
   {
@@ -259,6 +259,13 @@
     "addTime": 1778731573
   },
   {
+    "host": "b2.myrka.digital",
+    "port": 775,
+    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
+    "country": "RU",
+    "addTime": 1778720676
+  },
+  {
     "host": "b1.myrka.digital",
     "port": 443,
     "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
@@ -270,13 +277,6 @@
     "port": 4515,
     "secret": "eeb641df2d369ca4120d05ecab9b09df7e656e73332e6d79726b612e6469676974616c",
     "country": "SE",
-    "addTime": 1778720676
-  },
-  {
-    "host": "b2.myrka.digital",
-    "port": 775,
-    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
-    "country": "RU",
     "addTime": 1778720676
   },
   {
@@ -301,13 +301,6 @@
     "addTime": 1778709946
   },
   {
-    "host": "185.130.113.188",
-    "port": 444,
-    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
-    "country": "RU",
-    "addTime": 1778709882
-  },
-  {
     "host": "31.129.42.35",
     "port": 443,
     "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275",
@@ -315,7 +308,14 @@
     "addTime": 1778709882
   },
   {
-    "host": "2.26.126.153",
+    "host": "185.130.113.188",
+    "port": 444,
+    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
+    "country": "RU",
+    "addTime": 1778709882
+  },
+  {
+    "host": "2.26.126.80",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
@@ -329,7 +329,7 @@
     "addTime": 1778709880
   },
   {
-    "host": "2.26.126.80",
+    "host": "2.26.126.153",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
     "country": "US",
