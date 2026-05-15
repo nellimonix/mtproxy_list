@@ -1,19 +1,5 @@
 [
   {
-    "host": "45.148.117.5",
-    "port": 443,
-    "secret": "ee1cdf09ef1b7cecdbccd3cf5b4e20311731632e7275",
-    "country": "DE",
-    "addTime": 1778828845
-  },
-  {
-    "host": "144.31.167.164",
-    "port": 443,
-    "secret": "db03aa703f64ca9f2b3a31ff908f2deb",
-    "country": "DE",
-    "addTime": 1778828794
-  },
-  {
     "host": "netherlands.tgproxyy.online",
     "port": 443,
     "secret": "eefc180cccde8d7ce61071eea03ec96c616e65746865726c616e64732e746770726f7879792e6f6e6c696e65",
@@ -70,6 +56,13 @@
     "addTime": 1778796474
   },
   {
+    "host": "87.120.187.143",
+    "port": 443,
+    "secret": "2e48dbc09200e6e96c444548a10ec421",
+    "country": "DE",
+    "addTime": 1778796418
+  },
+  {
     "host": "goydamax.ru",
     "port": 443,
     "secret": "eeddb396ea36d98e42cecc4e5c165f369c676f7964616d61782e7275",
@@ -81,13 +74,6 @@
     "port": 8181,
     "secret": "649f1b87b822ca634ad5503340df1e44",
     "country": "RU",
-    "addTime": 1778796418
-  },
-  {
-    "host": "87.120.187.143",
-    "port": 443,
-    "secret": "2e48dbc09200e6e96c444548a10ec421",
-    "country": "DE",
     "addTime": 1778796418
   },
   {
@@ -175,17 +161,17 @@
     "addTime": 1778774835
   },
   {
-    "host": "t.avocadovpn.net",
-    "port": 443,
-    "secret": "eebced5e8d724dee1ba056e959c5b3b442636c6f7564666c6172652e636f6d",
-    "country": "DE",
-    "addTime": 1778774834
-  },
-  {
     "host": "zaebalsya.uk",
     "port": 443,
     "secret": "eede42c8b90b621e288a4dedefd79ec1c8636c6f7564666c6172652e636f6d",
     "country": "NL",
+    "addTime": 1778774834
+  },
+  {
+    "host": "t.avocadovpn.net",
+    "port": 443,
+    "secret": "eebced5e8d724dee1ba056e959c5b3b442636c6f7564666c6172652e636f6d",
+    "country": "DE",
     "addTime": 1778774834
   },
   {
@@ -273,23 +259,23 @@
     "addTime": 1778753210
   },
   {
-    "host": "hello.proxytg.space",
+    "host": "2.26.74.135",
     "port": 443,
-    "secret": "ee57b7509fe484325abedc85f18804843768656c6c6f2e70726f787974672e7370616365",
-    "country": "NL",
-    "addTime": 1778753107
-  },
-  {
-    "host": "proxy1.nhiaz.net",
-    "port": 8443,
-    "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
-    "country": "RU",
-    "addTime": 1778742395
+    "secret": "eee1de11495a1f99a91c4ee0c863252b586d742e736869666f722e6c697665",
+    "country": "US",
+    "addTime": 1778753208
   },
   {
     "host": "fuckrkn.myaeroplan.ru",
     "port": 443,
     "secret": "ee54d03d058a505fc8674365fd46b7077f6469736b2e6d796165726f706c616e2e7275",
+    "country": "RU",
+    "addTime": 1778742395
+  },
+  {
+    "host": "proxy1.nhiaz.net",
+    "port": 8443,
+    "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
     "country": "RU",
     "addTime": 1778742395
   },
@@ -343,10 +329,24 @@
     "addTime": 1778720674
   },
   {
+    "host": "95.163.211.67",
+    "port": 443,
+    "secret": "ee973e178b06e6b204a3f6d8044dda69c774672e68656c6c6f6869726f2e7275",
+    "country": "RU",
+    "addTime": 1778720674
+  },
+  {
     "host": "89.125.48.95",
     "port": 443,
     "secret": "ee76741a222fce20505ee26a78c2b8ad95706574726f766963682e7275",
     "country": "NL",
     "addTime": 1778709946
+  },
+  {
+    "host": "185.130.113.188",
+    "port": 444,
+    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
+    "country": "RU",
+    "addTime": 1778709882
   }
 ]
