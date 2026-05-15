@@ -7,17 +7,17 @@
     "addTime": 1778850490
   },
   {
+    "host": "95.85.246.230",
+    "port": 443,
+    "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+    "country": "SE",
+    "addTime": 1778850490
+  },
+  {
     "host": "94.125.103.74",
     "port": 443,
     "secret": "eefae8fc51b22080948cf13e35ce67428574672e70616c616e746972626f742e78797a",
     "country": "SG",
-    "addTime": 1778850490
-  },
-  {
-    "host": "94.26.105.235",
-    "port": 443,
-    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
-    "country": "BG",
     "addTime": 1778850490
   },
   {
@@ -28,17 +28,17 @@
     "addTime": 1778850490
   },
   {
-    "host": "94.26.105.233",
+    "host": "94.26.105.235",
     "port": 443,
     "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
     "country": "BG",
     "addTime": 1778850490
   },
   {
-    "host": "95.85.246.230",
+    "host": "94.26.105.233",
     "port": 443,
-    "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-    "country": "SE",
+    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
+    "country": "BG",
     "addTime": 1778850490
   },
   {
@@ -147,16 +147,16 @@
     "addTime": 1778828845
   },
   {
-    "host": "netherlands.tgproxyy.online",
+    "host": "mars.flarevpn.top",
     "port": 443,
-    "secret": "eefc180cccde8d7ce61071eea03ec96c616e65746865726c616e64732e746770726f7879792e6f6e6c696e65",
+    "secret": "eeee2df95325c79fa3a3b5a559bd59adfd706c617932676f2e636c6f7564",
     "country": "US",
     "addTime": 1778828741
   },
   {
-    "host": "mars.flarevpn.top",
+    "host": "netherlands.tgproxyy.online",
     "port": 443,
-    "secret": "eeee2df95325c79fa3a3b5a559bd59adfd706c617932676f2e636c6f7564",
+    "secret": "eefc180cccde8d7ce61071eea03ec96c616e65746865726c616e64732e746770726f7879792e6f6e6c696e65",
     "country": "US",
     "addTime": 1778828741
   },
@@ -210,13 +210,6 @@
     "addTime": 1778796418
   },
   {
-    "host": "188.137.237.240",
-    "port": 443,
-    "secret": "ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365",
-    "country": "NL",
-    "addTime": 1778796278
-  },
-  {
     "host": "2.26.126.82",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
@@ -224,17 +217,24 @@
     "addTime": 1778796278
   },
   {
-    "host": "77.110.98.131",
+    "host": "188.137.237.240",
     "port": 443,
-    "secret": "eee81e60b985ab58eb0d4c219ed761f249616d617a6f6e2e636f6d",
-    "country": "FI",
-    "addTime": 1778796275
+    "secret": "ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365",
+    "country": "NL",
+    "addTime": 1778796278
   },
   {
     "host": "144.31.221.15",
     "port": 443,
     "secret": "a882fe13626155c2ea56b8b79639576c",
     "country": "DE",
+    "addTime": 1778796275
+  },
+  {
+    "host": "77.110.98.131",
+    "port": 443,
+    "secret": "eee81e60b985ab58eb0d4c219ed761f249616d617a6f6e2e636f6d",
+    "country": "FI",
     "addTime": 1778796275
   },
   {
@@ -294,17 +294,17 @@
     "addTime": 1778774835
   },
   {
-    "host": "t.avocadovpn.net",
-    "port": 443,
-    "secret": "eebced5e8d724dee1ba056e959c5b3b442636c6f7564666c6172652e636f6d",
-    "country": "DE",
-    "addTime": 1778774834
-  },
-  {
     "host": "zaebalsya.uk",
     "port": 443,
     "secret": "eede42c8b90b621e288a4dedefd79ec1c8636c6f7564666c6172652e636f6d",
     "country": "NL",
+    "addTime": 1778774834
+  },
+  {
+    "host": "t.avocadovpn.net",
+    "port": 443,
+    "secret": "eebced5e8d724dee1ba056e959c5b3b442636c6f7564666c6172652e636f6d",
+    "country": "DE",
     "addTime": 1778774834
   },
   {
@@ -313,6 +313,13 @@
     "secret": "ee9436fa39ab47ccb34f217ac6d06b4e58617669746f2e7275",
     "country": "DE",
     "addTime": 1778774736
+  },
+  {
+    "host": "kria1.snappytuppy.icu",
+    "port": 443,
+    "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375",
+    "country": "GB",
+    "addTime": 1778764104
   },
   {
     "host": "45.154.98.207",
@@ -329,13 +336,6 @@
     "addTime": 1778764074
   },
   {
-    "host": "proxy.aprux.ru",
-    "port": 443,
-    "secret": "ee2f23604857121c44e119a4b9a1af939d7777772e636c6f7564666c6172652e636f6d",
-    "country": "US",
-    "addTime": 1778763938
-  },
-  {
     "host": "vpn.nl.b917130b.nip.io",
     "port": 3443,
     "secret": "eed29acf23d8258f389b8deb2a07c68f647777772e636c6f7564666c6172652e636f6d",
@@ -343,10 +343,10 @@
     "addTime": 1778763938
   },
   {
-    "host": "xd.rkn.lat",
+    "host": "proxy.aprux.ru",
     "port": 443,
-    "secret": "eec58bbb0e46e9fe769afc157088d87a076d61782e7275",
-    "country": "SG",
-    "addTime": 1778763933
+    "secret": "ee2f23604857121c44e119a4b9a1af939d7777772e636c6f7564666c6172652e636f6d",
+    "country": "US",
+    "addTime": 1778763938
   }
 ]
