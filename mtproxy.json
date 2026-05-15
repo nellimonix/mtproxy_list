@@ -35,17 +35,17 @@
     "addTime": 1778796474
   },
   {
-    "host": "goydamax.ru",
-    "port": 443,
-    "secret": "eeddb396ea36d98e42cecc4e5c165f369c676f7964616d61782e7275",
-    "country": "GB",
-    "addTime": 1778796418
-  },
-  {
     "host": "87.120.187.143",
     "port": 443,
     "secret": "2e48dbc09200e6e96c444548a10ec421",
     "country": "DE",
+    "addTime": 1778796418
+  },
+  {
+    "host": "goydamax.ru",
+    "port": 443,
+    "secret": "eeddb396ea36d98e42cecc4e5c165f369c676f7964616d61782e7275",
+    "country": "GB",
     "addTime": 1778796418
   },
   {
@@ -189,17 +189,17 @@
     "addTime": 1778764074
   },
   {
-    "host": "proxy.aprux.ru",
-    "port": 443,
-    "secret": "ee2f23604857121c44e119a4b9a1af939d7777772e636c6f7564666c6172652e636f6d",
-    "country": "DE",
-    "addTime": 1778763938
-  },
-  {
     "host": "vpn.nl.b917130b.nip.io",
     "port": 3443,
     "secret": "eed29acf23d8258f389b8deb2a07c68f647777772e636c6f7564666c6172652e636f6d",
     "country": "NL",
+    "addTime": 1778763938
+  },
+  {
+    "host": "proxy.aprux.ru",
+    "port": 443,
+    "secret": "ee2f23604857121c44e119a4b9a1af939d7777772e636c6f7564666c6172652e636f6d",
+    "country": "DE",
     "addTime": 1778763938
   },
   {
@@ -217,17 +217,17 @@
     "addTime": 1778753266
   },
   {
-    "host": "proofgram.loveproxy.xyz",
-    "port": 443,
-    "secret": "eef1e86a6c2b936f8dfbfab3d64b1b6f4762726f777365722e79616e6465782e636f6d",
-    "country": "DE",
-    "addTime": 1778753252
-  },
-  {
     "host": "hot.proxytg.space",
     "port": 443,
     "secret": "ee12ff13d128ef99c8565ff9b580577959686f742e70726f787974672e7370616365",
     "country": "NL",
+    "addTime": 1778753252
+  },
+  {
+    "host": "proofgram.loveproxy.xyz",
+    "port": 443,
+    "secret": "eef1e86a6c2b936f8dfbfab3d64b1b6f4762726f777365722e79616e6465782e636f6d",
+    "country": "DE",
     "addTime": 1778753252
   },
   {
@@ -322,13 +322,6 @@
     "addTime": 1778709946
   },
   {
-    "host": "185.130.113.188",
-    "port": 444,
-    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
-    "country": "RU",
-    "addTime": 1778709882
-  },
-  {
     "host": "31.129.42.35",
     "port": 443,
     "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275",
@@ -336,10 +329,17 @@
     "addTime": 1778709882
   },
   {
-    "host": "178.17.49.178",
-    "port": 8443,
-    "secret": "ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275",
-    "country": "IQ",
+    "host": "185.130.113.188",
+    "port": 444,
+    "secret": "eee93233334d099f3a93397231ad2670b5796569736b6d65646963696e652e7275",
+    "country": "RU",
+    "addTime": 1778709882
+  },
+  {
+    "host": "2.26.126.80",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
     "addTime": 1778709880
   },
   {
