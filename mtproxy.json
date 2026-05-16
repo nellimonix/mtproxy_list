@@ -77,13 +77,6 @@
     "addTime": 1778882656
   },
   {
-    "host": "147.45.79.142",
-    "port": 443,
-    "secret": "eea585facf3aa5bb842a35536149837a2e766b2e636f6d",
-    "country": "SE",
-    "addTime": 1778882656
-  },
-  {
     "host": "pr2.fluxsolutions.ru",
     "port": 443,
     "secret": "ee36d81171544e3a74ef3a91e3e4933b847072322e666c7578736f6c7574696f6e732e7275",
@@ -108,7 +101,7 @@
     "host": "f1.kurduk.store",
     "port": 443,
     "secret": "ee1e34c689f1f76dff1f2ae4aefb4c6848706574726f766963682e7275",
-    "country": "SG",
+    "country": "US",
     "addTime": 1778871887
   },
   {
@@ -154,17 +147,17 @@
     "addTime": 1778861319
   },
   {
-    "host": "piter.tgproxyy.online",
-    "port": 443,
-    "secret": "7tKKaimXPcSzyk2HlVeWsw9waXRlci50Z3Byb3h5eS5vbmxpbmU",
-    "country": "US",
-    "addTime": 1778861299
-  },
-  {
     "host": "195.58.49.26",
     "port": 443,
     "secret": "7uAqXLtHlYLrtb0hgzq10kxydXR1YmUucnU",
     "country": "RU",
+    "addTime": 1778861299
+  },
+  {
+    "host": "piter.tgproxyy.online",
+    "port": 443,
+    "secret": "7tKKaimXPcSzyk2HlVeWsw9waXRlci50Z3Byb3h5eS5vbmxpbmU",
+    "country": "US",
     "addTime": 1778861299
   },
   {
@@ -210,10 +203,10 @@
     "addTime": 1778861064
   },
   {
-    "host": "94.26.105.236",
+    "host": "94.103.1.52",
     "port": 443,
-    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
-    "country": "BG",
+    "secret": "ee591d42555613d98af502d991892478346d74312e736869666f722e6c697665",
+    "country": "NL",
     "addTime": 1778850490
   },
   {
@@ -224,6 +217,13 @@
     "addTime": 1778850490
   },
   {
+    "host": "94.26.105.234",
+    "port": 443,
+    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
+    "country": "BG",
+    "addTime": 1778850490
+  },
+  {
     "host": "95.164.53.156",
     "port": 7777,
     "secret": "c406caad29b40b1dd4ad970b253c52c5",
@@ -231,7 +231,21 @@
     "addTime": 1778850490
   },
   {
-    "host": "94.26.105.233",
+    "host": "94.26.105.235",
+    "port": 443,
+    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
+    "country": "BG",
+    "addTime": 1778850490
+  },
+  {
+    "host": "95.85.246.230",
+    "port": 443,
+    "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+    "country": "SE",
+    "addTime": 1778850490
+  },
+  {
+    "host": "94.26.105.236",
     "port": 443,
     "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
     "country": "BG",
@@ -245,27 +259,6 @@
     "addTime": 1778850490
   },
   {
-    "host": "94.26.105.234",
-    "port": 443,
-    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
-    "country": "BG",
-    "addTime": 1778850490
-  },
-  {
-    "host": "94.103.1.52",
-    "port": 443,
-    "secret": "ee591d42555613d98af502d991892478346d74312e736869666f722e6c697665",
-    "country": "NL",
-    "addTime": 1778850490
-  },
-  {
-    "host": "94.26.105.235",
-    "port": 443,
-    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
-    "country": "BG",
-    "addTime": 1778850490
-  },
-  {
     "host": "95.163.214.170",
     "port": 8443,
     "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
@@ -273,10 +266,10 @@
     "addTime": 1778850490
   },
   {
-    "host": "95.85.246.230",
+    "host": "94.26.105.233",
     "port": 443,
-    "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-    "country": "SE",
+    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
+    "country": "BG",
     "addTime": 1778850490
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee1cdf09ef1b7cecdbccd3cf5b4e20311731632e7275",
     "country": "DE",
     "addTime": 1778828845
+  },
+  {
+    "host": "mars.flarevpn.top",
+    "port": 443,
+    "secret": "eeee2df95325c79fa3a3b5a559bd59adfd706c617932676f2e636c6f7564",
+    "country": "US",
+    "addTime": 1778828741
   }
 ]
