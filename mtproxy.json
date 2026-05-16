@@ -1,10 +1,38 @@
 [
   {
+    "host": "85.211.250.71",
+    "port": 12504,
+    "secret": "ee60dbb05e0d56ffb582e5c4facc9155ea7777772e62696e672e636f6d",
+    "country": "MY",
+    "addTime": 1778926551
+  },
+  {
+    "host": "ethereal.arixo.shop",
+    "port": 443,
+    "secret": "eed9fd89062ab62abcbf1bd82dfe914004617669746f2e7275",
+    "country": "LV",
+    "addTime": 1778926543
+  },
+  {
+    "host": "femboy.arixo.shop",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
+    "country": "LV",
+    "addTime": 1778926538
+  },
+  {
     "host": "104.253.43.230",
     "port": 443,
     "secret": "ee415fbec3218718b534391d4439ab184579616e6465782e7275",
     "country": "US",
     "addTime": 1778915269
+  },
+  {
+    "host": "158.160.189.205",
+    "port": 5566,
+    "secret": "ee6b696e6f706f69736b2e7275571ab1",
+    "country": "RU",
+    "addTime": 1778915265
   },
   {
     "host": "185.121.15.200",
@@ -18,13 +46,6 @@
     "port": 443,
     "secret": "ee92a1b2b04b51069ae3d442f4a9f4ffc46769746875622e636f6d",
     "country": "CH",
-    "addTime": 1778915265
-  },
-  {
-    "host": "158.160.189.205",
-    "port": 5566,
-    "secret": "ee6b696e6f706f69736b2e7275571ab1",
-    "country": "RU",
     "addTime": 1778915265
   },
   {
@@ -126,16 +147,16 @@
     "addTime": 1778882664
   },
   {
-    "host": "147.45.79.141",
+    "host": "147.45.79.142",
     "port": 443,
-    "secret": "eefcd14518ed9188502624ba211abbebb4766b2e636f6d",
+    "secret": "eea585facf3aa5bb842a35536149837a2e766b2e636f6d",
     "country": "SE",
     "addTime": 1778882656
   },
   {
-    "host": "147.45.79.142",
+    "host": "147.45.79.141",
     "port": 443,
-    "secret": "eea585facf3aa5bb842a35536149837a2e766b2e636f6d",
+    "secret": "eefcd14518ed9188502624ba211abbebb4766b2e636f6d",
     "country": "SE",
     "addTime": 1778882656
   },
@@ -168,17 +189,17 @@
     "addTime": 1778871887
   },
   {
-    "host": "45.145.43.179",
-    "port": 443,
-    "secret": "2150b30729fee51eb757fbc28c0a5bcb",
-    "country": "DE",
-    "addTime": 1778871853
-  },
-  {
     "host": "144.124.248.122",
     "port": 443,
     "secret": "93987494e34612b0676a8ca2a9638622",
     "country": "NL",
+    "addTime": 1778871853
+  },
+  {
+    "host": "45.145.43.179",
+    "port": 443,
+    "secret": "2150b30729fee51eb757fbc28c0a5bcb",
+    "country": "DE",
     "addTime": 1778871853
   },
   {
@@ -217,6 +238,13 @@
     "addTime": 1778861299
   },
   {
+    "host": "195.58.49.26",
+    "port": 443,
+    "secret": "7uAqXLtHlYLrtb0hgzq10kxydXR1YmUucnU",
+    "country": "RU",
+    "addTime": 1778861299
+  },
+  {
     "host": "newshound.preoccupation.zymase.teleseryeme.com",
     "port": 443,
     "secret": "eed206530067b67e52d66c1b7ee9b481ef647a656e2e7275",
@@ -252,17 +280,10 @@
     "addTime": 1778861140
   },
   {
-    "host": "94.26.105.236",
+    "host": "94.103.1.52",
     "port": 443,
-    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
-    "country": "BG",
-    "addTime": 1778850490
-  },
-  {
-    "host": "94.26.105.235",
-    "port": 443,
-    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
-    "country": "BG",
+    "secret": "ee591d42555613d98af502d991892478346d74312e736869666f722e6c697665",
+    "country": "NL",
     "addTime": 1778850490
   },
   {
@@ -273,24 +294,10 @@
     "addTime": 1778850490
   },
   {
-    "host": "94.103.1.52",
-    "port": 443,
-    "secret": "ee591d42555613d98af502d991892478346d74312e736869666f722e6c697665",
-    "country": "NL",
-    "addTime": 1778850490
-  },
-  {
     "host": "94.125.103.74",
     "port": 443,
     "secret": "eefae8fc51b22080948cf13e35ce67428574672e70616c616e746972626f742e78797a",
     "country": "SG",
-    "addTime": 1778850490
-  },
-  {
-    "host": "95.164.53.156",
-    "port": 7777,
-    "secret": "c406caad29b40b1dd4ad970b253c52c5",
-    "country": "DE",
     "addTime": 1778850490
   },
   {
@@ -315,38 +322,31 @@
     "addTime": 1778850490
   },
   {
-    "host": "94.26.105.233",
+    "host": "94.26.105.235",
     "port": 443,
     "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
     "country": "BG",
     "addTime": 1778850490
   },
   {
-    "host": "154.86.119.86",
-    "port": 443,
-    "secret": "dd4dda2bc652e639e1293529a3b557c357",
-    "country": "NL",
-    "addTime": 1778850355
+    "host": "95.164.53.156",
+    "port": 7777,
+    "secret": "c406caad29b40b1dd4ad970b253c52c5",
+    "country": "DE",
+    "addTime": 1778850490
   },
   {
-    "host": "109.120.183.45",
+    "host": "94.26.105.236",
     "port": 443,
-    "secret": "8a9bd5075d3d29022c165359eb174217",
-    "country": "RU",
-    "addTime": 1778839740
+    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
+    "country": "BG",
+    "addTime": 1778850490
   },
   {
-    "host": "2.26.84.148",
+    "host": "94.26.105.233",
     "port": 443,
-    "secret": "ee53db11c9a772a1c0db7768fb913f7822706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1778839643
-  },
-  {
-    "host": "proxy.vdkvpn.ru",
-    "port": 443,
-    "secret": "ee53db11c9a772a1c0db7768fb913f7822706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1778839635
+    "secret": "eedb556b30e8aefc3443956f9a971bdcec74656c656772616d2e63726f636e65742e7275",
+    "country": "BG",
+    "addTime": 1778850490
   }
 ]
