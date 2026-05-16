@@ -112,6 +112,13 @@
     "addTime": 1778882656
   },
   {
+    "host": "147.45.79.142",
+    "port": 443,
+    "secret": "eea585facf3aa5bb842a35536149837a2e766b2e636f6d",
+    "country": "SE",
+    "addTime": 1778882656
+  },
+  {
     "host": "pr2.fluxsolutions.ru",
     "port": 443,
     "secret": "ee36d81171544e3a74ef3a91e3e4933b847072322e666c7578736f6c7574696f6e732e7275",
@@ -182,17 +189,17 @@
     "addTime": 1778861319
   },
   {
-    "host": "piter.tgproxyy.online",
-    "port": 443,
-    "secret": "7tKKaimXPcSzyk2HlVeWsw9waXRlci50Z3Byb3h5eS5vbmxpbmU",
-    "country": "US",
-    "addTime": 1778861299
-  },
-  {
     "host": "195.58.49.26",
     "port": 443,
     "secret": "7uAqXLtHlYLrtb0hgzq10kxydXR1YmUucnU",
     "country": "RU",
+    "addTime": 1778861299
+  },
+  {
+    "host": "piter.tgproxyy.online",
+    "port": 443,
+    "secret": "7tKKaimXPcSzyk2HlVeWsw9waXRlci50Z3Byb3h5eS5vbmxpbmU",
+    "country": "US",
     "addTime": 1778861299
   },
   {
@@ -229,13 +236,6 @@
     "secret": "ee1e34c689f1f76dff1f2ae4aefb4c6848706574726f766963682e7275",
     "country": "SG",
     "addTime": 1778861140
-  },
-  {
-    "host": "gproxy-sosavpn.duckdns.org",
-    "port": 8443,
-    "secret": "bfb77f1c4bf8a5c89eb5a3c83954ce69",
-    "country": "RU",
-    "addTime": 1778861064
   },
   {
     "host": "94.26.105.233",
@@ -280,10 +280,10 @@
     "addTime": 1778850490
   },
   {
-    "host": "95.164.53.156",
-    "port": 7777,
-    "secret": "c406caad29b40b1dd4ad970b253c52c5",
-    "country": "DE",
+    "host": "95.163.214.170",
+    "port": 8443,
+    "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
+    "country": "RU",
     "addTime": 1778850490
   },
   {
@@ -291,6 +291,13 @@
     "port": 443,
     "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
     "country": "SE",
+    "addTime": 1778850490
+  },
+  {
+    "host": "95.164.53.156",
+    "port": 7777,
+    "secret": "c406caad29b40b1dd4ad970b253c52c5",
+    "country": "DE",
     "addTime": 1778850490
   },
   {
@@ -341,12 +348,5 @@
     "secret": "eef361815fac1bcc3d985ceaf3b47fc66c647a656e2e7275",
     "country": "DE",
     "addTime": 1778839517
-  },
-  {
-    "host": "kisa.myrka.digital",
-    "port": 8443,
-    "secret": "eee7084fde01cfbce4b201b0c92e176c51697269736b612e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1778839489
   }
 ]
