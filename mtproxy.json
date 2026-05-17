@@ -14,17 +14,17 @@
     "addTime": 1778980008
   },
   {
-    "host": "217.60.197.99",
-    "port": 4515,
-    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
-    "country": "AU",
-    "addTime": 1778979959
-  },
-  {
     "host": "157.22.241.141",
     "port": 443,
     "secret": "eed778a58b596c70917591a137306adaa76164732e78352e7275",
     "country": "RU",
+    "addTime": 1778979959
+  },
+  {
+    "host": "217.60.197.99",
+    "port": 4515,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+    "country": "AU",
     "addTime": 1778979959
   },
   {
@@ -119,6 +119,13 @@
     "addTime": 1778958301
   },
   {
+    "host": "he.jlpokcu.cloud",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "RU",
+    "addTime": 1778958301
+  },
+  {
     "host": "tbojl.jlpokcu.cloud",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
@@ -133,21 +140,7 @@
     "addTime": 1778958301
   },
   {
-    "host": "hawejl.jlpokcu.cloud",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "RU",
-    "addTime": 1778958301
-  },
-  {
     "host": "ypohujl.jlpokcu.cloud",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "RU",
-    "addTime": 1778958301
-  },
-  {
-    "host": "ewe.jlpokcu.cloud",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "RU",
@@ -161,13 +154,6 @@
     "addTime": 1778958301
   },
   {
-    "host": "bephu.jlpokcu.cloud",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "RU",
-    "addTime": 1778958301
-  },
-  {
     "host": "dajl.jlpokcu.cloud",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
@@ -175,10 +161,24 @@
     "addTime": 1778958301
   },
   {
-    "host": "he.jlpokcu.cloud",
+    "host": "ewe.jlpokcu.cloud",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "RU",
+    "addTime": 1778958301
+  },
+  {
+    "host": "bephu.jlpokcu.cloud",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "RU",
+    "addTime": 1778958301
+  },
+  {
+    "host": "hawejl.jlpokcu.cloud",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AU",
     "addTime": 1778958301
   },
   {
@@ -301,20 +301,6 @@
     "addTime": 1778936944
   },
   {
-    "host": "202.61.241.160",
-    "port": 444,
-    "secret": "ee2341dbf12e04bbb220b77464bf98cfa568616e616b6f72692e7275",
-    "country": "DE",
-    "addTime": 1778936944
-  },
-  {
-    "host": "95.81.98.176",
-    "port": 443,
-    "secret": "ee5b79f25046ed5f70efcff5df8fa2e3247777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1778936944
-  },
-  {
     "host": "node2.vlessok-bot.ru",
     "port": 443,
     "secret": "ee3181c7549bc06f031c85ec8aeb325321766b2e636f6d",
@@ -322,10 +308,17 @@
     "addTime": 1778936944
   },
   {
-    "host": "fi.cdn-assets-pro.com",
-    "port": 3456,
-    "secret": "ee913eb32e0947673f87a1c14bea17ad6c7777772e636c6f7564666c6172652e636f6d",
-    "country": "FI",
+    "host": "202.61.241.160",
+    "port": 444,
+    "secret": "ee2341dbf12e04bbb220b77464bf98cfa568616e616b6f72692e7275",
+    "country": "DE",
+    "addTime": 1778936944
+  },
+  {
+    "host": "love.its-work.ru",
+    "port": 443,
+    "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+    "country": "SG",
     "addTime": 1778936944
   },
   {
@@ -336,6 +329,13 @@
     "addTime": 1778936944
   },
   {
+    "host": "95.81.98.176",
+    "port": 443,
+    "secret": "ee5b79f25046ed5f70efcff5df8fa2e3247777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
+    "addTime": 1778936944
+  },
+  {
     "host": "144.31.203.190",
     "port": 443,
     "secret": "ee583d044a53cd8f769dec28863c1a77037777772e636c6f7564666c6172652e636f6d",
@@ -343,10 +343,10 @@
     "addTime": 1778936944
   },
   {
-    "host": "love.its-work.ru",
+    "host": "91.193.25.110",
     "port": 443,
-    "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
-    "country": "SG",
+    "secret": "eeee0efbf80e240e4bfb348d2c22e739da647a656e2e7275",
+    "country": "LV",
     "addTime": 1778936944
   }
 ]
