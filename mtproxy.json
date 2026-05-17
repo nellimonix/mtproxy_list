@@ -7,13 +7,6 @@
     "addTime": 1779023252
   },
   {
-    "host": "2.26.126.74",
-    "port": 853,
-    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "country": "US",
-    "addTime": 1779023146
-  },
-  {
     "host": "217.60.197.97",
     "port": 4515,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
@@ -21,9 +14,16 @@
     "addTime": 1779023146
   },
   {
-    "host": "impgo.notdev.space",
+    "host": "2.26.126.74",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
+    "addTime": 1779023146
+  },
+  {
+    "host": "imp.notdev.space",
     "port": 443,
-    "secret": "ee150aca15ff125cf3668f5aca79ce3509696d70676f2e6e6f746465762e7370616365",
+    "secret": "ee4dd34bbd3cd14b113d21f5aab9b28a94696d702e6e6f746465762e7370616365",
     "country": "DE",
     "addTime": 1779023142
   },
@@ -31,6 +31,13 @@
     "host": "imppro.notdev.space",
     "port": 443,
     "secret": "ee827fecc6f53280cf4912efb5508f522f696d7070726f2e6e6f746465762e7370616365",
+    "country": "DE",
+    "addTime": 1779023142
+  },
+  {
+    "host": "impgo.notdev.space",
+    "port": 443,
+    "secret": "ee150aca15ff125cf3668f5aca79ce3509696d70676f2e6e6f746465762e7370616365",
     "country": "DE",
     "addTime": 1779023142
   },
@@ -45,13 +52,6 @@
     "host": "impbest.notdev.space",
     "port": 443,
     "secret": "ee75529ffb1208fa113ea0c2c6d6e4b2b9696d70626573742e6e6f746465762e7370616365",
-    "country": "DE",
-    "addTime": 1779023142
-  },
-  {
-    "host": "imp.notdev.space",
-    "port": 443,
-    "secret": "ee4dd34bbd3cd14b113d21f5aab9b28a94696d702e6e6f746465762e7370616365",
     "country": "DE",
     "addTime": 1779023142
   },
@@ -119,25 +119,11 @@
     "addTime": 1779001751
   },
   {
-    "host": "45.148.117.64",
-    "port": 443,
-    "secret": "ee8df600387a59eb32195c6a11f04a745331632e7275",
-    "country": "DE",
-    "addTime": 1779001744
-  },
-  {
     "host": "ru2.loveproxy.xyz",
     "port": 443,
     "secret": "ee2b655f486495422d70a99ec52d35595862726f777365722e79616e6465782e636f6d",
     "country": "PL",
     "addTime": 1779001744
-  },
-  {
-    "host": "45.148.117.65",
-    "port": 443,
-    "secret": "eeaaba4c601a416a5a9ecc309198828a6131632e7275",
-    "country": "DE",
-    "addTime": 1779001593
   },
   {
     "host": "tg.muzencore.ru",
@@ -161,16 +147,23 @@
     "addTime": 1778990916
   },
   {
-    "host": "2.26.7.9",
+    "host": "2.26.82.18",
     "port": 443,
-    "secret": "ee3730ca5b692dc64af181a706bcc5cabc7377656b69747479322e677269747479746172616e74756c612e736273",
+    "secret": "eef97e0827ad60fe2cb4a3f1ad5589928f7362657262616e6b2e7275",
     "country": "US",
     "addTime": 1778990757
   },
   {
-    "host": "2.26.82.18",
+    "host": "72.56.247.169",
     "port": 443,
-    "secret": "eef97e0827ad60fe2cb4a3f1ad5589928f7362657262616e6b2e7275",
+    "secret": "eeeb8e1da712ae02435a9f0baf6452b2bc6b6e6f776d656469612e7275",
+    "country": "US",
+    "addTime": 1778990757
+  },
+  {
+    "host": "2.26.7.9",
+    "port": 443,
+    "secret": "ee3730ca5b692dc64af181a706bcc5cabc7377656b69747479322e677269747479746172616e74756c612e736273",
     "country": "US",
     "addTime": 1778990757
   },
@@ -250,6 +243,13 @@
     "secret": "fcdd381eae3843c9e40cec83c446769c",
     "country": "FI",
     "addTime": 1778958369
+  },
+  {
+    "host": "2.26.69.125",
+    "port": 443,
+    "secret": "eef4c79353282a1485ac8fe3f2c2a1125a636c6f7564666c6172652e636f6d",
+    "country": "US",
+    "addTime": 1778958368
   },
   {
     "host": "2.26.49.39",
@@ -343,10 +343,10 @@
     "addTime": 1778947525
   },
   {
-    "host": "144.31.203.190",
-    "port": 443,
-    "secret": "ee583d044a53cd8f769dec28863c1a77037777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
+    "host": "fi.cdn-assets-pro.com",
+    "port": 3456,
+    "secret": "ee913eb32e0947673f87a1c14bea17ad6c7777772e636c6f7564666c6172652e636f6d",
+    "country": "FI",
     "addTime": 1778936944
   }
 ]
