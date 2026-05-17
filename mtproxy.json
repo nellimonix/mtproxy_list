@@ -35,13 +35,6 @@
     "addTime": 1779012308
   },
   {
-    "host": "dealer5-nl.dealer.ac",
-    "port": 8443,
-    "secret": "ee4562bb45c8f3ea3dc772811fb97d0e897477656e7475722e636f6d",
-    "country": "NL",
-    "addTime": 1779012305
-  },
-  {
     "host": "ark.proxytg.space",
     "port": 443,
     "secret": "eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365",
@@ -49,10 +42,10 @@
     "addTime": 1779012305
   },
   {
-    "host": "tyan.arixo.shop",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
-    "country": "LV",
+    "host": "dealer5-nl.dealer.ac",
+    "port": 8443,
+    "secret": "ee4562bb45c8f3ea3dc772811fb97d0e897477656e7475722e636f6d",
+    "country": "NL",
     "addTime": 1779012305
   },
   {
@@ -63,17 +56,17 @@
     "addTime": 1779001751
   },
   {
-    "host": "45.148.117.64",
-    "port": 443,
-    "secret": "ee8df600387a59eb32195c6a11f04a745331632e7275",
-    "country": "DE",
-    "addTime": 1779001744
-  },
-  {
     "host": "ru2.loveproxy.xyz",
     "port": 443,
     "secret": "ee2b655f486495422d70a99ec52d35595862726f777365722e79616e6465782e636f6d",
     "country": "PL",
+    "addTime": 1779001744
+  },
+  {
+    "host": "45.148.117.64",
+    "port": 443,
+    "secret": "ee8df600387a59eb32195c6a11f04a745331632e7275",
+    "country": "DE",
     "addTime": 1779001744
   },
   {
@@ -112,9 +105,9 @@
     "addTime": 1778990916
   },
   {
-    "host": "72.56.247.169",
+    "host": "2.26.7.9",
     "port": 443,
-    "secret": "eeeb8e1da712ae02435a9f0baf6452b2bc6b6e6f776d656469612e7275",
+    "secret": "ee3730ca5b692dc64af181a706bcc5cabc7377656b69747479322e677269747479746172616e74756c612e736273",
     "country": "US",
     "addTime": 1778990757
   },
@@ -133,6 +126,13 @@
     "addTime": 1778990757
   },
   {
+    "host": "72.56.247.169",
+    "port": 443,
+    "secret": "eeeb8e1da712ae02435a9f0baf6452b2bc6b6e6f776d656469612e7275",
+    "country": "US",
+    "addTime": 1778990757
+  },
+  {
     "host": "145.223.68.185",
     "port": 8443,
     "secret": "49e880b37fe2df39299ea3aaa282a4c3",
@@ -145,13 +145,6 @@
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "SE",
     "addTime": 1778980008
-  },
-  {
-    "host": "217.60.197.99",
-    "port": 4515,
-    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
-    "country": "AU",
-    "addTime": 1778979959
   },
   {
     "host": "188.137.253.74",
@@ -168,6 +161,13 @@
     "addTime": 1778979959
   },
   {
+    "host": "217.60.197.99",
+    "port": 4515,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+    "country": "AU",
+    "addTime": 1778979959
+  },
+  {
     "host": "skysky.sytes.net",
     "port": 443,
     "secret": "ee478850c95da2346d0e287f0ee3dd334479612e7275",
@@ -178,7 +178,7 @@
     "host": "promo.palantirbot.xyz",
     "port": 443,
     "secret": "eefae8fc51b22080948cf13e35ce67428574672e70616c616e746972626f742e78797a",
-    "country": "NL",
+    "country": "SG",
     "addTime": 1778969334
   },
   {
@@ -336,17 +336,17 @@
     "addTime": 1778947525
   },
   {
+    "host": "91.193.25.110",
+    "port": 443,
+    "secret": "eeee0efbf80e240e4bfb348d2c22e739da647a656e2e7275",
+    "country": "LV",
+    "addTime": 1778936944
+  },
+  {
     "host": "144.31.203.190",
     "port": 443,
     "secret": "ee583d044a53cd8f769dec28863c1a77037777772e636c6f7564666c6172652e636f6d",
     "country": "NL",
-    "addTime": 1778936944
-  },
-  {
-    "host": "202.61.241.160",
-    "port": 444,
-    "secret": "ee2341dbf12e04bbb220b77464bf98cfa568616e616b6f72692e7275",
-    "country": "DE",
     "addTime": 1778936944
   }
 ]
