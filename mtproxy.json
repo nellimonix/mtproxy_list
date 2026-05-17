@@ -77,13 +77,6 @@
     "addTime": 1778969337
   },
   {
-    "host": "static.xubi.org",
-    "port": 443,
-    "secret": "ee417e7220fb05042f38944a46b986011e7374617469632e787562692e6f7267",
-    "country": "RU",
-    "addTime": 1778969337
-  },
-  {
     "host": "promo.palantirbot.xyz",
     "port": 443,
     "secret": "eefae8fc51b22080948cf13e35ce67428574672e70616c616e746972626f742e78797a",
@@ -101,7 +94,7 @@
     "host": "connect.nolags.pw",
     "port": 443,
     "secret": "ddc64c1442e6d67631dd7d40ed1e24aef2",
-    "country": "FR",
+    "country": "US",
     "addTime": 1778969188
   },
   {
@@ -147,7 +140,14 @@
     "addTime": 1778958368
   },
   {
-    "host": "dajl.jlpokcu.cloud",
+    "host": "ewe.jlpokcu.cloud",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "RU",
+    "addTime": 1778958301
+  },
+  {
+    "host": "to4ho.he.jlpokcu.cloud",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "RU",
@@ -155,13 +155,6 @@
   },
   {
     "host": "hawejl.jlpokcu.cloud",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AU",
-    "addTime": 1778958301
-  },
-  {
-    "host": "ykpajl.jlpokcu.cloud",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "RU",
@@ -178,32 +171,11 @@
     "host": "tbojl.jlpokcu.cloud",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "RU",
-    "addTime": 1778958301
-  },
-  {
-    "host": "to4ho.he.jlpokcu.cloud",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "RU",
-    "addTime": 1778958301
-  },
-  {
-    "host": "bephu.jlpokcu.cloud",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "RU",
-    "addTime": 1778958301
-  },
-  {
-    "host": "bot.jlpokcu.cloud",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "AU",
     "addTime": 1778958301
   },
   {
-    "host": "ewe.jlpokcu.cloud",
+    "host": "ykpajl.jlpokcu.cloud",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "RU",
@@ -217,6 +189,27 @@
     "addTime": 1778958301
   },
   {
+    "host": "bot.jlpokcu.cloud",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "RU",
+    "addTime": 1778958301
+  },
+  {
+    "host": "dajl.jlpokcu.cloud",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "RU",
+    "addTime": 1778958301
+  },
+  {
+    "host": "bephu.jlpokcu.cloud",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "RU",
+    "addTime": 1778958301
+  },
+  {
     "host": "2.26.49.39",
     "port": 443,
     "secret": "7knlhldOdbUqBud0KKMAZuZwZXRyb3ZpY2gucnU",
@@ -224,17 +217,17 @@
     "addTime": 1778958300
   },
   {
-    "host": "94.125.103.42",
-    "port": 8443,
-    "secret": "eed7e9b4fa2c6108e593bd571a82f3c0e46d61696c2e7275",
-    "country": "SG",
-    "addTime": 1778958297
-  },
-  {
     "host": "72.56.33.223",
     "port": 443,
     "secret": "eed821f85a3caff97bd748701cbbc4886a74312e73746178656c2e746f70",
     "country": "US",
+    "addTime": 1778958297
+  },
+  {
+    "host": "94.125.103.42",
+    "port": 8443,
+    "secret": "eed7e9b4fa2c6108e593bd571a82f3c0e46d61696c2e7275",
+    "country": "SG",
     "addTime": 1778958297
   },
   {
@@ -333,6 +326,13 @@
     "port": 443,
     "secret": "ee583d044a53cd8f769dec28863c1a77037777772e636c6f7564666c6172652e636f6d",
     "country": "NL",
+    "addTime": 1778936944
+  },
+  {
+    "host": "love.its-work.ru",
+    "port": 443,
+    "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+    "country": "SG",
     "addTime": 1778936944
   },
   {
