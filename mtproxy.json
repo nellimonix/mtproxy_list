@@ -126,17 +126,17 @@
     "addTime": 1779055572
   },
   {
-    "host": "194.87.187.190",
-    "port": 443,
-    "secret": "eeb2ef52da30e1de29aab5ef52185c96e4636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1779055550
-  },
-  {
     "host": "186.246.16.221",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
     "country": "LV",
+    "addTime": 1779055550
+  },
+  {
+    "host": "194.87.187.190",
+    "port": 443,
+    "secret": "eeb2ef52da30e1de29aab5ef52185c96e4636c6f7564666c6172652e636f6d",
+    "country": "RU",
     "addTime": 1779055550
   },
   {
@@ -161,17 +161,17 @@
     "addTime": 1779055545
   },
   {
+    "host": "night.nolags.pw",
+    "port": 443,
+    "secret": "dddb42e911bcebf275392e32feebef9459",
+    "country": "FR",
+    "addTime": 1779055540
+  },
+  {
     "host": "132.243.213.245",
     "port": 443,
     "secret": "ee6a441d3845f1bfec1100662ce671d8ed706574726f766963682e7275",
     "country": "DE",
-    "addTime": 1779055540
-  },
-  {
-    "host": "night.nolags.pw",
-    "port": 443,
-    "secret": "dddb42e911bcebf275392e32feebef9459",
-    "country": "US",
     "addTime": 1779055540
   },
   {
@@ -224,13 +224,6 @@
     "addTime": 1779044761
   },
   {
-    "host": "217.179.6.26",
-    "port": 443,
-    "secret": "ee5b2b4257910ff329dd4aab2ffaecbec16d6170732e79616e6465782e7275",
-    "country": "FR",
-    "addTime": 1779044761
-  },
-  {
     "host": "95.85.229.13",
     "port": 443,
     "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
@@ -242,6 +235,13 @@
     "port": 443,
     "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
     "country": "DE",
+    "addTime": 1779044761
+  },
+  {
+    "host": "217.179.6.26",
+    "port": 443,
+    "secret": "ee5b2b4257910ff329dd4aab2ffaecbec16d6170732e79616e6465782e7275",
+    "country": "FR",
     "addTime": 1779044761
   },
   {
@@ -322,13 +322,6 @@
     "addTime": 1779033912
   },
   {
-    "host": "132.243.213.216",
-    "port": 443,
-    "secret": "eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275",
-    "country": "DE",
-    "addTime": 1779033909
-  },
-  {
     "host": "132.243.213.215",
     "port": 443,
     "secret": "ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275",
@@ -348,5 +341,12 @@
     "secret": "ed103e361e8f98572ec11071e45a5e8e",
     "country": "DE",
     "addTime": 1779023252
+  },
+  {
+    "host": "217.60.197.97",
+    "port": 4515,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+    "country": "AU",
+    "addTime": 1779023146
   }
 ]
