@@ -77,17 +77,17 @@
     "addTime": 1779088028
   },
   {
-    "host": "public2.mtproxygram.lol",
-    "port": 443,
-    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d",
-    "country": "PL",
-    "addTime": 1779088028
-  },
-  {
     "host": "2.26.87.69",
     "port": 443,
     "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
     "country": "US",
+    "addTime": 1779088028
+  },
+  {
+    "host": "public2.mtproxygram.lol",
+    "port": 443,
+    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d",
+    "country": "PL",
     "addTime": 1779088028
   },
   {
@@ -101,7 +101,7 @@
     "host": "mt.rimuruproject.ru",
     "port": 443,
     "secret": "ee0b32a6d19fd9f1c1f8b3e48c8638a29c79612e7275",
-    "country": "FI",
+    "country": "DE",
     "addTime": 1779077113
   },
   {
@@ -171,7 +171,7 @@
     "host": "night.nolags.pw",
     "port": 443,
     "secret": "dddb42e911bcebf275392e32feebef9459",
-    "country": "FR",
+    "country": "US",
     "addTime": 1779055540
   },
   {
@@ -255,7 +255,7 @@
     "host": "alpina.agency",
     "port": 8443,
     "secret": "eea02597a68d4821f58d17e6405c389da16164732e78352e7275",
-    "country": "SE",
+    "country": "CZ",
     "addTime": 1779044756
   },
   {
@@ -291,6 +291,13 @@
     "port": 443,
     "secret": "90f1d49e866eacebc95eb5dd574fa42a",
     "country": "DE",
+    "addTime": 1779034126
+  },
+  {
+    "host": "rkn.proxytg.space",
+    "port": 443,
+    "secret": "eedab8c006cdc477f71b1825b3082b1017726b6e2e70726f787974672e7370616365",
+    "country": "NL",
     "addTime": 1779034126
   },
   {
@@ -341,12 +348,5 @@
     "secret": "ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275",
     "country": "DE",
     "addTime": 1779033909
-  },
-  {
-    "host": "132.243.224.144",
-    "port": 443,
-    "secret": "eeecda39a76e1bc3262c8c8b01f7ba4fee706574726f766963682e7275",
-    "country": "DE",
-    "addTime": 1779033906
   }
 ]
