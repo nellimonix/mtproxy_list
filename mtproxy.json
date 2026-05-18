@@ -119,17 +119,17 @@
     "addTime": 1779109563
   },
   {
-    "host": "89.125.17.12",
-    "port": 45100,
-    "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
-    "country": "NL",
-    "addTime": 1779109543
-  },
-  {
     "host": "mt.nowaboost.com",
     "port": 853,
     "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
     "country": "DE",
+    "addTime": 1779109543
+  },
+  {
+    "host": "89.125.17.12",
+    "port": 45100,
+    "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
+    "country": "NL",
     "addTime": 1779109543
   },
   {
@@ -231,13 +231,6 @@
     "addTime": 1779055550
   },
   {
-    "host": "194.87.187.190",
-    "port": 443,
-    "secret": "eeb2ef52da30e1de29aab5ef52185c96e4636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1779055550
-  },
-  {
     "host": "kyra-vpn.myrka.digital",
     "port": 3443,
     "secret": "eeffff2fdcddddd34ffffdddd1fff8ffff6b7972612d76706e2e6d79726b612e6469676974616c",
@@ -287,13 +280,6 @@
     "addTime": 1779044904
   },
   {
-    "host": "silvpn.su",
-    "port": 443,
-    "secret": "c7d9227942a916f5d61a4203355ce80a",
-    "country": "NL",
-    "addTime": 1779044902
-  },
-  {
     "host": "free-sweden.kimt.space",
     "port": 443,
     "secret": "eefd21519ef8ace72f44ce2c088e9e5caa79612e7275",
@@ -329,17 +315,17 @@
     "addTime": 1779044761
   },
   {
-    "host": "217.179.6.26",
-    "port": 443,
-    "secret": "ee5b2b4257910ff329dd4aab2ffaecbec16d6170732e79616e6465782e7275",
-    "country": "FR",
-    "addTime": 1779044761
-  },
-  {
     "host": "132.243.213.221",
     "port": 443,
     "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
     "country": "DE",
+    "addTime": 1779044761
+  },
+  {
+    "host": "217.179.6.26",
+    "port": 443,
+    "secret": "ee5b2b4257910ff329dd4aab2ffaecbec16d6170732e79616e6465782e7275",
+    "country": "FR",
     "addTime": 1779044761
   },
   {
@@ -348,5 +334,19 @@
     "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
     "country": "PL",
     "addTime": 1779044761
+  },
+  {
+    "host": "alpina.agency",
+    "port": 8443,
+    "secret": "eea02597a68d4821f58d17e6405c389da16164732e78352e7275",
+    "country": "CZ",
+    "addTime": 1779044756
+  },
+  {
+    "host": "proxy.nexorabust.ru",
+    "port": 443,
+    "secret": "dd1cebd1dd4f8441f8af01177087ee9918",
+    "country": "LV",
+    "addTime": 1779044754
   }
 ]
