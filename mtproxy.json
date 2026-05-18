@@ -49,16 +49,16 @@
     "addTime": 1779088028
   },
   {
-    "host": "public1.mtproxygram.lol",
+    "host": "public2.mtproxygram.lol",
     "port": 443,
-    "secret": "ee7471af9b1a7a8e098ef15e3dad2b773a62726f777365722e79616e6465782e636f6d",
+    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d",
     "country": "PL",
     "addTime": 1779088028
   },
   {
-    "host": "public2.mtproxygram.lol",
+    "host": "public1.mtproxygram.lol",
     "port": 443,
-    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d",
+    "secret": "ee7471af9b1a7a8e098ef15e3dad2b773a62726f777365722e79616e6465782e636f6d",
     "country": "PL",
     "addTime": 1779088028
   },
@@ -210,17 +210,17 @@
     "addTime": 1779044761
   },
   {
-    "host": "132.243.213.221",
-    "port": 443,
-    "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
-    "country": "DE",
-    "addTime": 1779044761
-  },
-  {
     "host": "95.85.229.13",
     "port": 443,
     "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
     "country": "PL",
+    "addTime": 1779044761
+  },
+  {
+    "host": "132.243.213.221",
+    "port": 443,
+    "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
+    "country": "DE",
     "addTime": 1779044761
   },
   {
@@ -229,13 +229,6 @@
     "secret": "ee6cb2e7c86df37f8515841a8200ae9687676f6f676c652e636f6d",
     "country": "FI",
     "addTime": 1779044761
-  },
-  {
-    "host": "alpina.agency",
-    "port": 8443,
-    "secret": "eea02597a68d4821f58d17e6405c389da16164732e78352e7275",
-    "country": "SE",
-    "addTime": 1779044756
   },
   {
     "host": "proxy.nexorabust.ru",
@@ -257,13 +250,6 @@
     "secret": "ee67ddd226a29e40d7f3d9c81acb8596287765622e6d61782e7275",
     "country": "DE",
     "addTime": 1779034133
-  },
-  {
-    "host": "ya.silvpn.su",
-    "port": 443,
-    "secret": "eeea7a1978e167c0842ce31a16749038da79612e6e657763646e2e7275",
-    "country": "RU",
-    "addTime": 1779034131
   },
   {
     "host": "146.103.41.249",
@@ -341,6 +327,20 @@
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
     "country": "AU",
     "addTime": 1779023146
+  },
+  {
+    "host": "2.26.126.74",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "country": "US",
+    "addTime": 1779023146
+  },
+  {
+    "host": "impgo.notdev.space",
+    "port": 443,
+    "secret": "ee150aca15ff125cf3668f5aca79ce3509696d70676f2e6e6f746465762e7370616365",
+    "country": "DE",
+    "addTime": 1779023142
   },
   {
     "host": "imp.notdev.space",
