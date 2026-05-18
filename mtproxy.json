@@ -147,6 +147,13 @@
     "addTime": 1779098865
   },
   {
+    "host": "185.246.116.99",
+    "port": 443,
+    "secret": "eec85ddd7d5cb151f92e5c70711f5d11b86170692e74656c6567612e696e666f",
+    "country": "RU",
+    "addTime": 1779098775
+  },
+  {
     "host": "love.kosmojoy.ru",
     "port": 443,
     "secret": "eead9639a82579888625e98a72876ab52531632e7275",
@@ -238,17 +245,17 @@
     "addTime": 1779055545
   },
   {
+    "host": "night.nolags.pw",
+    "port": 443,
+    "secret": "dddb42e911bcebf275392e32feebef9459",
+    "country": "FR",
+    "addTime": 1779055540
+  },
+  {
     "host": "132.243.213.245",
     "port": 443,
     "secret": "ee6a441d3845f1bfec1100662ce671d8ed706574726f766963682e7275",
     "country": "DE",
-    "addTime": 1779055540
-  },
-  {
-    "host": "night.nolags.pw",
-    "port": 443,
-    "secret": "dddb42e911bcebf275392e32feebef9459",
-    "country": "US",
     "addTime": 1779055540
   },
   {
@@ -280,13 +287,6 @@
     "addTime": 1779044798
   },
   {
-    "host": "dash.myrka.digital",
-    "port": 8443,
-    "secret": "ee8888777766664444555566667777888874742e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1779044762
-  },
-  {
     "host": "eng.myrka.digital",
     "port": 4515,
     "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
@@ -294,17 +294,24 @@
     "addTime": 1779044762
   },
   {
-    "host": "95.85.229.13",
-    "port": 443,
-    "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
-    "country": "PL",
-    "addTime": 1779044761
+    "host": "dash.myrka.digital",
+    "port": 8443,
+    "secret": "ee8888777766664444555566667777888874742e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1779044762
   },
   {
     "host": "91.211.114.85",
     "port": 8443,
     "secret": "ee6cb2e7c86df37f8515841a8200ae9687676f6f676c652e636f6d",
     "country": "FI",
+    "addTime": 1779044761
+  },
+  {
+    "host": "95.85.229.13",
+    "port": 443,
+    "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
+    "country": "PL",
     "addTime": 1779044761
   },
   {
@@ -341,12 +348,5 @@
     "secret": "ee636c6f7564666c6172652e636f6db6",
     "country": "DE",
     "addTime": 1779044714
-  },
-  {
-    "host": "64.188.65.59",
-    "port": 443,
-    "secret": "ee67ddd226a29e40d7f3d9c81acb8596287765622e6d61782e7275",
-    "country": "DE",
-    "addTime": 1779034133
   }
 ]
