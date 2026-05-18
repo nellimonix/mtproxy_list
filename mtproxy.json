@@ -42,6 +42,13 @@
     "addTime": 1779055559
   },
   {
+    "host": "194.87.187.190",
+    "port": 443,
+    "secret": "eeb2ef52da30e1de29aab5ef52185c96e4636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1779055550
+  },
+  {
     "host": "186.246.16.221",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
@@ -112,16 +119,16 @@
     "addTime": 1779044798
   },
   {
-    "host": "dash.myrka.digital",
-    "port": 8443,
-    "secret": "ee8888777766664444555566667777888874742e6d79726b612e6469676974616c",
+    "host": "eng.myrka.digital",
+    "port": 4515,
+    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
     "country": "NL",
     "addTime": 1779044762
   },
   {
-    "host": "eng.myrka.digital",
-    "port": 4515,
-    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
+    "host": "dash.myrka.digital",
+    "port": 8443,
+    "secret": "ee8888777766664444555566667777888874742e6d79726b612e6469676974616c",
     "country": "NL",
     "addTime": 1779044762
   },
@@ -238,16 +245,16 @@
     "addTime": 1779033912
   },
   {
-    "host": "132.243.213.215",
+    "host": "132.243.213.216",
     "port": 443,
-    "secret": "ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275",
+    "secret": "eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275",
     "country": "DE",
     "addTime": 1779033909
   },
   {
-    "host": "132.243.213.216",
+    "host": "132.243.213.215",
     "port": 443,
-    "secret": "eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275",
+    "secret": "ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275",
     "country": "DE",
     "addTime": 1779033909
   },
@@ -341,12 +348,5 @@
     "secret": "ee4562bb45c8f3ea3dc772811fb97d0e897477656e7475722e636f6d",
     "country": "NL",
     "addTime": 1779012305
-  },
-  {
-    "host": "132.243.224.115",
-    "port": 443,
-    "secret": "ee64fa232998f0194a2cc5f5d0f4d1c9ae706574726f766963682e7275",
-    "country": "DE",
-    "addTime": 1779012302
   }
 ]
