@@ -14,11 +14,25 @@
     "addTime": 1779131129
   },
   {
+    "host": "154.83.208.251",
+    "port": 443,
+    "secret": "ddad0fc46212cd07e05b313ca24e426f85",
+    "country": "NL",
+    "addTime": 1779131127
+  },
+  {
     "host": "178.105.137.152",
     "port": 443,
     "secret": "eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d",
     "country": "DE",
     "addTime": 1779131068
+  },
+  {
+    "host": "78.17.71.42",
+    "port": 443,
+    "secret": "eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275",
+    "country": "NL",
+    "addTime": 1779131067
   },
   {
     "host": "95.163.210.212",
@@ -171,7 +185,7 @@
     "host": "mt.rimuruproject.ru",
     "port": 443,
     "secret": "ee0b32a6d19fd9f1c1f8b3e48c8638a29c79612e7275",
-    "country": "NL",
+    "country": "DE",
     "addTime": 1779077113
   },
   {
@@ -234,7 +248,7 @@
     "host": "night.nolags.pw",
     "port": 443,
     "secret": "dddb42e911bcebf275392e32feebef9459",
-    "country": "US",
+    "country": "FR",
     "addTime": 1779055540
   },
   {
@@ -287,13 +301,6 @@
     "addTime": 1779044762
   },
   {
-    "host": "95.85.229.13",
-    "port": 443,
-    "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
-    "country": "PL",
-    "addTime": 1779044761
-  },
-  {
     "host": "132.243.213.221",
     "port": 443,
     "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
@@ -312,6 +319,13 @@
     "port": 443,
     "secret": "ee5b2b4257910ff329dd4aab2ffaecbec16d6170732e79616e6465782e7275",
     "country": "FR",
+    "addTime": 1779044761
+  },
+  {
+    "host": "95.85.229.13",
+    "port": 443,
+    "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
+    "country": "PL",
     "addTime": 1779044761
   },
   {
@@ -334,19 +348,5 @@
     "secret": "ee636c6f7564666c6172652e636f6db6",
     "country": "DE",
     "addTime": 1779044714
-  },
-  {
-    "host": "64.188.65.59",
-    "port": 443,
-    "secret": "ee67ddd226a29e40d7f3d9c81acb8596287765622e6d61782e7275",
-    "country": "DE",
-    "addTime": 1779034133
-  },
-  {
-    "host": "ya.silvpn.su",
-    "port": 443,
-    "secret": "eeea7a1978e167c0842ce31a16749038da79612e6e657763646e2e7275",
-    "country": "RU",
-    "addTime": 1779034131
   }
 ]
