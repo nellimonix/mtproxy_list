@@ -87,7 +87,7 @@
     "host": "mt.rimuruproject.ru",
     "port": 443,
     "secret": "ee0b32a6d19fd9f1c1f8b3e48c8638a29c79612e7275",
-    "country": "DE",
+    "country": "NL",
     "addTime": 1779077113
   },
   {
@@ -124,6 +124,13 @@
     "secret": "fad015155defc3a8bd8ebc16b5d2b300",
     "country": "SE",
     "addTime": 1779055572
+  },
+  {
+    "host": "194.87.187.190",
+    "port": 443,
+    "secret": "eeb2ef52da30e1de29aab5ef52185c96e4636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1779055550
   },
   {
     "host": "186.246.16.221",
@@ -196,13 +203,6 @@
     "addTime": 1779044798
   },
   {
-    "host": "dash.myrka.digital",
-    "port": 8443,
-    "secret": "ee8888777766664444555566667777888874742e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1779044762
-  },
-  {
     "host": "eng.myrka.digital",
     "port": 4515,
     "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
@@ -210,11 +210,11 @@
     "addTime": 1779044762
   },
   {
-    "host": "95.85.229.13",
-    "port": 443,
-    "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
-    "country": "PL",
-    "addTime": 1779044761
+    "host": "dash.myrka.digital",
+    "port": 8443,
+    "secret": "ee8888777766664444555566667777888874742e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1779044762
   },
   {
     "host": "91.211.114.85",
@@ -228,6 +228,13 @@
     "port": 443,
     "secret": "ee5b2b4257910ff329dd4aab2ffaecbec16d6170732e79616e6465782e7275",
     "country": "FR",
+    "addTime": 1779044761
+  },
+  {
+    "host": "95.85.229.13",
+    "port": 443,
+    "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
+    "country": "PL",
     "addTime": 1779044761
   },
   {
@@ -341,12 +348,5 @@
     "secret": "ed103e361e8f98572ec11071e45a5e8e",
     "country": "DE",
     "addTime": 1779023252
-  },
-  {
-    "host": "217.60.197.97",
-    "port": 4515,
-    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
-    "country": "AU",
-    "addTime": 1779023146
   }
 ]
