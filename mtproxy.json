@@ -63,13 +63,6 @@
     "addTime": 1779055540
   },
   {
-    "host": "132.243.213.245",
-    "port": 443,
-    "secret": "ee6a441d3845f1bfec1100662ce671d8ed706574726f766963682e7275",
-    "country": "DE",
-    "addTime": 1779055540
-  },
-  {
     "host": "free-germany3.kimt.space",
     "port": 443,
     "secret": "ee5ba7f2f72c66e5f318737c167480d2c679612e7275",
@@ -82,13 +75,6 @@
     "secret": "ee4fb60224ec3ba77691889623ffd44dc8667265652e70726f70726f786965732e746f70",
     "country": "US",
     "addTime": 1779044904
-  },
-  {
-    "host": "silvpn.su",
-    "port": 443,
-    "secret": "c7d9227942a916f5d61a4203355ce80a",
-    "country": "NL",
-    "addTime": 1779044902
   },
   {
     "host": "free-sweden.kimt.space",
@@ -112,9 +98,9 @@
     "addTime": 1779044798
   },
   {
-    "host": "dash.myrka.digital",
-    "port": 8443,
-    "secret": "ee8888777766664444555566667777888874742e6d79726b612e6469676974616c",
+    "host": "eng.myrka.digital",
+    "port": 4515,
+    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
     "country": "NL",
     "addTime": 1779044762
   },
@@ -126,9 +112,9 @@
     "addTime": 1779044762
   },
   {
-    "host": "eng.myrka.digital",
-    "port": 4515,
-    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
+    "host": "dash.myrka.digital",
+    "port": 8443,
+    "secret": "ee8888777766664444555566667777888874742e6d79726b612e6469676974616c",
     "country": "NL",
     "addTime": 1779044762
   },
@@ -151,13 +137,6 @@
     "port": 443,
     "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
     "country": "PL",
-    "addTime": 1779044761
-  },
-  {
-    "host": "132.243.213.221",
-    "port": 443,
-    "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
-    "country": "DE",
     "addTime": 1779044761
   },
   {
@@ -301,9 +280,9 @@
     "addTime": 1779023142
   },
   {
-    "host": "impbest.notdev.space",
+    "host": "impgo.notdev.space",
     "port": 443,
-    "secret": "ee75529ffb1208fa113ea0c2c6d6e4b2b9696d70626573742e6e6f746465762e7370616365",
+    "secret": "ee150aca15ff125cf3668f5aca79ce3509696d70676f2e6e6f746465762e7370616365",
     "country": "DE",
     "addTime": 1779023142
   },
@@ -315,9 +294,9 @@
     "addTime": 1779023142
   },
   {
-    "host": "impgo.notdev.space",
+    "host": "impbest.notdev.space",
     "port": 443,
-    "secret": "ee150aca15ff125cf3668f5aca79ce3509696d70676f2e6e6f746465762e7370616365",
+    "secret": "ee75529ffb1208fa113ea0c2c6d6e4b2b9696d70626573742e6e6f746465762e7370616365",
     "country": "DE",
     "addTime": 1779023142
   },
@@ -336,6 +315,13 @@
     "addTime": 1779012311
   },
   {
+    "host": "dealer5-nl.dealer.ac",
+    "port": 8443,
+    "secret": "ee4562bb45c8f3ea3dc772811fb97d0e897477656e7475722e636f6d",
+    "country": "NL",
+    "addTime": 1779012305
+  },
+  {
     "host": "tyan.arixo.shop",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
@@ -348,5 +334,19 @@
     "secret": "eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365",
     "country": "NL",
     "addTime": 1779012305
+  },
+  {
+    "host": "132.243.224.115",
+    "port": 443,
+    "secret": "ee64fa232998f0194a2cc5f5d0f4d1c9ae706574726f766963682e7275",
+    "country": "DE",
+    "addTime": 1779012302
+  },
+  {
+    "host": "2.26.87.234",
+    "port": 443,
+    "secret": "eecf2a450b5d04742848c5271703a9d401706c617932676f2e636c6f7564",
+    "country": "US",
+    "addTime": 1779001751
   }
 ]
