@@ -35,13 +35,6 @@
     "addTime": 1779120337
   },
   {
-    "host": "hl.routefastnet.online",
-    "port": 443,
-    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65",
-    "country": "NL",
-    "addTime": 1779120273
-  },
-  {
     "host": "proxy.alpina.ws",
     "port": 8443,
     "secret": "ee76565183e0c5782d8ea5fbc0c6e0e9f770726f78792e616c70696e612e7773",
@@ -143,7 +136,7 @@
     "host": "mt.rimuruproject.ru",
     "port": 443,
     "secret": "ee0b32a6d19fd9f1c1f8b3e48c8638a29c79612e7275",
-    "country": "NL",
+    "country": "DE",
     "addTime": 1779077113
   },
   {
@@ -210,18 +203,18 @@
     "addTime": 1779055545
   },
   {
-    "host": "132.243.213.245",
-    "port": 443,
-    "secret": "ee6a441d3845f1bfec1100662ce671d8ed706574726f766963682e7275",
-    "country": "DE",
-    "addTime": 1779055540
-  },
-  {
     "host": "night.nolags.pw",
     "port": 443,
     "secret": "dddb42e911bcebf275392e32feebef9459",
-    "country": "FR",
+    "country": "US",
     "addTime": 1779055540
+  },
+  {
+    "host": "free-germany3.kimt.space",
+    "port": 443,
+    "secret": "ee5ba7f2f72c66e5f318737c167480d2c679612e7275",
+    "country": "PL",
+    "addTime": 1779044915
   },
   {
     "host": "free.proproxies.top",
@@ -273,17 +266,17 @@
     "addTime": 1779044761
   },
   {
-    "host": "91.211.114.85",
-    "port": 8443,
-    "secret": "ee6cb2e7c86df37f8515841a8200ae9687676f6f676c652e636f6d",
-    "country": "FI",
-    "addTime": 1779044761
-  },
-  {
     "host": "217.179.6.26",
     "port": 443,
     "secret": "ee5b2b4257910ff329dd4aab2ffaecbec16d6170732e79616e6465782e7275",
     "country": "FR",
+    "addTime": 1779044761
+  },
+  {
+    "host": "91.211.114.85",
+    "port": 8443,
+    "secret": "ee6cb2e7c86df37f8515841a8200ae9687676f6f676c652e636f6d",
+    "country": "FI",
     "addTime": 1779044761
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee9676ca2ce8626e43d65ab05b753c0757626c6e63776974686c6f76652e636f6d",
     "country": "SE",
     "addTime": 1779033916
+  },
+  {
+    "host": "78.17.62.66",
+    "port": 443,
+    "secret": "eef0050d30441bab41f60acae779df0c40766473696e612e7275",
+    "country": "AE",
+    "addTime": 1779033915
   }
 ]
