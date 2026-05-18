@@ -28,13 +28,6 @@
     "addTime": 1779098775
   },
   {
-    "host": "love.kosmojoy.ru",
-    "port": 443,
-    "secret": "eead9639a82579888625e98a72876ab52531632e7275",
-    "country": "RU",
-    "addTime": 1779098774
-  },
-  {
     "host": "proxy2.fin-ra.pro",
     "port": 8443,
     "secret": "ee24e07bbc4b4290c4251d17c437b13e8670726f7879322e66696e2d72612e70726f",
@@ -49,16 +42,16 @@
     "addTime": 1779088028
   },
   {
-    "host": "public1.mtproxygram.lol",
+    "host": "public2.mtproxygram.lol",
     "port": 443,
-    "secret": "ee7471af9b1a7a8e098ef15e3dad2b773a62726f777365722e79616e6465782e636f6d",
+    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d",
     "country": "PL",
     "addTime": 1779088028
   },
   {
-    "host": "public2.mtproxygram.lol",
+    "host": "public1.mtproxygram.lol",
     "port": 443,
-    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d",
+    "secret": "ee7471af9b1a7a8e098ef15e3dad2b773a62726f777365722e79616e6465782e636f6d",
     "country": "PL",
     "addTime": 1779088028
   },
@@ -140,17 +133,17 @@
     "addTime": 1779055546
   },
   {
-    "host": "132.243.213.245",
-    "port": 443,
-    "secret": "ee6a441d3845f1bfec1100662ce671d8ed706574726f766963682e7275",
-    "country": "DE",
-    "addTime": 1779055540
-  },
-  {
     "host": "night.nolags.pw",
     "port": 443,
     "secret": "dddb42e911bcebf275392e32feebef9459",
     "country": "US",
+    "addTime": 1779055540
+  },
+  {
+    "host": "132.243.213.245",
+    "port": 443,
+    "secret": "ee6a441d3845f1bfec1100662ce671d8ed706574726f766963682e7275",
+    "country": "DE",
     "addTime": 1779055540
   },
   {
@@ -196,6 +189,13 @@
     "addTime": 1779044762
   },
   {
+    "host": "132.243.213.221",
+    "port": 443,
+    "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
+    "country": "DE",
+    "addTime": 1779044761
+  },
+  {
     "host": "95.85.229.13",
     "port": 443,
     "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
@@ -207,13 +207,6 @@
     "port": 443,
     "secret": "ee5b2b4257910ff329dd4aab2ffaecbec16d6170732e79616e6465782e7275",
     "country": "FR",
-    "addTime": 1779044761
-  },
-  {
-    "host": "132.243.213.221",
-    "port": 443,
-    "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
-    "country": "DE",
     "addTime": 1779044761
   },
   {
@@ -329,9 +322,9 @@
     "addTime": 1779023146
   },
   {
-    "host": "impgo.notdev.space",
+    "host": "imp.notdev.space",
     "port": 443,
-    "secret": "ee150aca15ff125cf3668f5aca79ce3509696d70676f2e6e6f746465762e7370616365",
+    "secret": "ee4dd34bbd3cd14b113d21f5aab9b28a94696d702e6e6f746465762e7370616365",
     "country": "DE",
     "addTime": 1779023142
   },
@@ -343,9 +336,16 @@
     "addTime": 1779023142
   },
   {
-    "host": "imppro.notdev.space",
+    "host": "impgo.notdev.space",
     "port": 443,
-    "secret": "ee827fecc6f53280cf4912efb5508f522f696d7070726f2e6e6f746465762e7370616365",
+    "secret": "ee150aca15ff125cf3668f5aca79ce3509696d70676f2e6e6f746465762e7370616365",
+    "country": "DE",
+    "addTime": 1779023142
+  },
+  {
+    "host": "impforyou.notdev.space",
+    "port": 443,
+    "secret": "ee425ca7ba97f558aca6347b4fe6879943696d70666f72796f752e6e6f746465762e7370616365",
     "country": "DE",
     "addTime": 1779023142
   }
