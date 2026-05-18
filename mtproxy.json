@@ -91,16 +91,16 @@
     "addTime": 1779142487
   },
   {
-    "host": "bg.proxy-tlg.ru",
+    "host": "tg.proxy-tlg.ru",
     "port": 443,
-    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
+    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
   {
-    "host": "tg.proxy-tlg.ru",
+    "host": "bg.proxy-tlg.ru",
     "port": 443,
-    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
+    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
@@ -297,8 +297,15 @@
     "host": "mt.rimuruproject.ru",
     "port": 443,
     "secret": "ee0b32a6d19fd9f1c1f8b3e48c8638a29c79612e7275",
-    "country": "DE",
+    "country": "NL",
     "addTime": 1779077113
+  },
+  {
+    "host": "s1.pavelkazancev02.ru",
+    "port": 443,
+    "secret": "ee668d6f276a6870f656b4df70fb23c4b77362657262616e6b2e7275",
+    "country": "RU",
+    "addTime": 1779066332
   },
   {
     "host": "95.163.214.122",
@@ -341,12 +348,5 @@
     "secret": "eeffff2fdcddddd34ffffdddd1fff8ffff6b7972612d76706e2e6d79726b612e6469676974616c",
     "country": "NL",
     "addTime": 1779055547
-  },
-  {
-    "host": "94.156.102.242",
-    "port": 443,
-    "secret": "ee673a738a425c07d84eb5724b97dd32f17777772e676f6f676c652e636f6d",
-    "country": "DE",
-    "addTime": 1779055546
   }
 ]
