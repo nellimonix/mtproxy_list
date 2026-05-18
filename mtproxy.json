@@ -21,13 +21,6 @@
     "addTime": 1779131068
   },
   {
-    "host": "78.17.71.42",
-    "port": 443,
-    "secret": "eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1779131067
-  },
-  {
     "host": "95.163.210.212",
     "port": 443,
     "secret": "264776c3fb4f0d83e5c85cd3f582505a",
@@ -49,17 +42,17 @@
     "addTime": 1779120378
   },
   {
-    "host": "haemolytic.semiquaver.tragedian.pilipinoteleserye.com",
-    "port": 443,
-    "secret": "eef3fbcc0abec6b67e3404ff0ae3985b03647a656e2e7275",
-    "country": "DE",
-    "addTime": 1779120337
-  },
-  {
     "host": "tg5.656c797369756d.app",
     "port": 8888,
     "secret": "ee6cb451efb8f357733feda81aa8e8066c72752d6d736b332e6170692e6d696e65756e696f6e2e6e6574",
     "country": "RU",
+    "addTime": 1779120337
+  },
+  {
+    "host": "haemolytic.semiquaver.tragedian.pilipinoteleserye.com",
+    "port": 443,
+    "secret": "eef3fbcc0abec6b67e3404ff0ae3985b03647a656e2e7275",
+    "country": "DE",
     "addTime": 1779120337
   },
   {
@@ -70,11 +63,11 @@
     "addTime": 1779120273
   },
   {
-    "host": "186.246.18.244",
-    "port": 443,
-    "secret": "ee2086691bf3db011a90a21bbd34cc29647777772e6d6963726f736f66742e636f6d",
-    "country": "LV",
-    "addTime": 1779120271
+    "host": "195.254.165.233",
+    "port": 65535,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "country": "IR",
+    "addTime": 1779120269
   },
   {
     "host": "proxy.alpina.ws",
@@ -89,6 +82,13 @@
     "secret": "ee4fb60224ec3ba77691889623ffd44dc8667265652e70726f70726f786965732e746f70",
     "country": "RU",
     "addTime": 1779109816
+  },
+  {
+    "host": "45.148.117.175",
+    "port": 443,
+    "secret": "ee633f9e25bac95a2c07879eb1c8cd42cd31632e7275",
+    "country": "DE",
+    "addTime": 1779109636
   },
   {
     "host": "185.70.186.145",
@@ -171,7 +171,7 @@
     "host": "mt.rimuruproject.ru",
     "port": 443,
     "secret": "ee0b32a6d19fd9f1c1f8b3e48c8638a29c79612e7275",
-    "country": "DE",
+    "country": "NL",
     "addTime": 1779077113
   },
   {
@@ -210,13 +210,6 @@
     "addTime": 1779055550
   },
   {
-    "host": "194.87.187.190",
-    "port": 443,
-    "secret": "eeb2ef52da30e1de29aab5ef52185c96e4636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1779055550
-  },
-  {
     "host": "kyra-vpn.myrka.digital",
     "port": 3443,
     "secret": "eeffff2fdcddddd34ffffdddd1fff8ffff6b7972612d76706e2e6d79726b612e6469676974616c",
@@ -248,7 +241,7 @@
     "host": "night.nolags.pw",
     "port": 443,
     "secret": "dddb42e911bcebf275392e32feebef9459",
-    "country": "US",
+    "country": "FR",
     "addTime": 1779055540
   },
   {
@@ -294,17 +287,10 @@
     "addTime": 1779044762
   },
   {
-    "host": "91.211.114.85",
-    "port": 8443,
-    "secret": "ee6cb2e7c86df37f8515841a8200ae9687676f6f676c652e636f6d",
-    "country": "FI",
-    "addTime": 1779044761
-  },
-  {
-    "host": "132.243.213.221",
+    "host": "95.85.229.13",
     "port": 443,
-    "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
-    "country": "DE",
+    "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
+    "country": "PL",
     "addTime": 1779044761
   },
   {
@@ -315,10 +301,17 @@
     "addTime": 1779044761
   },
   {
-    "host": "95.85.229.13",
+    "host": "132.243.213.221",
     "port": 443,
-    "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
-    "country": "PL",
+    "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
+    "country": "DE",
+    "addTime": 1779044761
+  },
+  {
+    "host": "91.211.114.85",
+    "port": 8443,
+    "secret": "ee6cb2e7c86df37f8515841a8200ae9687676f6f676c652e636f6d",
+    "country": "FI",
     "addTime": 1779044761
   },
   {
@@ -327,6 +320,13 @@
     "secret": "eea02597a68d4821f58d17e6405c389da16164732e78352e7275",
     "country": "CZ",
     "addTime": 1779044756
+  },
+  {
+    "host": "proxy.nexorabust.ru",
+    "port": 443,
+    "secret": "dd1cebd1dd4f8441f8af01177087ee9918",
+    "country": "LV",
+    "addTime": 1779044754
   },
   {
     "host": "46.225.29.180",
@@ -343,10 +343,10 @@
     "addTime": 1779034133
   },
   {
-    "host": "146.103.41.249",
+    "host": "ya.silvpn.su",
     "port": 443,
-    "secret": "90f1d49e866eacebc95eb5dd574fa42a",
-    "country": "DE",
-    "addTime": 1779034126
+    "secret": "eeea7a1978e167c0842ce31a16749038da79612e6e657763646e2e7275",
+    "country": "RU",
+    "addTime": 1779034131
   }
 ]
