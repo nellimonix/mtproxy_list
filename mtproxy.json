@@ -70,9 +70,9 @@
     "addTime": 1779088091
   },
   {
-    "host": "public2.mtproxygram.lol",
+    "host": "public1.mtproxygram.lol",
     "port": 443,
-    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d",
+    "secret": "ee7471af9b1a7a8e098ef15e3dad2b773a62726f777365722e79616e6465782e636f6d",
     "country": "PL",
     "addTime": 1779088028
   },
@@ -84,9 +84,9 @@
     "addTime": 1779088028
   },
   {
-    "host": "public1.mtproxygram.lol",
+    "host": "public2.mtproxygram.lol",
     "port": 443,
-    "secret": "ee7471af9b1a7a8e098ef15e3dad2b773a62726f777365722e79616e6465782e636f6d",
+    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d",
     "country": "PL",
     "addTime": 1779088028
   },
@@ -224,10 +224,10 @@
     "addTime": 1779044762
   },
   {
-    "host": "95.85.229.13",
+    "host": "217.179.6.26",
     "port": 443,
-    "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
-    "country": "PL",
+    "secret": "ee5b2b4257910ff329dd4aab2ffaecbec16d6170732e79616e6465782e7275",
+    "country": "FR",
     "addTime": 1779044761
   },
   {
@@ -238,25 +238,18 @@
     "addTime": 1779044761
   },
   {
+    "host": "95.85.229.13",
+    "port": 443,
+    "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
+    "country": "PL",
+    "addTime": 1779044761
+  },
+  {
     "host": "132.243.213.221",
     "port": 443,
     "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
     "country": "DE",
     "addTime": 1779044761
-  },
-  {
-    "host": "217.179.6.26",
-    "port": 443,
-    "secret": "ee5b2b4257910ff329dd4aab2ffaecbec16d6170732e79616e6465782e7275",
-    "country": "FR",
-    "addTime": 1779044761
-  },
-  {
-    "host": "alpina.agency",
-    "port": 8443,
-    "secret": "eea02597a68d4821f58d17e6405c389da16164732e78352e7275",
-    "country": "SE",
-    "addTime": 1779044756
   },
   {
     "host": "proxy.nexorabust.ru",
@@ -280,11 +273,11 @@
     "addTime": 1779034133
   },
   {
-    "host": "rkn.proxytg.space",
+    "host": "ya.silvpn.su",
     "port": 443,
-    "secret": "eedab8c006cdc477f71b1825b3082b1017726b6e2e70726f787974672e7370616365",
-    "country": "NL",
-    "addTime": 1779034126
+    "secret": "eeea7a1978e167c0842ce31a16749038da79612e6e657763646e2e7275",
+    "country": "RU",
+    "addTime": 1779034131
   },
   {
     "host": "146.103.41.249",
@@ -348,5 +341,12 @@
     "secret": "eeecda39a76e1bc3262c8c8b01f7ba4fee706574726f766963682e7275",
     "country": "DE",
     "addTime": 1779033906
+  },
+  {
+    "host": "109.122.196.48",
+    "port": 443,
+    "secret": "ed103e361e8f98572ec11071e45a5e8e",
+    "country": "DE",
+    "addTime": 1779023252
   }
 ]
