@@ -35,6 +35,13 @@
     "addTime": 1779120337
   },
   {
+    "host": "hl.routefastnet.online",
+    "port": 443,
+    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65",
+    "country": "NL",
+    "addTime": 1779120273
+  },
+  {
     "host": "proxy.alpina.ws",
     "port": 8443,
     "secret": "ee76565183e0c5782d8ea5fbc0c6e0e9f770726f78792e616c70696e612e7773",
@@ -49,6 +56,13 @@
     "addTime": 1779109816
   },
   {
+    "host": "45.148.117.175",
+    "port": 443,
+    "secret": "ee633f9e25bac95a2c07879eb1c8cd42cd31632e7275",
+    "country": "DE",
+    "addTime": 1779109636
+  },
+  {
     "host": "185.70.186.145",
     "port": 8443,
     "secret": "eea94a50c3db2b9e640351831e8bd42bba7777772e676f6f676c652e636f6d",
@@ -56,17 +70,17 @@
     "addTime": 1779109563
   },
   {
-    "host": "89.125.17.12",
-    "port": 45100,
-    "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
-    "country": "NL",
-    "addTime": 1779109543
-  },
-  {
     "host": "mt.nowaboost.com",
     "port": 853,
     "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
     "country": "DE",
+    "addTime": 1779109543
+  },
+  {
+    "host": "89.125.17.12",
+    "port": 45100,
+    "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
+    "country": "NL",
     "addTime": 1779109543
   },
   {
@@ -168,13 +182,6 @@
     "addTime": 1779055572
   },
   {
-    "host": "194.87.187.190",
-    "port": 443,
-    "secret": "eeb2ef52da30e1de29aab5ef52185c96e4636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1779055550
-  },
-  {
     "host": "186.246.16.221",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
@@ -213,15 +220,8 @@
     "host": "night.nolags.pw",
     "port": 443,
     "secret": "dddb42e911bcebf275392e32feebef9459",
-    "country": "US",
+    "country": "FR",
     "addTime": 1779055540
-  },
-  {
-    "host": "free-germany3.kimt.space",
-    "port": 443,
-    "secret": "ee5ba7f2f72c66e5f318737c167480d2c679612e7275",
-    "country": "PL",
-    "addTime": 1779044915
   },
   {
     "host": "free.proproxies.top",
@@ -259,10 +259,10 @@
     "addTime": 1779044762
   },
   {
-    "host": "91.211.114.85",
-    "port": 8443,
-    "secret": "ee6cb2e7c86df37f8515841a8200ae9687676f6f676c652e636f6d",
-    "country": "FI",
+    "host": "132.243.213.221",
+    "port": 443,
+    "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
+    "country": "DE",
     "addTime": 1779044761
   },
   {
@@ -273,17 +273,17 @@
     "addTime": 1779044761
   },
   {
+    "host": "91.211.114.85",
+    "port": 8443,
+    "secret": "ee6cb2e7c86df37f8515841a8200ae9687676f6f676c652e636f6d",
+    "country": "FI",
+    "addTime": 1779044761
+  },
+  {
     "host": "217.179.6.26",
     "port": 443,
     "secret": "ee5b2b4257910ff329dd4aab2ffaecbec16d6170732e79616e6465782e7275",
     "country": "FR",
-    "addTime": 1779044761
-  },
-  {
-    "host": "132.243.213.221",
-    "port": 443,
-    "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
-    "country": "DE",
     "addTime": 1779044761
   },
   {
@@ -315,6 +315,13 @@
     "addTime": 1779034133
   },
   {
+    "host": "ya.silvpn.su",
+    "port": 443,
+    "secret": "eeea7a1978e167c0842ce31a16749038da79612e6e657763646e2e7275",
+    "country": "RU",
+    "addTime": 1779034131
+  },
+  {
     "host": "146.103.41.249",
     "port": 443,
     "secret": "90f1d49e866eacebc95eb5dd574fa42a",
@@ -341,12 +348,5 @@
     "secret": "ee9676ca2ce8626e43d65ab05b753c0757626c6e63776974686c6f76652e636f6d",
     "country": "SE",
     "addTime": 1779033916
-  },
-  {
-    "host": "78.17.62.66",
-    "port": 443,
-    "secret": "eef0050d30441bab41f60acae779df0c40766473696e612e7275",
-    "country": "AE",
-    "addTime": 1779033915
   }
 ]
