@@ -28,13 +28,6 @@
     "addTime": 1779142522
   },
   {
-    "host": "smile.myrka.digital",
-    "port": 1448,
-    "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
-    "country": "DE",
-    "addTime": 1779142498
-  },
-  {
     "host": "178.105.161.83",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -70,17 +63,17 @@
     "addTime": 1779142491
   },
   {
-    "host": "mtproxy.mdnk.fun",
-    "port": 443,
-    "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1779142490
-  },
-  {
     "host": "rkn.prxtoday.space",
     "port": 443,
     "secret": "eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365",
     "country": "NL",
+    "addTime": 1779142490
+  },
+  {
+    "host": "mtproxy.mdnk.fun",
+    "port": 443,
+    "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
+    "country": "US",
     "addTime": 1779142490
   },
   {
@@ -91,16 +84,16 @@
     "addTime": 1779142487
   },
   {
-    "host": "bg.proxy-tlg.ru",
+    "host": "tg.proxy-tlg.ru",
     "port": 443,
-    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
+    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
   {
-    "host": "tg.proxy-tlg.ru",
+    "host": "bg.proxy-tlg.ru",
     "port": 443,
-    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
+    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
@@ -224,17 +217,17 @@
     "addTime": 1779109563
   },
   {
-    "host": "89.125.17.12",
-    "port": 45100,
-    "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
-    "country": "NL",
-    "addTime": 1779109543
-  },
-  {
     "host": "mt.nowaboost.com",
     "port": 853,
     "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
     "country": "DE",
+    "addTime": 1779109543
+  },
+  {
+    "host": "89.125.17.12",
+    "port": 45100,
+    "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
+    "country": "NL",
     "addTime": 1779109543
   },
   {
@@ -297,7 +290,7 @@
     "host": "mt.rimuruproject.ru",
     "port": 443,
     "secret": "ee0b32a6d19fd9f1c1f8b3e48c8638a29c79612e7275",
-    "country": "NL",
+    "country": "FI",
     "addTime": 1779077113
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee673a738a425c07d84eb5724b97dd32f17777772e676f6f676c652e636f6d",
     "country": "DE",
     "addTime": 1779055546
+  },
+  {
+    "host": "tl.ch-moltisanti.ru",
+    "port": 443,
+    "secret": "ee4d79f4997f45f52111800a97004d6f4f72752e652d73706563746163756c61722e7275",
+    "country": "RU",
+    "addTime": 1779055545
   }
 ]
