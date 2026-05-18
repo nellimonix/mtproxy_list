@@ -42,13 +42,6 @@
     "addTime": 1779088091
   },
   {
-    "host": "public2.mtproxygram.lol",
-    "port": 443,
-    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d",
-    "country": "PL",
-    "addTime": 1779088028
-  },
-  {
     "host": "2.26.87.69",
     "port": 443,
     "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
@@ -59,6 +52,13 @@
     "host": "public1.mtproxygram.lol",
     "port": 443,
     "secret": "ee7471af9b1a7a8e098ef15e3dad2b773a62726f777365722e79616e6465782e636f6d",
+    "country": "PL",
+    "addTime": 1779088028
+  },
+  {
+    "host": "public2.mtproxygram.lol",
+    "port": 443,
+    "secret": "eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d",
     "country": "PL",
     "addTime": 1779088028
   },
@@ -147,17 +147,17 @@
     "addTime": 1779055545
   },
   {
-    "host": "132.243.213.245",
-    "port": 443,
-    "secret": "ee6a441d3845f1bfec1100662ce671d8ed706574726f766963682e7275",
-    "country": "DE",
-    "addTime": 1779055540
-  },
-  {
     "host": "night.nolags.pw",
     "port": 443,
     "secret": "dddb42e911bcebf275392e32feebef9459",
     "country": "US",
+    "addTime": 1779055540
+  },
+  {
+    "host": "132.243.213.245",
+    "port": 443,
+    "secret": "ee6a441d3845f1bfec1100662ce671d8ed706574726f766963682e7275",
+    "country": "DE",
     "addTime": 1779055540
   },
   {
@@ -189,10 +189,10 @@
     "addTime": 1779044798
   },
   {
-    "host": "dash.myrka.digital",
-    "port": 8443,
-    "secret": "ee8888777766664444555566667777888874742e6d79726b612e6469676974616c",
-    "country": "NL",
+    "host": "gt.myrka.digital",
+    "port": 12345,
+    "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
+    "country": "FI",
     "addTime": 1779044762
   },
   {
@@ -203,11 +203,18 @@
     "addTime": 1779044762
   },
   {
-    "host": "gt.myrka.digital",
-    "port": 12345,
-    "secret": "ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c",
-    "country": "FI",
+    "host": "dash.myrka.digital",
+    "port": 8443,
+    "secret": "ee8888777766664444555566667777888874742e6d79726b612e6469676974616c",
+    "country": "NL",
     "addTime": 1779044762
+  },
+  {
+    "host": "95.85.229.13",
+    "port": 443,
+    "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
+    "country": "PL",
+    "addTime": 1779044761
   },
   {
     "host": "91.211.114.85",
@@ -224,17 +231,10 @@
     "addTime": 1779044761
   },
   {
-    "host": "95.85.229.13",
-    "port": 443,
-    "secret": "ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275",
-    "country": "PL",
-    "addTime": 1779044761
-  },
-  {
     "host": "alpina.agency",
     "port": 8443,
     "secret": "eea02597a68d4821f58d17e6405c389da16164732e78352e7275",
-    "country": "EE",
+    "country": "CZ",
     "addTime": 1779044756
   },
   {
