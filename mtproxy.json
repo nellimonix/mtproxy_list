@@ -42,17 +42,17 @@
     "addTime": 1779142498
   },
   {
-    "host": "s2.pavelkazancev02.ru",
-    "port": 443,
-    "secret": "ee258270c24ef93f86eba77326e460430a6f6b2e7275",
-    "country": "US",
-    "addTime": 1779142496
-  },
-  {
     "host": "87.58.216.73",
     "port": 443,
     "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
     "country": "NL",
+    "addTime": 1779142496
+  },
+  {
+    "host": "s2.pavelkazancev02.ru",
+    "port": 443,
+    "secret": "ee258270c24ef93f86eba77326e460430a6f6b2e7275",
+    "country": "US",
     "addTime": 1779142496
   },
   {
@@ -196,6 +196,13 @@
     "addTime": 1779120271
   },
   {
+    "host": "195.254.165.233",
+    "port": 65535,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "country": "IR",
+    "addTime": 1779120269
+  },
+  {
     "host": "proxy.alpina.ws",
     "port": 8443,
     "secret": "ee76565183e0c5782d8ea5fbc0c6e0e9f770726f78792e616c70696e612e7773",
@@ -224,17 +231,17 @@
     "addTime": 1779109563
   },
   {
-    "host": "mt.nowaboost.com",
-    "port": 853,
-    "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
-    "country": "DE",
-    "addTime": 1779109543
-  },
-  {
     "host": "89.125.17.12",
     "port": 45100,
     "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
     "country": "NL",
+    "addTime": 1779109543
+  },
+  {
+    "host": "mt.nowaboost.com",
+    "port": 853,
+    "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
+    "country": "DE",
     "addTime": 1779109543
   },
   {
@@ -297,7 +304,7 @@
     "host": "mt.rimuruproject.ru",
     "port": 443,
     "secret": "ee0b32a6d19fd9f1c1f8b3e48c8638a29c79612e7275",
-    "country": "DE",
+    "country": "NL",
     "addTime": 1779077113
   },
   {
@@ -341,12 +348,5 @@
     "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
     "country": "LV",
     "addTime": 1779055550
-  },
-  {
-    "host": "kyra-vpn.myrka.digital",
-    "port": 3443,
-    "secret": "eeffff2fdcddddd34ffffdddd1fff8ffff6b7972612d76706e2e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1779055547
   }
 ]
