@@ -49,18 +49,18 @@
     "addTime": 1779174344
   },
   {
+    "host": "186.246.16.123",
+    "port": 443,
+    "secret": "ee64a7c68e4083ec77823115e01a44b8507777772e6d6963726f736f66742e636f6d",
+    "country": "LV",
+    "addTime": 1779174333
+  },
+  {
     "host": "russia.tgproxyy.online",
     "port": 443,
     "secret": "eed28a6a29973dc4b3ca4d87955796b30f7275737369612e746770726f7879792e6f6e6c696e65",
     "country": "DE",
     "addTime": 1779174333
-  },
-  {
-    "host": "rn.quantadc.online",
-    "port": 443,
-    "secret": "ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65",
-    "country": "NL",
-    "addTime": 1779174313
   },
   {
     "host": "91.107.162.48",
@@ -133,13 +133,6 @@
     "addTime": 1779142522
   },
   {
-    "host": "178.105.161.83",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1779142498
-  },
-  {
     "host": "smile.myrka.digital",
     "port": 1448,
     "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
@@ -147,11 +140,11 @@
     "addTime": 1779142498
   },
   {
-    "host": "87.58.216.73",
+    "host": "178.105.161.83",
     "port": 443,
-    "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
-    "country": "NL",
-    "addTime": 1779142496
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1779142498
   },
   {
     "host": "s2.pavelkazancev02.ru",
@@ -161,17 +154,31 @@
     "addTime": 1779142496
   },
   {
-    "host": "mtproxy.mdnk.fun",
+    "host": "87.58.216.73",
     "port": 443,
-    "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1779142490
+    "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
+    "country": "NL",
+    "addTime": 1779142496
+  },
+  {
+    "host": "158.173.51.36",
+    "port": 8085,
+    "secret": "eec3d9e1cca4f0b2f87b7be437b346fdbd79616e6465782e7275",
+    "country": "NL",
+    "addTime": 1779142491
   },
   {
     "host": "rkn.prxtoday.space",
     "port": 443,
     "secret": "eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365",
     "country": "NL",
+    "addTime": 1779142490
+  },
+  {
+    "host": "mtproxy.mdnk.fun",
+    "port": 443,
+    "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
+    "country": "US",
     "addTime": 1779142490
   },
   {
@@ -294,6 +301,13 @@
     "addTime": 1779109816
   },
   {
+    "host": "45.148.117.175",
+    "port": 443,
+    "secret": "ee633f9e25bac95a2c07879eb1c8cd42cd31632e7275",
+    "country": "DE",
+    "addTime": 1779109636
+  },
+  {
     "host": "185.70.186.145",
     "port": 8443,
     "secret": "eea94a50c3db2b9e640351831e8bd42bba7777772e676f6f676c652e636f6d",
@@ -315,6 +329,13 @@
     "addTime": 1779109543
   },
   {
+    "host": "guard-3.secureservice.top",
+    "port": 443,
+    "secret": "422c2d5e28f48282a4e2dfaea14fd5a9",
+    "country": "NL",
+    "addTime": 1779099050
+  },
+  {
     "host": "89.144.48.224",
     "port": 8443,
     "secret": "ee9962b6593a490946f5a9e2c45ce3130b7261772E67697468756275736572636F6E74656E742E636F6D",
@@ -327,26 +348,5 @@
     "secret": "ee1419a04adfceb7f1a618831856578a74647a656e2e7275",
     "country": "DE",
     "addTime": 1779098865
-  },
-  {
-    "host": "185.246.116.99",
-    "port": 443,
-    "secret": "eec85ddd7d5cb151f92e5c70711f5d11b86170692e74656c6567612e696e666f",
-    "country": "RU",
-    "addTime": 1779098775
-  },
-  {
-    "host": "love.kosmojoy.ru",
-    "port": 443,
-    "secret": "eead9639a82579888625e98a72876ab52531632e7275",
-    "country": "RU",
-    "addTime": 1779098774
-  },
-  {
-    "host": "proxy2.fin-ra.pro",
-    "port": 8443,
-    "secret": "ee24e07bbc4b4290c4251d17c437b13e8670726f7879322e66696e2d72612e70726f",
-    "country": "US",
-    "addTime": 1779088091
   }
 ]
