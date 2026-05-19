@@ -105,13 +105,6 @@
     "addTime": 1779174333
   },
   {
-    "host": "186.246.20.121",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
-    "country": "LV",
-    "addTime": 1779174309
-  },
-  {
     "host": "91.107.162.48",
     "port": 443,
     "secret": "dd49a70de57a60174f18dfd7fe6ef6aaf5",
@@ -129,7 +122,7 @@
     "host": "data.enable-request.co.uk",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "US",
+    "country": "DE",
     "addTime": 1779153099
   },
   {
@@ -245,13 +238,6 @@
     "addTime": 1779142487
   },
   {
-    "host": "bg.proxy-tlg.ru",
-    "port": 443,
-    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
-    "country": "RU",
-    "addTime": 1779142479
-  },
-  {
     "host": "tg.proxy-tlg.ru",
     "port": 443,
     "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
@@ -292,13 +278,6 @@
     "secret": "eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d",
     "country": "DE",
     "addTime": 1779131068
-  },
-  {
-    "host": "78.17.71.42",
-    "port": 443,
-    "secret": "eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1779131067
   },
   {
     "host": "95.163.210.212",
@@ -343,10 +322,31 @@
     "addTime": 1779120273
   },
   {
-    "host": "195.254.165.233",
-    "port": 65535,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "country": "IR",
-    "addTime": 1779120269
+    "host": "proxy.alpina.ws",
+    "port": 8443,
+    "secret": "ee76565183e0c5782d8ea5fbc0c6e0e9f770726f78792e616c70696e612e7773",
+    "country": "SE",
+    "addTime": 1779120261
+  },
+  {
+    "host": "test1.run.place",
+    "port": 443,
+    "secret": "ee4fb60224ec3ba77691889623ffd44dc8667265652e70726f70726f786965732e746f70",
+    "country": "RU",
+    "addTime": 1779109816
+  },
+  {
+    "host": "185.70.186.145",
+    "port": 8443,
+    "secret": "eea94a50c3db2b9e640351831e8bd42bba7777772e676f6f676c652e636f6d",
+    "country": "NL",
+    "addTime": 1779109563
+  },
+  {
+    "host": "89.125.17.12",
+    "port": 45100,
+    "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
+    "country": "NL",
+    "addTime": 1779109543
   }
 ]
