@@ -14,17 +14,17 @@
     "addTime": 1779217526
   },
   {
-    "host": "2.26.52.23",
-    "port": 443,
-    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
-    "country": "US",
-    "addTime": 1779217526
-  },
-  {
     "host": "kria5.snappytuppy.icu",
     "port": 443,
     "secret": "eec7d8a2f5e4feb8640f9db8ceada9f4eb6b726961352e736e6170707974757070792e696375",
     "country": "FR",
+    "addTime": 1779217526
+  },
+  {
+    "host": "2.26.52.23",
+    "port": 443,
+    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
+    "country": "US",
     "addTime": 1779217526
   },
   {
@@ -84,6 +84,20 @@
     "addTime": 1779206725
   },
   {
+    "host": "188.137.234.253",
+    "port": 443,
+    "secret": "ee04b03d0bacb08c4cad9c2fb59898071462726f777365722e79616e6465782e636f6d",
+    "country": "DE",
+    "addTime": 1779206713
+  },
+  {
+    "host": "95.85.234.119",
+    "port": 8443,
+    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
+    "country": "CZ",
+    "addTime": 1779206713
+  },
+  {
     "host": "186.246.20.42",
     "port": 443,
     "secret": "ee1515009f182f6626752d457164ce5988617669746f2e7275",
@@ -98,24 +112,10 @@
     "addTime": 1779206713
   },
   {
-    "host": "188.137.234.253",
-    "port": 443,
-    "secret": "ee04b03d0bacb08c4cad9c2fb59898071462726f777365722e79616e6465782e636f6d",
-    "country": "DE",
-    "addTime": 1779206713
-  },
-  {
     "host": "185.224.132.252",
     "port": 443,
     "secret": "ee16ac683c4467cde70a6418a71571c67a62726f777365722e79616e6465782e636f6d",
     "country": "PL",
-    "addTime": 1779206713
-  },
-  {
-    "host": "95.85.234.119",
-    "port": 8443,
-    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
-    "country": "CZ",
     "addTime": 1779206713
   },
   {
@@ -124,13 +124,6 @@
     "secret": "dd1cd3c5be511d2b18516ec472e6fc37b8",
     "country": "RU",
     "addTime": 1779206703
-  },
-  {
-    "host": "tel.vasilej.org",
-    "port": 8888,
-    "secret": "d7531dafb679f4b2ff739cae86d6d2ac",
-    "country": "US",
-    "addTime": 1779196102
   },
   {
     "host": "37.139.42.151",
@@ -348,5 +341,12 @@
     "secret": "eefa19e6d66e3ca28f362a419602c7b02d7777772e636c6f7564666c6172652e636f6d",
     "country": "NL",
     "addTime": 1779142598
+  },
+  {
+    "host": "95.216.163.206",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "FI",
+    "addTime": 1779142523
   }
 ]
