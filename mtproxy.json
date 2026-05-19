@@ -140,13 +140,6 @@
     "addTime": 1779142496
   },
   {
-    "host": "87.58.216.73",
-    "port": 443,
-    "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
-    "country": "NL",
-    "addTime": 1779142496
-  },
-  {
     "host": "ak.yourline.online",
     "port": 443,
     "secret": "eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65",
@@ -182,16 +175,16 @@
     "addTime": 1779142487
   },
   {
-    "host": "bg.proxy-tlg.ru",
+    "host": "tg.proxy-tlg.ru",
     "port": 443,
-    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
+    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
   {
-    "host": "tg.proxy-tlg.ru",
+    "host": "bg.proxy-tlg.ru",
     "port": 443,
-    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
+    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
@@ -250,13 +243,6 @@
     "secret": "7ue5YgxWiisJ3DMnW3ATcn53d3cuZ29vZ2xlLmNvbQ",
     "country": "NL",
     "addTime": 1779120378
-  },
-  {
-    "host": "186.246.45.109",
-    "port": 443,
-    "secret": "eed77ec9067be2241844114590a81187ce636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1779120369
   },
   {
     "host": "haemolytic.semiquaver.tragedian.pilipinoteleserye.com",
@@ -348,5 +334,19 @@
     "secret": "ee1419a04adfceb7f1a618831856578a74647a656e2e7275",
     "country": "DE",
     "addTime": 1779098865
+  },
+  {
+    "host": "185.246.116.99",
+    "port": 443,
+    "secret": "eec85ddd7d5cb151f92e5c70711f5d11b86170692e74656c6567612e696e666f",
+    "country": "RU",
+    "addTime": 1779098775
+  },
+  {
+    "host": "love.kosmojoy.ru",
+    "port": 443,
+    "secret": "eead9639a82579888625e98a72876ab52531632e7275",
+    "country": "RU",
+    "addTime": 1779098774
   }
 ]
