@@ -7,17 +7,17 @@
     "addTime": 1779217530
   },
   {
-    "host": "2.26.52.23",
-    "port": 443,
-    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
-    "country": "US",
-    "addTime": 1779217526
-  },
-  {
     "host": "kria5.snappytuppy.icu",
     "port": 443,
     "secret": "eec7d8a2f5e4feb8640f9db8ceada9f4eb6b726961352e736e6170707974757070792e696375",
     "country": "FR",
+    "addTime": 1779217526
+  },
+  {
+    "host": "2.26.52.23",
+    "port": 443,
+    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
+    "country": "US",
     "addTime": 1779217526
   },
   {
@@ -77,17 +77,10 @@
     "addTime": 1779206725
   },
   {
-    "host": "185.92.180.128",
+    "host": "185.224.132.252",
     "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1779206713
-  },
-  {
-    "host": "188.137.234.253",
-    "port": 443,
-    "secret": "ee04b03d0bacb08c4cad9c2fb59898071462726f777365722e79616e6465782e636f6d",
-    "country": "DE",
+    "secret": "ee16ac683c4467cde70a6418a71571c67a62726f777365722e79616e6465782e636f6d",
+    "country": "PL",
     "addTime": 1779206713
   },
   {
@@ -98,10 +91,10 @@
     "addTime": 1779206713
   },
   {
-    "host": "185.224.132.252",
+    "host": "188.137.234.253",
     "port": 443,
-    "secret": "ee16ac683c4467cde70a6418a71571c67a62726f777365722e79616e6465782e636f6d",
-    "country": "PL",
+    "secret": "ee04b03d0bacb08c4cad9c2fb59898071462726f777365722e79616e6465782e636f6d",
+    "country": "DE",
     "addTime": 1779206713
   },
   {
@@ -112,6 +105,13 @@
     "addTime": 1779206713
   },
   {
+    "host": "185.92.180.128",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "country": "US",
+    "addTime": 1779206713
+  },
+  {
     "host": "network.enotfast.com",
     "port": 8443,
     "secret": "dd1cd3c5be511d2b18516ec472e6fc37b8",
@@ -119,18 +119,18 @@
     "addTime": 1779206703
   },
   {
+    "host": "tel.vasilej.org",
+    "port": 8888,
+    "secret": "d7531dafb679f4b2ff739cae86d6d2ac",
+    "country": "US",
+    "addTime": 1779196102
+  },
+  {
     "host": "37.139.42.151",
     "port": 443,
     "secret": "f5199e949c0f23bc887581218ad8c1e6",
     "country": "RU",
     "addTime": 1779196095
-  },
-  {
-    "host": "155.212.228.151",
-    "port": 443,
-    "secret": "ee69214c2d0c2049eddf8b5c022527a2c331632e7275",
-    "country": "LV",
-    "addTime": 1779195992
   },
   {
     "host": "snova.zaebalsya.uk",
@@ -308,17 +308,17 @@
     "addTime": 1779152874
   },
   {
-    "host": "dobri-kot.myrka.digital",
-    "port": 1448,
-    "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
-    "country": "DE",
-    "addTime": 1779152872
-  },
-  {
     "host": "kotenok-vera.myrka.digital",
     "port": 8443,
     "secret": "ee11165043ffff145f42aefdddd17bbb1b6b6f74656e6f6b2d766572612e6d79726b612e6469676974616c",
     "country": "US",
+    "addTime": 1779152872
+  },
+  {
+    "host": "dobri-kot.myrka.digital",
+    "port": 1448,
+    "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
+    "country": "DE",
     "addTime": 1779152872
   },
   {
