@@ -21,17 +21,17 @@
     "addTime": 1779152874
   },
   {
-    "host": "kotenok-vera.myrka.digital",
-    "port": 8443,
-    "secret": "ee11165043ffff145f42aefdddd17bbb1b6b6f74656e6f6b2d766572612e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1779152872
-  },
-  {
     "host": "dobri-kot.myrka.digital",
     "port": 1448,
     "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
     "country": "DE",
+    "addTime": 1779152872
+  },
+  {
+    "host": "kotenok-vera.myrka.digital",
+    "port": 8443,
+    "secret": "ee11165043ffff145f42aefdddd17bbb1b6b6f74656e6f6b2d766572612e6d79726b612e6469676974616c",
+    "country": "US",
     "addTime": 1779152872
   },
   {
@@ -105,17 +105,17 @@
     "addTime": 1779142491
   },
   {
-    "host": "rkn.prxtoday.space",
-    "port": 443,
-    "secret": "eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365",
-    "country": "NL",
-    "addTime": 1779142490
-  },
-  {
     "host": "mtproxy.mdnk.fun",
     "port": 443,
     "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
     "country": "US",
+    "addTime": 1779142490
+  },
+  {
+    "host": "rkn.prxtoday.space",
+    "port": 443,
+    "secret": "eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365",
+    "country": "NL",
     "addTime": 1779142490
   },
   {
@@ -217,13 +217,6 @@
     "addTime": 1779120271
   },
   {
-    "host": "195.254.165.233",
-    "port": 65535,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "country": "IR",
-    "addTime": 1779120269
-  },
-  {
     "host": "proxy.alpina.ws",
     "port": 8443,
     "secret": "ee76565183e0c5782d8ea5fbc0c6e0e9f770726f78792e616c70696e612e7773",
@@ -236,13 +229,6 @@
     "secret": "ee4fb60224ec3ba77691889623ffd44dc8667265652e70726f70726f786965732e746f70",
     "country": "RU",
     "addTime": 1779109816
-  },
-  {
-    "host": "45.148.117.175",
-    "port": 443,
-    "secret": "ee633f9e25bac95a2c07879eb1c8cd42cd31632e7275",
-    "country": "DE",
-    "addTime": 1779109636
   },
   {
     "host": "185.70.186.145",
@@ -325,7 +311,7 @@
     "host": "mt.rimuruproject.ru",
     "port": 443,
     "secret": "ee0b32a6d19fd9f1c1f8b3e48c8638a29c79612e7275",
-    "country": "NL",
+    "country": "DE",
     "addTime": 1779077113
   },
   {
@@ -348,5 +334,19 @@
     "secret": "85bef78707323c94c065f5a58b3dbed8",
     "country": "DE",
     "addTime": 1779055715
+  },
+  {
+    "host": "45.38.228.68",
+    "port": 443,
+    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
+    "country": "FR",
+    "addTime": 1779055659
+  },
+  {
+    "host": "176.124.207.237",
+    "port": 443,
+    "secret": "fad015155defc3a8bd8ebc16b5d2b300",
+    "country": "SE",
+    "addTime": 1779055572
   }
 ]
