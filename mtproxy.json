@@ -28,17 +28,17 @@
     "addTime": 1779206725
   },
   {
-    "host": "188.137.234.253",
-    "port": 443,
-    "secret": "ee04b03d0bacb08c4cad9c2fb59898071462726f777365722e79616e6465782e636f6d",
-    "country": "DE",
-    "addTime": 1779206713
-  },
-  {
     "host": "95.85.234.119",
     "port": 8443,
     "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
     "country": "CZ",
+    "addTime": 1779206713
+  },
+  {
+    "host": "188.137.234.253",
+    "port": 443,
+    "secret": "ee04b03d0bacb08c4cad9c2fb59898071462726f777365722e79616e6465782e636f6d",
+    "country": "DE",
     "addTime": 1779206713
   },
   {
@@ -75,6 +75,13 @@
     "secret": "ee0701bd90bfa663c01c08d1e293209e287777772e6d6963726f736f66742e636f6d",
     "country": "LV",
     "addTime": 1779195994
+  },
+  {
+    "host": "155.212.228.151",
+    "port": 443,
+    "secret": "ee69214c2d0c2049eddf8b5c022527a2c331632e7275",
+    "country": "LV",
+    "addTime": 1779195992
   },
   {
     "host": "snova.zaebalsya.uk",
@@ -238,6 +245,13 @@
     "addTime": 1779163538
   },
   {
+    "host": "data.enable-request.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "US",
+    "addTime": 1779153099
+  },
+  {
     "host": "154.83.208.252",
     "port": 443,
     "secret": "dd3278872d2e4e46f69900392c6587ae3e",
@@ -308,17 +322,17 @@
     "addTime": 1779142498
   },
   {
-    "host": "s2.pavelkazancev02.ru",
-    "port": 443,
-    "secret": "ee258270c24ef93f86eba77326e460430a6f6b2e7275",
-    "country": "US",
-    "addTime": 1779142496
-  },
-  {
     "host": "87.58.216.73",
     "port": 443,
     "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
     "country": "NL",
+    "addTime": 1779142496
+  },
+  {
+    "host": "s2.pavelkazancev02.ru",
+    "port": 443,
+    "secret": "ee258270c24ef93f86eba77326e460430a6f6b2e7275",
+    "country": "US",
     "addTime": 1779142496
   },
   {
@@ -334,19 +348,5 @@
     "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
     "country": "US",
     "addTime": 1779142490
-  },
-  {
-    "host": "rkn.prxtoday.space",
-    "port": 443,
-    "secret": "eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365",
-    "country": "NL",
-    "addTime": 1779142490
-  },
-  {
-    "host": "89.167.40.214",
-    "port": 443,
-    "secret": "eea21bf437ed6f38a5b03c6e66b036d301676f6f676c65617069732e636f6d",
-    "country": "FI",
-    "addTime": 1779142487
   }
 ]
