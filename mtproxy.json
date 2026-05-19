@@ -21,17 +21,17 @@
     "addTime": 1779152874
   },
   {
-    "host": "dobri-kot.myrka.digital",
-    "port": 1448,
-    "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
-    "country": "DE",
-    "addTime": 1779152872
-  },
-  {
     "host": "kotenok-vera.myrka.digital",
     "port": 8443,
     "secret": "ee11165043ffff145f42aefdddd17bbb1b6b6f74656e6f6b2d766572612e6d79726b612e6469676974616c",
     "country": "US",
+    "addTime": 1779152872
+  },
+  {
+    "host": "dobri-kot.myrka.digital",
+    "port": 1448,
+    "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
+    "country": "DE",
     "addTime": 1779152872
   },
   {
@@ -63,16 +63,16 @@
     "addTime": 1779142522
   },
   {
-    "host": "178.105.161.83",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
+    "host": "smile.myrka.digital",
+    "port": 1448,
+    "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779142498
   },
   {
-    "host": "smile.myrka.digital",
-    "port": 1448,
-    "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
+    "host": "178.105.161.83",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1779142498
   },
@@ -117,6 +117,13 @@
     "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
     "country": "US",
     "addTime": 1779142490
+  },
+  {
+    "host": "89.167.40.214",
+    "port": 443,
+    "secret": "eea21bf437ed6f38a5b03c6e66b036d301676f6f676c65617069732e636f6d",
+    "country": "FI",
+    "addTime": 1779142487
   },
   {
     "host": "bg.proxy-tlg.ru",
@@ -245,17 +252,17 @@
     "addTime": 1779109563
   },
   {
-    "host": "89.125.17.12",
-    "port": 45100,
-    "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
-    "country": "NL",
-    "addTime": 1779109543
-  },
-  {
     "host": "mt.nowaboost.com",
     "port": 853,
     "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
     "country": "DE",
+    "addTime": 1779109543
+  },
+  {
+    "host": "89.125.17.12",
+    "port": 45100,
+    "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
+    "country": "NL",
     "addTime": 1779109543
   },
   {
@@ -341,12 +348,5 @@
     "secret": "85bef78707323c94c065f5a58b3dbed8",
     "country": "DE",
     "addTime": 1779055715
-  },
-  {
-    "host": "45.38.228.68",
-    "port": 443,
-    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
-    "country": "FR",
-    "addTime": 1779055659
   }
 ]
