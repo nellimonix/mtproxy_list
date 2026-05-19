@@ -21,17 +21,17 @@
     "addTime": 1779217526
   },
   {
-    "host": "kria5.snappytuppy.icu",
-    "port": 443,
-    "secret": "eec7d8a2f5e4feb8640f9db8ceada9f4eb6b726961352e736e6170707974757070792e696375",
-    "country": "FR",
-    "addTime": 1779217526
-  },
-  {
     "host": "2.26.52.23",
     "port": 443,
     "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
     "country": "US",
+    "addTime": 1779217526
+  },
+  {
+    "host": "kria5.snappytuppy.icu",
+    "port": 443,
+    "secret": "eec7d8a2f5e4feb8640f9db8ceada9f4eb6b726961352e736e6170707974757070792e696375",
+    "country": "FR",
     "addTime": 1779217526
   },
   {
@@ -84,10 +84,10 @@
     "addTime": 1779206725
   },
   {
-    "host": "186.246.20.42",
+    "host": "185.224.132.252",
     "port": 443,
-    "secret": "ee1515009f182f6626752d457164ce5988617669746f2e7275",
-    "country": "LV",
+    "secret": "ee16ac683c4467cde70a6418a71571c67a62726f777365722e79616e6465782e636f6d",
+    "country": "PL",
     "addTime": 1779206713
   },
   {
@@ -98,10 +98,10 @@
     "addTime": 1779206713
   },
   {
-    "host": "95.85.234.119",
-    "port": 8443,
-    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
-    "country": "CZ",
+    "host": "186.246.20.42",
+    "port": 443,
+    "secret": "ee1515009f182f6626752d457164ce5988617669746f2e7275",
+    "country": "LV",
     "addTime": 1779206713
   },
   {
@@ -112,10 +112,10 @@
     "addTime": 1779206713
   },
   {
-    "host": "185.224.132.252",
-    "port": 443,
-    "secret": "ee16ac683c4467cde70a6418a71571c67a62726f777365722e79616e6465782e636f6d",
-    "country": "PL",
+    "host": "95.85.234.119",
+    "port": 8443,
+    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
+    "country": "CZ",
     "addTime": 1779206713
   },
   {
@@ -126,6 +126,13 @@
     "addTime": 1779206703
   },
   {
+    "host": "tel.vasilej.org",
+    "port": 8888,
+    "secret": "d7531dafb679f4b2ff739cae86d6d2ac",
+    "country": "US",
+    "addTime": 1779196102
+  },
+  {
     "host": "37.139.42.151",
     "port": 443,
     "secret": "f5199e949c0f23bc887581218ad8c1e6",
@@ -133,17 +140,24 @@
     "addTime": 1779196095
   },
   {
-    "host": "155.212.228.151",
+    "host": "82.97.240.94",
     "port": 443,
-    "secret": "ee69214c2d0c2049eddf8b5c022527a2c331632e7275",
-    "country": "LV",
-    "addTime": 1779195992
+    "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
+    "country": "AU",
+    "addTime": 1779196012
   },
   {
     "host": "snova.zaebalsya.uk",
     "port": 443,
     "secret": "eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7275",
     "country": "FR",
+    "addTime": 1779195992
+  },
+  {
+    "host": "155.212.228.151",
+    "port": 443,
+    "secret": "ee69214c2d0c2049eddf8b5c022527a2c331632e7275",
+    "country": "LV",
     "addTime": 1779195992
   },
   {
@@ -315,17 +329,17 @@
     "addTime": 1779152874
   },
   {
-    "host": "kotenok-vera.myrka.digital",
-    "port": 8443,
-    "secret": "ee11165043ffff145f42aefdddd17bbb1b6b6f74656e6f6b2d766572612e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1779152872
-  },
-  {
     "host": "dobri-kot.myrka.digital",
     "port": 1448,
     "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
     "country": "DE",
+    "addTime": 1779152872
+  },
+  {
+    "host": "kotenok-vera.myrka.digital",
+    "port": 8443,
+    "secret": "ee11165043ffff145f42aefdddd17bbb1b6b6f74656e6f6b2d766572612e6d79726b612e6469676974616c",
+    "country": "US",
     "addTime": 1779152872
   },
   {
@@ -334,19 +348,5 @@
     "secret": "eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
     "country": "NL",
     "addTime": 1779142683
-  },
-  {
-    "host": "tgnl.klymra.online",
-    "port": 443,
-    "secret": "eefa19e6d66e3ca28f362a419602c7b02d7777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1779142598
-  },
-  {
-    "host": "95.216.163.206",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1779142523
   }
 ]
