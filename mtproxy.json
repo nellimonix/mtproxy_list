@@ -28,13 +28,6 @@
     "addTime": 1779185102
   },
   {
-    "host": "185.86.147.150",
-    "port": 443,
-    "secret": "ee6e35665dad80ee128615a8ee7957a60479616e6465782e7275",
-    "country": "RU",
-    "addTime": 1779185096
-  },
-  {
     "host": "server4.mtproxygram.lol",
     "port": 443,
     "secret": "ee04b03d0bacb08c4cad9c2fb59898071462726f777365722e79616e6465782e636f6d",
@@ -103,6 +96,13 @@
     "secret": "eed28a6a29973dc4b3ca4d87955796b30f7275737369612e746770726f7879792e6f6e6c696e65",
     "country": "US",
     "addTime": 1779174333
+  },
+  {
+    "host": "rn.quantadc.online",
+    "port": 443,
+    "secret": "ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65",
+    "country": "RU",
+    "addTime": 1779174313
   },
   {
     "host": "186.246.20.121",
@@ -322,6 +322,13 @@
     "addTime": 1779120378
   },
   {
+    "host": "132.243.235.197",
+    "port": 443,
+    "secret": "ee284388d5f6d5c468daaeb9b9fa2b01b179616e6465782e7275",
+    "country": "NL",
+    "addTime": 1779120377
+  },
+  {
     "host": "haemolytic.semiquaver.tragedian.pilipinoteleserye.com",
     "port": 443,
     "secret": "eef3fbcc0abec6b67e3404ff0ae3985b03647a656e2e7275",
@@ -341,12 +348,5 @@
     "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65",
     "country": "NL",
     "addTime": 1779120273
-  },
-  {
-    "host": "proxy.alpina.ws",
-    "port": 8443,
-    "secret": "ee76565183e0c5782d8ea5fbc0c6e0e9f770726f78792e616c70696e612e7773",
-    "country": "SE",
-    "addTime": 1779120261
   }
 ]
