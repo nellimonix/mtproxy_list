@@ -14,6 +14,13 @@
     "addTime": 1779195994
   },
   {
+    "host": "155.212.228.151",
+    "port": 443,
+    "secret": "ee69214c2d0c2049eddf8b5c022527a2c331632e7275",
+    "country": "LV",
+    "addTime": 1779195992
+  },
+  {
     "host": "snova.zaebalsya.uk",
     "port": 443,
     "secret": "eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7275",
@@ -175,6 +182,13 @@
     "addTime": 1779163538
   },
   {
+    "host": "data.enable-request.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "GB",
+    "addTime": 1779153099
+  },
+  {
     "host": "154.83.208.252",
     "port": 443,
     "secret": "dd3278872d2e4e46f69900392c6587ae3e",
@@ -189,17 +203,17 @@
     "addTime": 1779152874
   },
   {
-    "host": "dobri-kot.myrka.digital",
-    "port": 1448,
-    "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
-    "country": "DE",
-    "addTime": 1779152872
-  },
-  {
     "host": "kotenok-vera.myrka.digital",
     "port": 8443,
     "secret": "ee11165043ffff145f42aefdddd17bbb1b6b6f74656e6f6b2d766572612e6d79726b612e6469676974616c",
     "country": "US",
+    "addTime": 1779152872
+  },
+  {
+    "host": "dobri-kot.myrka.digital",
+    "port": 1448,
+    "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
+    "country": "DE",
     "addTime": 1779152872
   },
   {
@@ -249,13 +263,6 @@
     "port": 443,
     "secret": "ee258270c24ef93f86eba77326e460430a6f6b2e7275",
     "country": "US",
-    "addTime": 1779142496
-  },
-  {
-    "host": "87.58.216.73",
-    "port": 443,
-    "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
-    "country": "NL",
     "addTime": 1779142496
   },
   {
@@ -341,12 +348,5 @@
     "secret": "eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d",
     "country": "DE",
     "addTime": 1779131068
-  },
-  {
-    "host": "78.17.71.42",
-    "port": 443,
-    "secret": "eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1779131067
   }
 ]
