@@ -70,17 +70,17 @@
     "addTime": 1779142498
   },
   {
-    "host": "87.58.216.73",
-    "port": 443,
-    "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
-    "country": "NL",
-    "addTime": 1779142496
-  },
-  {
     "host": "s2.pavelkazancev02.ru",
     "port": 443,
     "secret": "ee258270c24ef93f86eba77326e460430a6f6b2e7275",
     "country": "US",
+    "addTime": 1779142496
+  },
+  {
+    "host": "87.58.216.73",
+    "port": 443,
+    "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
+    "country": "NL",
     "addTime": 1779142496
   },
   {
@@ -98,17 +98,17 @@
     "addTime": 1779142491
   },
   {
-    "host": "mtproxy.mdnk.fun",
-    "port": 443,
-    "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1779142490
-  },
-  {
     "host": "rkn.prxtoday.space",
     "port": 443,
     "secret": "eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365",
     "country": "NL",
+    "addTime": 1779142490
+  },
+  {
+    "host": "mtproxy.mdnk.fun",
+    "port": 443,
+    "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
+    "country": "US",
     "addTime": 1779142490
   },
   {
@@ -119,16 +119,16 @@
     "addTime": 1779142487
   },
   {
-    "host": "bg.proxy-tlg.ru",
+    "host": "tg.proxy-tlg.ru",
     "port": 443,
-    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
+    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
   {
-    "host": "tg.proxy-tlg.ru",
+    "host": "bg.proxy-tlg.ru",
     "port": 443,
-    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
+    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
@@ -159,13 +159,6 @@
     "secret": "eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d",
     "country": "DE",
     "addTime": 1779131068
-  },
-  {
-    "host": "78.17.71.42",
-    "port": 443,
-    "secret": "eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1779131067
   },
   {
     "host": "95.163.210.212",
@@ -252,17 +245,17 @@
     "addTime": 1779109563
   },
   {
-    "host": "mt.nowaboost.com",
-    "port": 853,
-    "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
-    "country": "DE",
-    "addTime": 1779109543
-  },
-  {
     "host": "89.125.17.12",
     "port": 45100,
     "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
     "country": "NL",
+    "addTime": 1779109543
+  },
+  {
+    "host": "mt.nowaboost.com",
+    "port": 853,
+    "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
+    "country": "DE",
     "addTime": 1779109543
   },
   {
@@ -348,5 +341,12 @@
     "secret": "85bef78707323c94c065f5a58b3dbed8",
     "country": "DE",
     "addTime": 1779055715
+  },
+  {
+    "host": "45.38.228.68",
+    "port": 443,
+    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
+    "country": "FR",
+    "addTime": 1779055659
   }
 ]
