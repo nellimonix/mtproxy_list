@@ -119,16 +119,16 @@
     "addTime": 1779142487
   },
   {
-    "host": "tg.proxy-tlg.ru",
+    "host": "bg.proxy-tlg.ru",
     "port": 443,
-    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
+    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
   {
-    "host": "bg.proxy-tlg.ru",
+    "host": "tg.proxy-tlg.ru",
     "port": 443,
-    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
+    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
@@ -215,6 +215,13 @@
     "secret": "ee2086691bf3db011a90a21bbd34cc29647777772e6d6963726f736f66742e636f6d",
     "country": "LV",
     "addTime": 1779120271
+  },
+  {
+    "host": "195.254.165.233",
+    "port": 65535,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "country": "IR",
+    "addTime": 1779120269
   },
   {
     "host": "proxy.alpina.ws",
@@ -318,7 +325,7 @@
     "host": "mt.rimuruproject.ru",
     "port": 443,
     "secret": "ee0b32a6d19fd9f1c1f8b3e48c8638a29c79612e7275",
-    "country": "NL",
+    "country": "FI",
     "addTime": 1779077113
   },
   {
@@ -341,12 +348,5 @@
     "secret": "85bef78707323c94c065f5a58b3dbed8",
     "country": "DE",
     "addTime": 1779055715
-  },
-  {
-    "host": "45.38.228.68",
-    "port": 443,
-    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
-    "country": "FR",
-    "addTime": 1779055659
   }
 ]
