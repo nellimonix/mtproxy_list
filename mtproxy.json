@@ -105,6 +105,13 @@
     "addTime": 1779174333
   },
   {
+    "host": "rn.quantadc.online",
+    "port": 443,
+    "secret": "ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65",
+    "country": "RU",
+    "addTime": 1779174313
+  },
+  {
     "host": "91.107.162.48",
     "port": 443,
     "secret": "dd49a70de57a60174f18dfd7fe6ef6aaf5",
@@ -117,6 +124,13 @@
     "secret": "ee47d4d7cd10a3b9fd9be642699d39b4ca6d742e7873757267652e70726f",
     "country": "DE",
     "addTime": 1779163538
+  },
+  {
+    "host": "data.enable-request.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "CY",
+    "addTime": 1779153099
   },
   {
     "host": "154.83.208.252",
@@ -175,13 +189,6 @@
     "addTime": 1779142522
   },
   {
-    "host": "178.105.161.83",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1779142498
-  },
-  {
     "host": "smile.myrka.digital",
     "port": 1448,
     "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
@@ -189,17 +196,24 @@
     "addTime": 1779142498
   },
   {
-    "host": "s2.pavelkazancev02.ru",
+    "host": "178.105.161.83",
     "port": 443,
-    "secret": "ee258270c24ef93f86eba77326e460430a6f6b2e7275",
-    "country": "US",
-    "addTime": 1779142496
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1779142498
   },
   {
     "host": "87.58.216.73",
     "port": 443,
     "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
     "country": "NL",
+    "addTime": 1779142496
+  },
+  {
+    "host": "s2.pavelkazancev02.ru",
+    "port": 443,
+    "secret": "ee258270c24ef93f86eba77326e460430a6f6b2e7275",
+    "country": "US",
     "addTime": 1779142496
   },
   {
@@ -238,16 +252,16 @@
     "addTime": 1779142487
   },
   {
-    "host": "tg.proxy-tlg.ru",
+    "host": "bg.proxy-tlg.ru",
     "port": 443,
-    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
+    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
   {
-    "host": "bg.proxy-tlg.ru",
+    "host": "tg.proxy-tlg.ru",
     "port": 443,
-    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
+    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
@@ -315,13 +329,6 @@
     "addTime": 1779120378
   },
   {
-    "host": "186.246.45.109",
-    "port": 443,
-    "secret": "eed77ec9067be2241844114590a81187ce636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1779120369
-  },
-  {
     "host": "haemolytic.semiquaver.tragedian.pilipinoteleserye.com",
     "port": 443,
     "secret": "eef3fbcc0abec6b67e3404ff0ae3985b03647a656e2e7275",
@@ -341,12 +348,5 @@
     "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65",
     "country": "NL",
     "addTime": 1779120273
-  },
-  {
-    "host": "proxy.alpina.ws",
-    "port": 8443,
-    "secret": "ee76565183e0c5782d8ea5fbc0c6e0e9f770726f78792e616c70696e612e7773",
-    "country": "SE",
-    "addTime": 1779120261
   }
 ]
