@@ -147,6 +147,13 @@
     "addTime": 1779174333
   },
   {
+    "host": "rn.quantadc.online",
+    "port": 443,
+    "secret": "ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65",
+    "country": "RU",
+    "addTime": 1779174313
+  },
+  {
     "host": "186.246.20.121",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
@@ -171,7 +178,7 @@
     "host": "data.enable-request.co.uk",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "CY",
+    "country": "DE",
     "addTime": 1779153099
   },
   {
@@ -189,17 +196,17 @@
     "addTime": 1779152874
   },
   {
-    "host": "kotenok-vera.myrka.digital",
-    "port": 8443,
-    "secret": "ee11165043ffff145f42aefdddd17bbb1b6b6f74656e6f6b2d766572612e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1779152872
-  },
-  {
     "host": "dobri-kot.myrka.digital",
     "port": 1448,
     "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
     "country": "DE",
+    "addTime": 1779152872
+  },
+  {
+    "host": "kotenok-vera.myrka.digital",
+    "port": 8443,
+    "secret": "ee11165043ffff145f42aefdddd17bbb1b6b6f74656e6f6b2d766572612e6d79726b612e6469676974616c",
+    "country": "US",
     "addTime": 1779152872
   },
   {
@@ -245,17 +252,17 @@
     "addTime": 1779142498
   },
   {
-    "host": "87.58.216.73",
-    "port": 443,
-    "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
-    "country": "NL",
-    "addTime": 1779142496
-  },
-  {
     "host": "s2.pavelkazancev02.ru",
     "port": 443,
     "secret": "ee258270c24ef93f86eba77326e460430a6f6b2e7275",
     "country": "US",
+    "addTime": 1779142496
+  },
+  {
+    "host": "87.58.216.73",
+    "port": 443,
+    "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
+    "country": "NL",
     "addTime": 1779142496
   },
   {
@@ -294,16 +301,16 @@
     "addTime": 1779142487
   },
   {
-    "host": "bg.proxy-tlg.ru",
+    "host": "tg.proxy-tlg.ru",
     "port": 443,
-    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
+    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
   {
-    "host": "tg.proxy-tlg.ru",
+    "host": "bg.proxy-tlg.ru",
     "port": 443,
-    "secret": "ee6e029454cb0afdce93861f286c30414a6d61696c2e7275",
+    "secret": "eed8ff1f31b127e9cb44582eb6b9f6d5836d61696c2e7275",
     "country": "RU",
     "addTime": 1779142479
   },
@@ -341,12 +348,5 @@
     "secret": "eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d",
     "country": "DE",
     "addTime": 1779131068
-  },
-  {
-    "host": "78.17.71.42",
-    "port": 443,
-    "secret": "eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1779131067
   }
 ]
