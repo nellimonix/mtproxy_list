@@ -175,13 +175,6 @@
     "addTime": 1779163538
   },
   {
-    "host": "data.enable-request.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "DE",
-    "addTime": 1779153099
-  },
-  {
     "host": "154.83.208.252",
     "port": 443,
     "secret": "dd3278872d2e4e46f69900392c6587ae3e",
@@ -238,13 +231,6 @@
     "addTime": 1779142522
   },
   {
-    "host": "smile.myrka.digital",
-    "port": 1448,
-    "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
-    "country": "DE",
-    "addTime": 1779142498
-  },
-  {
     "host": "178.105.161.83",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -252,17 +238,24 @@
     "addTime": 1779142498
   },
   {
-    "host": "s2.pavelkazancev02.ru",
-    "port": 443,
-    "secret": "ee258270c24ef93f86eba77326e460430a6f6b2e7275",
-    "country": "US",
-    "addTime": 1779142496
+    "host": "smile.myrka.digital",
+    "port": 1448,
+    "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
+    "country": "DE",
+    "addTime": 1779142498
   },
   {
     "host": "87.58.216.73",
     "port": 443,
     "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
     "country": "NL",
+    "addTime": 1779142496
+  },
+  {
+    "host": "s2.pavelkazancev02.ru",
+    "port": 443,
+    "secret": "ee258270c24ef93f86eba77326e460430a6f6b2e7275",
+    "country": "US",
     "addTime": 1779142496
   },
   {
@@ -280,17 +273,17 @@
     "addTime": 1779142491
   },
   {
-    "host": "mtproxy.mdnk.fun",
-    "port": 443,
-    "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1779142490
-  },
-  {
     "host": "rkn.prxtoday.space",
     "port": 443,
     "secret": "eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365",
     "country": "NL",
+    "addTime": 1779142490
+  },
+  {
+    "host": "mtproxy.mdnk.fun",
+    "port": 443,
+    "secret": "ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275",
+    "country": "US",
     "addTime": 1779142490
   },
   {
@@ -348,5 +341,12 @@
     "secret": "eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d",
     "country": "DE",
     "addTime": 1779131068
+  },
+  {
+    "host": "78.17.71.42",
+    "port": 443,
+    "secret": "eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275",
+    "country": "NL",
+    "addTime": 1779131067
   }
 ]
