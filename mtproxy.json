@@ -1,19 +1,5 @@
 [
   {
-    "host": "austria.salzburg.ir",
-    "port": 443,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "FI",
-    "addTime": 1779228411
-  },
-  {
-    "host": "sosally.net",
-    "port": 443,
-    "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779228310
-  },
-  {
     "host": "tg1.tgproxy1.fun",
     "port": 443,
     "secret": "ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e",
@@ -35,17 +21,17 @@
     "addTime": 1779217526
   },
   {
-    "host": "2.26.52.23",
-    "port": 443,
-    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
-    "country": "US",
-    "addTime": 1779217526
-  },
-  {
     "host": "kria5.snappytuppy.icu",
     "port": 443,
     "secret": "eec7d8a2f5e4feb8640f9db8ceada9f4eb6b726961352e736e6170707974757070792e696375",
     "country": "FR",
+    "addTime": 1779217526
+  },
+  {
+    "host": "2.26.52.23",
+    "port": 443,
+    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
+    "country": "US",
     "addTime": 1779217526
   },
   {
@@ -98,10 +84,10 @@
     "addTime": 1779206725
   },
   {
-    "host": "185.224.132.252",
+    "host": "186.246.20.42",
     "port": 443,
-    "secret": "ee16ac683c4467cde70a6418a71571c67a62726f777365722e79616e6465782e636f6d",
-    "country": "PL",
+    "secret": "ee1515009f182f6626752d457164ce5988617669746f2e7275",
+    "country": "LV",
     "addTime": 1779206713
   },
   {
@@ -112,10 +98,10 @@
     "addTime": 1779206713
   },
   {
-    "host": "186.246.20.42",
-    "port": 443,
-    "secret": "ee1515009f182f6626752d457164ce5988617669746f2e7275",
-    "country": "LV",
+    "host": "95.85.234.119",
+    "port": 8443,
+    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
+    "country": "CZ",
     "addTime": 1779206713
   },
   {
@@ -126,10 +112,10 @@
     "addTime": 1779206713
   },
   {
-    "host": "95.85.234.119",
-    "port": 8443,
-    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
-    "country": "CZ",
+    "host": "185.224.132.252",
+    "port": 443,
+    "secret": "ee16ac683c4467cde70a6418a71571c67a62726f777365722e79616e6465782e636f6d",
+    "country": "PL",
     "addTime": 1779206713
   },
   {
@@ -147,24 +133,17 @@
     "addTime": 1779196095
   },
   {
-    "host": "82.97.240.94",
+    "host": "155.212.228.151",
     "port": 443,
-    "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
-    "country": "AU",
-    "addTime": 1779196012
+    "secret": "ee69214c2d0c2049eddf8b5c022527a2c331632e7275",
+    "country": "LV",
+    "addTime": 1779195992
   },
   {
     "host": "snova.zaebalsya.uk",
     "port": 443,
     "secret": "eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7275",
     "country": "FR",
-    "addTime": 1779195992
-  },
-  {
-    "host": "155.212.228.151",
-    "port": 443,
-    "secret": "ee69214c2d0c2049eddf8b5c022527a2c331632e7275",
-    "country": "LV",
     "addTime": 1779195992
   },
   {
@@ -315,6 +294,13 @@
     "addTime": 1779163538
   },
   {
+    "host": "data.enable-request.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "GB",
+    "addTime": 1779153099
+  },
+  {
     "host": "154.83.208.252",
     "port": 443,
     "secret": "dd3278872d2e4e46f69900392c6587ae3e",
@@ -348,5 +334,19 @@
     "secret": "eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
     "country": "NL",
     "addTime": 1779142683
+  },
+  {
+    "host": "tgnl.klymra.online",
+    "port": 443,
+    "secret": "eefa19e6d66e3ca28f362a419602c7b02d7777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
+    "addTime": 1779142598
+  },
+  {
+    "host": "95.216.163.206",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "FI",
+    "addTime": 1779142523
   }
 ]
