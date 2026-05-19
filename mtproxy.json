@@ -91,17 +91,17 @@
     "addTime": 1779152874
   },
   {
-    "host": "kotenok-vera.myrka.digital",
-    "port": 8443,
-    "secret": "ee11165043ffff145f42aefdddd17bbb1b6b6f74656e6f6b2d766572612e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1779152872
-  },
-  {
     "host": "dobri-kot.myrka.digital",
     "port": 1448,
     "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
     "country": "DE",
+    "addTime": 1779152872
+  },
+  {
+    "host": "kotenok-vera.myrka.digital",
+    "port": 8443,
+    "secret": "ee11165043ffff145f42aefdddd17bbb1b6b6f74656e6f6b2d766572612e6d79726b612e6469676974616c",
+    "country": "US",
     "addTime": 1779152872
   },
   {
@@ -133,13 +133,6 @@
     "addTime": 1779142522
   },
   {
-    "host": "smile.myrka.digital",
-    "port": 1448,
-    "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
-    "country": "DE",
-    "addTime": 1779142498
-  },
-  {
     "host": "178.105.161.83",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -147,11 +140,11 @@
     "addTime": 1779142498
   },
   {
-    "host": "s2.pavelkazancev02.ru",
-    "port": 443,
-    "secret": "ee258270c24ef93f86eba77326e460430a6f6b2e7275",
-    "country": "US",
-    "addTime": 1779142496
+    "host": "smile.myrka.digital",
+    "port": 1448,
+    "secret": "ee14481448144814481448144814481448736d696c652e6d79726b612e6469676974616c",
+    "country": "DE",
+    "addTime": 1779142498
   },
   {
     "host": "87.58.216.73",
@@ -161,11 +154,11 @@
     "addTime": 1779142496
   },
   {
-    "host": "158.173.51.36",
-    "port": 8085,
-    "secret": "eec3d9e1cca4f0b2f87b7be437b346fdbd79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1779142491
+    "host": "s2.pavelkazancev02.ru",
+    "port": 443,
+    "secret": "ee258270c24ef93f86eba77326e460430a6f6b2e7275",
+    "country": "US",
+    "addTime": 1779142496
   },
   {
     "host": "mtproxy.mdnk.fun",
@@ -231,6 +224,13 @@
     "addTime": 1779131068
   },
   {
+    "host": "78.17.71.42",
+    "port": 443,
+    "secret": "eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275",
+    "country": "NL",
+    "addTime": 1779131067
+  },
+  {
     "host": "95.163.210.212",
     "port": 443,
     "secret": "264776c3fb4f0d83e5c85cd3f582505a",
@@ -252,13 +252,6 @@
     "addTime": 1779120378
   },
   {
-    "host": "tg5.656c797369756d.app",
-    "port": 8888,
-    "secret": "ee6cb451efb8f357733feda81aa8e8066c72752d6d736b332e6170692e6d696e65756e696f6e2e6e6574",
-    "country": "RU",
-    "addTime": 1779120337
-  },
-  {
     "host": "haemolytic.semiquaver.tragedian.pilipinoteleserye.com",
     "port": 443,
     "secret": "eef3fbcc0abec6b67e3404ff0ae3985b03647a656e2e7275",
@@ -266,18 +259,25 @@
     "addTime": 1779120337
   },
   {
+    "host": "tg5.656c797369756d.app",
+    "port": 8888,
+    "secret": "ee6cb451efb8f357733feda81aa8e8066c72752d6d736b332e6170692e6d696e65756e696f6e2e6e6574",
+    "country": "RU",
+    "addTime": 1779120337
+  },
+  {
+    "host": "hl.routefastnet.online",
+    "port": 443,
+    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65",
+    "country": "NL",
+    "addTime": 1779120273
+  },
+  {
     "host": "186.246.18.244",
     "port": 443,
     "secret": "ee2086691bf3db011a90a21bbd34cc29647777772e6d6963726f736f66742e636f6d",
     "country": "LV",
     "addTime": 1779120271
-  },
-  {
-    "host": "195.254.165.233",
-    "port": 65535,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "country": "IR",
-    "addTime": 1779120269
   },
   {
     "host": "proxy.alpina.ws",
@@ -294,25 +294,11 @@
     "addTime": 1779109816
   },
   {
-    "host": "45.148.117.175",
-    "port": 443,
-    "secret": "ee633f9e25bac95a2c07879eb1c8cd42cd31632e7275",
-    "country": "DE",
-    "addTime": 1779109636
-  },
-  {
     "host": "185.70.186.145",
     "port": 8443,
     "secret": "eea94a50c3db2b9e640351831e8bd42bba7777772e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1779109563
-  },
-  {
-    "host": "89.125.17.12",
-    "port": 45100,
-    "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
-    "country": "NL",
-    "addTime": 1779109543
   },
   {
     "host": "mt.nowaboost.com",
@@ -322,11 +308,11 @@
     "addTime": 1779109543
   },
   {
-    "host": "guard-3.secureservice.top",
-    "port": 443,
-    "secret": "422c2d5e28f48282a4e2dfaea14fd5a9",
+    "host": "89.125.17.12",
+    "port": 45100,
+    "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
     "country": "NL",
-    "addTime": 1779099050
+    "addTime": 1779109543
   },
   {
     "host": "89.144.48.224",
@@ -348,5 +334,19 @@
     "secret": "eec85ddd7d5cb151f92e5c70711f5d11b86170692e74656c6567612e696e666f",
     "country": "RU",
     "addTime": 1779098775
+  },
+  {
+    "host": "love.kosmojoy.ru",
+    "port": 443,
+    "secret": "eead9639a82579888625e98a72876ab52531632e7275",
+    "country": "RU",
+    "addTime": 1779098774
+  },
+  {
+    "host": "proxy2.fin-ra.pro",
+    "port": 8443,
+    "secret": "ee24e07bbc4b4290c4251d17c437b13e8670726f7879322e66696e2d72612e70726f",
+    "country": "US",
+    "addTime": 1779088091
   }
 ]
