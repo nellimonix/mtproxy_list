@@ -77,13 +77,6 @@
     "addTime": 1779163538
   },
   {
-    "host": "data.enable-request.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "DE",
-    "addTime": 1779153099
-  },
-  {
     "host": "154.83.208.252",
     "port": 443,
     "secret": "dd3278872d2e4e46f69900392c6587ae3e",
@@ -161,11 +154,11 @@
     "addTime": 1779142496
   },
   {
-    "host": "ak.yourline.online",
+    "host": "87.58.216.73",
     "port": 443,
-    "secret": "eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65",
+    "secret": "ee462b30f5fd151fad2b0164ac64d9f1e262726f777365722e79616e6465782e636f6d",
     "country": "NL",
-    "addTime": 1779142492
+    "addTime": 1779142496
   },
   {
     "host": "158.173.51.36",
@@ -273,13 +266,6 @@
     "addTime": 1779120337
   },
   {
-    "host": "hl.routefastnet.online",
-    "port": 443,
-    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65",
-    "country": "NL",
-    "addTime": 1779120273
-  },
-  {
     "host": "186.246.18.244",
     "port": 443,
     "secret": "ee2086691bf3db011a90a21bbd34cc29647777772e6d6963726f736f66742e636f6d",
@@ -308,6 +294,13 @@
     "addTime": 1779109816
   },
   {
+    "host": "45.148.117.175",
+    "port": 443,
+    "secret": "ee633f9e25bac95a2c07879eb1c8cd42cd31632e7275",
+    "country": "DE",
+    "addTime": 1779109636
+  },
+  {
     "host": "185.70.186.145",
     "port": 8443,
     "secret": "eea94a50c3db2b9e640351831e8bd42bba7777772e676f6f676c652e636f6d",
@@ -315,17 +308,17 @@
     "addTime": 1779109563
   },
   {
-    "host": "mt.nowaboost.com",
-    "port": 853,
-    "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
-    "country": "DE",
-    "addTime": 1779109543
-  },
-  {
     "host": "89.125.17.12",
     "port": 45100,
     "secret": "eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d",
     "country": "NL",
+    "addTime": 1779109543
+  },
+  {
+    "host": "mt.nowaboost.com",
+    "port": 853,
+    "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
+    "country": "DE",
     "addTime": 1779109543
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee1419a04adfceb7f1a618831856578a74647a656e2e7275",
     "country": "DE",
     "addTime": 1779098865
+  },
+  {
+    "host": "185.246.116.99",
+    "port": 443,
+    "secret": "eec85ddd7d5cb151f92e5c70711f5d11b86170692e74656c6567612e696e666f",
+    "country": "RU",
+    "addTime": 1779098775
   }
 ]
