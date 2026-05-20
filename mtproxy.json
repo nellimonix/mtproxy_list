@@ -21,6 +21,13 @@
     "addTime": 1779282308
   },
   {
+    "host": "hop1.proxytg.space",
+    "port": 443,
+    "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
+    "country": "RU",
+    "addTime": 1779282288
+  },
+  {
     "host": "188.137.176.231",
     "port": 443,
     "secret": "eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65",
@@ -70,23 +77,16 @@
     "addTime": 1779271462
   },
   {
-    "host": "103.110.64.213",
+    "host": "hyper.sosproxy.space",
     "port": 443,
-    "secret": "eecb034302623216896e2887011d848d6479616e6465782e7275",
-    "country": "DE",
-    "addTime": 1779271460
+    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "country": "NL",
+    "addTime": 1779271459
   },
   {
     "host": "45.138.25.27",
     "port": 443,
     "secret": "2c92cd2488fa5653365f754707141759",
-    "country": "NL",
-    "addTime": 1779271459
-  },
-  {
-    "host": "hyper.sosproxy.space",
-    "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1779271459
   },
@@ -105,10 +105,10 @@
     "addTime": 1779260701
   },
   {
-    "host": "186.246.18.175",
+    "host": "w.arixo.shop",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
-    "country": "LV",
+    "country": "GR",
     "addTime": 1779260695
   },
   {
@@ -122,28 +122,28 @@
     "host": "fastproxy.chunkycorp.shop",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "country": "LV",
+    "country": "AE",
     "addTime": 1779260695
   },
   {
-    "host": "w.arixo.shop",
+    "host": "186.246.18.175",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
-    "country": "GR",
+    "country": "LV",
     "addTime": 1779260695
-  },
-  {
-    "host": "ex.sfsh.su",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "FI",
-    "addTime": 1779249980
   },
   {
     "host": "dns.vdl.lat",
     "port": 853,
     "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
     "country": "RU",
+    "addTime": 1779249980
+  },
+  {
+    "host": "ex.sfsh.su",
+    "port": 443,
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
+    "country": "FI",
     "addTime": 1779249980
   },
   {
@@ -182,6 +182,13 @@
     "addTime": 1779239083
   },
   {
+    "host": "2.26.125.187",
+    "port": 8443,
+    "secret": "ee5927401638529471026384591730624872742e636f6d",
+    "country": "DE",
+    "addTime": 1779239081
+  },
+  {
     "host": "vpn.us.96f15c66.nip.io",
     "port": 3443,
     "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
@@ -196,18 +203,18 @@
     "addTime": 1779239081
   },
   {
-    "host": "2.26.125.187",
-    "port": 8443,
-    "secret": "ee5927401638529471026384591730624872742e636f6d",
-    "country": "DE",
-    "addTime": 1779239081
-  },
-  {
     "host": "15.237.180.149",
     "port": 443,
     "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
     "country": "FR",
     "addTime": 1779239081
+  },
+  {
+    "host": "austria.salzburg.ir",
+    "port": 443,
+    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
+    "country": "DE",
+    "addTime": 1779228411
   },
   {
     "host": "sosally.net",
@@ -341,12 +348,5 @@
     "secret": "eeb4b54ddf0b9f3b82dd7b4a5a888ea82d77622e7275",
     "country": "NL",
     "addTime": 1779195884
-  },
-  {
-    "host": "proxy.pushvpn.space",
-    "port": 443,
-    "secret": "ee27c7f948bc8c223e13ae240911e783ab7777772e636c6f7564666c6172652e636f6d",
-    "country": "AT",
-    "addTime": 1779185177
   }
 ]
