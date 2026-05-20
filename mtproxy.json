@@ -42,13 +42,6 @@
     "addTime": 1779293190
   },
   {
-    "host": "zz.shanlian.app",
-    "port": 20370,
-    "secret": "ee37dad64064da8fb4f34896a69106e848617a7572652e6d6963726f736f66742e636f6d",
-    "country": "MY",
-    "addTime": 1779293101
-  },
-  {
     "host": "crusado.disport.orbed.teleseryestvheaven.com",
     "port": 443,
     "secret": "eea69a7d56434d7b7d8a4417f2c492019e647a656e2e7275",
@@ -154,16 +147,16 @@
     "addTime": 1779271460
   },
   {
-    "host": "hyper.sosproxy.space",
+    "host": "45.138.25.27",
     "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "secret": "2c92cd2488fa5653365f754707141759",
     "country": "NL",
     "addTime": 1779271459
   },
   {
-    "host": "45.138.25.27",
+    "host": "hyper.sosproxy.space",
     "port": 443,
-    "secret": "2c92cd2488fa5653365f754707141759",
+    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1779271459
   },
@@ -182,13 +175,6 @@
     "addTime": 1779260701
   },
   {
-    "host": "72.56.71.8",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c96617669746f2e7275",
-    "country": "US",
-    "addTime": 1779260695
-  },
-  {
     "host": "w.arixo.shop",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
@@ -196,11 +182,18 @@
     "addTime": 1779260695
   },
   {
-    "host": "dns.vdl.lat",
-    "port": 853,
-    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779249980
+    "host": "fastproxy.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "country": "NL",
+    "addTime": 1779260695
+  },
+  {
+    "host": "72.56.71.8",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c96617669746f2e7275",
+    "country": "US",
+    "addTime": 1779260695
   },
   {
     "host": "ex.sfsh.su",
@@ -210,18 +203,18 @@
     "addTime": 1779249980
   },
   {
+    "host": "dns.vdl.lat",
+    "port": 853,
+    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
+    "country": "RU",
+    "addTime": 1779249980
+  },
+  {
     "host": "144.31.54.207",
     "port": 443,
     "secret": "eec5081bcd191b76e90ee894d248e44c42706574726f766963682e7275",
     "country": "NL",
     "addTime": 1779249932
-  },
-  {
-    "host": "194.87.140.180",
-    "port": 443,
-    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
-    "country": "CZ",
-    "addTime": 1779249904
   },
   {
     "host": "185.246.116.100",
@@ -252,13 +245,6 @@
     "addTime": 1779239083
   },
   {
-    "host": "2.26.125.187",
-    "port": 8443,
-    "secret": "ee5927401638529471026384591730624872742e636f6d",
-    "country": "DE",
-    "addTime": 1779239081
-  },
-  {
     "host": "95.163.214.137",
     "port": 443,
     "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
@@ -277,6 +263,13 @@
     "port": 443,
     "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
     "country": "FR",
+    "addTime": 1779239081
+  },
+  {
+    "host": "2.26.125.187",
+    "port": 8443,
+    "secret": "ee5927401638529471026384591730624872742e636f6d",
+    "country": "DE",
     "addTime": 1779239081
   },
   {
@@ -348,5 +341,12 @@
     "secret": "eeaae59d83ead3dfe249eaa024f0a37c6b6f7a6f6e2e7275",
     "country": "CA",
     "addTime": 1779206778
+  },
+  {
+    "host": "cargo.grandpa.sweetly.pinoyteleseryeonline.com",
+    "port": 443,
+    "secret": "ee74b435287a87707d8eec7c203583240e647a656e2e7275",
+    "country": "DE",
+    "addTime": 1779206725
   }
 ]
