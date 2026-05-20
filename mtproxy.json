@@ -14,20 +14,6 @@
     "addTime": 1779239083
   },
   {
-    "host": "2.26.125.187",
-    "port": 8443,
-    "secret": "ee5927401638529471026384591730624872742e636f6d",
-    "country": "DE",
-    "addTime": 1779239081
-  },
-  {
-    "host": "s2.cryptokazancev.ru",
-    "port": 443,
-    "secret": "ee013aebf68af63788a2a077436af4e2a57777772e636c6f7564666c6172652e636f6d",
-    "country": "AE",
-    "addTime": 1779239081
-  },
-  {
     "host": "95.163.214.137",
     "port": 443,
     "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
@@ -42,6 +28,20 @@
     "addTime": 1779239081
   },
   {
+    "host": "2.26.125.187",
+    "port": 8443,
+    "secret": "ee5927401638529471026384591730624872742e636f6d",
+    "country": "DE",
+    "addTime": 1779239081
+  },
+  {
+    "host": "s2.cryptokazancev.ru",
+    "port": 443,
+    "secret": "ee013aebf68af63788a2a077436af4e2a57777772e636c6f7564666c6172652e636f6d",
+    "country": "AE",
+    "addTime": 1779239081
+  },
+  {
     "host": "vpn.us.96f15c66.nip.io",
     "port": 3443,
     "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
@@ -49,11 +49,11 @@
     "addTime": 1779239081
   },
   {
-    "host": "austria.salzburg.ir",
+    "host": "sosally.net",
     "port": 443,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "DE",
-    "addTime": 1779228411
+    "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
+    "country": "RU",
+    "addTime": 1779228310
   },
   {
     "host": "tg1.tgproxy1.fun",
@@ -70,17 +70,17 @@
     "addTime": 1779217530
   },
   {
-    "host": "kria5.snappytuppy.icu",
-    "port": 443,
-    "secret": "eec7d8a2f5e4feb8640f9db8ceada9f4eb6b726961352e736e6170707974757070792e696375",
-    "country": "FR",
-    "addTime": 1779217526
-  },
-  {
     "host": "45.145.6.153",
     "port": 443,
     "secret": "eeb906bc386411c7b06a7ccaeec152ee3431632e7275",
     "country": "LV",
+    "addTime": 1779217526
+  },
+  {
+    "host": "kria5.snappytuppy.icu",
+    "port": 443,
+    "secret": "eec7d8a2f5e4feb8640f9db8ceada9f4eb6b726961352e736e6170707974757070792e696375",
+    "country": "FR",
     "addTime": 1779217526
   },
   {
@@ -161,6 +161,13 @@
     "addTime": 1779206713
   },
   {
+    "host": "95.85.234.119",
+    "port": 8443,
+    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
+    "country": "CZ",
+    "addTime": 1779206713
+  },
+  {
     "host": "186.246.20.42",
     "port": 443,
     "secret": "ee1515009f182f6626752d457164ce5988617669746f2e7275",
@@ -175,25 +182,11 @@
     "addTime": 1779206713
   },
   {
-    "host": "95.85.234.119",
-    "port": 8443,
-    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
-    "country": "CZ",
-    "addTime": 1779206713
-  },
-  {
     "host": "network.enotfast.com",
     "port": 8443,
     "secret": "dd1cd3c5be511d2b18516ec472e6fc37b8",
     "country": "RU",
     "addTime": 1779206703
-  },
-  {
-    "host": "tel.vasilej.org",
-    "port": 8888,
-    "secret": "d7531dafb679f4b2ff739cae86d6d2ac",
-    "country": "US",
-    "addTime": 1779196102
   },
   {
     "host": "37.139.42.151",
@@ -348,5 +341,12 @@
     "secret": "ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65",
     "country": "RU",
     "addTime": 1779174313
+  },
+  {
+    "host": "91.107.162.48",
+    "port": 443,
+    "secret": "dd49a70de57a60174f18dfd7fe6ef6aaf5",
+    "country": "DE",
+    "addTime": 1779174306
   }
 ]
