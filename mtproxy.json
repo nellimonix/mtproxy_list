@@ -21,6 +21,20 @@
     "addTime": 1779239081
   },
   {
+    "host": "2.26.125.187",
+    "port": 8443,
+    "secret": "ee5927401638529471026384591730624872742e636f6d",
+    "country": "DE",
+    "addTime": 1779239081
+  },
+  {
+    "host": "15.237.180.149",
+    "port": 443,
+    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
+    "country": "FR",
+    "addTime": 1779239081
+  },
+  {
     "host": "vpn.us.96f15c66.nip.io",
     "port": 3443,
     "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
@@ -35,25 +49,11 @@
     "addTime": 1779239081
   },
   {
-    "host": "15.237.180.149",
+    "host": "austria.salzburg.ir",
     "port": 443,
-    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
-    "country": "FR",
-    "addTime": 1779239081
-  },
-  {
-    "host": "2.26.125.187",
-    "port": 8443,
-    "secret": "ee5927401638529471026384591730624872742e636f6d",
+    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
     "country": "DE",
-    "addTime": 1779239081
-  },
-  {
-    "host": "sosally.net",
-    "port": 443,
-    "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779228310
+    "addTime": 1779228411
   },
   {
     "host": "tg1.tgproxy1.fun",
@@ -70,17 +70,17 @@
     "addTime": 1779217530
   },
   {
-    "host": "2.26.52.23",
-    "port": 443,
-    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
-    "country": "US",
-    "addTime": 1779217526
-  },
-  {
     "host": "45.145.6.153",
     "port": 443,
     "secret": "eeb906bc386411c7b06a7ccaeec152ee3431632e7275",
     "country": "LV",
+    "addTime": 1779217526
+  },
+  {
+    "host": "2.26.52.23",
+    "port": 443,
+    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
+    "country": "US",
     "addTime": 1779217526
   },
   {
@@ -140,17 +140,10 @@
     "addTime": 1779206725
   },
   {
-    "host": "188.137.234.253",
+    "host": "185.224.132.252",
     "port": 443,
-    "secret": "ee04b03d0bacb08c4cad9c2fb59898071462726f777365722e79616e6465782e636f6d",
-    "country": "DE",
-    "addTime": 1779206713
-  },
-  {
-    "host": "186.246.20.42",
-    "port": 443,
-    "secret": "ee1515009f182f6626752d457164ce5988617669746f2e7275",
-    "country": "LV",
+    "secret": "ee16ac683c4467cde70a6418a71571c67a62726f777365722e79616e6465782e636f6d",
+    "country": "PL",
     "addTime": 1779206713
   },
   {
@@ -161,10 +154,17 @@
     "addTime": 1779206713
   },
   {
-    "host": "185.224.132.252",
+    "host": "186.246.20.42",
     "port": 443,
-    "secret": "ee16ac683c4467cde70a6418a71571c67a62726f777365722e79616e6465782e636f6d",
-    "country": "PL",
+    "secret": "ee1515009f182f6626752d457164ce5988617669746f2e7275",
+    "country": "LV",
+    "addTime": 1779206713
+  },
+  {
+    "host": "188.137.234.253",
+    "port": 443,
+    "secret": "ee04b03d0bacb08c4cad9c2fb59898071462726f777365722e79616e6465782e636f6d",
+    "country": "DE",
     "addTime": 1779206713
   },
   {
@@ -182,13 +182,6 @@
     "addTime": 1779206703
   },
   {
-    "host": "tel.vasilej.org",
-    "port": 8888,
-    "secret": "d7531dafb679f4b2ff739cae86d6d2ac",
-    "country": "US",
-    "addTime": 1779196102
-  },
-  {
     "host": "37.139.42.151",
     "port": 443,
     "secret": "f5199e949c0f23bc887581218ad8c1e6",
@@ -200,6 +193,13 @@
     "port": 443,
     "secret": "eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7275",
     "country": "FR",
+    "addTime": 1779195992
+  },
+  {
+    "host": "155.212.228.151",
+    "port": 443,
+    "secret": "ee69214c2d0c2049eddf8b5c022527a2c331632e7275",
+    "country": "LV",
     "addTime": 1779195992
   },
   {
