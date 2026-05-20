@@ -112,6 +112,13 @@
     "addTime": 1779282308
   },
   {
+    "host": "hop1.proxytg.space",
+    "port": 443,
+    "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
+    "country": "RU",
+    "addTime": 1779282288
+  },
+  {
     "host": "103.110.64.211",
     "port": 443,
     "secret": "ee457a1d7a9004f780d4ca5ad2290f7e1a79616e6465782e7275",
@@ -138,6 +145,13 @@
     "secret": "eeb4559cb6722f727d849090621e7aba8f79616e6465782e7275",
     "country": "DE",
     "addTime": 1779271462
+  },
+  {
+    "host": "103.110.64.213",
+    "port": 443,
+    "secret": "eecb034302623216896e2887011d848d6479616e6465782e7275",
+    "country": "DE",
+    "addTime": 1779271460
   },
   {
     "host": "hyper.sosproxy.space",
@@ -182,17 +196,17 @@
     "addTime": 1779260695
   },
   {
-    "host": "ex.sfsh.su",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "FI",
-    "addTime": 1779249980
-  },
-  {
     "host": "dns.vdl.lat",
     "port": 853,
     "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
     "country": "RU",
+    "addTime": 1779249980
+  },
+  {
+    "host": "ex.sfsh.su",
+    "port": 443,
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
+    "country": "FI",
     "addTime": 1779249980
   },
   {
@@ -231,6 +245,20 @@
     "addTime": 1779239083
   },
   {
+    "host": "95.163.214.137",
+    "port": 443,
+    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
+    "country": "RU",
+    "addTime": 1779239081
+  },
+  {
+    "host": "2.26.125.187",
+    "port": 8443,
+    "secret": "ee5927401638529471026384591730624872742e636f6d",
+    "country": "DE",
+    "addTime": 1779239081
+  },
+  {
     "host": "vpn.us.96f15c66.nip.io",
     "port": 3443,
     "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
@@ -242,20 +270,6 @@
     "port": 443,
     "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
     "country": "FR",
-    "addTime": 1779239081
-  },
-  {
-    "host": "2.26.125.187",
-    "port": 8443,
-    "secret": "ee5927401638529471026384591730624872742e636f6d",
-    "country": "DE",
-    "addTime": 1779239081
-  },
-  {
-    "host": "95.163.214.137",
-    "port": 443,
-    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
-    "country": "RU",
     "addTime": 1779239081
   },
   {
@@ -334,19 +348,5 @@
     "secret": "ee74b435287a87707d8eec7c203583240e647a656e2e7275",
     "country": "DE",
     "addTime": 1779206725
-  },
-  {
-    "host": "95.85.234.119",
-    "port": 8443,
-    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
-    "country": "CZ",
-    "addTime": 1779206713
-  },
-  {
-    "host": "network.enotfast.com",
-    "port": 8443,
-    "secret": "dd1cd3c5be511d2b18516ec472e6fc37b8",
-    "country": "RU",
-    "addTime": 1779206703
   }
 ]
