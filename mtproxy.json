@@ -168,17 +168,17 @@
     "addTime": 1779260701
   },
   {
-    "host": "fastproxy.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "country": "NL",
-    "addTime": 1779260695
-  },
-  {
     "host": "w.arixo.shop",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
     "country": "GR",
+    "addTime": 1779260695
+  },
+  {
+    "host": "fastproxy.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "country": "NL",
     "addTime": 1779260695
   },
   {
@@ -208,6 +208,13 @@
     "secret": "eec5081bcd191b76e90ee894d248e44c42706574726f766963682e7275",
     "country": "NL",
     "addTime": 1779249932
+  },
+  {
+    "host": "194.87.140.180",
+    "port": 443,
+    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
+    "country": "CZ",
+    "addTime": 1779249904
   },
   {
     "host": "185.246.116.100",
@@ -245,13 +252,6 @@
     "addTime": 1779239081
   },
   {
-    "host": "15.237.180.149",
-    "port": 443,
-    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
-    "country": "FR",
-    "addTime": 1779239081
-  },
-  {
     "host": "vpn.us.96f15c66.nip.io",
     "port": 3443,
     "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
@@ -266,18 +266,11 @@
     "addTime": 1779239081
   },
   {
-    "host": "austria.salzburg.ir",
+    "host": "15.237.180.149",
     "port": 443,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "DE",
-    "addTime": 1779228411
-  },
-  {
-    "host": "sosally.net",
-    "port": 443,
-    "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779228310
+    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
+    "country": "FR",
+    "addTime": 1779239081
   },
   {
     "host": "tg1.tgproxy1.fun",
@@ -348,5 +341,12 @@
     "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
     "country": "CZ",
     "addTime": 1779206713
+  },
+  {
+    "host": "network.enotfast.com",
+    "port": 8443,
+    "secret": "dd1cd3c5be511d2b18516ec472e6fc37b8",
+    "country": "RU",
+    "addTime": 1779206703
   }
 ]
