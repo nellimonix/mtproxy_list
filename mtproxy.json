@@ -1,16 +1,16 @@
 [
   {
-    "host": "dns.vdl.lat",
-    "port": 853,
-    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779249980
-  },
-  {
     "host": "ex.sfsh.su",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
     "country": "FI",
+    "addTime": 1779249980
+  },
+  {
+    "host": "dns.vdl.lat",
+    "port": 853,
+    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
+    "country": "RU",
     "addTime": 1779249980
   },
   {
@@ -56,24 +56,10 @@
     "addTime": 1779239083
   },
   {
-    "host": "95.163.214.137",
-    "port": 443,
-    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
-    "country": "RU",
-    "addTime": 1779239081
-  },
-  {
     "host": "s2.cryptokazancev.ru",
     "port": 443,
     "secret": "ee013aebf68af63788a2a077436af4e2a57777772e636c6f7564666c6172652e636f6d",
     "country": "AE",
-    "addTime": 1779239081
-  },
-  {
-    "host": "15.237.180.149",
-    "port": 443,
-    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
-    "country": "FR",
     "addTime": 1779239081
   },
   {
@@ -91,11 +77,18 @@
     "addTime": 1779239081
   },
   {
-    "host": "austria.salzburg.ir",
+    "host": "95.163.214.137",
     "port": 443,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "DE",
-    "addTime": 1779228411
+    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
+    "country": "RU",
+    "addTime": 1779239081
+  },
+  {
+    "host": "15.237.180.149",
+    "port": 443,
+    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
+    "country": "FR",
+    "addTime": 1779239081
   },
   {
     "host": "sosally.net",
@@ -168,20 +161,6 @@
     "addTime": 1779207102
   },
   {
-    "host": "82.114.226.11",
-    "port": 443,
-    "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275",
-    "country": "RU",
-    "addTime": 1779206798
-  },
-  {
-    "host": "68.209.58.136",
-    "port": 443,
-    "secret": "eeaae59d83ead3dfe249eaa024f0a37c6b6f7a6f6e2e7275",
-    "country": "CA",
-    "addTime": 1779206778
-  },
-  {
     "host": "cargo.grandpa.sweetly.pinoyteleseryeonline.com",
     "port": 443,
     "secret": "ee74b435287a87707d8eec7c203583240e647a656e2e7275",
@@ -203,6 +182,13 @@
     "addTime": 1779206713
   },
   {
+    "host": "185.92.180.128",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "country": "US",
+    "addTime": 1779206713
+  },
+  {
     "host": "185.224.132.252",
     "port": 443,
     "secret": "ee16ac683c4467cde70a6418a71571c67a62726f777365722e79616e6465782e636f6d",
@@ -214,13 +200,6 @@
     "port": 8443,
     "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
     "country": "CZ",
-    "addTime": 1779206713
-  },
-  {
-    "host": "185.92.180.128",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "country": "US",
     "addTime": 1779206713
   },
   {
@@ -238,24 +217,17 @@
     "addTime": 1779196095
   },
   {
-    "host": "82.97.240.94",
+    "host": "155.212.228.151",
     "port": 443,
-    "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
-    "country": "AU",
-    "addTime": 1779196012
+    "secret": "ee69214c2d0c2049eddf8b5c022527a2c331632e7275",
+    "country": "LV",
+    "addTime": 1779195992
   },
   {
     "host": "snova.zaebalsya.uk",
     "port": 443,
     "secret": "eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7275",
     "country": "FR",
-    "addTime": 1779195992
-  },
-  {
-    "host": "155.212.228.151",
-    "port": 443,
-    "secret": "ee69214c2d0c2049eddf8b5c022527a2c331632e7275",
-    "country": "LV",
     "addTime": 1779195992
   },
   {
@@ -348,5 +320,33 @@
     "secret": "ee283ecf417e804c1888f0a4a375fe857d617a7572652e6d6963726f736f66742e636f6d",
     "country": "JP",
     "addTime": 1779174418
+  },
+  {
+    "host": "94.156.102.181",
+    "port": 443,
+    "secret": "ee67ddd226a29e40d7f3d9c81acb8596287765622e6d61782e7275",
+    "country": "DE",
+    "addTime": 1779174413
+  },
+  {
+    "host": "kria4.snappytuppy.icu",
+    "port": 443,
+    "secret": "ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375",
+    "country": "DE",
+    "addTime": 1779174409
+  },
+  {
+    "host": "tg-proxy.ezhikvpn.xyz",
+    "port": 443,
+    "secret": "ee18fb9e5ba06fbbab82cc6fd2e23245b16d61782e7275",
+    "country": "US",
+    "addTime": 1779174381
+  },
+  {
+    "host": "yotaphone.chickenkiller.com",
+    "port": 443,
+    "secret": "eec8dd976cc2b8ee6736e600db719391f264726976652e676f6f676c652e636f6d",
+    "country": "DE",
+    "addTime": 1779174380
   }
 ]
