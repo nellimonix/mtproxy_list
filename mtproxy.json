@@ -1,5 +1,68 @@
 [
   {
+    "host": "ffastdomain-eu.com",
+    "port": 443,
+    "secret": "afdc38b8068b2444e50f6a4f093751b5",
+    "country": "RU",
+    "addTime": 1779314749
+  },
+  {
+    "host": "84.201.175.61",
+    "port": 443,
+    "secret": "eead24ce88888cf6231e908ca911628e",
+    "country": "RU",
+    "addTime": 1779314746
+  },
+  {
+    "host": "90.156.255.143",
+    "port": 443,
+    "secret": "eea4fcbc4c70f5901bddacafd8aad43d9431632e7275",
+    "country": "LV",
+    "addTime": 1779314707
+  },
+  {
+    "host": "hop2.proxytg.space",
+    "port": 443,
+    "secret": "eec5428740a808240ccf21f21547fc843f6d61782e7275",
+    "country": "RU",
+    "addTime": 1779314688
+  },
+  {
+    "host": "ebal-tspu.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "country": "DE",
+    "addTime": 1779314685
+  },
+  {
+    "host": "ryzen.myrka.digital",
+    "port": 228,
+    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
+    "country": "DE",
+    "addTime": 1779314685
+  },
+  {
+    "host": "vecher.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "country": "DE",
+    "addTime": 1779314684
+  },
+  {
+    "host": "37.139.42.140",
+    "port": 443,
+    "secret": "f5199e949c0f23bc887581218ad8c1e6",
+    "country": "RU",
+    "addTime": 1779314681
+  },
+  {
+    "host": "hop3.proxytg.space",
+    "port": 443,
+    "secret": "ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275",
+    "country": "RU",
+    "addTime": 1779314679
+  },
+  {
     "host": "d.artishchev.org",
     "port": 8443,
     "secret": "963a7fd525b04c4533ce776c9bd70f34",
@@ -105,13 +168,6 @@
     "addTime": 1779282332
   },
   {
-    "host": "mt.nowabst.com",
-    "port": 853,
-    "secret": "eedd7a7a3d6f4cf1f7c3fae9cff28b73796164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779282308
-  },
-  {
     "host": "103.110.64.211",
     "port": 443,
     "secret": "ee457a1d7a9004f780d4ca5ad2290f7e1a79616e6465782e7275",
@@ -196,17 +252,17 @@
     "addTime": 1779260695
   },
   {
-    "host": "ex.sfsh.su",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "FI",
-    "addTime": 1779249980
-  },
-  {
     "host": "dns.vdl.lat",
     "port": 853,
     "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
     "country": "RU",
+    "addTime": 1779249980
+  },
+  {
+    "host": "ex.sfsh.su",
+    "port": 443,
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
+    "country": "FI",
     "addTime": 1779249980
   },
   {
@@ -215,6 +271,13 @@
     "secret": "eec5081bcd191b76e90ee894d248e44c42706574726f766963682e7275",
     "country": "NL",
     "addTime": 1779249932
+  },
+  {
+    "host": "194.87.140.180",
+    "port": 443,
+    "secret": "ee4f703d47ddff57b0e3b80e742b42fbd56164732e78352e7275",
+    "country": "CZ",
+    "addTime": 1779249904
   },
   {
     "host": "185.246.116.100",
@@ -245,20 +308,6 @@
     "addTime": 1779239083
   },
   {
-    "host": "15.237.180.149",
-    "port": 443,
-    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
-    "country": "FR",
-    "addTime": 1779239081
-  },
-  {
-    "host": "2.26.125.187",
-    "port": 8443,
-    "secret": "ee5927401638529471026384591730624872742e636f6d",
-    "country": "DE",
-    "addTime": 1779239081
-  },
-  {
     "host": "vpn.us.96f15c66.nip.io",
     "port": 3443,
     "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
@@ -273,11 +322,18 @@
     "addTime": 1779239081
   },
   {
-    "host": "austria.salzburg.ir",
+    "host": "15.237.180.149",
     "port": 443,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
+    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
+    "country": "FR",
+    "addTime": 1779239081
+  },
+  {
+    "host": "2.26.125.187",
+    "port": 8443,
+    "secret": "ee5927401638529471026384591730624872742e636f6d",
     "country": "DE",
-    "addTime": 1779228411
+    "addTime": 1779239081
   },
   {
     "host": "sosally.net",
@@ -292,61 +348,5 @@
     "secret": "ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e",
     "country": "DE",
     "addTime": 1779228280
-  },
-  {
-    "host": "froggy.monthlies.overgrown.taxiplane.woody.akoypinoytv.net",
-    "port": 7950,
-    "secret": "dc886d4aac6778cedf4189b493ac2ab9",
-    "country": "DE",
-    "addTime": 1779217530
-  },
-  {
-    "host": "2.26.52.23",
-    "port": 443,
-    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
-    "country": "US",
-    "addTime": 1779217526
-  },
-  {
-    "host": "91.108.248.249",
-    "port": 443,
-    "secret": "ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275",
-    "country": "NL",
-    "addTime": 1779217495
-  },
-  {
-    "host": "a.errornet.work",
-    "port": 443,
-    "secret": "eec16f877103ba211b5652459a26bf65dd7777772e626f6f6b696e672e636f6d",
-    "country": "US",
-    "addTime": 1779217494
-  },
-  {
-    "host": "45.38.190.15",
-    "port": 443,
-    "secret": "ee3c5b3c5365b7291320fb3509f6080ef4706574726f766963682e7275",
-    "country": "DE",
-    "addTime": 1779217492
-  },
-  {
-    "host": "135.181.1.23",
-    "port": 8080,
-    "secret": "dd49a70de57a60174f18dfd7fe6ef6aaf5",
-    "country": "FI",
-    "addTime": 1779207102
-  },
-  {
-    "host": "68.209.58.136",
-    "port": 443,
-    "secret": "eeaae59d83ead3dfe249eaa024f0a37c6b6f7a6f6e2e7275",
-    "country": "CA",
-    "addTime": 1779206778
-  },
-  {
-    "host": "cargo.grandpa.sweetly.pinoyteleseryeonline.com",
-    "port": 443,
-    "secret": "ee74b435287a87707d8eec7c203583240e647a656e2e7275",
-    "country": "DE",
-    "addTime": 1779206725
   }
 ]
