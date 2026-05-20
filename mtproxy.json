@@ -42,13 +42,6 @@
     "addTime": 1779293070
   },
   {
-    "host": "5.181.0.202",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c96617669746f2e7275",
-    "country": "NL",
-    "addTime": 1779293067
-  },
-  {
     "host": "78.111.90.105",
     "port": 443,
     "secret": "f06218bff48339e5053be704d0aefd58",
@@ -63,21 +56,14 @@
     "addTime": 1779282347
   },
   {
-    "host": "mt.nowabst.com",
-    "port": 853,
-    "secret": "eedd7a7a3d6f4cf1f7c3fae9cff28b73796164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779282308
-  },
-  {
-    "host": "hop1.proxytg.space",
+    "host": "77.110.104.96",
     "port": 443,
     "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
     "country": "RU",
     "addTime": 1779282288
   },
   {
-    "host": "77.110.104.96",
+    "host": "hop1.proxytg.space",
     "port": 443,
     "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
     "country": "RU",
@@ -161,17 +147,17 @@
     "addTime": 1779260695
   },
   {
-    "host": "dns.vdl.lat",
-    "port": 853,
-    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779249980
-  },
-  {
     "host": "ex.sfsh.su",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
     "country": "FI",
+    "addTime": 1779249980
+  },
+  {
+    "host": "dns.vdl.lat",
+    "port": 853,
+    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
+    "country": "RU",
     "addTime": 1779249980
   },
   {
@@ -217,13 +203,6 @@
     "addTime": 1779239081
   },
   {
-    "host": "vpn.us.96f15c66.nip.io",
-    "port": 3443,
-    "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1779239081
-  },
-  {
     "host": "15.237.180.149",
     "port": 443,
     "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
@@ -238,18 +217,18 @@
     "addTime": 1779239081
   },
   {
+    "host": "vpn.us.96f15c66.nip.io",
+    "port": 3443,
+    "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
+    "addTime": 1779239081
+  },
+  {
     "host": "austria.salzburg.ir",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "FI",
+    "country": "DE",
     "addTime": 1779228411
-  },
-  {
-    "host": "sosally.net",
-    "port": 443,
-    "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779228310
   },
   {
     "host": "tg1.tgproxy1.fun",
@@ -332,7 +311,7 @@
     "host": "snova.zaebalsya.uk",
     "port": 443,
     "secret": "eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7275",
-    "country": "DE",
+    "country": "FR",
     "addTime": 1779195992
   },
   {
@@ -343,10 +322,31 @@
     "addTime": 1779195894
   },
   {
+    "host": "212.233.98.65",
+    "port": 443,
+    "secret": "ff0ad7341c0c5166b49a1189731b26e6",
+    "country": "RU",
+    "addTime": 1779195893
+  },
+  {
     "host": "212.192.23.209",
     "port": 443,
     "secret": "ee0fdb7b375ea7edf4d054be58763fcccc7777772e636c6f7564666c6172652e636f6d",
     "country": "LT",
     "addTime": 1779195892
+  },
+  {
+    "host": "gogogo.bopen.bond",
+    "port": 443,
+    "secret": "eeb4b54ddf0b9f3b82dd7b4a5a888ea82d77622e7275",
+    "country": "NL",
+    "addTime": 1779195884
+  },
+  {
+    "host": "proxy.pushvpn.space",
+    "port": 443,
+    "secret": "ee27c7f948bc8c223e13ae240911e783ab7777772e636c6f7564666c6172652e636f6d",
+    "country": "AT",
+    "addTime": 1779185177
   }
 ]
