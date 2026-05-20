@@ -14,6 +14,13 @@
     "addTime": 1779239083
   },
   {
+    "host": "15.237.180.149",
+    "port": 443,
+    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
+    "country": "FR",
+    "addTime": 1779239081
+  },
+  {
     "host": "vpn.us.96f15c66.nip.io",
     "port": 3443,
     "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
@@ -35,11 +42,11 @@
     "addTime": 1779239081
   },
   {
-    "host": "15.237.180.149",
+    "host": "austria.salzburg.ir",
     "port": 443,
-    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
-    "country": "FR",
-    "addTime": 1779239081
+    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
+    "country": "FI",
+    "addTime": 1779228411
   },
   {
     "host": "sosally.net",
@@ -63,13 +70,6 @@
     "addTime": 1779217530
   },
   {
-    "host": "45.145.6.153",
-    "port": 443,
-    "secret": "eeb906bc386411c7b06a7ccaeec152ee3431632e7275",
-    "country": "LV",
-    "addTime": 1779217526
-  },
-  {
     "host": "kria5.snappytuppy.icu",
     "port": 443,
     "secret": "eec7d8a2f5e4feb8640f9db8ceada9f4eb6b726961352e736e6170707974757070792e696375",
@@ -81,6 +81,13 @@
     "port": 443,
     "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
     "country": "US",
+    "addTime": 1779217526
+  },
+  {
+    "host": "45.145.6.153",
+    "port": 443,
+    "secret": "eeb906bc386411c7b06a7ccaeec152ee3431632e7275",
+    "country": "LV",
     "addTime": 1779217526
   },
   {
@@ -140,10 +147,10 @@
     "addTime": 1779206725
   },
   {
-    "host": "185.224.132.252",
+    "host": "186.246.20.42",
     "port": 443,
-    "secret": "ee16ac683c4467cde70a6418a71571c67a62726f777365722e79616e6465782e636f6d",
-    "country": "PL",
+    "secret": "ee1515009f182f6626752d457164ce5988617669746f2e7275",
+    "country": "LV",
     "addTime": 1779206713
   },
   {
@@ -154,24 +161,17 @@
     "addTime": 1779206713
   },
   {
-    "host": "186.246.20.42",
-    "port": 443,
-    "secret": "ee1515009f182f6626752d457164ce5988617669746f2e7275",
-    "country": "LV",
-    "addTime": 1779206713
-  },
-  {
-    "host": "188.137.234.253",
-    "port": 443,
-    "secret": "ee04b03d0bacb08c4cad9c2fb59898071462726f777365722e79616e6465782e636f6d",
-    "country": "DE",
-    "addTime": 1779206713
-  },
-  {
     "host": "95.85.234.119",
     "port": 8443,
     "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
     "country": "CZ",
+    "addTime": 1779206713
+  },
+  {
+    "host": "185.224.132.252",
+    "port": 443,
+    "secret": "ee16ac683c4467cde70a6418a71571c67a62726f777365722e79616e6465782e636f6d",
+    "country": "PL",
     "addTime": 1779206713
   },
   {
@@ -187,20 +187,6 @@
     "secret": "f5199e949c0f23bc887581218ad8c1e6",
     "country": "RU",
     "addTime": 1779196095
-  },
-  {
-    "host": "82.97.240.94",
-    "port": 443,
-    "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
-    "country": "AU",
-    "addTime": 1779196012
-  },
-  {
-    "host": "snova.zaebalsya.uk",
-    "port": 443,
-    "secret": "eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7275",
-    "country": "FR",
-    "addTime": 1779195992
   },
   {
     "host": "2.27.12.116",
@@ -348,5 +334,19 @@
     "secret": "ee47d4d7cd10a3b9fd9be642699d39b4ca6d742e7873757267652e70726f",
     "country": "DE",
     "addTime": 1779163538
+  },
+  {
+    "host": "154.83.208.252",
+    "port": 443,
+    "secret": "dd3278872d2e4e46f69900392c6587ae3e",
+    "country": "NL",
+    "addTime": 1779152946
+  },
+  {
+    "host": "38.65.92.177",
+    "port": 443,
+    "secret": "ee4a8cb307b3a00cd55742029543b767f0617a7572652e6d6963726f736f66742e636f6d",
+    "country": "US",
+    "addTime": 1779152874
   }
 ]
