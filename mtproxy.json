@@ -70,11 +70,11 @@
     "addTime": 1779271462
   },
   {
-    "host": "103.110.64.213",
+    "host": "hyper.sosproxy.space",
     "port": 443,
-    "secret": "eecb034302623216896e2887011d848d6479616e6465782e7275",
-    "country": "DE",
-    "addTime": 1779271460
+    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "country": "NL",
+    "addTime": 1779271459
   },
   {
     "host": "45.138.25.27",
@@ -98,13 +98,6 @@
     "addTime": 1779260701
   },
   {
-    "host": "fastproxy.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "country": "AE",
-    "addTime": 1779260695
-  },
-  {
     "host": "w.arixo.shop",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
@@ -122,6 +115,13 @@
     "host": "186.246.18.175",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
+    "country": "LV",
+    "addTime": 1779260695
+  },
+  {
+    "host": "fastproxy.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
     "country": "LV",
     "addTime": 1779260695
   },
@@ -175,10 +175,10 @@
     "addTime": 1779239083
   },
   {
-    "host": "95.163.214.137",
-    "port": 443,
-    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
-    "country": "RU",
+    "host": "vpn.us.96f15c66.nip.io",
+    "port": 3443,
+    "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
     "addTime": 1779239081
   },
   {
@@ -196,10 +196,10 @@
     "addTime": 1779239081
   },
   {
-    "host": "vpn.us.96f15c66.nip.io",
-    "port": 3443,
-    "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
+    "host": "95.163.214.137",
+    "port": 443,
+    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
+    "country": "RU",
     "addTime": 1779239081
   },
   {
@@ -235,6 +235,13 @@
     "port": 443,
     "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
     "country": "US",
+    "addTime": 1779217526
+  },
+  {
+    "host": "kria5.snappytuppy.icu",
+    "port": 443,
+    "secret": "eec7d8a2f5e4feb8640f9db8ceada9f4eb6b726961352e736e6170707974757070792e696375",
+    "country": "FR",
     "addTime": 1779217526
   },
   {
@@ -308,6 +315,13 @@
     "addTime": 1779195894
   },
   {
+    "host": "212.233.98.65",
+    "port": 443,
+    "secret": "ff0ad7341c0c5166b49a1189731b26e6",
+    "country": "RU",
+    "addTime": 1779195893
+  },
+  {
     "host": "212.192.23.209",
     "port": 443,
     "secret": "ee0fdb7b375ea7edf4d054be58763fcccc7777772e636c6f7564666c6172652e636f6d",
@@ -334,19 +348,5 @@
     "secret": "eea780be714f2e4a514dcce7248e3d070262726f777365722e79616e6465782e636f6d",
     "country": "DE",
     "addTime": 1779185169
-  },
-  {
-    "host": "bejesus.benzoin.dephosphorize.gestation.odometer.umorina.info",
-    "port": 34417,
-    "secret": "ee1ca75b16e887e0e780e82fe287bb75ee647a656e2e7275",
-    "country": "DE",
-    "addTime": 1779185103
-  },
-  {
-    "host": "alpina.hatecens.cc",
-    "port": 8443,
-    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
-    "country": "CZ",
-    "addTime": 1779185102
   }
 ]
