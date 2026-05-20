@@ -1,12 +1,5 @@
 [
   {
-    "host": "free.edgecdn-static.com",
-    "port": 443,
-    "secret": "eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d66564676563646e2d7374617469632e636f6d",
-    "country": "RU",
-    "addTime": 1779282347
-  },
-  {
     "host": "mt.nowabst.com",
     "port": 853,
     "secret": "eedd7a7a3d6f4cf1f7c3fae9cff28b73796164732e78352e7275",
@@ -25,13 +18,6 @@
     "port": 443,
     "secret": "eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65",
     "country": "NL",
-    "addTime": 1779282288
-  },
-  {
-    "host": "77.110.104.96",
-    "port": 443,
-    "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
-    "country": "RU",
     "addTime": 1779282288
   },
   {
@@ -70,11 +56,11 @@
     "addTime": 1779271462
   },
   {
-    "host": "hyper.sosproxy.space",
+    "host": "103.110.64.213",
     "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1779271459
+    "secret": "eecb034302623216896e2887011d848d6479616e6465782e7275",
+    "country": "DE",
+    "addTime": 1779271460
   },
   {
     "host": "45.138.25.27",
@@ -98,9 +84,9 @@
     "addTime": 1779260701
   },
   {
-    "host": "fastproxy.chunkycorp.shop",
+    "host": "186.246.18.175",
     "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
     "country": "LV",
     "addTime": 1779260695
   },
@@ -112,17 +98,17 @@
     "addTime": 1779260695
   },
   {
-    "host": "186.246.18.175",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
-    "country": "LV",
-    "addTime": 1779260695
-  },
-  {
     "host": "w.arixo.shop",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
     "country": "GR",
+    "addTime": 1779260695
+  },
+  {
+    "host": "fastproxy.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "country": "AE",
     "addTime": 1779260695
   },
   {
@@ -175,10 +161,10 @@
     "addTime": 1779239083
   },
   {
-    "host": "15.237.180.149",
+    "host": "95.163.214.137",
     "port": 443,
-    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
-    "country": "FR",
+    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
+    "country": "RU",
     "addTime": 1779239081
   },
   {
@@ -189,10 +175,10 @@
     "addTime": 1779239081
   },
   {
-    "host": "95.163.214.137",
+    "host": "15.237.180.149",
     "port": 443,
-    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
-    "country": "RU",
+    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
+    "country": "FR",
     "addTime": 1779239081
   },
   {
@@ -304,7 +290,7 @@
     "host": "snova.zaebalsya.uk",
     "port": 443,
     "secret": "eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7275",
-    "country": "FR",
+    "country": "DE",
     "addTime": 1779195992
   },
   {
@@ -348,5 +334,19 @@
     "secret": "ee1ca75b16e887e0e780e82fe287bb75ee647a656e2e7275",
     "country": "DE",
     "addTime": 1779185103
+  },
+  {
+    "host": "alpina.hatecens.cc",
+    "port": 8443,
+    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
+    "country": "CZ",
+    "addTime": 1779185102
+  },
+  {
+    "host": "185.86.147.150",
+    "port": 443,
+    "secret": "ee6e35665dad80ee128615a8ee7957a60479616e6465782e7275",
+    "country": "RU",
+    "addTime": 1779185096
   }
 ]
