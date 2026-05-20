@@ -56,6 +56,13 @@
     "addTime": 1779293070
   },
   {
+    "host": "5.181.0.202",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c96617669746f2e7275",
+    "country": "NL",
+    "addTime": 1779293067
+  },
+  {
     "host": "78.111.90.105",
     "port": 443,
     "secret": "f06218bff48339e5053be704d0aefd58",
@@ -98,13 +105,6 @@
     "addTime": 1779282288
   },
   {
-    "host": "hop1.proxytg.space",
-    "port": 443,
-    "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
-    "country": "RU",
-    "addTime": 1779282288
-  },
-  {
     "host": "103.110.64.211",
     "port": 443,
     "secret": "ee457a1d7a9004f780d4ca5ad2290f7e1a79616e6465782e7275",
@@ -131,13 +131,6 @@
     "secret": "eeb4559cb6722f727d849090621e7aba8f79616e6465782e7275",
     "country": "DE",
     "addTime": 1779271462
-  },
-  {
-    "host": "103.110.64.213",
-    "port": 443,
-    "secret": "eecb034302623216896e2887011d848d6479616e6465782e7275",
-    "country": "DE",
-    "addTime": 1779271460
   },
   {
     "host": "hyper.sosproxy.space",
@@ -168,13 +161,6 @@
     "addTime": 1779260701
   },
   {
-    "host": "186.246.18.175",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
-    "country": "LV",
-    "addTime": 1779260695
-  },
-  {
     "host": "w.arixo.shop",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
@@ -189,17 +175,31 @@
     "addTime": 1779260695
   },
   {
-    "host": "dns.vdl.lat",
-    "port": 853,
-    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779249980
+    "host": "186.246.18.175",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
+    "country": "LV",
+    "addTime": 1779260695
+  },
+  {
+    "host": "fastproxy.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "country": "NL",
+    "addTime": 1779260695
   },
   {
     "host": "ex.sfsh.su",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
     "country": "FI",
+    "addTime": 1779249980
+  },
+  {
+    "host": "dns.vdl.lat",
+    "port": 853,
+    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
+    "country": "RU",
     "addTime": 1779249980
   },
   {
