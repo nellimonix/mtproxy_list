@@ -1,5 +1,12 @@
 [
   {
+    "host": "d.artishchev.org",
+    "port": 8443,
+    "secret": "963a7fd525b04c4533ce776c9bd70f34",
+    "country": "DE",
+    "addTime": 1779303977
+  },
+  {
     "host": "dimply.grand.helm.inboard.sucker.pinoyteleseryelove.com",
     "port": 3500,
     "secret": "01264449f129c50e22d3556e011f2395",
@@ -19,13 +26,6 @@
     "secret": "eec25d8e668a1b6d15dfc967deaf239b307777772e6170706c652e636f6d",
     "country": "US",
     "addTime": 1779303871
-  },
-  {
-    "host": "45.39.33.160",
-    "port": 443,
-    "secret": "ee39f8e9a2673ca05251ec002f7e7eff6e7777772e6d6963726f736f66742e636f6d",
-    "country": "US",
-    "addTime": 1779303866
   },
   {
     "host": "161.35.21.233",
@@ -105,20 +105,6 @@
     "addTime": 1779282308
   },
   {
-    "host": "77.110.104.96",
-    "port": 443,
-    "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
-    "country": "RU",
-    "addTime": 1779282288
-  },
-  {
-    "host": "hop1.proxytg.space",
-    "port": 443,
-    "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
-    "country": "RU",
-    "addTime": 1779282288
-  },
-  {
     "host": "103.110.64.211",
     "port": 443,
     "secret": "ee457a1d7a9004f780d4ca5ad2290f7e1a79616e6465782e7275",
@@ -154,16 +140,16 @@
     "addTime": 1779271460
   },
   {
-    "host": "45.138.25.27",
+    "host": "hyper.sosproxy.space",
     "port": 443,
-    "secret": "2c92cd2488fa5653365f754707141759",
+    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1779271459
   },
   {
-    "host": "hyper.sosproxy.space",
+    "host": "45.138.25.27",
     "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "secret": "2c92cd2488fa5653365f754707141759",
     "country": "NL",
     "addTime": 1779271459
   },
@@ -196,17 +182,24 @@
     "addTime": 1779260695
   },
   {
-    "host": "dns.vdl.lat",
-    "port": 853,
-    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779249980
+    "host": "fastproxy.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "country": "NL",
+    "addTime": 1779260695
   },
   {
     "host": "ex.sfsh.su",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
     "country": "FI",
+    "addTime": 1779249980
+  },
+  {
+    "host": "dns.vdl.lat",
+    "port": 853,
+    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
+    "country": "RU",
     "addTime": 1779249980
   },
   {
@@ -259,6 +252,13 @@
     "addTime": 1779239081
   },
   {
+    "host": "95.163.214.137",
+    "port": 443,
+    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
+    "country": "RU",
+    "addTime": 1779239081
+  },
+  {
     "host": "2.26.125.187",
     "port": 8443,
     "secret": "ee5927401638529471026384591730624872742e636f6d",
@@ -266,11 +266,11 @@
     "addTime": 1779239081
   },
   {
-    "host": "95.163.214.137",
+    "host": "austria.salzburg.ir",
     "port": 443,
-    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
-    "country": "RU",
-    "addTime": 1779239081
+    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
+    "country": "DE",
+    "addTime": 1779228411
   },
   {
     "host": "sosally.net",
