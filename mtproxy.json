@@ -14,9 +14,23 @@
     "addTime": 1779260701
   },
   {
+    "host": "w.arixo.shop",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
+    "country": "GR",
+    "addTime": 1779260695
+  },
+  {
     "host": "fastproxy.chunkycorp.shop",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "country": "LV",
+    "addTime": 1779260695
+  },
+  {
+    "host": "186.246.18.175",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
     "country": "LV",
     "addTime": 1779260695
   },
@@ -25,20 +39,6 @@
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c96617669746f2e7275",
     "country": "US",
-    "addTime": 1779260695
-  },
-  {
-    "host": "w.arixo.shop",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
-    "country": "GR",
-    "addTime": 1779260695
-  },
-  {
-    "host": "186.246.18.175",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
-    "country": "LV",
     "addTime": 1779260695
   },
   {
@@ -122,7 +122,7 @@
     "host": "austria.salzburg.ir",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "FI",
+    "country": "DE",
     "addTime": 1779228411
   },
   {
@@ -196,17 +196,17 @@
     "addTime": 1779206725
   },
   {
-    "host": "95.85.234.119",
-    "port": 8443,
-    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
-    "country": "CZ",
-    "addTime": 1779206713
-  },
-  {
     "host": "185.92.180.128",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
     "country": "US",
+    "addTime": 1779206713
+  },
+  {
+    "host": "95.85.234.119",
+    "port": 8443,
+    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
+    "country": "CZ",
     "addTime": 1779206713
   },
   {
@@ -234,7 +234,7 @@
     "host": "snova.zaebalsya.uk",
     "port": 443,
     "secret": "eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7275",
-    "country": "DE",
+    "country": "FR",
     "addTime": 1779195992
   },
   {
@@ -243,13 +243,6 @@
     "secret": "ee19130c695cf699d93f5a31ecf380d4426d742e736b6f746f62617a2e7275",
     "country": "NL",
     "addTime": 1779195894
-  },
-  {
-    "host": "212.233.98.65",
-    "port": 443,
-    "secret": "ff0ad7341c0c5166b49a1189731b26e6",
-    "country": "RU",
-    "addTime": 1779195893
   },
   {
     "host": "212.192.23.209",
@@ -285,13 +278,6 @@
     "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
     "country": "CZ",
     "addTime": 1779185102
-  },
-  {
-    "host": "185.86.147.150",
-    "port": 443,
-    "secret": "ee6e35665dad80ee128615a8ee7957a60479616e6465782e7275",
-    "country": "RU",
-    "addTime": 1779185096
   },
   {
     "host": "178.105.168.17",
@@ -336,17 +322,31 @@
     "addTime": 1779174380
   },
   {
-    "host": "russia.tgproxyy.online",
-    "port": 443,
-    "secret": "eed28a6a29973dc4b3ca4d87955796b30f7275737369612e746770726f7879792e6f6e6c696e65",
-    "country": "US",
-    "addTime": 1779174333
-  },
-  {
     "host": "91.107.162.48",
     "port": 443,
     "secret": "dd49a70de57a60174f18dfd7fe6ef6aaf5",
     "country": "DE",
     "addTime": 1779174306
+  },
+  {
+    "host": "x5group.xsurge.pro",
+    "port": 853,
+    "secret": "ee47d4d7cd10a3b9fd9be642699d39b4ca6d742e7873757267652e70726f",
+    "country": "DE",
+    "addTime": 1779163538
+  },
+  {
+    "host": "154.83.208.252",
+    "port": 443,
+    "secret": "dd3278872d2e4e46f69900392c6587ae3e",
+    "country": "NL",
+    "addTime": 1779152946
+  },
+  {
+    "host": "38.65.92.177",
+    "port": 443,
+    "secret": "ee4a8cb307b3a00cd55742029543b767f0617a7572652e6d6963726f736f66742e636f6d",
+    "country": "US",
+    "addTime": 1779152874
   }
 ]
