@@ -7,13 +7,6 @@
     "addTime": 1779379539
   },
   {
-    "host": "testik.fsproxy.site",
-    "port": 443,
-    "secret": "ddcc152117b066744e044c231dadc55698",
-    "country": "RU",
-    "addTime": 1779379516
-  },
-  {
     "host": "195.58.49.162",
     "port": 443,
     "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
@@ -28,6 +21,13 @@
     "addTime": 1779379516
   },
   {
+    "host": "testik.fsproxy.site",
+    "port": 443,
+    "secret": "ddcc152117b066744e044c231dadc55698",
+    "country": "RU",
+    "addTime": 1779379516
+  },
+  {
     "host": "abstemious.impeded.rotterdam.pilipinoteleserye.com",
     "port": 443,
     "secret": "eebb3723cc058b9df1acaa96371c46f494647a656e2e7275",
@@ -39,6 +39,13 @@
     "port": 443,
     "secret": "ee9955f6fda43ace816fd55e19422d13a631632e7275",
     "country": "LV",
+    "addTime": 1779379482
+  },
+  {
+    "host": "109.206.243.36",
+    "port": 443,
+    "secret": "ee541e4f78b08efb7ab600c24f8ecd846a636c6f7564666c6172652e636f6d",
+    "country": "BG",
     "addTime": 1779379482
   },
   {
@@ -61,6 +68,13 @@
     "secret": "ee8e3f271e744a014ddd27b21dd19377f831632e7275",
     "country": "LV",
     "addTime": 1779368679
+  },
+  {
+    "host": "31.76.251.25",
+    "port": 853,
+    "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e6d742e616b656e61692e636c69636b",
+    "country": "PL",
+    "addTime": 1779368660
   },
   {
     "host": "free.edgecdn-static.com",
@@ -112,17 +126,17 @@
     "addTime": 1779347102
   },
   {
-    "host": "37.1.212.47",
-    "port": 443,
-    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
-    "country": "US",
-    "addTime": 1779347091
-  },
-  {
     "host": "31.44.6.81",
     "port": 443,
     "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
     "country": "NL",
+    "addTime": 1779347091
+  },
+  {
+    "host": "37.1.212.47",
+    "port": 443,
+    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
+    "country": "US",
     "addTime": 1779347091
   },
   {
@@ -189,6 +203,13 @@
     "addTime": 1779314684
   },
   {
+    "host": "37.139.42.140",
+    "port": 443,
+    "secret": "f5199e949c0f23bc887581218ad8c1e6",
+    "country": "RU",
+    "addTime": 1779314681
+  },
+  {
     "host": "d.artishchev.org",
     "port": 8443,
     "secret": "963a7fd525b04c4533ce776c9bd70f34",
@@ -206,7 +227,7 @@
     "host": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
-    "country": "FI",
+    "country": "LV",
     "addTime": 1779303887
   },
   {
@@ -245,17 +266,17 @@
     "addTime": 1779293086
   },
   {
-    "host": "193.28.186.151",
-    "port": 443,
-    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
-    "country": "LV",
-    "addTime": 1779293084
-  },
-  {
     "host": "rkn.errornet.work",
     "port": 8443,
     "secret": "eec16f877103ba211b5652459a26bf65dd6d61782e7275",
     "country": "US",
+    "addTime": 1779293084
+  },
+  {
+    "host": "193.28.186.151",
+    "port": 443,
+    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
+    "country": "LV",
     "addTime": 1779293084
   },
   {
@@ -327,26 +348,5 @@
     "secret": "eecb034302623216896e2887011d848d6479616e6465782e7275",
     "country": "DE",
     "addTime": 1779271460
-  },
-  {
-    "host": "45.138.25.27",
-    "port": 443,
-    "secret": "2c92cd2488fa5653365f754707141759",
-    "country": "NL",
-    "addTime": 1779271459
-  },
-  {
-    "host": "hyper.sosproxy.space",
-    "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1779271459
-  },
-  {
-    "host": "chat.eterfund.ru",
-    "port": 443,
-    "secret": "ee1caa37ae90774ecf9247bd53f8cd2c4a636861742e6574657266756e642e7275",
-    "country": "RU",
-    "addTime": 1779260701
   }
 ]
