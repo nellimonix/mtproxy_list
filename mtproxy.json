@@ -14,24 +14,17 @@
     "addTime": 1779357903
   },
   {
-    "host": "213.139.229.59",
+    "host": "188.137.252.236",
     "port": 443,
-    "secret": "ee1faece32ea65f12e287e6440cce4815a31632e7275",
-    "country": "LV",
-    "addTime": 1779357901
+    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
+    "country": "NL",
+    "addTime": 1779357883
   },
   {
     "host": "31.76.240.246",
     "port": 443,
     "secret": "ee4fb60224ec3ba77691889623ffd44dc8667265652e70726f70726f786965732e746f70",
     "country": "FI",
-    "addTime": 1779357883
-  },
-  {
-    "host": "188.137.252.236",
-    "port": 443,
-    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
-    "country": "NL",
     "addTime": 1779357883
   },
   {
@@ -63,17 +56,17 @@
     "addTime": 1779347102
   },
   {
-    "host": "37.1.212.47",
-    "port": 443,
-    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
-    "country": "US",
-    "addTime": 1779347091
-  },
-  {
     "host": "31.44.6.81",
     "port": 443,
     "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
     "country": "NL",
+    "addTime": 1779347091
+  },
+  {
+    "host": "37.1.212.47",
+    "port": 443,
+    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
+    "country": "US",
     "addTime": 1779347091
   },
   {
@@ -91,6 +84,13 @@
     "addTime": 1779336340
   },
   {
+    "host": "suge.2pac.live",
+    "port": 7777,
+    "secret": "ee97c88e23d6902be6f5d2a85c2013539b7777772e7068696c6970732e636f6d",
+    "country": "US",
+    "addTime": 1779336307
+  },
+  {
     "host": "89.124.94.90",
     "port": 443,
     "secret": "cdd2b1d2f6d78b1dc81b981410f05789",
@@ -103,13 +103,6 @@
     "secret": "afdc38b8068b2444e50f6a4f093751b5",
     "country": "DE",
     "addTime": 1779314749
-  },
-  {
-    "host": "84.201.175.61",
-    "port": 443,
-    "secret": "eead24ce88888cf6231e908ca911628e",
-    "country": "RU",
-    "addTime": 1779314746
   },
   {
     "host": "90.156.255.143",
@@ -164,7 +157,7 @@
     "host": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
-    "country": "FI",
+    "country": "LV",
     "addTime": 1779303887
   },
   {
@@ -329,13 +322,6 @@
     "addTime": 1779249980
   },
   {
-    "host": "ex.sfsh.su",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "CH",
-    "addTime": 1779249980
-  },
-  {
     "host": "144.31.54.207",
     "port": 443,
     "secret": "eec5081bcd191b76e90ee894d248e44c42706574726f766963682e7275",
@@ -348,5 +334,19 @@
     "secret": "eec85ddd7d5cb151f92e5c70711f5d11b86170692e74656c6567612e696e666f",
     "country": "RU",
     "addTime": 1779249903
+  },
+  {
+    "host": "191.44.123.132",
+    "port": 443,
+    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
+    "country": "PL",
+    "addTime": 1779249899
+  },
+  {
+    "host": "92.118.233.108",
+    "port": 7878,
+    "secret": "48f739d003f42d13dd318bcbd5757d4b",
+    "country": "FI",
+    "addTime": 1779239124
   }
 ]
