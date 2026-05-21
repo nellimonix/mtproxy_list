@@ -49,16 +49,16 @@
     "addTime": 1779347167
   },
   {
-    "host": "87.120.244.129",
+    "host": "185.139.215.136",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
+    "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
     "country": "NL",
     "addTime": 1779347102
   },
   {
-    "host": "185.139.215.136",
+    "host": "87.120.244.129",
     "port": 443,
-    "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
+    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
     "country": "NL",
     "addTime": 1779347102
   },
@@ -89,13 +89,6 @@
     "secret": "4022239bd929858964d4ee4440b59112",
     "country": "LV",
     "addTime": 1779336340
-  },
-  {
-    "host": "suge.2pac.live",
-    "port": 7777,
-    "secret": "ee97c88e23d6902be6f5d2a85c2013539b7777772e7068696c6970732e636f6d",
-    "country": "US",
-    "addTime": 1779336307
   },
   {
     "host": "89.124.94.90",
@@ -178,7 +171,7 @@
     "host": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
-    "country": "LV",
+    "country": "FI",
     "addTime": 1779303887
   },
   {
@@ -217,13 +210,6 @@
     "addTime": 1779293086
   },
   {
-    "host": "193.28.186.151",
-    "port": 443,
-    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
-    "country": "LV",
-    "addTime": 1779293084
-  },
-  {
     "host": "rkn.errornet.work",
     "port": 8443,
     "secret": "eec16f877103ba211b5652459a26bf65dd6d61782e7275",
@@ -257,6 +243,13 @@
     "secret": "f06218bff48339e5053be704d0aefd58",
     "country": "CA",
     "addTime": 1779293066
+  },
+  {
+    "host": "mt.nowabst.com",
+    "port": 853,
+    "secret": "eedd7a7a3d6f4cf1f7c3fae9cff28b73796164732e78352e7275",
+    "country": "RU",
+    "addTime": 1779282308
   },
   {
     "host": "hop1.proxytg.space",
@@ -329,17 +322,17 @@
     "addTime": 1779260701
   },
   {
+    "host": "fastproxy.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "country": "LV",
+    "addTime": 1779260695
+  },
+  {
     "host": "dns.vdl.lat",
     "port": 853,
     "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
     "country": "RU",
-    "addTime": 1779249980
-  },
-  {
-    "host": "ex.sfsh.su",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "CH",
     "addTime": 1779249980
   },
   {
@@ -348,5 +341,12 @@
     "secret": "eec5081bcd191b76e90ee894d248e44c42706574726f766963682e7275",
     "country": "NL",
     "addTime": 1779249932
+  },
+  {
+    "host": "185.246.116.100",
+    "port": 443,
+    "secret": "eec85ddd7d5cb151f92e5c70711f5d11b86170692e74656c6567612e696e666f",
+    "country": "RU",
+    "addTime": 1779249903
   }
 ]
