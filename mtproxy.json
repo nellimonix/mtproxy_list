@@ -1,5 +1,26 @@
 [
   {
+    "host": "new18.mtproxygram.lol",
+    "port": 443,
+    "secret": "eeb042cf0a713ab2abc2b9c0273e74ee8162726f777365722e79616e6465782e636f6d",
+    "country": "NL",
+    "addTime": 1779368699
+  },
+  {
+    "host": "37.233.83.182",
+    "port": 443,
+    "secret": "ee8e3f271e744a014ddd27b21dd19377f831632e7275",
+    "country": "LV",
+    "addTime": 1779368679
+  },
+  {
+    "host": "31.76.251.25",
+    "port": 853,
+    "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e6d742e616b656e61692e636c69636b",
+    "country": "PL",
+    "addTime": 1779368660
+  },
+  {
     "host": "free.edgecdn-static.com",
     "port": 443,
     "secret": "eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d66564676563646e2d7374617469632e636f6d",
@@ -28,13 +49,6 @@
     "addTime": 1779357883
   },
   {
-    "host": "94.130.191.164",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1779357872
-  },
-  {
     "host": "pl.kickedapp.ru",
     "port": 443,
     "secret": "ee74f730af14c141573170a2f904fb4c9d73616d73756e672e636f6d",
@@ -42,16 +56,16 @@
     "addTime": 1779347167
   },
   {
-    "host": "185.139.215.136",
+    "host": "87.120.244.129",
     "port": 443,
-    "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
+    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
     "country": "NL",
     "addTime": 1779347102
   },
   {
-    "host": "87.120.244.129",
+    "host": "185.139.215.136",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
+    "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
     "country": "NL",
     "addTime": 1779347102
   },
@@ -145,6 +159,13 @@
     "secret": "f5199e949c0f23bc887581218ad8c1e6",
     "country": "RU",
     "addTime": 1779314681
+  },
+  {
+    "host": "hop3.proxytg.space",
+    "port": 443,
+    "secret": "ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275",
+    "country": "RU",
+    "addTime": 1779314679
   },
   {
     "host": "d.artishchev.org",
@@ -315,13 +336,6 @@
     "addTime": 1779260701
   },
   {
-    "host": "ex.sfsh.su",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "CH",
-    "addTime": 1779249980
-  },
-  {
     "host": "dns.vdl.lat",
     "port": 853,
     "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
@@ -334,19 +348,5 @@
     "secret": "eec5081bcd191b76e90ee894d248e44c42706574726f766963682e7275",
     "country": "NL",
     "addTime": 1779249932
-  },
-  {
-    "host": "185.246.116.100",
-    "port": 443,
-    "secret": "eec85ddd7d5cb151f92e5c70711f5d11b86170692e74656c6567612e696e666f",
-    "country": "RU",
-    "addTime": 1779249903
-  },
-  {
-    "host": "191.44.123.132",
-    "port": 443,
-    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
-    "country": "PL",
-    "addTime": 1779249899
   }
 ]
