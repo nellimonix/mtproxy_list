@@ -28,16 +28,16 @@
     "addTime": 1779314688
   },
   {
-    "host": "ryzen.myrka.digital",
-    "port": 228,
-    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
+    "host": "ebal-tspu.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
   {
-    "host": "ebal-tspu.myrka.digital",
-    "port": 8243,
-    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "host": "ryzen.myrka.digital",
+    "port": 228,
+    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
@@ -210,16 +210,16 @@
     "addTime": 1779271460
   },
   {
-    "host": "hyper.sosproxy.space",
+    "host": "45.138.25.27",
     "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "secret": "2c92cd2488fa5653365f754707141759",
     "country": "NL",
     "addTime": 1779271459
   },
   {
-    "host": "45.138.25.27",
+    "host": "hyper.sosproxy.space",
     "port": 443,
-    "secret": "2c92cd2488fa5653365f754707141759",
+    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1779271459
   },
@@ -308,10 +308,10 @@
     "addTime": 1779239081
   },
   {
-    "host": "vpn.us.96f15c66.nip.io",
-    "port": 3443,
-    "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
+    "host": "95.163.214.137",
+    "port": 443,
+    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
+    "country": "RU",
     "addTime": 1779239081
   },
   {
@@ -322,11 +322,18 @@
     "addTime": 1779239081
   },
   {
-    "host": "95.163.214.137",
-    "port": 443,
-    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
-    "country": "RU",
+    "host": "vpn.us.96f15c66.nip.io",
+    "port": 3443,
+    "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
     "addTime": 1779239081
+  },
+  {
+    "host": "austria.salzburg.ir",
+    "port": 443,
+    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
+    "country": "DE",
+    "addTime": 1779228411
   },
   {
     "host": "sosally.net",
@@ -341,12 +348,5 @@
     "secret": "ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e",
     "country": "DE",
     "addTime": 1779228280
-  },
-  {
-    "host": "froggy.monthlies.overgrown.taxiplane.woody.akoypinoytv.net",
-    "port": 7950,
-    "secret": "dc886d4aac6778cedf4189b493ac2ab9",
-    "country": "DE",
-    "addTime": 1779217530
   }
 ]
