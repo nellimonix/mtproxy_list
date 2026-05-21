@@ -35,6 +35,13 @@
     "addTime": 1779379484
   },
   {
+    "host": "193.23.3.3",
+    "port": 443,
+    "secret": "ee9955f6fda43ace816fd55e19422d13a631632e7275",
+    "country": "LV",
+    "addTime": 1779379482
+  },
+  {
     "host": "llazyrin-off.duckdns.org",
     "port": 3306,
     "secret": "eeb359972f13e568d2e15bc826257028d56c6c617a7972696e2e7275",
@@ -54,13 +61,6 @@
     "secret": "ee8e3f271e744a014ddd27b21dd19377f831632e7275",
     "country": "LV",
     "addTime": 1779368679
-  },
-  {
-    "host": "31.76.251.25",
-    "port": 853,
-    "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e6d742e616b656e61692e636c69636b",
-    "country": "PL",
-    "addTime": 1779368660
   },
   {
     "host": "free.edgecdn-static.com",
@@ -126,13 +126,6 @@
     "addTime": 1779347091
   },
   {
-    "host": "foreignpayproxytg.top",
-    "port": 443,
-    "secret": "ee6d61782e7275e467763b2a1379ff21",
-    "country": "RU",
-    "addTime": 1779336350
-  },
-  {
     "host": "tgproxy.uefibios.ru",
     "port": 8443,
     "secret": "4022239bd929858964d4ee4440b59112",
@@ -175,16 +168,16 @@
     "addTime": 1779314707
   },
   {
-    "host": "ryzen.myrka.digital",
-    "port": 228,
-    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
+    "host": "ebal-tspu.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
   {
-    "host": "ebal-tspu.myrka.digital",
-    "port": 8243,
-    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "host": "ryzen.myrka.digital",
+    "port": 228,
+    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
@@ -194,13 +187,6 @@
     "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314684
-  },
-  {
-    "host": "37.139.42.140",
-    "port": 443,
-    "secret": "f5199e949c0f23bc887581218ad8c1e6",
-    "country": "RU",
-    "addTime": 1779314681
   },
   {
     "host": "d.artishchev.org",
@@ -220,7 +206,7 @@
     "host": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
-    "country": "LV",
+    "country": "FI",
     "addTime": 1779303887
   },
   {
@@ -343,10 +329,24 @@
     "addTime": 1779271460
   },
   {
+    "host": "45.138.25.27",
+    "port": 443,
+    "secret": "2c92cd2488fa5653365f754707141759",
+    "country": "NL",
+    "addTime": 1779271459
+  },
+  {
     "host": "hyper.sosproxy.space",
     "port": 443,
     "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1779271459
+  },
+  {
+    "host": "chat.eterfund.ru",
+    "port": 443,
+    "secret": "ee1caa37ae90774ecf9247bd53f8cd2c4a636861742e6574657266756e642e7275",
+    "country": "RU",
+    "addTime": 1779260701
   }
 ]
