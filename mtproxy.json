@@ -91,10 +91,10 @@
     "addTime": 1779390268
   },
   {
-    "host": "tg.tsukicloud.com",
+    "host": "testik.fsproxy.site",
     "port": 443,
-    "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
-    "country": "PL",
+    "secret": "ddcc152117b066744e044c231dadc55698",
+    "country": "RU",
     "addTime": 1779379516
   },
   {
@@ -105,10 +105,10 @@
     "addTime": 1779379516
   },
   {
-    "host": "testik.fsproxy.site",
+    "host": "tg.tsukicloud.com",
     "port": 443,
-    "secret": "ddcc152117b066744e044c231dadc55698",
-    "country": "RU",
+    "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
+    "country": "PL",
     "addTime": 1779379516
   },
   {
@@ -152,6 +152,13 @@
     "secret": "ee8e3f271e744a014ddd27b21dd19377f831632e7275",
     "country": "LV",
     "addTime": 1779368679
+  },
+  {
+    "host": "31.76.251.25",
+    "port": 853,
+    "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e6d742e616b656e61692e636c69636b",
+    "country": "PL",
+    "addTime": 1779368660
   },
   {
     "host": "free.edgecdn-static.com",
@@ -203,17 +210,17 @@
     "addTime": 1779347102
   },
   {
-    "host": "37.1.212.47",
-    "port": 443,
-    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
-    "country": "US",
-    "addTime": 1779347091
-  },
-  {
     "host": "31.44.6.81",
     "port": 443,
     "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
     "country": "NL",
+    "addTime": 1779347091
+  },
+  {
+    "host": "37.1.212.47",
+    "port": 443,
+    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
+    "country": "US",
     "addTime": 1779347091
   },
   {
@@ -266,16 +273,16 @@
     "addTime": 1779314688
   },
   {
-    "host": "ryzen.myrka.digital",
-    "port": 228,
-    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
+    "host": "ebal-tspu.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
   {
-    "host": "ebal-tspu.myrka.digital",
-    "port": 8243,
-    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "host": "ryzen.myrka.digital",
+    "port": 228,
+    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
@@ -285,6 +292,13 @@
     "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314684
+  },
+  {
+    "host": "37.139.42.140",
+    "port": 443,
+    "secret": "f5199e949c0f23bc887581218ad8c1e6",
+    "country": "RU",
+    "addTime": 1779314681
   },
   {
     "host": "hop3.proxytg.space",
@@ -334,19 +348,5 @@
     "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
     "country": "FI",
     "addTime": 1779293102
-  },
-  {
-    "host": "crusado.disport.orbed.teleseryestvheaven.com",
-    "port": 443,
-    "secret": "eea69a7d56434d7b7d8a4417f2c492019e647a656e2e7275",
-    "country": "DE",
-    "addTime": 1779293086
-  },
-  {
-    "host": "193.28.186.151",
-    "port": 443,
-    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
-    "country": "LV",
-    "addTime": 1779293084
   }
 ]
