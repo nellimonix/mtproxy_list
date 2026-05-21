@@ -77,13 +77,6 @@
     "addTime": 1779314684
   },
   {
-    "host": "37.139.42.140",
-    "port": 443,
-    "secret": "f5199e949c0f23bc887581218ad8c1e6",
-    "country": "RU",
-    "addTime": 1779314681
-  },
-  {
     "host": "d.artishchev.org",
     "port": 8443,
     "secret": "963a7fd525b04c4533ce776c9bd70f34",
@@ -96,6 +89,13 @@
     "secret": "01264449f129c50e22d3556e011f2395",
     "country": "DE",
     "addTime": 1779303889
+  },
+  {
+    "host": "redflag.yazaebalsyadelatproxy.uk",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
+    "country": "NL",
+    "addTime": 1779303887
   },
   {
     "host": "proxy.zentvpn.ru",
@@ -175,20 +175,6 @@
     "addTime": 1779282347
   },
   {
-    "host": "mt.nowabst.com",
-    "port": 853,
-    "secret": "eedd7a7a3d6f4cf1f7c3fae9cff28b73796164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779282308
-  },
-  {
-    "host": "188.137.176.231",
-    "port": 443,
-    "secret": "eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65",
-    "country": "NL",
-    "addTime": 1779282288
-  },
-  {
     "host": "103.110.64.211",
     "port": 443,
     "secret": "ee457a1d7a9004f780d4ca5ad2290f7e1a79616e6465782e7275",
@@ -266,6 +252,13 @@
     "addTime": 1779260695
   },
   {
+    "host": "ex.sfsh.su",
+    "port": 443,
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
+    "country": "FI",
+    "addTime": 1779249980
+  },
+  {
     "host": "dns.vdl.lat",
     "port": 853,
     "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
@@ -308,17 +301,17 @@
     "addTime": 1779239083
   },
   {
+    "host": "2.26.125.187",
+    "port": 8443,
+    "secret": "ee5927401638529471026384591730624872742e636f6d",
+    "country": "DE",
+    "addTime": 1779239081
+  },
+  {
     "host": "vpn.us.96f15c66.nip.io",
     "port": 3443,
     "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
     "country": "NL",
-    "addTime": 1779239081
-  },
-  {
-    "host": "15.237.180.149",
-    "port": 443,
-    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
-    "country": "FR",
     "addTime": 1779239081
   },
   {
@@ -329,18 +322,18 @@
     "addTime": 1779239081
   },
   {
-    "host": "2.26.125.187",
-    "port": 8443,
-    "secret": "ee5927401638529471026384591730624872742e636f6d",
-    "country": "DE",
+    "host": "15.237.180.149",
+    "port": 443,
+    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
+    "country": "FR",
     "addTime": 1779239081
   },
   {
-    "host": "austria.salzburg.ir",
+    "host": "sosally.net",
     "port": 443,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "DE",
-    "addTime": 1779228411
+    "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
+    "country": "RU",
+    "addTime": 1779228310
   },
   {
     "host": "froggy.monthlies.overgrown.taxiplane.woody.akoypinoytv.net",
@@ -348,5 +341,12 @@
     "secret": "dc886d4aac6778cedf4189b493ac2ab9",
     "country": "DE",
     "addTime": 1779217530
+  },
+  {
+    "host": "2.26.52.23",
+    "port": 443,
+    "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
+    "country": "US",
+    "addTime": 1779217526
   }
 ]
