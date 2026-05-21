@@ -56,13 +56,6 @@
     "addTime": 1779347102
   },
   {
-    "host": "37.1.212.47",
-    "port": 443,
-    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
-    "country": "US",
-    "addTime": 1779347091
-  },
-  {
     "host": "31.44.6.81",
     "port": 443,
     "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
@@ -70,11 +63,11 @@
     "addTime": 1779347091
   },
   {
-    "host": "foreignpayproxytg.top",
+    "host": "37.1.212.47",
     "port": 443,
-    "secret": "ee6d61782e7275e467763b2a1379ff21",
-    "country": "RU",
-    "addTime": 1779336350
+    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
+    "country": "US",
+    "addTime": 1779347091
   },
   {
     "host": "tgproxy.uefibios.ru",
@@ -171,7 +164,7 @@
     "host": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
-    "country": "FI",
+    "country": "LV",
     "addTime": 1779303887
   },
   {
@@ -252,13 +245,6 @@
     "addTime": 1779293066
   },
   {
-    "host": "mt.nowabst.com",
-    "port": 853,
-    "secret": "eedd7a7a3d6f4cf1f7c3fae9cff28b73796164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779282308
-  },
-  {
     "host": "hop1.proxytg.space",
     "port": 443,
     "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
@@ -329,13 +315,6 @@
     "addTime": 1779260695
   },
   {
-    "host": "fastproxy.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "country": "LV",
-    "addTime": 1779260695
-  },
-  {
     "host": "dns.vdl.lat",
     "port": 853,
     "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
@@ -348,5 +327,26 @@
     "secret": "eec5081bcd191b76e90ee894d248e44c42706574726f766963682e7275",
     "country": "NL",
     "addTime": 1779249932
+  },
+  {
+    "host": "185.246.116.100",
+    "port": 443,
+    "secret": "eec85ddd7d5cb151f92e5c70711f5d11b86170692e74656c6567612e696e666f",
+    "country": "RU",
+    "addTime": 1779249903
+  },
+  {
+    "host": "191.44.123.132",
+    "port": 443,
+    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
+    "country": "PL",
+    "addTime": 1779249899
+  },
+  {
+    "host": "92.118.233.108",
+    "port": 7878,
+    "secret": "48f739d003f42d13dd318bcbd5757d4b",
+    "country": "FI",
+    "addTime": 1779239124
   }
 ]
