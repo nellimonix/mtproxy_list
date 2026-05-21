@@ -56,16 +56,16 @@
     "addTime": 1779390271
   },
   {
+    "host": "82.114.228.74",
+    "port": 443,
+    "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275",
+    "country": "RU",
+    "addTime": 1779390268
+  },
+  {
     "host": "testik.fsproxy.site",
     "port": 443,
     "secret": "ddcc152117b066744e044c231dadc55698",
-    "country": "RU",
-    "addTime": 1779379516
-  },
-  {
-    "host": "195.58.49.162",
-    "port": 443,
-    "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
     "country": "RU",
     "addTime": 1779379516
   },
@@ -77,6 +77,13 @@
     "addTime": 1779379516
   },
   {
+    "host": "195.58.49.162",
+    "port": 443,
+    "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
+    "country": "RU",
+    "addTime": 1779379516
+  },
+  {
     "host": "abstemious.impeded.rotterdam.pilipinoteleserye.com",
     "port": 443,
     "secret": "eebb3723cc058b9df1acaa96371c46f494647a656e2e7275",
@@ -84,17 +91,17 @@
     "addTime": 1779379484
   },
   {
-    "host": "193.23.3.3",
-    "port": 443,
-    "secret": "ee9955f6fda43ace816fd55e19422d13a631632e7275",
-    "country": "LV",
-    "addTime": 1779379482
-  },
-  {
     "host": "109.206.243.36",
     "port": 443,
     "secret": "ee541e4f78b08efb7ab600c24f8ecd846a636c6f7564666c6172652e636f6d",
     "country": "BG",
+    "addTime": 1779379482
+  },
+  {
+    "host": "193.23.3.3",
+    "port": 443,
+    "secret": "ee9955f6fda43ace816fd55e19422d13a631632e7275",
+    "country": "LV",
     "addTime": 1779379482
   },
   {
@@ -159,13 +166,6 @@
     "secret": "ee74f730af14c141573170a2f904fb4c9d73616d73756e672e636f6d",
     "country": "PL",
     "addTime": 1779347167
-  },
-  {
-    "host": "185.139.215.136",
-    "port": 443,
-    "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
-    "country": "NL",
-    "addTime": 1779347102
   },
   {
     "host": "87.120.244.129",
@@ -259,13 +259,6 @@
     "addTime": 1779314684
   },
   {
-    "host": "37.139.42.140",
-    "port": 443,
-    "secret": "f5199e949c0f23bc887581218ad8c1e6",
-    "country": "RU",
-    "addTime": 1779314681
-  },
-  {
     "host": "hop3.proxytg.space",
     "port": 443,
     "secret": "ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275",
@@ -290,8 +283,15 @@
     "host": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
-    "country": "FI",
+    "country": "LT",
     "addTime": 1779303887
+  },
+  {
+    "host": "proxy.zentvpn.ru",
+    "port": 4443,
+    "secret": "eec25d8e668a1b6d15dfc967deaf239b307777772e6170706c652e636f6d",
+    "country": "US",
+    "addTime": 1779303871
   },
   {
     "host": "45.39.33.160",
@@ -322,17 +322,17 @@
     "addTime": 1779293086
   },
   {
-    "host": "rkn.errornet.work",
-    "port": 8443,
-    "secret": "eec16f877103ba211b5652459a26bf65dd6d61782e7275",
-    "country": "US",
-    "addTime": 1779293084
-  },
-  {
     "host": "193.28.186.151",
     "port": 443,
     "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
     "country": "LV",
+    "addTime": 1779293084
+  },
+  {
+    "host": "rkn.errornet.work",
+    "port": 8443,
+    "secret": "eec16f877103ba211b5652459a26bf65dd6d61782e7275",
+    "country": "US",
     "addTime": 1779293084
   },
   {
