@@ -14,6 +14,13 @@
     "addTime": 1779368679
   },
   {
+    "host": "2.26.86.207",
+    "port": 8443,
+    "secret": "7d805a0e2fcc89a731277cd098634fcc",
+    "country": "US",
+    "addTime": 1779368663
+  },
+  {
     "host": "free.edgecdn-static.com",
     "port": 443,
     "secret": "eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d66564676563646e2d7374617469632e636f6d",
@@ -70,13 +77,6 @@
     "addTime": 1779347091
   },
   {
-    "host": "foreignpayproxytg.top",
-    "port": 443,
-    "secret": "ee6d61782e7275e467763b2a1379ff21",
-    "country": "RU",
-    "addTime": 1779336350
-  },
-  {
     "host": "tgproxy.uefibios.ru",
     "port": 8443,
     "secret": "4022239bd929858964d4ee4440b59112",
@@ -119,16 +119,16 @@
     "addTime": 1779314688
   },
   {
-    "host": "ryzen.myrka.digital",
-    "port": 228,
-    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
+    "host": "ebal-tspu.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
   {
-    "host": "ebal-tspu.myrka.digital",
-    "port": 8243,
-    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "host": "ryzen.myrka.digital",
+    "port": 228,
+    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
@@ -164,7 +164,7 @@
     "host": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
-    "country": "LV",
+    "country": "FI",
     "addTime": 1779303887
   },
   {
@@ -203,17 +203,17 @@
     "addTime": 1779293086
   },
   {
-    "host": "193.28.186.151",
-    "port": 443,
-    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
-    "country": "LV",
-    "addTime": 1779293084
-  },
-  {
     "host": "rkn.errornet.work",
     "port": 8443,
     "secret": "eec16f877103ba211b5652459a26bf65dd6d61782e7275",
     "country": "US",
+    "addTime": 1779293084
+  },
+  {
+    "host": "193.28.186.151",
+    "port": 443,
+    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
+    "country": "LV",
     "addTime": 1779293084
   },
   {
@@ -243,13 +243,6 @@
     "secret": "f06218bff48339e5053be704d0aefd58",
     "country": "CA",
     "addTime": 1779293066
-  },
-  {
-    "host": "mt.nowabst.com",
-    "port": 853,
-    "secret": "eedd7a7a3d6f4cf1f7c3fae9cff28b73796164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779282308
   },
   {
     "host": "hop1.proxytg.space",
@@ -348,5 +341,12 @@
     "secret": "eec85ddd7d5cb151f92e5c70711f5d11b86170692e74656c6567612e696e666f",
     "country": "RU",
     "addTime": 1779249903
+  },
+  {
+    "host": "191.44.123.132",
+    "port": 443,
+    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
+    "country": "PL",
+    "addTime": 1779249899
   }
 ]
