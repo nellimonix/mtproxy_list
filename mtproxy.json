@@ -49,16 +49,16 @@
     "addTime": 1779347167
   },
   {
-    "host": "185.139.215.136",
+    "host": "87.120.244.129",
     "port": 443,
-    "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
+    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
     "country": "NL",
     "addTime": 1779347102
   },
   {
-    "host": "87.120.244.129",
+    "host": "185.139.215.136",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
+    "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
     "country": "NL",
     "addTime": 1779347102
   },
@@ -119,11 +119,11 @@
     "addTime": 1779314746
   },
   {
-    "host": "ebal-tspu.myrka.digital",
-    "port": 8243,
-    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
-    "country": "DE",
-    "addTime": 1779314685
+    "host": "90.156.255.143",
+    "port": 443,
+    "secret": "eea4fcbc4c70f5901bddacafd8aad43d9431632e7275",
+    "country": "LV",
+    "addTime": 1779314707
   },
   {
     "host": "ryzen.myrka.digital",
@@ -133,18 +133,18 @@
     "addTime": 1779314685
   },
   {
+    "host": "ebal-tspu.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "country": "DE",
+    "addTime": 1779314685
+  },
+  {
     "host": "vecher.myrka.digital",
     "port": 8243,
     "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314684
-  },
-  {
-    "host": "37.139.42.140",
-    "port": 443,
-    "secret": "f5199e949c0f23bc887581218ad8c1e6",
-    "country": "RU",
-    "addTime": 1779314681
   },
   {
     "host": "d.artishchev.org",
@@ -315,13 +315,6 @@
     "addTime": 1779260701
   },
   {
-    "host": "w.arixo.shop",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
-    "country": "GR",
-    "addTime": 1779260695
-  },
-  {
     "host": "fastproxy.chunkycorp.shop",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
@@ -348,5 +341,12 @@
     "secret": "eec5081bcd191b76e90ee894d248e44c42706574726f766963682e7275",
     "country": "NL",
     "addTime": 1779249932
+  },
+  {
+    "host": "185.246.116.100",
+    "port": 443,
+    "secret": "eec85ddd7d5cb151f92e5c70711f5d11b86170692e74656c6567612e696e666f",
+    "country": "RU",
+    "addTime": 1779249903
   }
 ]
