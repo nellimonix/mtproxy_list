@@ -56,13 +56,6 @@
     "addTime": 1779347167
   },
   {
-    "host": "87.120.244.129",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
-    "country": "NL",
-    "addTime": 1779347102
-  },
-  {
     "host": "185.139.215.136",
     "port": 443,
     "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
@@ -70,17 +63,24 @@
     "addTime": 1779347102
   },
   {
-    "host": "31.44.6.81",
+    "host": "87.120.244.129",
     "port": 443,
-    "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
+    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
     "country": "NL",
-    "addTime": 1779347091
+    "addTime": 1779347102
   },
   {
     "host": "37.1.212.47",
     "port": 443,
     "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
     "country": "US",
+    "addTime": 1779347091
+  },
+  {
+    "host": "31.44.6.81",
+    "port": 443,
+    "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
+    "country": "NL",
     "addTime": 1779347091
   },
   {
@@ -96,13 +96,6 @@
     "secret": "4022239bd929858964d4ee4440b59112",
     "country": "LV",
     "addTime": 1779336340
-  },
-  {
-    "host": "suge.2pac.live",
-    "port": 7777,
-    "secret": "ee97c88e23d6902be6f5d2a85c2013539b7777772e7068696c6970732e636f6d",
-    "country": "US",
-    "addTime": 1779336307
   },
   {
     "host": "89.124.94.90",
@@ -133,16 +126,16 @@
     "addTime": 1779314688
   },
   {
-    "host": "ebal-tspu.myrka.digital",
-    "port": 8243,
-    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "host": "ryzen.myrka.digital",
+    "port": 228,
+    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
   {
-    "host": "ryzen.myrka.digital",
-    "port": 228,
-    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
+    "host": "ebal-tspu.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
@@ -185,7 +178,7 @@
     "host": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
-    "country": "LV",
+    "country": "FI",
     "addTime": 1779303887
   },
   {
@@ -224,17 +217,17 @@
     "addTime": 1779293086
   },
   {
-    "host": "193.28.186.151",
-    "port": 443,
-    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
-    "country": "LV",
-    "addTime": 1779293084
-  },
-  {
     "host": "rkn.errornet.work",
     "port": 8443,
     "secret": "eec16f877103ba211b5652459a26bf65dd6d61782e7275",
     "country": "US",
+    "addTime": 1779293084
+  },
+  {
+    "host": "193.28.186.151",
+    "port": 443,
+    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
+    "country": "LV",
     "addTime": 1779293084
   },
   {
@@ -308,16 +301,16 @@
     "addTime": 1779271460
   },
   {
-    "host": "45.138.25.27",
+    "host": "hyper.sosproxy.space",
     "port": 443,
-    "secret": "2c92cd2488fa5653365f754707141759",
+    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1779271459
   },
   {
-    "host": "hyper.sosproxy.space",
+    "host": "45.138.25.27",
     "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "secret": "2c92cd2488fa5653365f754707141759",
     "country": "NL",
     "addTime": 1779271459
   },
@@ -334,6 +327,13 @@
     "secret": "ee1caa37ae90774ecf9247bd53f8cd2c4a636861742e6574657266756e642e7275",
     "country": "RU",
     "addTime": 1779260701
+  },
+  {
+    "host": "ex.sfsh.su",
+    "port": 443,
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
+    "country": "CH",
+    "addTime": 1779249980
   },
   {
     "host": "dns.vdl.lat",
