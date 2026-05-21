@@ -14,24 +14,17 @@
     "addTime": 1779347102
   },
   {
-    "host": "185.139.215.136",
+    "host": "37.1.212.47",
     "port": 443,
-    "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
-    "country": "NL",
-    "addTime": 1779347102
+    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
+    "country": "US",
+    "addTime": 1779347091
   },
   {
     "host": "31.44.6.81",
     "port": 443,
     "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
     "country": "NL",
-    "addTime": 1779347091
-  },
-  {
-    "host": "37.1.212.47",
-    "port": 443,
-    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
-    "country": "US",
     "addTime": 1779347091
   },
   {
@@ -259,16 +252,16 @@
     "addTime": 1779271460
   },
   {
-    "host": "hyper.sosproxy.space",
+    "host": "45.138.25.27",
     "port": 443,
-    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "secret": "2c92cd2488fa5653365f754707141759",
     "country": "NL",
     "addTime": 1779271459
   },
   {
-    "host": "45.138.25.27",
+    "host": "hyper.sosproxy.space",
     "port": 443,
-    "secret": "2c92cd2488fa5653365f754707141759",
+    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
     "country": "NL",
     "addTime": 1779271459
   },
@@ -287,6 +280,13 @@
     "addTime": 1779260701
   },
   {
+    "host": "72.56.71.8",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c96617669746f2e7275",
+    "country": "US",
+    "addTime": 1779260695
+  },
+  {
     "host": "fastproxy.chunkycorp.shop",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
@@ -299,20 +299,6 @@
     "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
     "country": "GR",
     "addTime": 1779260695
-  },
-  {
-    "host": "72.56.71.8",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c96617669746f2e7275",
-    "country": "US",
-    "addTime": 1779260695
-  },
-  {
-    "host": "ex.sfsh.su",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "FI",
-    "addTime": 1779249980
   },
   {
     "host": "dns.vdl.lat",
@@ -348,5 +334,19 @@
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "FI",
     "addTime": 1779239124
+  },
+  {
+    "host": "murochka.myrka.digital",
+    "port": 2053,
+    "secret": "ee63a8ac5afe47eb41cb8d2d2e8d54ab7c6d75726f63686b612e6d79726b612e6469676974616c",
+    "country": "US",
+    "addTime": 1779239083
+  },
+  {
+    "host": "95.163.214.137",
+    "port": 443,
+    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
+    "country": "RU",
+    "addTime": 1779239081
   }
 ]
