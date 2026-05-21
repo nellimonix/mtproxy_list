@@ -98,16 +98,16 @@
     "addTime": 1779379516
   },
   {
-    "host": "195.58.49.162",
+    "host": "testik.fsproxy.site",
     "port": 443,
-    "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
+    "secret": "ddcc152117b066744e044c231dadc55698",
     "country": "RU",
     "addTime": 1779379516
   },
   {
-    "host": "testik.fsproxy.site",
+    "host": "195.58.49.162",
     "port": 443,
-    "secret": "ddcc152117b066744e044c231dadc55698",
+    "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
     "country": "RU",
     "addTime": 1779379516
   },
@@ -119,17 +119,17 @@
     "addTime": 1779379484
   },
   {
-    "host": "109.206.243.36",
-    "port": 443,
-    "secret": "ee541e4f78b08efb7ab600c24f8ecd846a636c6f7564666c6172652e636f6d",
-    "country": "BG",
-    "addTime": 1779379482
-  },
-  {
     "host": "193.23.3.3",
     "port": 443,
     "secret": "ee9955f6fda43ace816fd55e19422d13a631632e7275",
     "country": "LV",
+    "addTime": 1779379482
+  },
+  {
+    "host": "109.206.243.36",
+    "port": 443,
+    "secret": "ee541e4f78b08efb7ab600c24f8ecd846a636c6f7564666c6172652e636f6d",
+    "country": "BG",
     "addTime": 1779379482
   },
   {
@@ -294,13 +294,6 @@
     "addTime": 1779314684
   },
   {
-    "host": "37.139.42.140",
-    "port": 443,
-    "secret": "f5199e949c0f23bc887581218ad8c1e6",
-    "country": "RU",
-    "addTime": 1779314681
-  },
-  {
     "host": "hop3.proxytg.space",
     "port": 443,
     "secret": "ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275",
@@ -348,5 +341,12 @@
     "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
     "country": "FI",
     "addTime": 1779293102
+  },
+  {
+    "host": "crusado.disport.orbed.teleseryestvheaven.com",
+    "port": 443,
+    "secret": "eea69a7d56434d7b7d8a4417f2c492019e647a656e2e7275",
+    "country": "DE",
+    "addTime": 1779293086
   }
 ]
