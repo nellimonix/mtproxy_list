@@ -1,5 +1,33 @@
 [
   {
+    "host": "185.139.215.136",
+    "port": 443,
+    "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
+    "country": "NL",
+    "addTime": 1779347102
+  },
+  {
+    "host": "87.120.244.129",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
+    "country": "NL",
+    "addTime": 1779347102
+  },
+  {
+    "host": "31.44.6.81",
+    "port": 443,
+    "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
+    "country": "NL",
+    "addTime": 1779347091
+  },
+  {
+    "host": "37.1.212.47",
+    "port": 443,
+    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
+    "country": "US",
+    "addTime": 1779347091
+  },
+  {
     "host": "foreignpayproxytg.top",
     "port": 443,
     "secret": "ee6d61782e7275e467763b2a1379ff21",
@@ -12,13 +40,6 @@
     "secret": "4022239bd929858964d4ee4440b59112",
     "country": "LV",
     "addTime": 1779336340
-  },
-  {
-    "host": "suge.2pac.live",
-    "port": 7777,
-    "secret": "ee97c88e23d6902be6f5d2a85c2013539b7777772e7068696c6970732e636f6d",
-    "country": "US",
-    "addTime": 1779336307
   },
   {
     "host": "185.130.113.188",
@@ -40,13 +61,6 @@
     "secret": "afdc38b8068b2444e50f6a4f093751b5",
     "country": "DE",
     "addTime": 1779314749
-  },
-  {
-    "host": "84.201.175.61",
-    "port": 443,
-    "secret": "eead24ce88888cf6231e908ca911628e",
-    "country": "RU",
-    "addTime": 1779314746
   },
   {
     "host": "90.156.255.143",
@@ -75,13 +89,6 @@
     "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314684
-  },
-  {
-    "host": "37.139.42.140",
-    "port": 443,
-    "secret": "f5199e949c0f23bc887581218ad8c1e6",
-    "country": "RU",
-    "addTime": 1779314681
   },
   {
     "host": "d.artishchev.org",
@@ -124,6 +131,13 @@
     "secret": "c91fdfedcc6d23a14783584189196dc4",
     "country": "DE",
     "addTime": 1779293190
+  },
+  {
+    "host": "148.222.186.204",
+    "port": 443,
+    "secret": "7hBbTHaYrtu1XykZaK0kOdRkemVuLnJ1",
+    "country": "FI",
+    "addTime": 1779293102
   },
   {
     "host": "crusado.disport.orbed.teleseryestvheaven.com",
@@ -245,13 +259,6 @@
     "addTime": 1779260754
   },
   {
-    "host": "chat.eterfund.ru",
-    "port": 443,
-    "secret": "ee1caa37ae90774ecf9247bd53f8cd2c4a636861742e6574657266756e642e7275",
-    "country": "RU",
-    "addTime": 1779260701
-  },
-  {
     "host": "fastproxy.chunkycorp.shop",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
@@ -273,17 +280,17 @@
     "addTime": 1779260695
   },
   {
-    "host": "ex.sfsh.su",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "FI",
-    "addTime": 1779249980
-  },
-  {
     "host": "dns.vdl.lat",
     "port": 853,
     "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
     "country": "RU",
+    "addTime": 1779249980
+  },
+  {
+    "host": "ex.sfsh.su",
+    "port": 443,
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
+    "country": "FI",
     "addTime": 1779249980
   },
   {
@@ -329,10 +336,10 @@
     "addTime": 1779239081
   },
   {
-    "host": "vpn.us.96f15c66.nip.io",
-    "port": 3443,
-    "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
+    "host": "15.237.180.149",
+    "port": 443,
+    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
+    "country": "FR",
     "addTime": 1779239081
   },
   {
@@ -340,13 +347,6 @@
     "port": 8443,
     "secret": "ee5927401638529471026384591730624872742e636f6d",
     "country": "DE",
-    "addTime": 1779239081
-  },
-  {
-    "host": "15.237.180.149",
-    "port": 443,
-    "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
-    "country": "FR",
     "addTime": 1779239081
   }
 ]
