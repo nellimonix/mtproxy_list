@@ -49,10 +49,10 @@
     "addTime": 1779390268
   },
   {
-    "host": "tg.tsukicloud.com",
+    "host": "testik.fsproxy.site",
     "port": 443,
-    "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
-    "country": "PL",
+    "secret": "ddcc152117b066744e044c231dadc55698",
+    "country": "RU",
     "addTime": 1779379516
   },
   {
@@ -63,10 +63,10 @@
     "addTime": 1779379516
   },
   {
-    "host": "testik.fsproxy.site",
+    "host": "tg.tsukicloud.com",
     "port": 443,
-    "secret": "ddcc152117b066744e044c231dadc55698",
-    "country": "RU",
+    "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
+    "country": "PL",
     "addTime": 1779379516
   },
   {
@@ -238,6 +238,13 @@
     "addTime": 1779314685
   },
   {
+    "host": "ebal-tspu.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "country": "DE",
+    "addTime": 1779314685
+  },
+  {
     "host": "vecher.myrka.digital",
     "port": 8243,
     "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
@@ -315,17 +322,17 @@
     "addTime": 1779293086
   },
   {
-    "host": "rkn.errornet.work",
-    "port": 8443,
-    "secret": "eec16f877103ba211b5652459a26bf65dd6d61782e7275",
-    "country": "US",
-    "addTime": 1779293084
-  },
-  {
     "host": "193.28.186.151",
     "port": 443,
     "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
     "country": "LV",
+    "addTime": 1779293084
+  },
+  {
+    "host": "rkn.errornet.work",
+    "port": 8443,
+    "secret": "eec16f877103ba211b5652459a26bf65dd6d61782e7275",
+    "country": "US",
     "addTime": 1779293084
   },
   {
@@ -341,12 +348,5 @@
     "secret": "eeaf249464f27f61e3c8f0e0dce07f413379616e6465782e7275",
     "country": "DE",
     "addTime": 1779293070
-  },
-  {
-    "host": "5.181.0.202",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c96617669746f2e7275",
-    "country": "NL",
-    "addTime": 1779293067
   }
 ]
