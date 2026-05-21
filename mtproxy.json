@@ -126,17 +126,17 @@
     "addTime": 1779293086
   },
   {
-    "host": "193.28.186.151",
-    "port": 443,
-    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
-    "country": "LV",
-    "addTime": 1779293084
-  },
-  {
     "host": "rkn.errornet.work",
     "port": 8443,
     "secret": "eec16f877103ba211b5652459a26bf65dd6d61782e7275",
     "country": "US",
+    "addTime": 1779293084
+  },
+  {
+    "host": "193.28.186.151",
+    "port": 443,
+    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
+    "country": "LV",
     "addTime": 1779293084
   },
   {
@@ -245,10 +245,10 @@
     "addTime": 1779260701
   },
   {
-    "host": "w.arixo.shop",
+    "host": "72.56.71.8",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
-    "country": "GR",
+    "secret": "eec11798ab008831b474066c9e1ebf5c96617669746f2e7275",
+    "country": "US",
     "addTime": 1779260695
   },
   {
@@ -259,24 +259,24 @@
     "addTime": 1779260695
   },
   {
-    "host": "72.56.71.8",
+    "host": "w.arixo.shop",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c96617669746f2e7275",
-    "country": "US",
+    "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
+    "country": "GR",
     "addTime": 1779260695
-  },
-  {
-    "host": "ex.sfsh.su",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
-    "country": "FI",
-    "addTime": 1779249980
   },
   {
     "host": "dns.vdl.lat",
     "port": 853,
     "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
     "country": "RU",
+    "addTime": 1779249980
+  },
+  {
+    "host": "ex.sfsh.su",
+    "port": 443,
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
+    "country": "FI",
     "addTime": 1779249980
   },
   {
@@ -322,6 +322,13 @@
     "addTime": 1779239081
   },
   {
+    "host": "2.26.125.187",
+    "port": 8443,
+    "secret": "ee5927401638529471026384591730624872742e636f6d",
+    "country": "DE",
+    "addTime": 1779239081
+  },
+  {
     "host": "15.237.180.149",
     "port": 443,
     "secret": "eed0d6e111bada5511fcce9584deadbeef6a6b6b65622e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
@@ -336,17 +343,10 @@
     "addTime": 1779239081
   },
   {
-    "host": "2.26.125.187",
-    "port": 8443,
-    "secret": "ee5927401638529471026384591730624872742e636f6d",
-    "country": "DE",
-    "addTime": 1779239081
-  },
-  {
     "host": "austria.salzburg.ir",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "DE",
+    "country": "FI",
     "addTime": 1779228411
   }
 ]
