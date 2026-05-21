@@ -49,13 +49,6 @@
     "addTime": 1779390273
   },
   {
-    "host": "5.252.20.116",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c93617669746f2e7275",
-    "country": "NL",
-    "addTime": 1779390271
-  },
-  {
     "host": "82.114.228.74",
     "port": 443,
     "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275",
@@ -168,13 +161,6 @@
     "addTime": 1779347167
   },
   {
-    "host": "87.120.244.129",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
-    "country": "NL",
-    "addTime": 1779347102
-  },
-  {
     "host": "185.139.215.136",
     "port": 443,
     "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
@@ -182,17 +168,24 @@
     "addTime": 1779347102
   },
   {
-    "host": "31.44.6.81",
+    "host": "87.120.244.129",
     "port": 443,
-    "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
+    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
     "country": "NL",
-    "addTime": 1779347091
+    "addTime": 1779347102
   },
   {
     "host": "37.1.212.47",
     "port": 443,
     "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
     "country": "US",
+    "addTime": 1779347091
+  },
+  {
+    "host": "31.44.6.81",
+    "port": 443,
+    "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
+    "country": "NL",
     "addTime": 1779347091
   },
   {
@@ -236,13 +229,6 @@
     "secret": "eea4fcbc4c70f5901bddacafd8aad43d9431632e7275",
     "country": "LV",
     "addTime": 1779314707
-  },
-  {
-    "host": "hop2.proxytg.space",
-    "port": 443,
-    "secret": "eec5428740a808240ccf21f21547fc843f6d61782e7275",
-    "country": "RU",
-    "addTime": 1779314688
   },
   {
     "host": "ebal-tspu.myrka.digital",
@@ -297,7 +283,7 @@
     "host": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
-    "country": "FI",
+    "country": "LT",
     "addTime": 1779303887
   },
   {
@@ -348,5 +334,19 @@
     "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
     "country": "LV",
     "addTime": 1779293084
+  },
+  {
+    "host": "rknpidor.myrka.digital",
+    "port": 2053,
+    "secret": "ee63a8ac5afe47eb41cb8d2d2e8d54ab7c6d75726f63686b612e6d79726b612e6469676974616c",
+    "country": "DE",
+    "addTime": 1779293073
+  },
+  {
+    "host": "103.110.64.210",
+    "port": 443,
+    "secret": "eeaf249464f27f61e3c8f0e0dce07f413379616e6465782e7275",
+    "country": "DE",
+    "addTime": 1779293070
   }
 ]
