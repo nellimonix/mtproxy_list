@@ -7,16 +7,16 @@
     "addTime": 1779379539
   },
   {
-    "host": "testik.fsproxy.site",
+    "host": "195.58.49.162",
     "port": 443,
-    "secret": "ddcc152117b066744e044c231dadc55698",
+    "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
     "country": "RU",
     "addTime": 1779379516
   },
   {
-    "host": "195.58.49.162",
+    "host": "testik.fsproxy.site",
     "port": 443,
-    "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
+    "secret": "ddcc152117b066744e044c231dadc55698",
     "country": "RU",
     "addTime": 1779379516
   },
@@ -35,10 +35,10 @@
     "addTime": 1779379484
   },
   {
-    "host": "109.206.243.36",
+    "host": "193.23.3.3",
     "port": 443,
-    "secret": "ee541e4f78b08efb7ab600c24f8ecd846a636c6f7564666c6172652e636f6d",
-    "country": "BG",
+    "secret": "ee9955f6fda43ace816fd55e19422d13a631632e7275",
+    "country": "LV",
     "addTime": 1779379482
   },
   {
@@ -105,13 +105,6 @@
     "addTime": 1779347167
   },
   {
-    "host": "87.120.244.129",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
-    "country": "NL",
-    "addTime": 1779347102
-  },
-  {
     "host": "185.139.215.136",
     "port": 443,
     "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
@@ -119,17 +112,24 @@
     "addTime": 1779347102
   },
   {
-    "host": "37.1.212.47",
+    "host": "87.120.244.129",
     "port": 443,
-    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
-    "country": "US",
-    "addTime": 1779347091
+    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
+    "country": "NL",
+    "addTime": 1779347102
   },
   {
     "host": "31.44.6.81",
     "port": 443,
     "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
     "country": "NL",
+    "addTime": 1779347091
+  },
+  {
+    "host": "37.1.212.47",
+    "port": 443,
+    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
+    "country": "US",
     "addTime": 1779347091
   },
   {
@@ -182,16 +182,16 @@
     "addTime": 1779314688
   },
   {
-    "host": "ryzen.myrka.digital",
-    "port": 228,
-    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
+    "host": "ebal-tspu.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
   {
-    "host": "ebal-tspu.myrka.digital",
-    "port": 8243,
-    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "host": "ryzen.myrka.digital",
+    "port": 228,
+    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
@@ -201,6 +201,13 @@
     "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314684
+  },
+  {
+    "host": "37.139.42.140",
+    "port": 443,
+    "secret": "f5199e949c0f23bc887581218ad8c1e6",
+    "country": "RU",
+    "addTime": 1779314681
   },
   {
     "host": "hop3.proxytg.space",
@@ -227,7 +234,7 @@
     "host": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
-    "country": "LV",
+    "country": "FI",
     "addTime": 1779303887
   },
   {
@@ -341,12 +348,5 @@
     "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
     "country": "US",
     "addTime": 1779271466
-  },
-  {
-    "host": "103.110.64.212",
-    "port": 443,
-    "secret": "eeb4559cb6722f727d849090621e7aba8f79616e6465782e7275",
-    "country": "DE",
-    "addTime": 1779271462
   }
 ]
