@@ -1,10 +1,24 @@
 [
   {
+    "host": "new18.mtproxygram.lol",
+    "port": 443,
+    "secret": "eeb042cf0a713ab2abc2b9c0273e74ee8162726f777365722e79616e6465782e636f6d",
+    "country": "NL",
+    "addTime": 1779368699
+  },
+  {
     "host": "37.233.83.182",
     "port": 443,
     "secret": "ee8e3f271e744a014ddd27b21dd19377f831632e7275",
     "country": "LV",
     "addTime": 1779368679
+  },
+  {
+    "host": "free.edgecdn-static.com",
+    "port": 443,
+    "secret": "eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d66564676563646e2d7374617469632e636f6d",
+    "country": "RU",
+    "addTime": 1779362674
   },
   {
     "host": "telega.sinful.click",
@@ -19,13 +33,6 @@
     "secret": "ee2b12b82b0edc6819c5faf518342cce6c647a656e2e7275",
     "country": "DE",
     "addTime": 1779357903
-  },
-  {
-    "host": "188.137.252.236",
-    "port": 443,
-    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1779357883
   },
   {
     "host": "pl.kickedapp.ru",
@@ -49,6 +56,13 @@
     "addTime": 1779347102
   },
   {
+    "host": "37.1.212.47",
+    "port": 443,
+    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
+    "country": "US",
+    "addTime": 1779347091
+  },
+  {
     "host": "31.44.6.81",
     "port": 443,
     "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
@@ -56,11 +70,11 @@
     "addTime": 1779347091
   },
   {
-    "host": "37.1.212.47",
+    "host": "foreignpayproxytg.top",
     "port": 443,
-    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
-    "country": "US",
-    "addTime": 1779347091
+    "secret": "ee6d61782e7275e467763b2a1379ff21",
+    "country": "RU",
+    "addTime": 1779336350
   },
   {
     "host": "tgproxy.uefibios.ru",
@@ -150,7 +164,7 @@
     "host": "redflag.yazaebalsyadelatproxy.uk",
     "port": 443,
     "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
-    "country": "FI",
+    "country": "LV",
     "addTime": 1779303887
   },
   {
@@ -308,6 +322,13 @@
     "addTime": 1779260701
   },
   {
+    "host": "fastproxy.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "country": "LV",
+    "addTime": 1779260695
+  },
+  {
     "host": "dns.vdl.lat",
     "port": 853,
     "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
@@ -327,26 +348,5 @@
     "secret": "eec85ddd7d5cb151f92e5c70711f5d11b86170692e74656c6567612e696e666f",
     "country": "RU",
     "addTime": 1779249903
-  },
-  {
-    "host": "191.44.123.132",
-    "port": 443,
-    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
-    "country": "PL",
-    "addTime": 1779249899
-  },
-  {
-    "host": "92.118.233.108",
-    "port": 7878,
-    "secret": "48f739d003f42d13dd318bcbd5757d4b",
-    "country": "FI",
-    "addTime": 1779239124
-  },
-  {
-    "host": "murochka.myrka.digital",
-    "port": 2053,
-    "secret": "ee63a8ac5afe47eb41cb8d2d2e8d54ab7c6d75726f63686b612e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1779239083
   }
 ]
