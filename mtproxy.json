@@ -7,6 +7,20 @@
     "addTime": 1779368679
   },
   {
+    "host": "2.26.86.207",
+    "port": 8443,
+    "secret": "7d805a0e2fcc89a731277cd098634fcc",
+    "country": "US",
+    "addTime": 1779368663
+  },
+  {
+    "host": "31.76.251.25",
+    "port": 853,
+    "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e6d742e616b656e61692e636c69636b",
+    "country": "PL",
+    "addTime": 1779368660
+  },
+  {
     "host": "free.edgecdn-static.com",
     "port": 443,
     "secret": "eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d66564676563646e2d7374617469632e636f6d",
@@ -49,13 +63,6 @@
     "addTime": 1779347102
   },
   {
-    "host": "37.1.212.47",
-    "port": 443,
-    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
-    "country": "US",
-    "addTime": 1779347091
-  },
-  {
     "host": "31.44.6.81",
     "port": 443,
     "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
@@ -63,11 +70,11 @@
     "addTime": 1779347091
   },
   {
-    "host": "foreignpayproxytg.top",
+    "host": "37.1.212.47",
     "port": 443,
-    "secret": "ee6d61782e7275e467763b2a1379ff21",
-    "country": "RU",
-    "addTime": 1779336350
+    "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
+    "country": "US",
+    "addTime": 1779347091
   },
   {
     "host": "tgproxy.uefibios.ru",
@@ -238,13 +245,6 @@
     "addTime": 1779282308
   },
   {
-    "host": "hop1.proxytg.space",
-    "port": 443,
-    "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
-    "country": "RU",
-    "addTime": 1779282288
-  },
-  {
     "host": "103.110.64.211",
     "port": 443,
     "secret": "ee457a1d7a9004f780d4ca5ad2290f7e1a79616e6465782e7275",
@@ -308,13 +308,6 @@
     "addTime": 1779260701
   },
   {
-    "host": "fastproxy.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "country": "LV",
-    "addTime": 1779260695
-  },
-  {
     "host": "dns.vdl.lat",
     "port": 853,
     "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
@@ -348,5 +341,12 @@
     "secret": "48f739d003f42d13dd318bcbd5757d4b",
     "country": "FI",
     "addTime": 1779239124
+  },
+  {
+    "host": "murochka.myrka.digital",
+    "port": 2053,
+    "secret": "ee63a8ac5afe47eb41cb8d2d2e8d54ab7c6d75726f63686b612e6d79726b612e6469676974616c",
+    "country": "US",
+    "addTime": 1779239083
   }
 ]
