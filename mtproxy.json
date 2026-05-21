@@ -14,6 +14,13 @@
     "addTime": 1779368663
   },
   {
+    "host": "31.76.251.25",
+    "port": 853,
+    "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e6d742e616b656e61692e636c69636b",
+    "country": "PL",
+    "addTime": 1779368660
+  },
+  {
     "host": "free.edgecdn-static.com",
     "port": 443,
     "secret": "eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d66564676563646e2d7374617469632e636f6d",
@@ -35,6 +42,13 @@
     "addTime": 1779357903
   },
   {
+    "host": "94.130.191.164",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1779357872
+  },
+  {
     "host": "pl.kickedapp.ru",
     "port": 443,
     "secret": "ee74f730af14c141573170a2f904fb4c9d73616d73756e672e636f6d",
@@ -42,16 +56,16 @@
     "addTime": 1779347167
   },
   {
-    "host": "185.139.215.136",
+    "host": "87.120.244.129",
     "port": 443,
-    "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
+    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
     "country": "NL",
     "addTime": 1779347102
   },
   {
-    "host": "87.120.244.129",
+    "host": "185.139.215.136",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
+    "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
     "country": "NL",
     "addTime": 1779347102
   },
@@ -147,6 +161,13 @@
     "addTime": 1779314681
   },
   {
+    "host": "hop3.proxytg.space",
+    "port": 443,
+    "secret": "ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275",
+    "country": "RU",
+    "addTime": 1779314679
+  },
+  {
     "host": "d.artishchev.org",
     "port": 8443,
     "secret": "963a7fd525b04c4533ce776c9bd70f34",
@@ -203,17 +224,17 @@
     "addTime": 1779293086
   },
   {
-    "host": "193.28.186.151",
-    "port": 443,
-    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
-    "country": "LV",
-    "addTime": 1779293084
-  },
-  {
     "host": "rkn.errornet.work",
     "port": 8443,
     "secret": "eec16f877103ba211b5652459a26bf65dd6d61782e7275",
     "country": "US",
+    "addTime": 1779293084
+  },
+  {
+    "host": "193.28.186.151",
+    "port": 443,
+    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
+    "country": "LV",
     "addTime": 1779293084
   },
   {
@@ -250,6 +271,13 @@
     "secret": "eedd7a7a3d6f4cf1f7c3fae9cff28b73796164732e78352e7275",
     "country": "RU",
     "addTime": 1779282308
+  },
+  {
+    "host": "hop1.proxytg.space",
+    "port": 443,
+    "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
+    "country": "RU",
+    "addTime": 1779282288
   },
   {
     "host": "103.110.64.211",
@@ -308,13 +336,6 @@
     "addTime": 1779260701
   },
   {
-    "host": "fastproxy.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "country": "LV",
-    "addTime": 1779260695
-  },
-  {
     "host": "w.arixo.shop",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
@@ -327,26 +348,5 @@
     "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
     "country": "RU",
     "addTime": 1779249980
-  },
-  {
-    "host": "144.31.54.207",
-    "port": 443,
-    "secret": "eec5081bcd191b76e90ee894d248e44c42706574726f766963682e7275",
-    "country": "NL",
-    "addTime": 1779249932
-  },
-  {
-    "host": "185.246.116.100",
-    "port": 443,
-    "secret": "eec85ddd7d5cb151f92e5c70711f5d11b86170692e74656c6567612e696e666f",
-    "country": "RU",
-    "addTime": 1779249903
-  },
-  {
-    "host": "191.44.123.132",
-    "port": 443,
-    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
-    "country": "PL",
-    "addTime": 1779249899
   }
 ]
