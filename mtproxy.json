@@ -42,16 +42,16 @@
     "addTime": 1779314688
   },
   {
-    "host": "ryzen.myrka.digital",
-    "port": 228,
-    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
+    "host": "ebal-tspu.myrka.digital",
+    "port": 8243,
+    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
   {
-    "host": "ebal-tspu.myrka.digital",
-    "port": 8243,
-    "secret": "ee4624ffd4751c73e2b5599b5456eeb1417665636865722e6d79726b612e6469676974616c",
+    "host": "ryzen.myrka.digital",
+    "port": 228,
+    "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
     "country": "DE",
     "addTime": 1779314685
   },
@@ -126,17 +126,17 @@
     "addTime": 1779293086
   },
   {
-    "host": "rkn.errornet.work",
-    "port": 8443,
-    "secret": "eec16f877103ba211b5652459a26bf65dd6d61782e7275",
-    "country": "US",
-    "addTime": 1779293084
-  },
-  {
     "host": "193.28.186.151",
     "port": 443,
     "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
     "country": "LV",
+    "addTime": 1779293084
+  },
+  {
+    "host": "rkn.errornet.work",
+    "port": 8443,
+    "secret": "eec16f877103ba211b5652459a26bf65dd6d61782e7275",
+    "country": "US",
     "addTime": 1779293084
   },
   {
@@ -173,6 +173,13 @@
     "secret": "eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d66564676563646e2d7374617469632e636f6d",
     "country": "RU",
     "addTime": 1779282347
+  },
+  {
+    "host": "mt.nowabst.com",
+    "port": 853,
+    "secret": "eedd7a7a3d6f4cf1f7c3fae9cff28b73796164732e78352e7275",
+    "country": "RU",
+    "addTime": 1779282308
   },
   {
     "host": "hop1.proxytg.space",
@@ -266,17 +273,17 @@
     "addTime": 1779260695
   },
   {
-    "host": "dns.vdl.lat",
-    "port": 853,
-    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779249980
-  },
-  {
     "host": "ex.sfsh.su",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
     "country": "FI",
+    "addTime": 1779249980
+  },
+  {
+    "host": "dns.vdl.lat",
+    "port": 853,
+    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
+    "country": "RU",
     "addTime": 1779249980
   },
   {
@@ -315,17 +322,10 @@
     "addTime": 1779239083
   },
   {
-    "host": "vpn.us.96f15c66.nip.io",
-    "port": 3443,
-    "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1779239081
-  },
-  {
-    "host": "2.26.125.187",
-    "port": 8443,
-    "secret": "ee5927401638529471026384591730624872742e636f6d",
-    "country": "DE",
+    "host": "95.163.214.137",
+    "port": 443,
+    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
+    "country": "RU",
     "addTime": 1779239081
   },
   {
@@ -336,17 +336,17 @@
     "addTime": 1779239081
   },
   {
-    "host": "95.163.214.137",
-    "port": 443,
-    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
-    "country": "RU",
+    "host": "2.26.125.187",
+    "port": 8443,
+    "secret": "ee5927401638529471026384591730624872742e636f6d",
+    "country": "DE",
     "addTime": 1779239081
   },
   {
-    "host": "austria.salzburg.ir",
-    "port": 443,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "FI",
-    "addTime": 1779228411
+    "host": "vpn.us.96f15c66.nip.io",
+    "port": 3443,
+    "secret": "eea9212fd3db2f361604ead84c91132ce57777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
+    "addTime": 1779239081
   }
 ]
