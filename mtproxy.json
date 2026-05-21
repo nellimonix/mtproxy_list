@@ -1,15 +1,71 @@
 [
   {
+    "host": "89.125.113.12",
+    "port": 443,
+    "secret": "ee40785eb436e2c9bce293356b0db1ed2e79616e6465782e7275",
+    "country": "FI",
+    "addTime": 1779390357
+  },
+  {
+    "host": "217.60.2.132",
+    "port": 443,
+    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
+    "country": "AE",
+    "addTime": 1779390344
+  },
+  {
+    "host": "tg.svc-endpoint.com",
+    "port": 443,
+    "secret": "dda4fc81db58f04539d08a90d723f84ee7",
+    "country": "NL",
+    "addTime": 1779390342
+  },
+  {
+    "host": "158.160.188.98",
+    "port": 8443,
+    "secret": "dd73675b09ac6690ff559bffa7b39a94c8",
+    "country": "RU",
+    "addTime": 1779390312
+  },
+  {
+    "host": "dealt.heroic.noise.oread.tamarin.teleseryefullepisodes.com",
+    "port": 7300,
+    "secret": "6e96413ecb68505564648c6d88da1d2f",
+    "country": "DE",
+    "addTime": 1779390296
+  },
+  {
+    "host": "77.221.152.237",
+    "port": 443,
+    "secret": "eec7d8a2f5e4feb8640f9db8ceada9f4eb73332e616d617a6f6e6177732e636f6d",
+    "country": "FR",
+    "addTime": 1779390295
+  },
+  {
+    "host": "proxy.vopnbot.org",
+    "port": 443,
+    "secret": "ee238769e7429435643399dc21169d8ffe636c6f75642e7275",
+    "country": "RU",
+    "addTime": 1779390273
+  },
+  {
+    "host": "5.252.20.116",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c93617669746f2e7275",
+    "country": "NL",
+    "addTime": 1779390271
+  },
+  {
+    "host": "82.114.228.74",
+    "port": 443,
+    "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275",
+    "country": "RU",
+    "addTime": 1779390268
+  },
+  {
     "host": "testik.fsproxy.site",
     "port": 443,
     "secret": "ddcc152117b066744e044c231dadc55698",
-    "country": "RU",
-    "addTime": 1779379516
-  },
-  {
-    "host": "195.58.49.162",
-    "port": 443,
-    "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
     "country": "RU",
     "addTime": 1779379516
   },
@@ -18,6 +74,13 @@
     "port": 443,
     "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
     "country": "PL",
+    "addTime": 1779379516
+  },
+  {
+    "host": "195.58.49.162",
+    "port": 443,
+    "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
+    "country": "RU",
     "addTime": 1779379516
   },
   {
@@ -273,13 +336,6 @@
     "addTime": 1779293086
   },
   {
-    "host": "193.28.186.151",
-    "port": 443,
-    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
-    "country": "LV",
-    "addTime": 1779293084
-  },
-  {
     "host": "rkn.errornet.work",
     "port": 8443,
     "secret": "eec16f877103ba211b5652459a26bf65dd6d61782e7275",
@@ -287,66 +343,10 @@
     "addTime": 1779293084
   },
   {
-    "host": "rknpidor.myrka.digital",
-    "port": 2053,
-    "secret": "ee63a8ac5afe47eb41cb8d2d2e8d54ab7c6d75726f63686b612e6d79726b612e6469676974616c",
-    "country": "DE",
-    "addTime": 1779293073
-  },
-  {
-    "host": "103.110.64.210",
+    "host": "193.28.186.151",
     "port": 443,
-    "secret": "eeaf249464f27f61e3c8f0e0dce07f413379616e6465782e7275",
-    "country": "DE",
-    "addTime": 1779293070
-  },
-  {
-    "host": "5.181.0.202",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c96617669746f2e7275",
-    "country": "NL",
-    "addTime": 1779293067
-  },
-  {
-    "host": "78.111.90.105",
-    "port": 443,
-    "secret": "f06218bff48339e5053be704d0aefd58",
-    "country": "CA",
-    "addTime": 1779293066
-  },
-  {
-    "host": "mt.nowabst.com",
-    "port": 853,
-    "secret": "eedd7a7a3d6f4cf1f7c3fae9cff28b73796164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779282308
-  },
-  {
-    "host": "hop1.proxytg.space",
-    "port": 443,
-    "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
-    "country": "RU",
-    "addTime": 1779282288
-  },
-  {
-    "host": "103.110.64.211",
-    "port": 443,
-    "secret": "ee457a1d7a9004f780d4ca5ad2290f7e1a79616e6465782e7275",
-    "country": "DE",
-    "addTime": 1779282285
-  },
-  {
-    "host": "alienable.minivan.misread.muskeg.ticket.shivann.com",
-    "port": 10175,
-    "secret": "eef7bbc1d5dad3c46f2d34f725ac92af05647a656e2e7275",
-    "country": "DE",
-    "addTime": 1779271495
-  },
-  {
-    "host": "s01.dimasssss.space",
-    "port": 443,
-    "secret": "eebed92191281b6d7a676b052f2797cad9726164696f7265636f72642e7275",
-    "country": "US",
-    "addTime": 1779271466
+    "secret": "eeaff77f0382c0fe8925687332681827e531632e7275",
+    "country": "LV",
+    "addTime": 1779293084
   }
 ]
