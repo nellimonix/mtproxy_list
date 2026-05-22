@@ -21,13 +21,6 @@
     "addTime": 1779476747
   },
   {
-    "host": "c.omsk.russia34.ru",
-    "port": 443,
-    "secret": "ee94793e00af4ee358c1d67e5608f684836164732e78352e7275",
-    "country": "SC",
-    "addTime": 1779476744
-  },
-  {
     "host": "in.mythical.house",
     "port": 443,
     "secret": "eeecc03a8eabe3443a254a09bcd5681d75696e2e6d7974686963616c2e686f757365",
@@ -42,18 +35,18 @@
     "addTime": 1779476744
   },
   {
+    "host": "c.omsk.russia34.ru",
+    "port": 443,
+    "secret": "ee94793e00af4ee358c1d67e5608f684836164732e78352e7275",
+    "country": "SC",
+    "addTime": 1779476744
+  },
+  {
     "host": "b.ufa.russia34.ru",
     "port": 443,
     "secret": "eeec0cb1dd18c7074acc1784c04db91d42617669746f2e7275",
     "country": "US",
     "addTime": 1779476736
-  },
-  {
-    "host": "rkn.zaebali.space",
-    "port": 443,
-    "secret": "eeaede459b9d3bfde4d0bb4396cffcbe7e622e6e732e6170706c652e636f6d",
-    "country": "PL",
-    "addTime": 1779476689
   },
   {
     "host": "kazan.tgproxyy.online",
@@ -63,17 +56,24 @@
     "addTime": 1779476689
   },
   {
-    "host": "mtproto.secret-node.online",
+    "host": "rkn.zaebali.space",
     "port": 443,
-    "secret": "ee1117b4863bfde2cd5949c5613d1edc007765622e6d61782e7275",
-    "country": "FI",
-    "addTime": 1779465952
+    "secret": "eeaede459b9d3bfde4d0bb4396cffcbe7e622e6e732e6170706c652e636f6d",
+    "country": "PL",
+    "addTime": 1779476689
   },
   {
     "host": "proxy.nya-aw.sbs",
     "port": 9443,
     "secret": "ee7fafda4a7dea5a80c8196c944aaeac287777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
+    "addTime": 1779465952
+  },
+  {
+    "host": "mtproto.secret-node.online",
+    "port": 443,
+    "secret": "ee1117b4863bfde2cd5949c5613d1edc007765622e6d61782e7275",
+    "country": "FI",
     "addTime": 1779465952
   },
   {
@@ -147,6 +147,13 @@
     "addTime": 1779455081
   },
   {
+    "host": "185.81.28.154",
+    "port": 65514,
+    "secret": "ee1c8a33ad28647314f2ef368aaf52ad17617a7572652e6d6963726f736f66742e636f6d",
+    "country": "SG",
+    "addTime": 1779455081
+  },
+  {
     "host": "185.181.60.198",
     "port": 8080,
     "secret": "ee59db39ee3020cf5120c8b581a7420b6733646e6577732e7275",
@@ -175,9 +182,23 @@
     "addTime": 1779433486
   },
   {
+    "host": "tg.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "country": "US",
+    "addTime": 1779433483
+  },
+  {
     "host": "178.253.23.165",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c91617669746f2e7275",
+    "country": "GR",
+    "addTime": 1779433483
+  },
+  {
+    "host": "94.241.175.144",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c89617669746f2e7275",
     "country": "GR",
     "addTime": 1779433483
   },
@@ -189,31 +210,24 @@
     "addTime": 1779433483
   },
   {
-    "host": "tg.chunkycorp.shop",
+    "host": "186.246.5.110",
     "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1779433483
-  },
-  {
-    "host": "94.241.175.144",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c89617669746f2e7275",
-    "country": "GR",
-    "addTime": 1779433483
-  },
-  {
-    "host": "194.156.103.87",
-    "port": 443,
-    "secret": "ee000000000000000000000000000000006c6973742e616d",
-    "country": "AM",
-    "addTime": 1779422728
+    "secret": "ee34fd4e8e9b8d0008a2d80f7e8b80ce8277622e7275",
+    "country": "HK",
+    "addTime": 1779422770
   },
   {
     "host": "42.200.173.39",
     "port": 33565,
     "secret": "ee295470ab19f947efb0bea7886855ffde6d6963726f736f66742e636f6d",
     "country": "HK",
+    "addTime": 1779422728
+  },
+  {
+    "host": "194.156.103.87",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000006c6973742e616d",
+    "country": "AM",
     "addTime": 1779422728
   },
   {
@@ -334,19 +348,5 @@
     "secret": "eec7d8a2f5e4feb8640f9db8ceada9f4eb73332e616d617a6f6e6177732e636f6d",
     "country": "FR",
     "addTime": 1779390295
-  },
-  {
-    "host": "proxy.vopnbot.org",
-    "port": 443,
-    "secret": "ee238769e7429435643399dc21169d8ffe636c6f75642e7275",
-    "country": "RU",
-    "addTime": 1779390273
-  },
-  {
-    "host": "5.252.20.116",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c93617669746f2e7275",
-    "country": "NL",
-    "addTime": 1779390271
   }
 ]
