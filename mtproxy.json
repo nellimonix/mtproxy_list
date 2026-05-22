@@ -7,16 +7,16 @@
     "addTime": 1779411935
   },
   {
-    "host": "tw2.myrka.digital",
-    "port": 775,
-    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
+    "host": "tw1.myrka.digital",
+    "port": 443,
+    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
     "country": "HK",
     "addTime": 1779411918
   },
   {
-    "host": "tw1.myrka.digital",
-    "port": 443,
-    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
+    "host": "tw2.myrka.digital",
+    "port": 775,
+    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
     "country": "HK",
     "addTime": 1779411918
   },
@@ -119,13 +119,6 @@
     "addTime": 1779390268
   },
   {
-    "host": "tg.tsukicloud.com",
-    "port": 443,
-    "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
-    "country": "PL",
-    "addTime": 1779379516
-  },
-  {
     "host": "195.58.49.162",
     "port": 443,
     "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
@@ -140,11 +133,25 @@
     "addTime": 1779379516
   },
   {
+    "host": "tg.tsukicloud.com",
+    "port": 443,
+    "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
+    "country": "PL",
+    "addTime": 1779379516
+  },
+  {
     "host": "abstemious.impeded.rotterdam.pilipinoteleserye.com",
     "port": 443,
     "secret": "eebb3723cc058b9df1acaa96371c46f494647a656e2e7275",
     "country": "DE",
     "addTime": 1779379484
+  },
+  {
+    "host": "193.23.3.3",
+    "port": 443,
+    "secret": "ee9955f6fda43ace816fd55e19422d13a631632e7275",
+    "country": "LV",
+    "addTime": 1779379482
   },
   {
     "host": "109.206.243.36",
@@ -231,17 +238,17 @@
     "addTime": 1779347102
   },
   {
-    "host": "31.44.6.81",
-    "port": 443,
-    "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
-    "country": "NL",
-    "addTime": 1779347091
-  },
-  {
     "host": "37.1.212.47",
     "port": 443,
     "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
     "country": "US",
+    "addTime": 1779347091
+  },
+  {
+    "host": "31.44.6.81",
+    "port": 443,
+    "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
+    "country": "NL",
     "addTime": 1779347091
   },
   {
@@ -287,13 +294,6 @@
     "addTime": 1779314707
   },
   {
-    "host": "hop2.proxytg.space",
-    "port": 443,
-    "secret": "eec5428740a808240ccf21f21547fc843f6d61782e7275",
-    "country": "RU",
-    "addTime": 1779314688
-  },
-  {
     "host": "ryzen.myrka.digital",
     "port": 228,
     "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
@@ -322,13 +322,6 @@
     "addTime": 1779314681
   },
   {
-    "host": "hop3.proxytg.space",
-    "port": 443,
-    "secret": "ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275",
-    "country": "RU",
-    "addTime": 1779314679
-  },
-  {
     "host": "d.artishchev.org",
     "port": 8443,
     "secret": "963a7fd525b04c4533ce776c9bd70f34",
@@ -348,5 +341,12 @@
     "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
     "country": "LT",
     "addTime": 1779303887
+  },
+  {
+    "host": "proxy.zentvpn.ru",
+    "port": 4443,
+    "secret": "eec25d8e668a1b6d15dfc967deaf239b307777772e6170706c652e636f6d",
+    "country": "US",
+    "addTime": 1779303871
   }
 ]
