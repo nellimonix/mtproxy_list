@@ -49,13 +49,6 @@
     "addTime": 1779455121
   },
   {
-    "host": "194.50.94.65",
-    "port": 443,
-    "secret": "ee0c534d144bf266c6b7a09c532a2e529f79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1779455100
-  },
-  {
     "host": "186.246.20.144",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c87617669746f2e7275",
@@ -112,10 +105,10 @@
     "addTime": 1779433486
   },
   {
-    "host": "31.56.178.15",
+    "host": "pepel.help",
     "port": 443,
-    "secret": "eed33ad49000653396b81c94d98eba0ee57777772e6d6963726f736f66742e636f6d",
-    "country": "US",
+    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
+    "country": "SG",
     "addTime": 1779433483
   },
   {
@@ -140,13 +133,6 @@
     "addTime": 1779433483
   },
   {
-    "host": "pepel.help",
-    "port": 443,
-    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
-    "country": "SG",
-    "addTime": 1779433483
-  },
-  {
     "host": "70.39.198.153",
     "port": 443,
     "secret": "ee1c470903e643f78e084f64e5717cd5fd6177732e616d617a6f6e2e636f6d",
@@ -168,6 +154,13 @@
     "addTime": 1779422728
   },
   {
+    "host": "160.16.130.120",
+    "port": 443,
+    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
+    "country": "JP",
+    "addTime": 1779422728
+  },
+  {
     "host": "42.200.173.39",
     "port": 33565,
     "secret": "ee295470ab19f947efb0bea7886855ffde6d6963726f736f66742e636f6d",
@@ -178,7 +171,7 @@
     "host": "help.gbird.top",
     "port": 443,
     "secret": "eef4572f1bb51c1f1f3b390ea8aedc90d768656c702e67626972642e746f70",
-    "country": "ES",
+    "country": "RU",
     "addTime": 1779422688
   },
   {
@@ -308,13 +301,6 @@
     "addTime": 1779379482
   },
   {
-    "host": "llazyrin-off.duckdns.org",
-    "port": 3306,
-    "secret": "eeb359972f13e568d2e15bc826257028d56c6c617a7972696e2e7275",
-    "country": "FI",
-    "addTime": 1779379472
-  },
-  {
     "host": "192.248.191.64",
     "port": 443,
     "secret": "d279734e31c647bf0f13e2fd11f8e821",
@@ -348,5 +334,19 @@
     "secret": "ee2b12b82b0edc6819c5faf518342cce6c647a656e2e7275",
     "country": "DE",
     "addTime": 1779357903
+  },
+  {
+    "host": "94.130.191.164",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1779357872
+  },
+  {
+    "host": "pl.kickedapp.ru",
+    "port": 443,
+    "secret": "ee74f730af14c141573170a2f904fb4c9d73616d73756e672e636f6d",
+    "country": "PL",
+    "addTime": 1779347167
   }
 ]
