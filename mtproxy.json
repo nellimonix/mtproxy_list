@@ -98,9 +98,9 @@
     "addTime": 1779433486
   },
   {
-    "host": "31.56.178.15",
+    "host": "tg.chunkycorp.shop",
     "port": 443,
-    "secret": "eed33ad49000653396b81c94d98eba0ee57777772e6d6963726f736f66742e636f6d",
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
     "country": "US",
     "addTime": 1779433483
   },
@@ -112,13 +112,6 @@
     "addTime": 1779433483
   },
   {
-    "host": "tg.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1779433483
-  },
-  {
     "host": "178.253.23.165",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c91617669746f2e7275",
@@ -126,17 +119,24 @@
     "addTime": 1779433483
   },
   {
+    "host": "31.56.178.15",
+    "port": 443,
+    "secret": "eed33ad49000653396b81c94d98eba0ee57777772e6d6963726f736f66742e636f6d",
+    "country": "US",
+    "addTime": 1779433483
+  },
+  {
+    "host": "160.16.130.120",
+    "port": 443,
+    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
+    "country": "JP",
+    "addTime": 1779422728
+  },
+  {
     "host": "194.156.103.87",
     "port": 443,
     "secret": "ee000000000000000000000000000000006c6973742e616d",
     "country": "AM",
-    "addTime": 1779422728
-  },
-  {
-    "host": "47.251.120.51",
-    "port": 443,
-    "secret": "46e9ed1bd8e5cbe43b63714a9bf3431d",
-    "country": "US",
     "addTime": 1779422728
   },
   {
@@ -157,7 +157,7 @@
     "host": "help.gbird.top",
     "port": 443,
     "secret": "eef4572f1bb51c1f1f3b390ea8aedc90d768656c702e67626972642e746f70",
-    "country": "CZ",
+    "country": "RU",
     "addTime": 1779422688
   },
   {
@@ -168,6 +168,13 @@
     "addTime": 1779411935
   },
   {
+    "host": "tw2.myrka.digital",
+    "port": 775,
+    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
+    "country": "HK",
+    "addTime": 1779411918
+  },
+  {
     "host": "tw1.myrka.digital",
     "port": 443,
     "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
@@ -175,11 +182,11 @@
     "addTime": 1779411918
   },
   {
-    "host": "tw2.myrka.digital",
-    "port": 775,
-    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
-    "country": "HK",
-    "addTime": 1779411918
+    "host": "nc911.hopto.org",
+    "port": 443,
+    "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
+    "country": "RU",
+    "addTime": 1779411903
   },
   {
     "host": "91.84.117.165",
@@ -280,17 +287,17 @@
     "addTime": 1779379484
   },
   {
-    "host": "109.206.243.36",
-    "port": 443,
-    "secret": "ee541e4f78b08efb7ab600c24f8ecd846a636c6f7564666c6172652e636f6d",
-    "country": "BG",
-    "addTime": 1779379482
-  },
-  {
     "host": "193.23.3.3",
     "port": 443,
     "secret": "ee9955f6fda43ace816fd55e19422d13a631632e7275",
     "country": "LV",
+    "addTime": 1779379482
+  },
+  {
+    "host": "109.206.243.36",
+    "port": 443,
+    "secret": "ee541e4f78b08efb7ab600c24f8ecd846a636c6f7564666c6172652e636f6d",
+    "country": "BG",
     "addTime": 1779379482
   },
   {
@@ -306,6 +313,13 @@
     "secret": "d279734e31c647bf0f13e2fd11f8e821",
     "country": "DE",
     "addTime": 1779379466
+  },
+  {
+    "host": "2.26.86.207",
+    "port": 8443,
+    "secret": "7d805a0e2fcc89a731277cd098634fcc",
+    "country": "US",
+    "addTime": 1779368663
   },
   {
     "host": "31.76.251.25",
@@ -334,19 +348,5 @@
     "secret": "ee2b12b82b0edc6819c5faf518342cce6c647a656e2e7275",
     "country": "DE",
     "addTime": 1779357903
-  },
-  {
-    "host": "94.130.191.164",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1779357872
-  },
-  {
-    "host": "pl.kickedapp.ru",
-    "port": 443,
-    "secret": "ee74f730af14c141573170a2f904fb4c9d73616d73756e672e636f6d",
-    "country": "PL",
-    "addTime": 1779347167
   }
 ]
