@@ -35,18 +35,18 @@
     "addTime": 1779455354
   },
   {
-    "host": "51.250.4.139",
-    "port": 443,
-    "secret": "eec3a80805cd5ee5d245ccea60ff27a357636c6f75642e79616e6465782e7275",
-    "country": "RU",
-    "addTime": 1779455155
-  },
-  {
     "host": "90.156.255.202",
     "port": 443,
     "secret": "ee458b49137646f1cc4e84572feb5e049f31632e7275",
     "country": "LV",
     "addTime": 1779455121
+  },
+  {
+    "host": "194.50.94.65",
+    "port": 443,
+    "secret": "ee0c534d144bf266c6b7a09c532a2e529f79616e6465782e7275",
+    "country": "NL",
+    "addTime": 1779455100
   },
   {
     "host": "186.246.20.144",
@@ -74,6 +74,13 @@
     "port": 61455,
     "secret": "ee6632517a311fa02759c7a3cd0116f725617a7572652e6d6963726f736f66742e636f6d",
     "country": "HK",
+    "addTime": 1779455081
+  },
+  {
+    "host": "185.81.28.154",
+    "port": 65514,
+    "secret": "ee1c8a33ad28647314f2ef368aaf52ad17617a7572652e6d6963726f736f66742e636f6d",
+    "country": "SG",
     "addTime": 1779455081
   },
   {
@@ -105,6 +112,13 @@
     "addTime": 1779433486
   },
   {
+    "host": "178.253.23.165",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c91617669746f2e7275",
+    "country": "GR",
+    "addTime": 1779433483
+  },
+  {
     "host": "pepel.help",
     "port": 443,
     "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
@@ -126,11 +140,25 @@
     "addTime": 1779433483
   },
   {
-    "host": "178.253.23.165",
+    "host": "160.16.130.120",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c91617669746f2e7275",
-    "country": "GR",
-    "addTime": 1779433483
+    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
+    "country": "JP",
+    "addTime": 1779422728
+  },
+  {
+    "host": "47.251.120.51",
+    "port": 443,
+    "secret": "46e9ed1bd8e5cbe43b63714a9bf3431d",
+    "country": "US",
+    "addTime": 1779422728
+  },
+  {
+    "host": "42.200.173.39",
+    "port": 33565,
+    "secret": "ee295470ab19f947efb0bea7886855ffde6d6963726f736f66742e636f6d",
+    "country": "HK",
+    "addTime": 1779422728
   },
   {
     "host": "70.39.198.153",
@@ -144,27 +172,6 @@
     "port": 443,
     "secret": "ee000000000000000000000000000000006c6973742e616d",
     "country": "AM",
-    "addTime": 1779422728
-  },
-  {
-    "host": "47.251.120.51",
-    "port": 443,
-    "secret": "46e9ed1bd8e5cbe43b63714a9bf3431d",
-    "country": "US",
-    "addTime": 1779422728
-  },
-  {
-    "host": "160.16.130.120",
-    "port": 443,
-    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
-    "country": "JP",
-    "addTime": 1779422728
-  },
-  {
-    "host": "42.200.173.39",
-    "port": 33565,
-    "secret": "ee295470ab19f947efb0bea7886855ffde6d6963726f736f66742e636f6d",
-    "country": "HK",
     "addTime": 1779422728
   },
   {
@@ -182,16 +189,16 @@
     "addTime": 1779411935
   },
   {
-    "host": "tw1.myrka.digital",
-    "port": 443,
-    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
+    "host": "tw2.myrka.digital",
+    "port": 775,
+    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
     "country": "HK",
     "addTime": 1779411918
   },
   {
-    "host": "tw2.myrka.digital",
-    "port": 775,
-    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
+    "host": "tw1.myrka.digital",
+    "port": 443,
+    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
     "country": "HK",
     "addTime": 1779411918
   },
@@ -243,13 +250,6 @@
     "secret": "dda4fc81db58f04539d08a90d723f84ee7",
     "country": "NL",
     "addTime": 1779390342
-  },
-  {
-    "host": "158.160.188.98",
-    "port": 8443,
-    "secret": "dd73675b09ac6690ff559bffa7b39a94c8",
-    "country": "RU",
-    "addTime": 1779390312
   },
   {
     "host": "dealt.heroic.noise.oread.tamarin.teleseryefullepisodes.com",
