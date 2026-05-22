@@ -1,5 +1,12 @@
 [
   {
+    "host": "70.39.198.153",
+    "port": 443,
+    "secret": "ee1c470903e643f78e084f64e5717cd5fd6177732e616d617a6f6e2e636f6d",
+    "country": "US",
+    "addTime": 1779422728
+  },
+  {
     "host": "42.200.173.39",
     "port": 33565,
     "secret": "ee295470ab19f947efb0bea7886855ffde6d6963726f736f66742e636f6d",
@@ -10,13 +17,6 @@
     "host": "47.251.120.51",
     "port": 443,
     "secret": "46e9ed1bd8e5cbe43b63714a9bf3431d",
-    "country": "US",
-    "addTime": 1779422728
-  },
-  {
-    "host": "70.39.198.153",
-    "port": 443,
-    "secret": "ee1c470903e643f78e084f64e5717cd5fd6177732e616d617a6f6e2e636f6d",
     "country": "US",
     "addTime": 1779422728
   },
@@ -175,16 +175,23 @@
     "addTime": 1779390271
   },
   {
-    "host": "testik.fsproxy.site",
+    "host": "82.114.228.74",
     "port": 443,
-    "secret": "ddcc152117b066744e044c231dadc55698",
+    "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275",
     "country": "RU",
-    "addTime": 1779379516
+    "addTime": 1779390268
   },
   {
     "host": "195.58.49.162",
     "port": 443,
     "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
+    "country": "RU",
+    "addTime": 1779379516
+  },
+  {
+    "host": "testik.fsproxy.site",
+    "port": 443,
+    "secret": "ddcc152117b066744e044c231dadc55698",
     "country": "RU",
     "addTime": 1779379516
   },
@@ -320,13 +327,6 @@
     "secret": "4022239bd929858964d4ee4440b59112",
     "country": "US",
     "addTime": 1779336340
-  },
-  {
-    "host": "suge.2pac.live",
-    "port": 7777,
-    "secret": "ee97c88e23d6902be6f5d2a85c2013539b7777772e7068696c6970732e636f6d",
-    "country": "US",
-    "addTime": 1779336307
   },
   {
     "host": "185.130.113.188",
