@@ -1,12 +1,5 @@
 [
   {
-    "host": "160.16.130.120",
-    "port": 443,
-    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
-    "country": "JP",
-    "addTime": 1779422728
-  },
-  {
     "host": "194.156.103.87",
     "port": 443,
     "secret": "ee000000000000000000000000000000006c6973742e616d",
@@ -21,10 +14,10 @@
     "addTime": 1779422728
   },
   {
-    "host": "47.251.120.51",
+    "host": "160.16.130.120",
     "port": 443,
-    "secret": "46e9ed1bd8e5cbe43b63714a9bf3431d",
-    "country": "US",
+    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
+    "country": "JP",
     "addTime": 1779422728
   },
   {
@@ -49,15 +42,15 @@
     "addTime": 1779422688
   },
   {
-    "host": "137.220.154.251",
-    "port": 8444,
+    "host": "137.220.154.220",
+    "port": 8443,
     "secret": "eed446ceb6daace132cb88d2c5209af83d636c6f7564666c6172652e636f6d",
     "country": "JP",
     "addTime": 1779422680
   },
   {
-    "host": "137.220.154.220",
-    "port": 8443,
+    "host": "137.220.154.251",
+    "port": 8444,
     "secret": "eed446ceb6daace132cb88d2c5209af83d636c6f7564666c6172652e636f6d",
     "country": "JP",
     "addTime": 1779422680
@@ -70,16 +63,23 @@
     "addTime": 1779411935
   },
   {
-    "host": "tw2.myrka.digital",
-    "port": 775,
-    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
-    "country": "HK",
-    "addTime": 1779411918
+    "host": "mtyylju1lje2ny42na.he-de-29.mtproto.icu",
+    "port": 443,
+    "secret": "ee2111222233334444555566667777888865756331322e706c61796c6973742e7474766e772e6e6574",
+    "country": "DE",
+    "addTime": 1779411935
   },
   {
     "host": "tw1.myrka.digital",
     "port": 443,
     "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
+    "country": "HK",
+    "addTime": 1779411918
+  },
+  {
+    "host": "tw2.myrka.digital",
+    "port": 775,
+    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
     "country": "HK",
     "addTime": 1779411918
   },
@@ -182,13 +182,6 @@
     "addTime": 1779390268
   },
   {
-    "host": "testik.fsproxy.site",
-    "port": 443,
-    "secret": "ddcc152117b066744e044c231dadc55698",
-    "country": "RU",
-    "addTime": 1779379516
-  },
-  {
     "host": "tg.tsukicloud.com",
     "port": 443,
     "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
@@ -199,6 +192,13 @@
     "host": "195.58.49.162",
     "port": 443,
     "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
+    "country": "RU",
+    "addTime": 1779379516
+  },
+  {
+    "host": "testik.fsproxy.site",
+    "port": 443,
+    "secret": "ddcc152117b066744e044c231dadc55698",
     "country": "RU",
     "addTime": 1779379516
   },
@@ -322,6 +322,13 @@
     "addTime": 1779336350
   },
   {
+    "host": "tgproxy.uefibios.ru",
+    "port": 8443,
+    "secret": "4022239bd929858964d4ee4440b59112",
+    "country": "US",
+    "addTime": 1779336340
+  },
+  {
     "host": "suge.2pac.live",
     "port": 7777,
     "secret": "ee97c88e23d6902be6f5d2a85c2013539b7777772e7068696c6970732e636f6d",
@@ -341,12 +348,5 @@
     "secret": "cdd2b1d2f6d78b1dc81b981410f05789",
     "country": "NL",
     "addTime": 1779325497
-  },
-  {
-    "host": "ffastdomain-eu.com",
-    "port": 443,
-    "secret": "afdc38b8068b2444e50f6a4f093751b5",
-    "country": "DE",
-    "addTime": 1779314749
   }
 ]
