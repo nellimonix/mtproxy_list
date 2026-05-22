@@ -7,20 +7,6 @@
     "addTime": 1779411935
   },
   {
-    "host": "tw2.myrka.digital",
-    "port": 775,
-    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
-    "country": "HK",
-    "addTime": 1779411918
-  },
-  {
-    "host": "tw1.myrka.digital",
-    "port": 443,
-    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
-    "country": "HK",
-    "addTime": 1779411918
-  },
-  {
     "host": "nc911.hopto.org",
     "port": 443,
     "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
@@ -119,17 +105,17 @@
     "addTime": 1779390268
   },
   {
-    "host": "tg.tsukicloud.com",
-    "port": 443,
-    "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
-    "country": "PL",
-    "addTime": 1779379516
-  },
-  {
     "host": "195.58.49.162",
     "port": 443,
     "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
     "country": "RU",
+    "addTime": 1779379516
+  },
+  {
+    "host": "tg.tsukicloud.com",
+    "port": 443,
+    "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
+    "country": "PL",
     "addTime": 1779379516
   },
   {
@@ -147,17 +133,17 @@
     "addTime": 1779379484
   },
   {
-    "host": "193.23.3.3",
-    "port": 443,
-    "secret": "ee9955f6fda43ace816fd55e19422d13a631632e7275",
-    "country": "LV",
-    "addTime": 1779379482
-  },
-  {
     "host": "109.206.243.36",
     "port": 443,
     "secret": "ee541e4f78b08efb7ab600c24f8ecd846a636c6f7564666c6172652e636f6d",
     "country": "BG",
+    "addTime": 1779379482
+  },
+  {
+    "host": "193.23.3.3",
+    "port": 443,
+    "secret": "ee9955f6fda43ace816fd55e19422d13a631632e7275",
+    "country": "LV",
     "addTime": 1779379482
   },
   {
@@ -348,5 +334,19 @@
     "secret": "01264449f129c50e22d3556e011f2395",
     "country": "DE",
     "addTime": 1779303889
+  },
+  {
+    "host": "redflag.yazaebalsyadelatproxy.uk",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
+    "country": "LT",
+    "addTime": 1779303887
+  },
+  {
+    "host": "proxy.zentvpn.ru",
+    "port": 4443,
+    "secret": "eec25d8e668a1b6d15dfc967deaf239b307777772e6170706c652e636f6d",
+    "country": "US",
+    "addTime": 1779303871
   }
 ]
