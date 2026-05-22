@@ -10,18 +10,18 @@
     "host": "hop.proxytg.space",
     "port": 8443,
     "secret": "eeabb8cea3a48990152aacc55985a913116262632e636f6d",
-    "country": "NL",
+    "country": "US",
     "addTime": 1779488422
   },
   {
-    "host": "server-mania.ultrasam.info",
+    "host": "for.fsaremi.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
     "addTime": 1779488185
   },
   {
-    "host": "for.fsaremi.info",
+    "host": "server-mania.ultrasam.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
@@ -49,32 +49,18 @@
     "addTime": 1779488174
   },
   {
-    "host": "menf.proxytg.space",
-    "port": 443,
-    "secret": "eed29c1cae809aca8bdbf6ce5c5918141c6d61782e7275",
-    "country": "NL",
-    "addTime": 1779488174
-  },
-  {
-    "host": "babs.proxytg.space",
-    "port": 443,
-    "secret": "ee7e0cfbf200d8528bccf91edc951c72a46d61782e7275",
-    "country": "NL",
-    "addTime": 1779488173
-  },
-  {
-    "host": "artt.proxytg.space",
-    "port": 443,
-    "secret": "ee859265446d8bb72e53291612281d57e26d61782e7275",
-    "country": "NL",
-    "addTime": 1779488173
-  },
-  {
     "host": "de2.lutolubs.icu",
     "port": 443,
     "secret": "ee4bf8b30ae0977dfbc2ae4521ffacc1126465322e6c75746f6c7562732e696375",
     "country": "CZ",
     "addTime": 1779476748
+  },
+  {
+    "host": "de1.tgproxysokol.pro",
+    "port": 443,
+    "secret": "ee490c481715b0314d9ebd1ae77ed2d6726465312e746770726f7879736f6b6f6c2e70726f",
+    "country": "CZ",
+    "addTime": 1779476747
   },
   {
     "host": "de1.lutolubs.icu",
@@ -84,11 +70,11 @@
     "addTime": 1779476747
   },
   {
-    "host": "de1.tgproxysokol.pro",
+    "host": "in.mythical.house",
     "port": 443,
-    "secret": "ee490c481715b0314d9ebd1ae77ed2d6726465312e746770726f7879736f6b6f6c2e70726f",
-    "country": "CZ",
-    "addTime": 1779476747
+    "secret": "eeecc03a8eabe3443a254a09bcd5681d75696e2e6d7974686963616c2e686f757365",
+    "country": "US",
+    "addTime": 1779476744
   },
   {
     "host": "sasiski.bibabobabobus.site",
@@ -105,25 +91,11 @@
     "addTime": 1779476744
   },
   {
-    "host": "in.mythical.house",
-    "port": 443,
-    "secret": "eeecc03a8eabe3443a254a09bcd5681d75696e2e6d7974686963616c2e686f757365",
-    "country": "US",
-    "addTime": 1779476744
-  },
-  {
     "host": "b.ufa.russia34.ru",
     "port": 443,
     "secret": "eeec0cb1dd18c7074acc1784c04db91d42617669746f2e7275",
     "country": "US",
     "addTime": 1779476736
-  },
-  {
-    "host": "kazan.tgproxyy.online",
-    "port": 8443,
-    "secret": "ee7cf102601542b0577f6f95801431337a6b617a616e2e746770726f7879792e6f6e6c696e65",
-    "country": "DE",
-    "addTime": 1779476689
   },
   {
     "host": "rkn.zaebali.space",
@@ -133,17 +105,24 @@
     "addTime": 1779476689
   },
   {
-    "host": "proxy.nya-aw.sbs",
-    "port": 9443,
-    "secret": "ee7fafda4a7dea5a80c8196c944aaeac287777772e636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1779465952
+    "host": "kazan.tgproxyy.online",
+    "port": 8443,
+    "secret": "ee7cf102601542b0577f6f95801431337a6b617a616e2e746770726f7879792e6f6e6c696e65",
+    "country": "DE",
+    "addTime": 1779476689
   },
   {
     "host": "mtproto.secret-node.online",
     "port": 443,
     "secret": "ee1117b4863bfde2cd5949c5613d1edc007765622e6d61782e7275",
     "country": "FI",
+    "addTime": 1779465952
+  },
+  {
+    "host": "proxy.nya-aw.sbs",
+    "port": 9443,
+    "secret": "ee7fafda4a7dea5a80c8196c944aaeac287777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
     "addTime": 1779465952
   },
   {
@@ -252,17 +231,17 @@
     "addTime": 1779433486
   },
   {
+    "host": "pepel.help",
+    "port": 443,
+    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
+    "country": "PL",
+    "addTime": 1779433483
+  },
+  {
     "host": "94.241.175.144",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c89617669746f2e7275",
     "country": "GR",
-    "addTime": 1779433483
-  },
-  {
-    "host": "pepel.help",
-    "port": 443,
-    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
-    "country": "SG",
     "addTime": 1779433483
   },
   {
@@ -273,10 +252,10 @@
     "addTime": 1779433483
   },
   {
-    "host": "70.39.198.153",
-    "port": 443,
-    "secret": "ee1c470903e643f78e084f64e5717cd5fd6177732e616d617a6f6e2e636f6d",
-    "country": "US",
+    "host": "42.200.173.39",
+    "port": 33565,
+    "secret": "ee295470ab19f947efb0bea7886855ffde6d6963726f736f66742e636f6d",
+    "country": "HK",
     "addTime": 1779422728
   },
   {
@@ -284,13 +263,6 @@
     "port": 443,
     "secret": "46e9ed1bd8e5cbe43b63714a9bf3431d",
     "country": "US",
-    "addTime": 1779422728
-  },
-  {
-    "host": "42.200.173.39",
-    "port": 33565,
-    "secret": "ee295470ab19f947efb0bea7886855ffde6d6963726f736f66742e636f6d",
-    "country": "HK",
     "addTime": 1779422728
   },
   {
@@ -308,10 +280,17 @@
     "addTime": 1779422728
   },
   {
+    "host": "70.39.198.153",
+    "port": 443,
+    "secret": "ee1c470903e643f78e084f64e5717cd5fd6177732e616d617a6f6e2e636f6d",
+    "country": "US",
+    "addTime": 1779422728
+  },
+  {
     "host": "help.gbird.top",
     "port": 443,
     "secret": "eef4572f1bb51c1f1f3b390ea8aedc90d768656c702e67626972642e746f70",
-    "country": "RU",
+    "country": "CZ",
     "addTime": 1779422688
   },
   {
@@ -348,5 +327,26 @@
     "secret": "eecBAgABAAfwAwOG4kw63Q",
     "country": "NL",
     "addTime": 1779401205
+  },
+  {
+    "host": "ninja.spectranet.pro",
+    "port": 443,
+    "secret": "eec72c7ef46ddd254e5fb5f248521c4f986e696e6a612e737065637472616e65742e70726f",
+    "country": "DE",
+    "addTime": 1779401124
+  },
+  {
+    "host": "192.142.45.210",
+    "port": 3448,
+    "secret": "7033deb2225a961eb354136d0aeca1a3",
+    "country": "ZA",
+    "addTime": 1779401097
+  },
+  {
+    "host": "alpinavpn.hatecens.cc",
+    "port": 7443,
+    "secret": "eef8dc254a4c2af8afcab54c8a5f9bb4fb616c70696e6176706e2e6861746563656e732e6363",
+    "country": "RU",
+    "addTime": 1779401071
   }
 ]
