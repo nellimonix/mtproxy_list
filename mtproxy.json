@@ -126,16 +126,16 @@
     "addTime": 1779379516
   },
   {
-    "host": "195.58.49.162",
+    "host": "testik.fsproxy.site",
     "port": 443,
-    "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
+    "secret": "ddcc152117b066744e044c231dadc55698",
     "country": "RU",
     "addTime": 1779379516
   },
   {
-    "host": "testik.fsproxy.site",
+    "host": "195.58.49.162",
     "port": 443,
-    "secret": "ddcc152117b066744e044c231dadc55698",
+    "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
     "country": "RU",
     "addTime": 1779379516
   },
@@ -224,13 +224,6 @@
     "addTime": 1779347167
   },
   {
-    "host": "87.120.244.129",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
-    "country": "NL",
-    "addTime": 1779347102
-  },
-  {
     "host": "185.139.215.136",
     "port": 443,
     "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
@@ -238,17 +231,24 @@
     "addTime": 1779347102
   },
   {
-    "host": "31.44.6.81",
+    "host": "87.120.244.129",
     "port": 443,
-    "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
+    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
     "country": "NL",
-    "addTime": 1779347091
+    "addTime": 1779347102
   },
   {
     "host": "37.1.212.47",
     "port": 443,
     "secret": "ea93a4b1b0c7fe5899fcf31dcc74ac5d",
     "country": "US",
+    "addTime": 1779347091
+  },
+  {
+    "host": "31.44.6.81",
+    "port": 443,
+    "secret": "b50ef1ff0b263a93e0e7d522328c1bb3",
+    "country": "NL",
     "addTime": 1779347091
   },
   {
@@ -294,6 +294,13 @@
     "addTime": 1779314707
   },
   {
+    "host": "hop2.proxytg.space",
+    "port": 443,
+    "secret": "eec5428740a808240ccf21f21547fc843f6d61782e7275",
+    "country": "RU",
+    "addTime": 1779314688
+  },
+  {
     "host": "ryzen.myrka.digital",
     "port": 228,
     "secret": "ee10ed94d5d6d262a105815cbbe01218ff72797a656e2e6d79726b612e6469676974616c",
@@ -322,6 +329,13 @@
     "addTime": 1779314681
   },
   {
+    "host": "hop3.proxytg.space",
+    "port": 443,
+    "secret": "ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275",
+    "country": "RU",
+    "addTime": 1779314679
+  },
+  {
     "host": "d.artishchev.org",
     "port": 8443,
     "secret": "963a7fd525b04c4533ce776c9bd70f34",
@@ -334,19 +348,5 @@
     "secret": "01264449f129c50e22d3556e011f2395",
     "country": "DE",
     "addTime": 1779303889
-  },
-  {
-    "host": "redflag.yazaebalsyadelatproxy.uk",
-    "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f63686565736563726166742e6f6e6c696e65",
-    "country": "LV",
-    "addTime": 1779303887
-  },
-  {
-    "host": "proxy.zentvpn.ru",
-    "port": 4443,
-    "secret": "eec25d8e668a1b6d15dfc967deaf239b307777772e6170706c652e636f6d",
-    "country": "US",
-    "addTime": 1779303871
   }
 ]
