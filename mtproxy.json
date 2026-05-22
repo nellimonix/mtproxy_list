@@ -7,16 +7,16 @@
     "addTime": 1779411935
   },
   {
-    "host": "tw1.myrka.digital",
-    "port": 443,
-    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
+    "host": "tw2.myrka.digital",
+    "port": 775,
+    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
     "country": "HK",
     "addTime": 1779411918
   },
   {
-    "host": "tw2.myrka.digital",
-    "port": 775,
-    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
+    "host": "tw1.myrka.digital",
+    "port": 443,
+    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
     "country": "HK",
     "addTime": 1779411918
   },
@@ -119,13 +119,6 @@
     "addTime": 1779390268
   },
   {
-    "host": "testik.fsproxy.site",
-    "port": 443,
-    "secret": "ddcc152117b066744e044c231dadc55698",
-    "country": "RU",
-    "addTime": 1779379516
-  },
-  {
     "host": "tg.tsukicloud.com",
     "port": 443,
     "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
@@ -136,6 +129,13 @@
     "host": "195.58.49.162",
     "port": 443,
     "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
+    "country": "RU",
+    "addTime": 1779379516
+  },
+  {
+    "host": "testik.fsproxy.site",
+    "port": 443,
+    "secret": "ddcc152117b066744e044c231dadc55698",
     "country": "RU",
     "addTime": 1779379516
   },
