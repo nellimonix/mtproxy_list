@@ -112,10 +112,10 @@
     "addTime": 1779433483
   },
   {
-    "host": "178.253.23.165",
+    "host": "tg.chunkycorp.shop",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c91617669746f2e7275",
-    "country": "GR",
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "country": "US",
     "addTime": 1779433483
   },
   {
@@ -126,11 +126,11 @@
     "addTime": 1779433483
   },
   {
-    "host": "42.200.173.39",
-    "port": 33565,
-    "secret": "ee295470ab19f947efb0bea7886855ffde6d6963726f736f66742e636f6d",
-    "country": "HK",
-    "addTime": 1779422728
+    "host": "178.253.23.165",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c91617669746f2e7275",
+    "country": "GR",
+    "addTime": 1779433483
   },
   {
     "host": "47.251.120.51",
@@ -140,10 +140,24 @@
     "addTime": 1779422728
   },
   {
+    "host": "42.200.173.39",
+    "port": 33565,
+    "secret": "ee295470ab19f947efb0bea7886855ffde6d6963726f736f66742e636f6d",
+    "country": "HK",
+    "addTime": 1779422728
+  },
+  {
     "host": "70.39.198.153",
     "port": 443,
     "secret": "ee1c470903e643f78e084f64e5717cd5fd6177732e616d617a6f6e2e636f6d",
     "country": "US",
+    "addTime": 1779422728
+  },
+  {
+    "host": "160.16.130.120",
+    "port": 443,
+    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
+    "country": "JP",
     "addTime": 1779422728
   },
   {
@@ -168,16 +182,16 @@
     "addTime": 1779411935
   },
   {
-    "host": "tw2.myrka.digital",
-    "port": 775,
-    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
+    "host": "tw1.myrka.digital",
+    "port": 443,
+    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
     "country": "HK",
     "addTime": 1779411918
   },
   {
-    "host": "tw1.myrka.digital",
-    "port": 443,
-    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
+    "host": "tw2.myrka.digital",
+    "port": 775,
+    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
     "country": "HK",
     "addTime": 1779411918
   },
@@ -273,17 +287,17 @@
     "addTime": 1779379516
   },
   {
-    "host": "tg.tsukicloud.com",
-    "port": 443,
-    "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
-    "country": "PL",
-    "addTime": 1779379516
-  },
-  {
     "host": "195.58.49.162",
     "port": 443,
     "secret": "7uAqXLtHlYLrtb0hgzq10kxhdml0by5ydQ",
     "country": "RU",
+    "addTime": 1779379516
+  },
+  {
+    "host": "tg.tsukicloud.com",
+    "port": 443,
+    "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
+    "country": "PL",
     "addTime": 1779379516
   },
   {
@@ -322,13 +336,6 @@
     "addTime": 1779379466
   },
   {
-    "host": "2.26.86.207",
-    "port": 8443,
-    "secret": "7d805a0e2fcc89a731277cd098634fcc",
-    "country": "US",
-    "addTime": 1779368663
-  },
-  {
     "host": "31.76.251.25",
     "port": 853,
     "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e6d742e616b656e61692e636c69636b",
@@ -341,12 +348,5 @@
     "secret": "eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d66564676563646e2d7374617469632e636f6d",
     "country": "RU",
     "addTime": 1779362674
-  },
-  {
-    "host": "telega.sinful.click",
-    "port": 443,
-    "secret": "ee968f0c6507404d14eebb4c2f0c23bbd877622e7275",
-    "country": "US",
-    "addTime": 1779357906
   }
 ]
