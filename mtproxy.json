@@ -105,6 +105,13 @@
     "addTime": 1779433483
   },
   {
+    "host": "31.56.178.15",
+    "port": 443,
+    "secret": "eed33ad49000653396b81c94d98eba0ee57777772e6d6963726f736f66742e636f6d",
+    "country": "US",
+    "addTime": 1779433483
+  },
+  {
     "host": "94.241.175.144",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c89617669746f2e7275",
@@ -119,9 +126,9 @@
     "addTime": 1779433483
   },
   {
-    "host": "31.56.178.15",
+    "host": "tg.chunkycorp.shop",
     "port": 443,
-    "secret": "eed33ad49000653396b81c94d98eba0ee57777772e6d6963726f736f66742e636f6d",
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
     "country": "US",
     "addTime": 1779433483
   },
@@ -140,17 +147,17 @@
     "addTime": 1779422728
   },
   {
-    "host": "160.16.130.120",
-    "port": 443,
-    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
-    "country": "JP",
-    "addTime": 1779422728
-  },
-  {
     "host": "47.251.120.51",
     "port": 443,
     "secret": "46e9ed1bd8e5cbe43b63714a9bf3431d",
     "country": "US",
+    "addTime": 1779422728
+  },
+  {
+    "host": "160.16.130.120",
+    "port": 443,
+    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
+    "country": "JP",
     "addTime": 1779422728
   },
   {
@@ -164,7 +171,7 @@
     "host": "help.gbird.top",
     "port": 443,
     "secret": "eef4572f1bb51c1f1f3b390ea8aedc90d768656c702e67626972642e746f70",
-    "country": "RU",
+    "country": "US",
     "addTime": 1779422688
   },
   {
@@ -208,6 +215,13 @@
     "secret": "eec72c7ef46ddd254e5fb5f248521c4f986e696e6a612e737065637472616e65742e70726f",
     "country": "DE",
     "addTime": 1779401124
+  },
+  {
+    "host": "192.142.45.210",
+    "port": 3448,
+    "secret": "7033deb2225a961eb354136d0aeca1a3",
+    "country": "ZA",
+    "addTime": 1779401097
   },
   {
     "host": "alpinavpn.hatecens.cc",
@@ -266,17 +280,17 @@
     "addTime": 1779390271
   },
   {
-    "host": "testik.fsproxy.site",
-    "port": 443,
-    "secret": "ddcc152117b066744e044c231dadc55698",
-    "country": "RU",
-    "addTime": 1779379516
-  },
-  {
     "host": "tg.tsukicloud.com",
     "port": 443,
     "secret": "7j65NYD88lyd1Jalro9jyYphcGktbWFwcy55YW5kZXgucnU",
     "country": "PL",
+    "addTime": 1779379516
+  },
+  {
+    "host": "testik.fsproxy.site",
+    "port": 443,
+    "secret": "ddcc152117b066744e044c231dadc55698",
+    "country": "RU",
     "addTime": 1779379516
   },
   {
@@ -315,6 +329,13 @@
     "addTime": 1779379466
   },
   {
+    "host": "2.26.86.207",
+    "port": 8443,
+    "secret": "7d805a0e2fcc89a731277cd098634fcc",
+    "country": "US",
+    "addTime": 1779368663
+  },
+  {
     "host": "31.76.251.25",
     "port": 853,
     "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e6d742e616b656e61692e636c69636b",
@@ -327,26 +348,5 @@
     "secret": "eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d66564676563646e2d7374617469632e636f6d",
     "country": "RU",
     "addTime": 1779362674
-  },
-  {
-    "host": "telega.sinful.click",
-    "port": 443,
-    "secret": "ee968f0c6507404d14eebb4c2f0c23bbd877622e7275",
-    "country": "US",
-    "addTime": 1779357906
-  },
-  {
-    "host": "anachronous.laystall.pedanticism.pompon.untranslatable.ugara.net",
-    "port": 17074,
-    "secret": "ee2b12b82b0edc6819c5faf518342cce6c647a656e2e7275",
-    "country": "DE",
-    "addTime": 1779357903
-  },
-  {
-    "host": "94.130.191.164",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1779357872
   }
 ]
