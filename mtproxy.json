@@ -1,16 +1,16 @@
 [
   {
-    "host": "mtproto.secret-node.online",
-    "port": 443,
-    "secret": "ee1117b4863bfde2cd5949c5613d1edc007765622e6d61782e7275",
-    "country": "FI",
-    "addTime": 1779465952
-  },
-  {
     "host": "proxy.nya-aw.sbs",
     "port": 9443,
     "secret": "ee7fafda4a7dea5a80c8196c944aaeac287777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
+    "addTime": 1779465952
+  },
+  {
+    "host": "mtproto.secret-node.online",
+    "port": 443,
+    "secret": "ee1117b4863bfde2cd5949c5613d1edc007765622e6d61782e7275",
+    "country": "FI",
     "addTime": 1779465952
   },
   {
@@ -47,13 +47,6 @@
     "secret": "ee458b49137646f1cc4e84572feb5e049f31632e7275",
     "country": "LV",
     "addTime": 1779455121
-  },
-  {
-    "host": "194.50.94.65",
-    "port": 443,
-    "secret": "ee0c534d144bf266c6b7a09c532a2e529f79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1779455100
   },
   {
     "host": "186.246.20.144",
@@ -119,10 +112,10 @@
     "addTime": 1779433486
   },
   {
-    "host": "pepel.help",
+    "host": "94.241.175.144",
     "port": 443,
-    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
-    "country": "SG",
+    "secret": "eec11798ab008831b474066c9e1ebf5c89617669746f2e7275",
+    "country": "GR",
     "addTime": 1779433483
   },
   {
@@ -133,10 +126,10 @@
     "addTime": 1779433483
   },
   {
-    "host": "94.241.175.144",
+    "host": "pepel.help",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c89617669746f2e7275",
-    "country": "GR",
+    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
+    "country": "SG",
     "addTime": 1779433483
   },
   {
@@ -145,13 +138,6 @@
     "secret": "eec11798ab008831b474066c9e1ebf5c91617669746f2e7275",
     "country": "GR",
     "addTime": 1779433483
-  },
-  {
-    "host": "160.16.130.120",
-    "port": 443,
-    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
-    "country": "JP",
-    "addTime": 1779422728
   },
   {
     "host": "194.156.103.87",
@@ -185,7 +171,7 @@
     "host": "help.gbird.top",
     "port": 443,
     "secret": "eef4572f1bb51c1f1f3b390ea8aedc90d768656c702e67626972642e746f70",
-    "country": "RU",
+    "country": "US",
     "addTime": 1779422688
   },
   {
@@ -196,16 +182,16 @@
     "addTime": 1779411935
   },
   {
-    "host": "tw2.myrka.digital",
-    "port": 775,
-    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
+    "host": "tw1.myrka.digital",
+    "port": 443,
+    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
     "country": "HK",
     "addTime": 1779411918
   },
   {
-    "host": "tw1.myrka.digital",
-    "port": 443,
-    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
+    "host": "tw2.myrka.digital",
+    "port": 775,
+    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
     "country": "HK",
     "addTime": 1779411918
   },
@@ -322,6 +308,13 @@
     "addTime": 1779379466
   },
   {
+    "host": "2.26.86.207",
+    "port": 8443,
+    "secret": "7d805a0e2fcc89a731277cd098634fcc",
+    "country": "US",
+    "addTime": 1779368663
+  },
+  {
     "host": "31.76.251.25",
     "port": 853,
     "secret": "ee6aa9eb2bd47d97b43be8ac203cfd3c0e6d742e616b656e61692e636c69636b",
@@ -348,5 +341,12 @@
     "secret": "ee2b12b82b0edc6819c5faf518342cce6c647a656e2e7275",
     "country": "DE",
     "addTime": 1779357903
+  },
+  {
+    "host": "94.130.191.164",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1779357872
   }
 ]
