@@ -28,13 +28,6 @@
     "addTime": 1779552342
   },
   {
-    "host": "speed.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "country": "LV",
-    "addTime": 1779552304
-  },
-  {
     "host": "72.56.41.35",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c85617669746f2e7275",
@@ -43,6 +36,13 @@
   },
   {
     "host": "72.56.40.184",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "country": "LV",
+    "addTime": 1779552304
+  },
+  {
+    "host": "speed.chunkycorp.shop",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
     "country": "LV",
@@ -77,6 +77,13 @@
     "addTime": 1779552292
   },
   {
+    "host": "161.97.152.87",
+    "port": 443,
+    "secret": "eeafe33c3da508eb71e1aa5cda9251d3cb676f6f676c65617069732e636f6d",
+    "country": "FR",
+    "addTime": 1779552288
+  },
+  {
     "host": "92.246.136.98",
     "port": 443,
     "secret": "eef44f0438699ded25aabf8f0d855ac36a31632e7275",
@@ -91,6 +98,13 @@
     "addTime": 1779541517
   },
   {
+    "host": "94.125.102.217",
+    "port": 443,
+    "secret": "ee244217408227effcd6234e992d9bd9827777772e77702e706c",
+    "country": "SG",
+    "addTime": 1779541517
+  },
+  {
     "host": "2.26.255.73",
     "port": 443,
     "secret": "eeab03f51ca82ec9e172a5eba3b169f6cd7777772e77702e706c",
@@ -98,17 +112,17 @@
     "addTime": 1779541514
   },
   {
-    "host": "endpro.tech",
-    "port": 6373,
-    "secret": "150257803d8157c7c291dd9c596d4781",
-    "country": "DE",
-    "addTime": 1779530966
-  },
-  {
     "host": "my.endpro.tech",
     "port": 443,
     "secret": "c4f3ac5fa801c75780014d95cf2e446d",
     "country": "US",
+    "addTime": 1779530966
+  },
+  {
+    "host": "endpro.tech",
+    "port": 6373,
+    "secret": "150257803d8157c7c291dd9c596d4781",
+    "country": "DE",
     "addTime": 1779530966
   },
   {
@@ -175,13 +189,6 @@
     "addTime": 1779509261
   },
   {
-    "host": "tg.crunchyx.xyz",
-    "port": 443,
-    "secret": "dda4f0f857a725005da00ebb0e4a949214",
-    "country": "BG",
-    "addTime": 1779498591
-  },
-  {
     "host": "51.120.71.120",
     "port": 443,
     "secret": "c760667d53b6856ca44431fc93b8fe23",
@@ -196,11 +203,25 @@
     "addTime": 1779498579
   },
   {
+    "host": "fast.tgsecurity.online",
+    "port": 443,
+    "secret": "ee7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f766b2e636f6d",
+    "country": "RU",
+    "addTime": 1779498579
+  },
+  {
     "host": "154.83.149.221",
     "port": 443,
     "secret": "ee337adbe08421008d20006794a8ddeb1f676f6f676c652e636f6d",
     "country": "SC",
     "addTime": 1779498576
+  },
+  {
+    "host": "tg1.network1.top",
+    "port": 443,
+    "secret": "8f0cdce958b6c08e3b636a5216b41e86",
+    "country": "RU",
+    "addTime": 1779498508
   },
   {
     "host": "usercontent.bronstein.ar",
@@ -217,17 +238,17 @@
     "addTime": 1779498368
   },
   {
-    "host": "191.44.112.103",
-    "port": 443,
-    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
-    "country": "PL",
-    "addTime": 1779498362
-  },
-  {
     "host": "45.15.129.63",
     "port": 443,
     "secret": "7kBjzU5SbZqTzIJZZEf4Tvp3d3cubWljcm9zb2Z0LmNvbQ",
     "country": "CY",
+    "addTime": 1779498362
+  },
+  {
+    "host": "191.44.112.103",
+    "port": 443,
+    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
+    "country": "PL",
     "addTime": 1779498362
   },
   {
@@ -238,7 +259,7 @@
     "addTime": 1779488449
   },
   {
-    "host": "server-mania.ultrasam.info",
+    "host": "for.fsaremi.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
@@ -252,7 +273,7 @@
     "addTime": 1779488185
   },
   {
-    "host": "for.fsaremi.info",
+    "host": "server-mania.ultrasam.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
@@ -280,13 +301,6 @@
     "addTime": 1779476748
   },
   {
-    "host": "de1.tgproxysokol.pro",
-    "port": 443,
-    "secret": "ee490c481715b0314d9ebd1ae77ed2d6726465312e746770726f7879736f6b6f6c2e70726f",
-    "country": "CZ",
-    "addTime": 1779476747
-  },
-  {
     "host": "de1.lutolubs.icu",
     "port": 443,
     "secret": "ee4bbaa432c17380c4e67782ce1bb877ef6465312e6c75746f6c7562732e696375",
@@ -294,11 +308,11 @@
     "addTime": 1779476747
   },
   {
-    "host": "in.mythical.house",
+    "host": "de1.tgproxysokol.pro",
     "port": 443,
-    "secret": "eeecc03a8eabe3443a254a09bcd5681d75696e2e6d7974686963616c2e686f757365",
-    "country": "US",
-    "addTime": 1779476744
+    "secret": "ee490c481715b0314d9ebd1ae77ed2d6726465312e746770726f7879736f6b6f6c2e70726f",
+    "country": "CZ",
+    "addTime": 1779476747
   },
   {
     "host": "sasiski.bibabobabobus.site",
@@ -315,6 +329,13 @@
     "addTime": 1779476744
   },
   {
+    "host": "in.mythical.house",
+    "port": 443,
+    "secret": "eeecc03a8eabe3443a254a09bcd5681d75696e2e6d7974686963616c2e686f757365",
+    "country": "US",
+    "addTime": 1779476744
+  },
+  {
     "host": "b.ufa.russia34.ru",
     "port": 443,
     "secret": "eeec0cb1dd18c7074acc1784c04db91d42617669746f2e7275",
@@ -327,26 +348,5 @@
     "secret": "eeaede459b9d3bfde4d0bb4396cffcbe7e622e6e732e6170706c652e636f6d",
     "country": "PL",
     "addTime": 1779476689
-  },
-  {
-    "host": "kazan.tgproxyy.online",
-    "port": 8443,
-    "secret": "ee7cf102601542b0577f6f95801431337a6b617a616e2e746770726f7879792e6f6e6c696e65",
-    "country": "DE",
-    "addTime": 1779476689
-  },
-  {
-    "host": "mtproto.secret-node.online",
-    "port": 443,
-    "secret": "ee1117b4863bfde2cd5949c5613d1edc007765622e6d61782e7275",
-    "country": "FI",
-    "addTime": 1779465952
-  },
-  {
-    "host": "proxy.nya-aw.sbs",
-    "port": 9443,
-    "secret": "ee7fafda4a7dea5a80c8196c944aaeac287777772e636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1779465952
   }
 ]
