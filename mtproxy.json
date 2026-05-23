@@ -1,15 +1,15 @@
 [
   {
-    "host": "proxy.subs-sosavpn.ru",
+    "host": "versd.proxytg.space",
     "port": 8443,
-    "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69",
+    "secret": "ee7b24986674d850ea72a8ea719c4574be6e686c2e636f6d",
     "country": "RU",
     "addTime": 1779530975
   },
   {
-    "host": "versd.proxytg.space",
+    "host": "proxy.subs-sosavpn.ru",
     "port": 8443,
-    "secret": "ee7b24986674d850ea72a8ea719c4574be6e686c2e636f6d",
+    "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69",
     "country": "RU",
     "addTime": 1779530975
   },
@@ -140,17 +140,17 @@
     "addTime": 1779498366
   },
   {
-    "host": "45.15.129.63",
-    "port": 443,
-    "secret": "7kBjzU5SbZqTzIJZZEf4Tvp3d3cubWljcm9zb2Z0LmNvbQ",
-    "country": "CY",
-    "addTime": 1779498362
-  },
-  {
     "host": "191.44.112.103",
     "port": 443,
     "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
     "country": "PL",
+    "addTime": 1779498362
+  },
+  {
+    "host": "45.15.129.63",
+    "port": 443,
+    "secret": "7kBjzU5SbZqTzIJZZEf4Tvp3d3cubWljcm9zb2Z0LmNvbQ",
+    "country": "CY",
     "addTime": 1779498362
   },
   {
@@ -161,6 +161,13 @@
     "addTime": 1779488449
   },
   {
+    "host": "hop.proxytg.space",
+    "port": 8443,
+    "secret": "eeabb8cea3a48990152aacc55985a913116262632e636f6d",
+    "country": "US",
+    "addTime": 1779488422
+  },
+  {
     "host": "for.fsaremi.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
@@ -168,14 +175,14 @@
     "addTime": 1779488185
   },
   {
-    "host": "sazman-light.fookacell.ir",
+    "host": "server-mania.ultrasam.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
     "addTime": 1779488185
   },
   {
-    "host": "server-mania.ultrasam.info",
+    "host": "sazman-light.fookacell.ir",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
@@ -203,17 +210,17 @@
     "addTime": 1779476748
   },
   {
-    "host": "de1.lutolubs.icu",
-    "port": 443,
-    "secret": "ee4bbaa432c17380c4e67782ce1bb877ef6465312e6c75746f6c7562732e696375",
-    "country": "IQ",
-    "addTime": 1779476747
-  },
-  {
     "host": "de1.tgproxysokol.pro",
     "port": 443,
     "secret": "ee490c481715b0314d9ebd1ae77ed2d6726465312e746770726f7879736f6b6f6c2e70726f",
     "country": "CZ",
+    "addTime": 1779476747
+  },
+  {
+    "host": "de1.lutolubs.icu",
+    "port": 443,
+    "secret": "ee4bbaa432c17380c4e67782ce1bb877ef6465312e6c75746f6c7562732e696375",
+    "country": "IQ",
     "addTime": 1779476747
   },
   {
@@ -245,13 +252,6 @@
     "addTime": 1779476736
   },
   {
-    "host": "rkn.zaebali.space",
-    "port": 443,
-    "secret": "eeaede459b9d3bfde4d0bb4396cffcbe7e622e6e732e6170706c652e636f6d",
-    "country": "PL",
-    "addTime": 1779476689
-  },
-  {
     "host": "kazan.tgproxyy.online",
     "port": 8443,
     "secret": "ee7cf102601542b0577f6f95801431337a6b617a616e2e746770726f7879792e6f6e6c696e65",
@@ -259,17 +259,24 @@
     "addTime": 1779476689
   },
   {
-    "host": "mtproto.secret-node.online",
+    "host": "rkn.zaebali.space",
     "port": 443,
-    "secret": "ee1117b4863bfde2cd5949c5613d1edc007765622e6d61782e7275",
-    "country": "FI",
-    "addTime": 1779465952
+    "secret": "eeaede459b9d3bfde4d0bb4396cffcbe7e622e6e732e6170706c652e636f6d",
+    "country": "PL",
+    "addTime": 1779476689
   },
   {
     "host": "proxy.nya-aw.sbs",
     "port": 9443,
     "secret": "ee7fafda4a7dea5a80c8196c944aaeac287777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
+    "addTime": 1779465952
+  },
+  {
+    "host": "mtproto.secret-node.online",
+    "port": 443,
+    "secret": "ee1117b4863bfde2cd5949c5613d1edc007765622e6d61782e7275",
+    "country": "FI",
     "addTime": 1779465952
   },
   {
@@ -341,12 +348,5 @@
     "secret": "ee1caa37ae90774ecf9247bd53f8cd2c4a636861742e6574657266756e642e7275",
     "country": "RU",
     "addTime": 1779433486
-  },
-  {
-    "host": "pepel.help",
-    "port": 443,
-    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
-    "country": "PL",
-    "addTime": 1779433483
   }
 ]
