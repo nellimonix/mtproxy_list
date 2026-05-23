@@ -1,15 +1,15 @@
 [
   {
-    "host": "versd.proxytg.space",
+    "host": "proxy.subs-sosavpn.ru",
     "port": 8443,
-    "secret": "ee7b24986674d850ea72a8ea719c4574be6e686c2e636f6d",
+    "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69",
     "country": "RU",
     "addTime": 1779530975
   },
   {
-    "host": "proxy.subs-sosavpn.ru",
+    "host": "versd.proxytg.space",
     "port": 8443,
-    "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69",
+    "secret": "ee7b24986674d850ea72a8ea719c4574be6e686c2e636f6d",
     "country": "RU",
     "addTime": 1779530975
   },
@@ -35,17 +35,17 @@
     "addTime": 1779530870
   },
   {
-    "host": "45.158.187.50",
-    "port": 10092,
-    "secret": "ee43fd0b58b14fb4f33e35dc93f3a929046164732e78352e7275",
-    "country": "SC",
-    "addTime": 1779530868
-  },
-  {
     "host": "193.42.122.117",
     "port": 443,
     "secret": "ee9e8f1d4f8733e3fc512f540d10cf618b636c6f7564666c6172652e636f6d",
     "country": "KZ",
+    "addTime": 1779530868
+  },
+  {
+    "host": "45.158.187.50",
+    "port": 10092,
+    "secret": "ee43fd0b58b14fb4f33e35dc93f3a929046164732e78352e7275",
+    "country": "SC",
     "addTime": 1779530868
   },
   {
@@ -54,6 +54,13 @@
     "secret": "ee710b4eed7303b41e5bae23ed65dfd81831632e7275",
     "country": "LV",
     "addTime": 1779520063
+  },
+  {
+    "host": "cloud.freedomconnect.xyz",
+    "port": 443,
+    "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
+    "country": "RU",
+    "addTime": 1779519911
   },
   {
     "host": "217.60.26.12",
@@ -82,20 +89,6 @@
     "secret": "ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465",
     "country": "RU",
     "addTime": 1779509261
-  },
-  {
-    "host": "loveis.l0vsi.co.uk",
-    "port": 8443,
-    "secret": "eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "FI",
-    "addTime": 1779509256
-  },
-  {
-    "host": "tg.crunchyx.xyz",
-    "port": 443,
-    "secret": "dda4f0f857a725005da00ebb0e4a949214",
-    "country": "BG",
-    "addTime": 1779498591
   },
   {
     "host": "51.120.71.120",
@@ -154,17 +147,17 @@
     "addTime": 1779498366
   },
   {
-    "host": "191.44.112.103",
-    "port": 443,
-    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
-    "country": "PL",
-    "addTime": 1779498362
-  },
-  {
     "host": "45.15.129.63",
     "port": 443,
     "secret": "7kBjzU5SbZqTzIJZZEf4Tvp3d3cubWljcm9zb2Z0LmNvbQ",
     "country": "CY",
+    "addTime": 1779498362
+  },
+  {
+    "host": "191.44.112.103",
+    "port": 443,
+    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
+    "country": "PL",
     "addTime": 1779498362
   },
   {
@@ -175,13 +168,6 @@
     "addTime": 1779488449
   },
   {
-    "host": "hop.proxytg.space",
-    "port": 8443,
-    "secret": "eeabb8cea3a48990152aacc55985a913116262632e636f6d",
-    "country": "NL",
-    "addTime": 1779488422
-  },
-  {
     "host": "sazman-light.fookacell.ir",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
@@ -189,14 +175,14 @@
     "addTime": 1779488185
   },
   {
-    "host": "server-mania.ultrasam.info",
+    "host": "for.fsaremi.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
     "addTime": 1779488185
   },
   {
-    "host": "for.fsaremi.info",
+    "host": "server-mania.ultrasam.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
@@ -224,13 +210,6 @@
     "addTime": 1779476748
   },
   {
-    "host": "de1.tgproxysokol.pro",
-    "port": 443,
-    "secret": "ee490c481715b0314d9ebd1ae77ed2d6726465312e746770726f7879736f6b6f6c2e70726f",
-    "country": "CZ",
-    "addTime": 1779476747
-  },
-  {
     "host": "de1.lutolubs.icu",
     "port": 443,
     "secret": "ee4bbaa432c17380c4e67782ce1bb877ef6465312e6c75746f6c7562732e696375",
@@ -238,11 +217,11 @@
     "addTime": 1779476747
   },
   {
-    "host": "c.omsk.russia34.ru",
+    "host": "de1.tgproxysokol.pro",
     "port": 443,
-    "secret": "ee94793e00af4ee358c1d67e5608f684836164732e78352e7275",
-    "country": "SC",
-    "addTime": 1779476744
+    "secret": "ee490c481715b0314d9ebd1ae77ed2d6726465312e746770726f7879736f6b6f6c2e70726f",
+    "country": "CZ",
+    "addTime": 1779476747
   },
   {
     "host": "sasiski.bibabobabobus.site",
@@ -256,6 +235,13 @@
     "port": 443,
     "secret": "eeecc03a8eabe3443a254a09bcd5681d75696e2e6d7974686963616c2e686f757365",
     "country": "US",
+    "addTime": 1779476744
+  },
+  {
+    "host": "c.omsk.russia34.ru",
+    "port": 443,
+    "secret": "ee94793e00af4ee358c1d67e5608f684836164732e78352e7275",
+    "country": "SC",
     "addTime": 1779476744
   },
   {
@@ -280,17 +266,17 @@
     "addTime": 1779476689
   },
   {
-    "host": "proxy.nya-aw.sbs",
-    "port": 9443,
-    "secret": "ee7fafda4a7dea5a80c8196c944aaeac287777772e636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1779465952
-  },
-  {
     "host": "mtproto.secret-node.online",
     "port": 443,
     "secret": "ee1117b4863bfde2cd5949c5613d1edc007765622e6d61782e7275",
     "country": "FI",
+    "addTime": 1779465952
+  },
+  {
+    "host": "proxy.nya-aw.sbs",
+    "port": 9443,
+    "secret": "ee7fafda4a7dea5a80c8196c944aaeac287777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
     "addTime": 1779465952
   },
   {
@@ -348,5 +334,19 @@
     "secret": "ee42d60bd89ab2c1e93a1affacdaf8f4b87275747562652e7275",
     "country": "RU",
     "addTime": 1779455084
+  },
+  {
+    "host": "185.181.60.198",
+    "port": 8080,
+    "secret": "ee59db39ee3020cf5120c8b581a7420b6733646e6577732e7275",
+    "country": "NO",
+    "addTime": 1779444342
+  },
+  {
+    "host": "144.31.223.193",
+    "port": 443,
+    "secret": "ee79612e7275c21b8225836804074479",
+    "country": "DE",
+    "addTime": 1779444291
   }
 ]
