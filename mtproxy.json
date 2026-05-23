@@ -1,5 +1,19 @@
 [
   {
+    "host": "104.253.43.94",
+    "port": 443,
+    "secret": "ee48158585a131fc19a62c263035654f8179616e6465782e7275",
+    "country": "US",
+    "addTime": 1779574141
+  },
+  {
+    "host": "tproxy.monster",
+    "port": 2053,
+    "secret": "ee104462821249bd7ac519130220c25d096d61696c2e7275",
+    "country": "US",
+    "addTime": 1779574075
+  },
+  {
     "host": "m.proxytg.space",
     "port": 8443,
     "secret": "ee80ef2a7832ccab1a02cdad0a958a027a6d2e70726f787974672e7370616365",
@@ -21,16 +35,16 @@
     "addTime": 1779573902
   },
   {
-    "host": "dream.nolags.pw",
-    "port": 443,
-    "secret": "dd9b8378a9bc2bfc1eb0bed0c2b3ba7584",
-    "country": "US",
-    "addTime": 1779573899
-  },
-  {
     "host": "176.125.240.195",
     "port": 443,
     "secret": "eeae49fc0cb49514612b72494665fffa167777772e79616e6465782e7275",
+    "country": "SE",
+    "addTime": 1779573899
+  },
+  {
+    "host": "dream.nolags.pw",
+    "port": 443,
+    "secret": "dd9b8378a9bc2bfc1eb0bed0c2b3ba7584",
     "country": "SE",
     "addTime": 1779573899
   },
@@ -40,6 +54,13 @@
     "secret": "ee79612e7275199dbe0e07cce82bcfea",
     "country": "FI",
     "addTime": 1779563395
+  },
+  {
+    "host": "a.moscow.russia34.ru",
+    "port": 443,
+    "secret": "ee2fd69d1cb04c69865bd5ae27e0a207eb79616e6465782e7275",
+    "country": "US",
+    "addTime": 1779563389
   },
   {
     "host": "f.krasnodar.russia34.ru",
@@ -53,13 +74,6 @@
     "port": 443,
     "secret": "eed5e3281a837a9532a9a900148178750f706574726f766963682e7275",
     "country": "RU",
-    "addTime": 1779563389
-  },
-  {
-    "host": "a.moscow.russia34.ru",
-    "port": 443,
-    "secret": "ee2fd69d1cb04c69865bd5ae27e0a207eb79616e6465782e7275",
-    "country": "US",
     "addTime": 1779563389
   },
   {
@@ -84,10 +98,10 @@
     "addTime": 1779563110
   },
   {
-    "host": "89.35.131.217",
+    "host": "195.133.20.10",
     "port": 443,
-    "secret": "ee21406fa1321a733a9fe7edd39ddbe4fe7777772e79616e6465782e7275",
-    "country": "NL",
+    "secret": "eec11798ab008831b474066c9e1ebf5c86617669746f2e7275",
+    "country": "CZ",
     "addTime": 1779563107
   },
   {
@@ -98,10 +112,10 @@
     "addTime": 1779563107
   },
   {
-    "host": "195.133.20.10",
+    "host": "89.35.131.217",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c86617669746f2e7275",
-    "country": "CZ",
+    "secret": "ee21406fa1321a733a9fe7edd39ddbe4fe7777772e79616e6465782e7275",
+    "country": "NL",
     "addTime": 1779563107
   },
   {
@@ -133,9 +147,9 @@
     "addTime": 1779552342
   },
   {
-    "host": "72.56.41.35",
+    "host": "speed.chunkycorp.shop",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c85617669746f2e7275",
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
     "country": "LV",
     "addTime": 1779552304
   },
@@ -147,9 +161,9 @@
     "addTime": 1779552304
   },
   {
-    "host": "speed.chunkycorp.shop",
+    "host": "72.56.41.35",
     "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "secret": "eec11798ab008831b474066c9e1ebf5c85617669746f2e7275",
     "country": "LV",
     "addTime": 1779552304
   },
@@ -168,16 +182,16 @@
     "addTime": 1779552301
   },
   {
-    "host": "156.226.169.78",
-    "port": 61115,
-    "secret": "ee3769ac98b590ab8593e91197fea2bd20617a7572652e6d6963726f736f66742e636f6d",
+    "host": "154.16.10.199",
+    "port": 56215,
+    "secret": "eedaa7e43252cc9b2b81e068fdc27b0a8a617a7572652e6d6963726f736f66742e636f6d",
     "country": "HK",
     "addTime": 1779552292
   },
   {
-    "host": "154.16.10.199",
-    "port": 56215,
-    "secret": "eedaa7e43252cc9b2b81e068fdc27b0a8a617a7572652e6d6963726f736f66742e636f6d",
+    "host": "156.226.169.78",
+    "port": 61115,
+    "secret": "ee3769ac98b590ab8593e91197fea2bd20617a7572652e6d6963726f736f66742e636f6d",
     "country": "HK",
     "addTime": 1779552292
   },
@@ -315,25 +329,11 @@
     "addTime": 1779498579
   },
   {
-    "host": "fast.tgsecurity.online",
-    "port": 443,
-    "secret": "ee7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f766b2e636f6d",
-    "country": "RU",
-    "addTime": 1779498579
-  },
-  {
     "host": "154.83.149.221",
     "port": 443,
     "secret": "ee337adbe08421008d20006794a8ddeb1f676f6f676c652e636f6d",
     "country": "SC",
     "addTime": 1779498576
-  },
-  {
-    "host": "tg1.network1.top",
-    "port": 443,
-    "secret": "8f0cdce958b6c08e3b636a5216b41e86",
-    "country": "RU",
-    "addTime": 1779498508
   },
   {
     "host": "usercontent.bronstein.ar",
