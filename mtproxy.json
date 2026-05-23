@@ -1,12 +1,5 @@
 [
   {
-    "host": "versd.proxytg.space",
-    "port": 8443,
-    "secret": "ee7b24986674d850ea72a8ea719c4574be6e686c2e636f6d",
-    "country": "RU",
-    "addTime": 1779530975
-  },
-  {
     "host": "proxy.subs-sosavpn.ru",
     "port": 8443,
     "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69",
@@ -14,17 +7,24 @@
     "addTime": 1779530975
   },
   {
-    "host": "my.endpro.tech",
-    "port": 443,
-    "secret": "c4f3ac5fa801c75780014d95cf2e446d",
-    "country": "US",
-    "addTime": 1779530966
+    "host": "versd.proxytg.space",
+    "port": 8443,
+    "secret": "ee7b24986674d850ea72a8ea719c4574be6e686c2e636f6d",
+    "country": "RU",
+    "addTime": 1779530975
   },
   {
     "host": "endpro.tech",
     "port": 6373,
     "secret": "150257803d8157c7c291dd9c596d4781",
     "country": "DE",
+    "addTime": 1779530966
+  },
+  {
+    "host": "my.endpro.tech",
+    "port": 443,
+    "secret": "c4f3ac5fa801c75780014d95cf2e446d",
+    "country": "US",
     "addTime": 1779530966
   },
   {
@@ -39,13 +39,6 @@
     "port": 10092,
     "secret": "ee43fd0b58b14fb4f33e35dc93f3a929046164732e78352e7275",
     "country": "SC",
-    "addTime": 1779530868
-  },
-  {
-    "host": "193.42.122.117",
-    "port": 443,
-    "secret": "ee9e8f1d4f8733e3fc512f540d10cf618b636c6f7564666c6172652e636f6d",
-    "country": "KZ",
     "addTime": 1779530868
   },
   {
@@ -75,13 +68,6 @@
     "secret": "ee4e8084b6d0f3a39986ceb5fab26859ee7777772e6d6963726f736f66742e636f6d",
     "country": "US",
     "addTime": 1779519903
-  },
-  {
-    "host": "premium1.fsproxy.site",
-    "port": 443,
-    "secret": "eed29605852bf2e034c63c6f866062600f696e2e6d7974686963616c2e686f757365",
-    "country": "FI",
-    "addTime": 1779509328
   },
   {
     "host": "tg.soika.site",
@@ -164,7 +150,7 @@
     "host": "hop.proxytg.space",
     "port": 8443,
     "secret": "eeabb8cea3a48990152aacc55985a913116262632e636f6d",
-    "country": "US",
+    "country": "NL",
     "addTime": 1779488422
   },
   {
@@ -175,14 +161,14 @@
     "addTime": 1779488185
   },
   {
-    "host": "server-mania.ultrasam.info",
+    "host": "sazman-light.fookacell.ir",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
     "addTime": 1779488185
   },
   {
-    "host": "sazman-light.fookacell.ir",
+    "host": "server-mania.ultrasam.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
@@ -348,5 +334,19 @@
     "secret": "ee1caa37ae90774ecf9247bd53f8cd2c4a636861742e6574657266756e642e7275",
     "country": "RU",
     "addTime": 1779433486
+  },
+  {
+    "host": "tg.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "country": "LV",
+    "addTime": 1779433483
+  },
+  {
+    "host": "pepel.help",
+    "port": 443,
+    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
+    "country": "SG",
+    "addTime": 1779433483
   }
 ]
