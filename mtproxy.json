@@ -10,21 +10,21 @@
     "host": "versd.proxytg.space",
     "port": 8443,
     "secret": "ee7b24986674d850ea72a8ea719c4574be6e686c2e636f6d",
-    "country": "RU",
+    "country": "FI",
     "addTime": 1779530975
-  },
-  {
-    "host": "my.endpro.tech",
-    "port": 443,
-    "secret": "c4f3ac5fa801c75780014d95cf2e446d",
-    "country": "US",
-    "addTime": 1779530966
   },
   {
     "host": "endpro.tech",
     "port": 6373,
     "secret": "150257803d8157c7c291dd9c596d4781",
     "country": "DE",
+    "addTime": 1779530966
+  },
+  {
+    "host": "my.endpro.tech",
+    "port": 443,
+    "secret": "c4f3ac5fa801c75780014d95cf2e446d",
+    "country": "US",
     "addTime": 1779530966
   },
   {
@@ -35,17 +35,17 @@
     "addTime": 1779530870
   },
   {
-    "host": "45.158.187.50",
-    "port": 10092,
-    "secret": "ee43fd0b58b14fb4f33e35dc93f3a929046164732e78352e7275",
-    "country": "SC",
-    "addTime": 1779530868
-  },
-  {
     "host": "193.42.122.117",
     "port": 443,
     "secret": "ee9e8f1d4f8733e3fc512f540d10cf618b636c6f7564666c6172652e636f6d",
     "country": "KZ",
+    "addTime": 1779530868
+  },
+  {
+    "host": "45.158.187.50",
+    "port": 10092,
+    "secret": "ee43fd0b58b14fb4f33e35dc93f3a929046164732e78352e7275",
+    "country": "SC",
     "addTime": 1779530868
   },
   {
@@ -54,6 +54,13 @@
     "secret": "ee710b4eed7303b41e5bae23ed65dfd81831632e7275",
     "country": "LV",
     "addTime": 1779520063
+  },
+  {
+    "host": "cloud.freedomconnect.xyz",
+    "port": 443,
+    "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
+    "country": "RU",
+    "addTime": 1779519911
   },
   {
     "host": "217.60.26.12",
@@ -84,11 +91,11 @@
     "addTime": 1779509261
   },
   {
-    "host": "loveis.l0vsi.co.uk",
-    "port": 8443,
-    "secret": "eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "FI",
-    "addTime": 1779509256
+    "host": "tg.crunchyx.xyz",
+    "port": 443,
+    "secret": "dda4f0f857a725005da00ebb0e4a949214",
+    "country": "BG",
+    "addTime": 1779498591
   },
   {
     "host": "51.120.71.120",
@@ -171,18 +178,18 @@
     "host": "hop.proxytg.space",
     "port": 8443,
     "secret": "eeabb8cea3a48990152aacc55985a913116262632e636f6d",
-    "country": "US",
+    "country": "DE",
     "addTime": 1779488422
   },
   {
-    "host": "for.fsaremi.info",
+    "host": "sazman-light.fookacell.ir",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
     "addTime": 1779488185
   },
   {
-    "host": "sazman-light.fookacell.ir",
+    "host": "for.fsaremi.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
@@ -196,17 +203,17 @@
     "addTime": 1779488185
   },
   {
-    "host": "91.84.127.166",
-    "port": 443,
-    "secret": "eee1c9c22f43146f765430cbd63d40cdc37777772e79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1779488174
-  },
-  {
     "host": "80.96.112.222",
     "port": 443,
     "secret": "ee2e7fcf4666472ebd58e4fea75357105f7777772e79616e6465782e7275",
     "country": "RO",
+    "addTime": 1779488174
+  },
+  {
+    "host": "91.84.127.166",
+    "port": 443,
+    "secret": "eee1c9c22f43146f765430cbd63d40cdc37777772e79616e6465782e7275",
+    "country": "NL",
     "addTime": 1779488174
   },
   {
@@ -217,13 +224,6 @@
     "addTime": 1779476748
   },
   {
-    "host": "de1.lutolubs.icu",
-    "port": 443,
-    "secret": "ee4bbaa432c17380c4e67782ce1bb877ef6465312e6c75746f6c7562732e696375",
-    "country": "IQ",
-    "addTime": 1779476747
-  },
-  {
     "host": "de1.tgproxysokol.pro",
     "port": 443,
     "secret": "ee490c481715b0314d9ebd1ae77ed2d6726465312e746770726f7879736f6b6f6c2e70726f",
@@ -231,17 +231,24 @@
     "addTime": 1779476747
   },
   {
-    "host": "in.mythical.house",
+    "host": "de1.lutolubs.icu",
     "port": 443,
-    "secret": "eeecc03a8eabe3443a254a09bcd5681d75696e2e6d7974686963616c2e686f757365",
-    "country": "US",
-    "addTime": 1779476744
+    "secret": "ee4bbaa432c17380c4e67782ce1bb877ef6465312e6c75746f6c7562732e696375",
+    "country": "IQ",
+    "addTime": 1779476747
   },
   {
     "host": "c.omsk.russia34.ru",
     "port": 443,
     "secret": "ee94793e00af4ee358c1d67e5608f684836164732e78352e7275",
     "country": "SC",
+    "addTime": 1779476744
+  },
+  {
+    "host": "in.mythical.house",
+    "port": 443,
+    "secret": "eeecc03a8eabe3443a254a09bcd5681d75696e2e6d7974686963616c2e686f757365",
+    "country": "US",
     "addTime": 1779476744
   },
   {
@@ -259,17 +266,17 @@
     "addTime": 1779476736
   },
   {
-    "host": "kazan.tgproxyy.online",
-    "port": 8443,
-    "secret": "ee7cf102601542b0577f6f95801431337a6b617a616e2e746770726f7879792e6f6e6c696e65",
-    "country": "DE",
-    "addTime": 1779476689
-  },
-  {
     "host": "rkn.zaebali.space",
     "port": 443,
     "secret": "eeaede459b9d3bfde4d0bb4396cffcbe7e622e6e732e6170706c652e636f6d",
     "country": "PL",
+    "addTime": 1779476689
+  },
+  {
+    "host": "kazan.tgproxyy.online",
+    "port": 8443,
+    "secret": "ee7cf102601542b0577f6f95801431337a6b617a616e2e746770726f7879792e6f6e6c696e65",
+    "country": "DE",
     "addTime": 1779476689
   },
   {
@@ -341,12 +348,5 @@
     "secret": "ee59db39ee3020cf5120c8b581a7420b6733646e6577732e7275",
     "country": "NO",
     "addTime": 1779444342
-  },
-  {
-    "host": "144.31.223.193",
-    "port": 443,
-    "secret": "ee79612e7275c21b8225836804074479",
-    "country": "DE",
-    "addTime": 1779444291
   }
 ]
