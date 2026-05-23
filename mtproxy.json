@@ -7,13 +7,6 @@
     "addTime": 1779563395
   },
   {
-    "host": "proxy2.nexorabust.ru",
-    "port": 443,
-    "secret": "eed5e3281a837a9532a9a900148178750f706574726f766963682e7275",
-    "country": "RU",
-    "addTime": 1779563389
-  },
-  {
     "host": "f.krasnodar.russia34.ru",
     "port": 443,
     "secret": "7jx6Z62Z4TuTPmqca9OIurV5YW5kZXgucnU",
@@ -25,6 +18,13 @@
     "port": 443,
     "secret": "ee2fd69d1cb04c69865bd5ae27e0a207eb79616e6465782e7275",
     "country": "US",
+    "addTime": 1779563389
+  },
+  {
+    "host": "proxy2.nexorabust.ru",
+    "port": 443,
+    "secret": "eed5e3281a837a9532a9a900148178750f706574726f766963682e7275",
+    "country": "RU",
     "addTime": 1779563389
   },
   {
@@ -98,13 +98,6 @@
     "addTime": 1779552342
   },
   {
-    "host": "speed.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "country": "LV",
-    "addTime": 1779552304
-  },
-  {
     "host": "72.56.41.35",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c85617669746f2e7275",
@@ -113,6 +106,13 @@
   },
   {
     "host": "72.56.40.184",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "country": "LV",
+    "addTime": 1779552304
+  },
+  {
+    "host": "speed.chunkycorp.shop",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
     "country": "LV",
@@ -224,6 +224,13 @@
     "addTime": 1779520063
   },
   {
+    "host": "cloud.freedomconnect.xyz",
+    "port": 443,
+    "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
+    "country": "RU",
+    "addTime": 1779519911
+  },
+  {
     "host": "217.60.26.12",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c279616e6465782e7275",
@@ -287,6 +294,13 @@
     "addTime": 1779498576
   },
   {
+    "host": "tg1.network1.top",
+    "port": 443,
+    "secret": "8f0cdce958b6c08e3b636a5216b41e86",
+    "country": "RU",
+    "addTime": 1779498508
+  },
+  {
     "host": "usercontent.bronstein.ar",
     "port": 8443,
     "secret": "eed1665043b7c388a742aef2f0417d3b1b736f72676f2e6d79726b612e6469676974616c",
@@ -301,17 +315,17 @@
     "addTime": 1779498368
   },
   {
-    "host": "191.44.112.103",
-    "port": 443,
-    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
-    "country": "PL",
-    "addTime": 1779498362
-  },
-  {
     "host": "45.15.129.63",
     "port": 443,
     "secret": "7kBjzU5SbZqTzIJZZEf4Tvp3d3cubWljcm9zb2Z0LmNvbQ",
     "country": "CY",
+    "addTime": 1779498362
+  },
+  {
+    "host": "191.44.112.103",
+    "port": 443,
+    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
+    "country": "PL",
     "addTime": 1779498362
   },
   {
@@ -320,13 +334,6 @@
     "secret": "eec7d8a2f5e4feb8640f9db8ceada9f4eb6b7269612e7566687266656f70656b2e636f75706f6e73",
     "country": "DE",
     "addTime": 1779488449
-  },
-  {
-    "host": "server-mania.ultrasam.info",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "DE",
-    "addTime": 1779488185
   },
   {
     "host": "sazman-light.fookacell.ir",
@@ -341,12 +348,5 @@
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
     "addTime": 1779488185
-  },
-  {
-    "host": "80.96.112.222",
-    "port": 443,
-    "secret": "ee2e7fcf4666472ebd58e4fea75357105f7777772e79616e6465782e7275",
-    "country": "RO",
-    "addTime": 1779488174
   }
 ]
