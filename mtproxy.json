@@ -42,6 +42,13 @@
     "addTime": 1779509261
   },
   {
+    "host": "tg.crunchyx.xyz",
+    "port": 443,
+    "secret": "dda4f0f857a725005da00ebb0e4a949214",
+    "country": "BG",
+    "addTime": 1779498591
+  },
+  {
     "host": "51.120.71.120",
     "port": 443,
     "secret": "c760667d53b6856ca44431fc93b8fe23",
@@ -122,7 +129,7 @@
     "host": "hop.proxytg.space",
     "port": 8443,
     "secret": "eeabb8cea3a48990152aacc55985a913116262632e636f6d",
-    "country": "NL",
+    "country": "US",
     "addTime": 1779488422
   },
   {
@@ -325,28 +332,21 @@
     "host": "pepel.help",
     "port": 443,
     "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
-    "country": "SG",
+    "country": "PL",
     "addTime": 1779433483
-  },
-  {
-    "host": "tg.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "country": "LV",
-    "addTime": 1779433483
-  },
-  {
-    "host": "160.16.130.120",
-    "port": 443,
-    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
-    "country": "JP",
-    "addTime": 1779422728
   },
   {
     "host": "194.156.103.87",
     "port": 443,
     "secret": "ee000000000000000000000000000000006c6973742e616d",
     "country": "AM",
+    "addTime": 1779422728
+  },
+  {
+    "host": "160.16.130.120",
+    "port": 443,
+    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
+    "country": "JP",
     "addTime": 1779422728
   }
 ]
