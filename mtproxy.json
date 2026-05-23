@@ -101,7 +101,7 @@
     "host": "hop.proxytg.space",
     "port": 8443,
     "secret": "eeabb8cea3a48990152aacc55985a913116262632e636f6d",
-    "country": "NL",
+    "country": "US",
     "addTime": 1779488422
   },
   {
@@ -112,14 +112,14 @@
     "addTime": 1779488185
   },
   {
-    "host": "for.fsaremi.info",
+    "host": "sazman-light.fookacell.ir",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
     "addTime": 1779488185
   },
   {
-    "host": "sazman-light.fookacell.ir",
+    "host": "for.fsaremi.info",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "DE",
@@ -154,13 +154,6 @@
     "addTime": 1779476747
   },
   {
-    "host": "in.mythical.house",
-    "port": 443,
-    "secret": "eeecc03a8eabe3443a254a09bcd5681d75696e2e6d7974686963616c2e686f757365",
-    "country": "US",
-    "addTime": 1779476744
-  },
-  {
     "host": "c.omsk.russia34.ru",
     "port": 443,
     "secret": "ee94793e00af4ee358c1d67e5608f684836164732e78352e7275",
@@ -172,6 +165,13 @@
     "port": 443,
     "secret": "eeef3805b0d823d6c7add43843065e5b5c636c6f7564666c6172652e636f6d",
     "country": "DE",
+    "addTime": 1779476744
+  },
+  {
+    "host": "in.mythical.house",
+    "port": 443,
+    "secret": "eeecc03a8eabe3443a254a09bcd5681d75696e2e6d7974686963616c2e686f757365",
+    "country": "US",
     "addTime": 1779476744
   },
   {
@@ -245,13 +245,6 @@
     "addTime": 1779455154
   },
   {
-    "host": "90.156.255.202",
-    "port": 443,
-    "secret": "ee458b49137646f1cc4e84572feb5e049f31632e7275",
-    "country": "LV",
-    "addTime": 1779455121
-  },
-  {
     "host": "194.50.94.65",
     "port": 443,
     "secret": "ee0c534d144bf266c6b7a09c532a2e529f79616e6465782e7275",
@@ -271,20 +264,6 @@
     "secret": "ee42d60bd89ab2c1e93a1affacdaf8f4b87275747562652e7275",
     "country": "RU",
     "addTime": 1779455084
-  },
-  {
-    "host": "185.81.28.154",
-    "port": 65514,
-    "secret": "ee1c8a33ad28647314f2ef368aaf52ad17617a7572652e6d6963726f736f66742e636f6d",
-    "country": "SG",
-    "addTime": 1779455081
-  },
-  {
-    "host": "156.224.76.162",
-    "port": 61455,
-    "secret": "ee6632517a311fa02759c7a3cd0116f725617a7572652e6d6963726f736f66742e636f6d",
-    "country": "HK",
-    "addTime": 1779455081
   },
   {
     "host": "185.181.60.198",
@@ -329,10 +308,10 @@
     "addTime": 1779433483
   },
   {
-    "host": "160.16.130.120",
+    "host": "70.39.198.153",
     "port": 443,
-    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
-    "country": "JP",
+    "secret": "ee1c470903e643f78e084f64e5717cd5fd6177732e616d617a6f6e2e636f6d",
+    "country": "US",
     "addTime": 1779422728
   },
   {
@@ -348,5 +327,26 @@
     "secret": "ee295470ab19f947efb0bea7886855ffde6d6963726f736f66742e636f6d",
     "country": "HK",
     "addTime": 1779422728
+  },
+  {
+    "host": "160.16.130.120",
+    "port": 443,
+    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
+    "country": "JP",
+    "addTime": 1779422728
+  },
+  {
+    "host": "194.156.103.87",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000006c6973742e616d",
+    "country": "AM",
+    "addTime": 1779422728
+  },
+  {
+    "host": "help.gbird.top",
+    "port": 443,
+    "secret": "eef4572f1bb51c1f1f3b390ea8aedc90d768656c702e67626972642e746f70",
+    "country": "RU",
+    "addTime": 1779422688
   }
 ]
