@@ -42,13 +42,6 @@
     "addTime": 1779498508
   },
   {
-    "host": "usercontent.bronstein.ar",
-    "port": 8443,
-    "secret": "eed1665043b7c388a742aef2f0417d3b1b736f72676f2e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1779498369
-  },
-  {
     "host": "mt.kanye-west.top",
     "port": 853,
     "secret": "ee05fe4775d1a6eb49d2d3ff01b63997e26d742e6b616e79652d776573742e746f70",
@@ -70,10 +63,10 @@
     "addTime": 1779498366
   },
   {
-    "host": "191.44.112.103",
+    "host": "45.147.196.148",
     "port": 443,
-    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
-    "country": "PL",
+    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
+    "country": "NL",
     "addTime": 1779498362
   },
   {
@@ -84,10 +77,10 @@
     "addTime": 1779498362
   },
   {
-    "host": "45.147.196.148",
+    "host": "191.44.112.103",
     "port": 443,
-    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
-    "country": "NL",
+    "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
+    "country": "PL",
     "addTime": 1779498362
   },
   {
@@ -105,13 +98,6 @@
     "addTime": 1779488422
   },
   {
-    "host": "server-mania.ultrasam.info",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "DE",
-    "addTime": 1779488185
-  },
-  {
     "host": "sazman-light.fookacell.ir",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
@@ -126,17 +112,24 @@
     "addTime": 1779488185
   },
   {
-    "host": "91.84.127.166",
+    "host": "server-mania.ultrasam.info",
     "port": 443,
-    "secret": "eee1c9c22f43146f765430cbd63d40cdc37777772e79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1779488174
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "country": "DE",
+    "addTime": 1779488185
   },
   {
     "host": "80.96.112.222",
     "port": 443,
     "secret": "ee2e7fcf4666472ebd58e4fea75357105f7777772e79616e6465782e7275",
     "country": "RO",
+    "addTime": 1779488174
+  },
+  {
+    "host": "91.84.127.166",
+    "port": 443,
+    "secret": "eee1c9c22f43146f765430cbd63d40cdc37777772e79616e6465782e7275",
+    "country": "NL",
     "addTime": 1779488174
   },
   {
@@ -203,17 +196,17 @@
     "addTime": 1779476689
   },
   {
-    "host": "mtproto.secret-node.online",
-    "port": 443,
-    "secret": "ee1117b4863bfde2cd5949c5613d1edc007765622e6d61782e7275",
-    "country": "FI",
-    "addTime": 1779465952
-  },
-  {
     "host": "proxy.nya-aw.sbs",
     "port": 9443,
     "secret": "ee7fafda4a7dea5a80c8196c944aaeac287777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
+    "addTime": 1779465952
+  },
+  {
+    "host": "mtproto.secret-node.online",
+    "port": 443,
+    "secret": "ee1117b4863bfde2cd5949c5613d1edc007765622e6d61782e7275",
+    "country": "FI",
     "addTime": 1779465952
   },
   {
@@ -280,6 +273,13 @@
     "addTime": 1779455084
   },
   {
+    "host": "185.81.28.154",
+    "port": 65514,
+    "secret": "ee1c8a33ad28647314f2ef368aaf52ad17617a7572652e6d6963726f736f66742e636f6d",
+    "country": "SG",
+    "addTime": 1779455081
+  },
+  {
     "host": "156.224.76.162",
     "port": 61455,
     "secret": "ee6632517a311fa02759c7a3cd0116f725617a7572652e6d6963726f736f66742e636f6d",
@@ -318,21 +318,21 @@
     "host": "pepel.help",
     "port": 443,
     "secret": "eea890920f5ac6ba5834725e150d06c4aa64726976652e676f6f676c652e636f6d",
-    "country": "PL",
+    "country": "SG",
     "addTime": 1779433483
-  },
-  {
-    "host": "160.16.130.120",
-    "port": 443,
-    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
-    "country": "JP",
-    "addTime": 1779422728
   },
   {
     "host": "47.251.120.51",
     "port": 443,
     "secret": "46e9ed1bd8e5cbe43b63714a9bf3431d",
     "country": "US",
+    "addTime": 1779422728
+  },
+  {
+    "host": "160.16.130.120",
+    "port": 443,
+    "secret": "eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d",
+    "country": "JP",
     "addTime": 1779422728
   },
   {
