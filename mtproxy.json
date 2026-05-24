@@ -98,13 +98,6 @@
     "addTime": 1779563110
   },
   {
-    "host": "195.133.20.10",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c86617669746f2e7275",
-    "country": "CZ",
-    "addTime": 1779563107
-  },
-  {
     "host": "2.26.99.245",
     "port": 8443,
     "secret": "ee17263409876123456712342349876554322e32362e39392e323435",
@@ -116,6 +109,13 @@
     "port": 443,
     "secret": "ee21406fa1321a733a9fe7edd39ddbe4fe7777772e79616e6465782e7275",
     "country": "NL",
+    "addTime": 1779563107
+  },
+  {
+    "host": "195.133.20.10",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c86617669746f2e7275",
+    "country": "CZ",
     "addTime": 1779563107
   },
   {
@@ -154,16 +154,16 @@
     "addTime": 1779552304
   },
   {
-    "host": "72.56.41.35",
+    "host": "speed.chunkycorp.shop",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c85617669746f2e7275",
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
     "country": "LV",
     "addTime": 1779552304
   },
   {
-    "host": "speed.chunkycorp.shop",
+    "host": "72.56.41.35",
     "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "secret": "eec11798ab008831b474066c9e1ebf5c85617669746f2e7275",
     "country": "LV",
     "addTime": 1779552304
   },
@@ -178,7 +178,7 @@
     "host": "wave.proxyu.site",
     "port": 8443,
     "secret": "ee38a4d5d648d6af5196c71c2018eb6fa6776176652e70726f7879752e73697465",
-    "country": "US",
+    "country": "RU",
     "addTime": 1779552301
   },
   {
@@ -301,13 +301,6 @@
     "addTime": 1779509261
   },
   {
-    "host": "loveis.l0vsi.co.uk",
-    "port": 8443,
-    "secret": "eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "FI",
-    "addTime": 1779509256
-  },
-  {
     "host": "tg.crunchyx.xyz",
     "port": 443,
     "secret": "dda4f0f857a725005da00ebb0e4a949214",
@@ -348,5 +341,12 @@
     "secret": "8f0cdce958b6c08e3b636a5216b41e86",
     "country": "RU",
     "addTime": 1779498508
+  },
+  {
+    "host": "usercontent.bronstein.ar",
+    "port": 8443,
+    "secret": "eed1665043b7c388a742aef2f0417d3b1b736f72676f2e6d79726b612e6469676974616c",
+    "country": "US",
+    "addTime": 1779498369
   }
 ]
