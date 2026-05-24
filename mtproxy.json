@@ -84,23 +84,16 @@
     "addTime": 1779638664
   },
   {
+    "host": "i.omsk.russia34.ru",
+    "port": 443,
+    "secret": "ee3dd097e0294fe99d649c5281b3156907617669746f2e7275",
+    "country": "SC",
+    "addTime": 1779638658
+  },
+  {
     "host": "b.krasnodar.russia34.ru",
     "port": 443,
     "secret": "ee690b0be7dccc68cf82f23d3914298e0879616e6465782e7275",
-    "country": "US",
-    "addTime": 1779638658
-  },
-  {
-    "host": "g.perm.russia34.ru",
-    "port": 443,
-    "secret": "ee0bde7867eff38bc7f6c9c1dadb137b50617669746f2e7275",
-    "country": "US",
-    "addTime": 1779638658
-  },
-  {
-    "host": "i.ekb.russia34.ru",
-    "port": 443,
-    "secret": "eea7e52a74b28f5cc7bf7a69b74dbd802d79612e7275",
     "country": "US",
     "addTime": 1779638658
   },
@@ -112,10 +105,10 @@
     "addTime": 1779638658
   },
   {
-    "host": "i.omsk.russia34.ru",
+    "host": "i.ekb.russia34.ru",
     "port": 443,
-    "secret": "ee3dd097e0294fe99d649c5281b3156907617669746f2e7275",
-    "country": "SC",
+    "secret": "eea7e52a74b28f5cc7bf7a69b74dbd802d79612e7275",
+    "country": "US",
     "addTime": 1779638658
   },
   {
@@ -140,17 +133,17 @@
     "addTime": 1779628040
   },
   {
-    "host": "89.169.55.7",
-    "port": 443,
-    "secret": "ee7a580424ff21d4652d2fa97d13faa88531632e7275",
-    "country": "DE",
-    "addTime": 1779628037
-  },
-  {
     "host": "elevenproxy.pro",
     "port": 443,
     "secret": "ee5b82667945788e1345638076503217b5656c6576656e70726f78792e70726f",
     "country": "CZ",
+    "addTime": 1779628037
+  },
+  {
+    "host": "89.169.55.7",
+    "port": 443,
+    "secret": "ee7a580424ff21d4652d2fa97d13faa88531632e7275",
+    "country": "DE",
     "addTime": 1779628037
   },
   {
@@ -178,7 +171,7 @@
     "host": "dreams.nolags.pw",
     "port": 443,
     "secret": "dd2d558135931b5e0c5da5e7501724b32c",
-    "country": "US",
+    "country": "SE",
     "addTime": 1779627899
   },
   {
@@ -189,13 +182,6 @@
     "addTime": 1779617342
   },
   {
-    "host": "91.98.20.74",
-    "port": 443,
-    "secret": "ee87707fccc70b8f13f17c2c695e97a2fe6172746c6562656465762e7275",
-    "country": "DE",
-    "addTime": 1779617342
-  },
-  {
     "host": "a.ufa.russia34.ru",
     "port": 443,
     "secret": "eeedf13f556774c1c23d295fdbed40687e617669746f2e7275",
@@ -203,17 +189,24 @@
     "addTime": 1779617342
   },
   {
-    "host": "87.121.82.26",
+    "host": "91.98.20.74",
     "port": 443,
-    "secret": "eed29605852bf2e034c63c6f866062600f696e2e6d7974686963616c2e686f757365",
-    "country": "FI",
-    "addTime": 1779617338
+    "secret": "ee87707fccc70b8f13f17c2c695e97a2fe6172746c6562656465762e7275",
+    "country": "DE",
+    "addTime": 1779617342
   },
   {
     "host": "94.241.169.103",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "RU",
+    "addTime": 1779617338
+  },
+  {
+    "host": "87.121.82.26",
+    "port": 443,
+    "secret": "eed29605852bf2e034c63c6f866062600f696e2e6d7974686963616c2e686f757365",
+    "country": "FI",
     "addTime": 1779617338
   },
   {
@@ -334,6 +327,13 @@
     "secret": "d41ff20d9310ecc19a55c54dc3cf50a8",
     "country": "AE",
     "addTime": 1779606345
+  },
+  {
+    "host": "185.141.227.243",
+    "port": 853,
+    "secret": "7lNK3PI6FvQly64SnEy1dMthZHMueDUucnU",
+    "country": "RU",
+    "addTime": 1779595684
   },
   {
     "host": "178.253.40.30",
