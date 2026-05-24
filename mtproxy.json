@@ -1,9 +1,9 @@
 [
   {
-    "host": "a.ufa.russia34.ru",
+    "host": "31.76.251.112",
     "port": 443,
-    "secret": "eeedf13f556774c1c23d295fdbed40687e617669746f2e7275",
-    "country": "US",
+    "secret": "ee9b493daf382008ddc41dc6de382cef9d6172746c6562656465762e7275",
+    "country": "PL",
     "addTime": 1779617342
   },
   {
@@ -14,10 +14,10 @@
     "addTime": 1779617342
   },
   {
-    "host": "31.76.251.112",
+    "host": "a.ufa.russia34.ru",
     "port": 443,
-    "secret": "ee9b493daf382008ddc41dc6de382cef9d6172746c6562656465762e7275",
-    "country": "PL",
+    "secret": "eeedf13f556774c1c23d295fdbed40687e617669746f2e7275",
+    "country": "US",
     "addTime": 1779617342
   },
   {
@@ -49,14 +49,14 @@
     "addTime": 1779617294
   },
   {
-    "host": "www.tproxy.ink",
+    "host": "tproxy.ink",
     "port": 443,
     "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
     "country": "US",
     "addTime": 1779617107
   },
   {
-    "host": "tproxy.ink",
+    "host": "www.tproxy.ink",
     "port": 443,
     "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
     "country": "US",
@@ -84,13 +84,6 @@
     "addTime": 1779606592
   },
   {
-    "host": "141.0.184.244",
-    "port": 8444,
-    "secret": "ee597752e70b4e240295fcaf7ac006cf78636c6f7564666c6172652e636f6d",
-    "country": "FR",
-    "addTime": 1779606587
-  },
-  {
     "host": "31.76.77.77",
     "port": 8443,
     "secret": "eed1665043b7c388a742aef2f0417d3b1b736f72676f2e6d79726b612e6469676974616c",
@@ -116,6 +109,13 @@
     "port": 443,
     "secret": "ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465",
     "country": "RU",
+    "addTime": 1779606587
+  },
+  {
+    "host": "141.0.184.244",
+    "port": 8444,
+    "secret": "ee597752e70b4e240295fcaf7ac006cf78636c6f7564666c6172652e636f6d",
+    "country": "FR",
     "addTime": 1779606587
   },
   {
@@ -154,11 +154,11 @@
     "addTime": 1779606345
   },
   {
-    "host": "186.190.215.78",
+    "host": "188.225.38.70",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d",
-    "country": "CH",
-    "addTime": 1779595690
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "RU",
+    "addTime": 1779595684
   },
   {
     "host": "31.76.119.5",
@@ -175,13 +175,6 @@
     "addTime": 1779595684
   },
   {
-    "host": "178.17.52.244",
-    "port": 443,
-    "secret": "ee4bbaa432c17380c4e67782ce1bb877ef6465312e6c75746f6c7562732e696375",
-    "country": "IQ",
-    "addTime": 1779595684
-  },
-  {
     "host": "46.243.235.29",
     "port": 853,
     "secret": "7lNK3PI6FvQly64SnEy1dMthZHMueDUucnU",
@@ -189,10 +182,10 @@
     "addTime": 1779595684
   },
   {
-    "host": "94.156.112.112",
+    "host": "178.17.52.244",
     "port": 443,
-    "secret": "eeef3805b0d823d6c7add43843065e5b5c636c6f7564666c6172652e636f6d",
-    "country": "DE",
+    "secret": "ee4bbaa432c17380c4e67782ce1bb877ef6465312e6c75746f6c7562732e696375",
+    "country": "IQ",
     "addTime": 1779595684
   },
   {
@@ -217,10 +210,10 @@
     "addTime": 1779595684
   },
   {
-    "host": "188.225.38.70",
+    "host": "94.156.112.112",
     "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "RU",
+    "secret": "eeef3805b0d823d6c7add43843065e5b5c636c6f7564666c6172652e636f6d",
+    "country": "DE",
     "addTime": 1779595684
   },
   {
@@ -273,17 +266,17 @@
     "addTime": 1779563395
   },
   {
-    "host": "a.moscow.russia34.ru",
-    "port": 443,
-    "secret": "ee2fd69d1cb04c69865bd5ae27e0a207eb79616e6465782e7275",
-    "country": "US",
-    "addTime": 1779563389
-  },
-  {
     "host": "proxy2.nexorabust.ru",
     "port": 443,
     "secret": "eed5e3281a837a9532a9a900148178750f706574726f766963682e7275",
     "country": "RU",
+    "addTime": 1779563389
+  },
+  {
+    "host": "a.moscow.russia34.ru",
+    "port": 443,
+    "secret": "ee2fd69d1cb04c69865bd5ae27e0a207eb79616e6465782e7275",
+    "country": "US",
     "addTime": 1779563389
   },
   {
@@ -315,10 +308,10 @@
     "addTime": 1779563110
   },
   {
-    "host": "89.35.131.217",
-    "port": 443,
-    "secret": "ee21406fa1321a733a9fe7edd39ddbe4fe7777772e79616e6465782e7275",
-    "country": "NL",
+    "host": "2.26.99.245",
+    "port": 8443,
+    "secret": "ee17263409876123456712342349876554322e32362e39392e323435",
+    "country": "US",
     "addTime": 1779563107
   },
   {
@@ -329,10 +322,10 @@
     "addTime": 1779563107
   },
   {
-    "host": "2.26.99.245",
-    "port": 8443,
-    "secret": "ee17263409876123456712342349876554322e32362e39392e323435",
-    "country": "US",
+    "host": "89.35.131.217",
+    "port": 443,
+    "secret": "ee21406fa1321a733a9fe7edd39ddbe4fe7777772e79616e6465782e7275",
+    "country": "NL",
     "addTime": 1779563107
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee18334bdde7b4c5006c3930465654dc2473332e616d617a6f6e6177732e636f6d",
     "country": "GB",
     "addTime": 1779552382
+  },
+  {
+    "host": "fix.baboon.digital",
+    "port": 8444,
+    "secret": "ee597752e70b4e240295fcaf7ac006cf78636c6f7564666c6172652e636f6d",
+    "country": "FR",
+    "addTime": 1779552343
   }
 ]
