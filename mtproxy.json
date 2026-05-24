@@ -56,13 +56,6 @@
     "addTime": 1779563395
   },
   {
-    "host": "proxy2.nexorabust.ru",
-    "port": 443,
-    "secret": "eed5e3281a837a9532a9a900148178750f706574726f766963682e7275",
-    "country": "RU",
-    "addTime": 1779563389
-  },
-  {
     "host": "a.moscow.russia34.ru",
     "port": 443,
     "secret": "ee2fd69d1cb04c69865bd5ae27e0a207eb79616e6465782e7275",
@@ -74,6 +67,13 @@
     "port": 443,
     "secret": "7jx6Z62Z4TuTPmqca9OIurV5YW5kZXgucnU",
     "country": "US",
+    "addTime": 1779563389
+  },
+  {
+    "host": "proxy2.nexorabust.ru",
+    "port": 443,
+    "secret": "eed5e3281a837a9532a9a900148178750f706574726f766963682e7275",
+    "country": "RU",
     "addTime": 1779563389
   },
   {
@@ -98,17 +98,17 @@
     "addTime": 1779563110
   },
   {
-    "host": "89.35.131.217",
-    "port": 443,
-    "secret": "ee21406fa1321a733a9fe7edd39ddbe4fe7777772e79616e6465782e7275",
-    "country": "NL",
-    "addTime": 1779563107
-  },
-  {
     "host": "2.26.99.245",
     "port": 8443,
     "secret": "ee17263409876123456712342349876554322e32362e39392e323435",
     "country": "US",
+    "addTime": 1779563107
+  },
+  {
+    "host": "89.35.131.217",
+    "port": 443,
+    "secret": "ee21406fa1321a733a9fe7edd39ddbe4fe7777772e79616e6465782e7275",
+    "country": "NL",
     "addTime": 1779563107
   },
   {
@@ -178,7 +178,7 @@
     "host": "wave.proxyu.site",
     "port": 8443,
     "secret": "ee38a4d5d648d6af5196c71c2018eb6fa6776176652e70726f7879752e73697465",
-    "country": "FI",
+    "country": "US",
     "addTime": 1779552301
   },
   {
