@@ -49,10 +49,10 @@
     "addTime": 1779661066
   },
   {
-    "host": "38.173.251.142",
+    "host": "149.120.147.185",
     "port": 443,
-    "secret": "ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d",
-    "country": "US",
+    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
+    "country": "HK",
     "addTime": 1779661060
   },
   {
@@ -63,10 +63,10 @@
     "addTime": 1779661060
   },
   {
-    "host": "149.120.147.185",
+    "host": "38.173.251.142",
     "port": 443,
-    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
-    "country": "HK",
+    "secret": "ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d",
+    "country": "US",
     "addTime": 1779661060
   },
   {
@@ -175,20 +175,6 @@
     "addTime": 1779638658
   },
   {
-    "host": "b.krasnodar.russia34.ru",
-    "port": 443,
-    "secret": "ee690b0be7dccc68cf82f23d3914298e0879616e6465782e7275",
-    "country": "US",
-    "addTime": 1779638658
-  },
-  {
-    "host": "i.omsk.russia34.ru",
-    "port": 443,
-    "secret": "ee3dd097e0294fe99d649c5281b3156907617669746f2e7275",
-    "country": "SC",
-    "addTime": 1779638658
-  },
-  {
     "host": "g.perm.russia34.ru",
     "port": 443,
     "secret": "ee0bde7867eff38bc7f6c9c1dadb137b50617669746f2e7275",
@@ -196,9 +182,23 @@
     "addTime": 1779638658
   },
   {
+    "host": "b.krasnodar.russia34.ru",
+    "port": 443,
+    "secret": "ee690b0be7dccc68cf82f23d3914298e0879616e6465782e7275",
+    "country": "US",
+    "addTime": 1779638658
+  },
+  {
     "host": "a.voronezh.russia34.ru",
     "port": 443,
     "secret": "ee04dead80f570afc9ddf1105029f8992979612e7275",
+    "country": "SC",
+    "addTime": 1779638658
+  },
+  {
+    "host": "i.omsk.russia34.ru",
+    "port": 443,
+    "secret": "ee3dd097e0294fe99d649c5281b3156907617669746f2e7275",
     "country": "SC",
     "addTime": 1779638658
   },
@@ -224,17 +224,17 @@
     "addTime": 1779628040
   },
   {
-    "host": "89.169.55.7",
-    "port": 443,
-    "secret": "ee7a580424ff21d4652d2fa97d13faa88531632e7275",
-    "country": "DE",
-    "addTime": 1779628037
-  },
-  {
     "host": "elevenproxy.pro",
     "port": 443,
     "secret": "ee5b82667945788e1345638076503217b5656c6576656e70726f78792e70726f",
     "country": "CZ",
+    "addTime": 1779628037
+  },
+  {
+    "host": "89.169.55.7",
+    "port": 443,
+    "secret": "ee7a580424ff21d4652d2fa97d13faa88531632e7275",
+    "country": "DE",
     "addTime": 1779628037
   },
   {
@@ -252,16 +252,16 @@
     "addTime": 1779627909
   },
   {
-    "host": "31.207.5.58",
+    "host": "dreams.nolags.pw",
     "port": 443,
-    "secret": "ee997f8741c0919f7b1e8a2c47d9bc1b106d61782e7275",
+    "secret": "dd2d558135931b5e0c5da5e7501724b32c",
     "country": "US",
     "addTime": 1779627899
   },
   {
-    "host": "dreams.nolags.pw",
+    "host": "31.207.5.58",
     "port": 443,
-    "secret": "dd2d558135931b5e0c5da5e7501724b32c",
+    "secret": "ee997f8741c0919f7b1e8a2c47d9bc1b106d61782e7275",
     "country": "US",
     "addTime": 1779627899
   },
@@ -273,6 +273,13 @@
     "addTime": 1779617342
   },
   {
+    "host": "31.76.251.112",
+    "port": 443,
+    "secret": "ee9b493daf382008ddc41dc6de382cef9d6172746c6562656465762e7275",
+    "country": "PL",
+    "addTime": 1779617342
+  },
+  {
     "host": "91.98.20.74",
     "port": 443,
     "secret": "ee87707fccc70b8f13f17c2c695e97a2fe6172746c6562656465762e7275",
@@ -280,11 +287,11 @@
     "addTime": 1779617342
   },
   {
-    "host": "31.76.251.112",
+    "host": "87.121.82.26",
     "port": 443,
-    "secret": "ee9b493daf382008ddc41dc6de382cef9d6172746c6562656465762e7275",
-    "country": "PL",
-    "addTime": 1779617342
+    "secret": "eed29605852bf2e034c63c6f866062600f696e2e6d7974686963616c2e686f757365",
+    "country": "FI",
+    "addTime": 1779617338
   },
   {
     "host": "drosophila.liberia.patternless.pinner.warsworn.lamidix.com",
@@ -340,13 +347,6 @@
     "port": 8444,
     "secret": "ee597752e70b4e240295fcaf7ac006cf78636c6f7564666c6172652e636f6d",
     "country": "FR",
-    "addTime": 1779606587
-  },
-  {
-    "host": "87.58.216.178",
-    "port": 443,
-    "secret": "ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275",
-    "country": "NL",
     "addTime": 1779606587
   }
 ]
