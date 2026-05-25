@@ -1,12 +1,5 @@
 [
   {
-    "host": "main.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "country": "LV",
-    "addTime": 1779692736
-  },
-  {
     "host": "178.105.150.126",
     "port": 443,
     "secret": "eec96b6d60154b353e16b514651c87f15b676f6f676c65617069732e636f6d",
@@ -70,6 +63,20 @@
     "addTime": 1779661066
   },
   {
+    "host": "149.120.147.185",
+    "port": 443,
+    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
+    "country": "HK",
+    "addTime": 1779661060
+  },
+  {
+    "host": "38.28.140.167",
+    "port": 443,
+    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
+    "country": "US",
+    "addTime": 1779661060
+  },
+  {
     "host": "38.173.252.211",
     "port": 443,
     "secret": "ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d",
@@ -81,20 +88,6 @@
     "port": 443,
     "secret": "ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d",
     "country": "US",
-    "addTime": 1779661060
-  },
-  {
-    "host": "38.28.140.167",
-    "port": 443,
-    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
-    "country": "US",
-    "addTime": 1779661060
-  },
-  {
-    "host": "149.120.147.185",
-    "port": 443,
-    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
-    "country": "HK",
     "addTime": 1779661060
   },
   {
@@ -168,13 +161,6 @@
     "addTime": 1779638834
   },
   {
-    "host": "impgo.notdev.space",
-    "port": 443,
-    "secret": "ee150aca15ff125cf3668f5aca79ce3509696d70676f2e6e6f746465762e7370616365",
-    "country": "DE",
-    "addTime": 1779638676
-  },
-  {
     "host": "imp.notdev.space",
     "port": 443,
     "secret": "ee4dd34bbd3cd14b113d21f5aab9b28a94696d702e6e6f746465762e7370616365",
@@ -189,16 +175,16 @@
     "addTime": 1779638664
   },
   {
-    "host": "i.omsk.russia34.ru",
-    "port": 443,
-    "secret": "ee3dd097e0294fe99d649c5281b3156907617669746f2e7275",
-    "country": "SC",
-    "addTime": 1779638658
-  },
-  {
     "host": "b.krasnodar.russia34.ru",
     "port": 443,
     "secret": "ee690b0be7dccc68cf82f23d3914298e0879616e6465782e7275",
+    "country": "US",
+    "addTime": 1779638658
+  },
+  {
+    "host": "i.omsk.russia34.ru",
+    "port": 443,
+    "secret": "ee3dd097e0294fe99d649c5281b3156907617669746f2e7275",
     "country": "US",
     "addTime": 1779638658
   },
@@ -280,6 +266,13 @@
     "addTime": 1779627899
   },
   {
+    "host": "31.76.251.112",
+    "port": 443,
+    "secret": "ee9b493daf382008ddc41dc6de382cef9d6172746c6562656465762e7275",
+    "country": "PL",
+    "addTime": 1779617342
+  },
+  {
     "host": "a.ufa.russia34.ru",
     "port": 443,
     "secret": "eeedf13f556774c1c23d295fdbed40687e617669746f2e7275",
@@ -291,13 +284,6 @@
     "port": 443,
     "secret": "ee87707fccc70b8f13f17c2c695e97a2fe6172746c6562656465762e7275",
     "country": "DE",
-    "addTime": 1779617342
-  },
-  {
-    "host": "31.76.251.112",
-    "port": 443,
-    "secret": "ee9b493daf382008ddc41dc6de382cef9d6172746c6562656465762e7275",
-    "country": "PL",
     "addTime": 1779617342
   },
   {
@@ -348,5 +334,19 @@
     "secret": "ee6a441d3845f1bfec1100662ce671d8ed79616e6465782e7275",
     "country": "DE",
     "addTime": 1779606592
+  },
+  {
+    "host": "31.76.77.77",
+    "port": 8443,
+    "secret": "eed1665043b7c388a742aef2f0417d3b1b736f72676f2e6d79726b612e6469676974616c",
+    "country": "US",
+    "addTime": 1779606587
+  },
+  {
+    "host": "141.0.184.244",
+    "port": 8444,
+    "secret": "ee597752e70b4e240295fcaf7ac006cf78636c6f7564666c6172652e636f6d",
+    "country": "FR",
+    "addTime": 1779606587
   }
 ]
