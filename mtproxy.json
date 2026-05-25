@@ -1,5 +1,68 @@
 [
   {
+    "host": "prx-1-velora.getvelora.space",
+    "port": 443,
+    "secret": "eee8a13cbfd00919e3d686b0c8e99939d8636c6f7564666c6172652e636f6d",
+    "country": "US",
+    "addTime": 1779714539
+  },
+  {
+    "host": "r1.proxytg.space",
+    "port": 8443,
+    "secret": "eecd671d2032569f6cea0fb4c61c32756972312e70726f787974672e7370616365",
+    "country": "RU",
+    "addTime": 1779714539
+  },
+  {
+    "host": "rek.baboon.digital",
+    "port": 8444,
+    "secret": "ee3ee55d93a141fb9be6d6ce9a03b18133636c6f7564666c6172652e636f6d",
+    "country": "FR",
+    "addTime": 1779714473
+  },
+  {
+    "host": "s11.neo-trading.org",
+    "port": 993,
+    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1779714444
+  },
+  {
+    "host": "s15.proxyru.top",
+    "port": 993,
+    "secret": "eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
+    "addTime": 1779714444
+  },
+  {
+    "host": "aurologic.myrka.digital",
+    "port": 8443,
+    "secret": "eee7084fde01cfbce4b201b0c92e176c51697269736b612e6d79726b612e6469676974616c",
+    "country": "US",
+    "addTime": 1779714275
+  },
+  {
+    "host": "offni-vpn.nolags.pw",
+    "port": 443,
+    "secret": "dda69632d86d88061ea6e94523027b0470",
+    "country": "US",
+    "addTime": 1779714266
+  },
+  {
+    "host": "s24.neo-trading.org",
+    "port": 443,
+    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed79612e7275",
+    "country": "NL",
+    "addTime": 1779714266
+  },
+  {
+    "host": "s13.neo-trading.org",
+    "port": 993,
+    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1779714266
+  },
+  {
     "host": "45.8.93.166",
     "port": 443,
     "secret": "ee76c09650cc6c0fa84f56b3b41f699c1a706c617932676f2e636c6f7564",
@@ -28,13 +91,6 @@
     "addTime": 1779703506
   },
   {
-    "host": "main.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "country": "HK",
-    "addTime": 1779692736
-  },
-  {
     "host": "178.105.150.126",
     "port": 443,
     "secret": "eec96b6d60154b353e16b514651c87f15b676f6f676c65617069732e636f6d",
@@ -61,6 +117,13 @@
     "secret": "eed0d6e111bada5511fcce9584deadbeef646a786c742e64656d6f2e706572736f6e616c2d6d74702e6f6e6c696e65",
     "country": "FR",
     "addTime": 1779681914
+  },
+  {
+    "host": "s.safevpnbot.com",
+    "port": 443,
+    "secret": "eed778a58b596c70917591a137306adaa76164732e78352e7275",
+    "country": "RU",
+    "addTime": 1779671256
   },
   {
     "host": "138.124.8.231",
@@ -116,6 +179,13 @@
     "port": 443,
     "secret": "ee4fdb47b5c93d2b46c0c155b90106418379616e6465782e7275",
     "country": "FI",
+    "addTime": 1779661059
+  },
+  {
+    "host": "213.226.127.61",
+    "port": 443,
+    "secret": "eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974",
+    "country": "RU",
     "addTime": 1779661059
   },
   {
@@ -238,6 +308,13 @@
     "addTime": 1779628081
   },
   {
+    "host": "proxy-main.zaebali-nas.xyz",
+    "port": 25565,
+    "secret": "ee1a8ebf59e8a1d521fc1272eaa6a59a686d61782e7275",
+    "country": "CH",
+    "addTime": 1779628045
+  },
+  {
     "host": "5.75.232.199",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -271,82 +348,5 @@
     "secret": "ee997f8741c0919f7b1e8a2c47d9bc1b106d61782e7275",
     "country": "US",
     "addTime": 1779627899
-  },
-  {
-    "host": "dreams.nolags.pw",
-    "port": 443,
-    "secret": "dd2d558135931b5e0c5da5e7501724b32c",
-    "country": "SE",
-    "addTime": 1779627899
-  },
-  {
-    "host": "31.76.251.112",
-    "port": 443,
-    "secret": "ee9b493daf382008ddc41dc6de382cef9d6172746c6562656465762e7275",
-    "country": "PL",
-    "addTime": 1779617342
-  },
-  {
-    "host": "a.ufa.russia34.ru",
-    "port": 443,
-    "secret": "eeedf13f556774c1c23d295fdbed40687e617669746f2e7275",
-    "country": "US",
-    "addTime": 1779617342
-  },
-  {
-    "host": "91.98.20.74",
-    "port": 443,
-    "secret": "ee87707fccc70b8f13f17c2c695e97a2fe6172746c6562656465762e7275",
-    "country": "DE",
-    "addTime": 1779617342
-  },
-  {
-    "host": "drosophila.liberia.patternless.pinner.warsworn.lamidix.com",
-    "port": 3872,
-    "secret": "ee435818fb7fe1f5360a8a9d175a7a8aaa647a656e2e7275",
-    "country": "DE",
-    "addTime": 1779617296
-  },
-  {
-    "host": "mteshechka-dlya-rkn.vectorproxy.ru",
-    "port": 443,
-    "secret": "eede400e0f1acab2aea0ae0a1d4bb5c1916d746573686563686b612d646c79612d726b6e2e766563746f7270726f78792e7275",
-    "country": "NL",
-    "addTime": 1779617294
-  },
-  {
-    "host": "tproxy.ink",
-    "port": 443,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "country": "US",
-    "addTime": 1779617107
-  },
-  {
-    "host": "www.tproxy.ink",
-    "port": 443,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "country": "US",
-    "addTime": 1779617107
-  },
-  {
-    "host": "g.proxytg.space",
-    "port": 8443,
-    "secret": "eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365",
-    "country": "RU",
-    "addTime": 1779617104
-  },
-  {
-    "host": "94.183.219.141",
-    "port": 443,
-    "secret": "91f5fd16db2720f5948f7cb89805f95d",
-    "country": "AE",
-    "addTime": 1779617103
-  },
-  {
-    "host": "beta.yard-tg-bot.ru",
-    "port": 443,
-    "secret": "ee6a441d3845f1bfec1100662ce671d8ed79616e6465782e7275",
-    "country": "DE",
-    "addTime": 1779606592
   }
 ]
