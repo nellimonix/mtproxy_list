@@ -14,6 +14,13 @@
     "addTime": 1779725293
   },
   {
+    "host": "putin.sotna.org",
+    "port": 443,
+    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
+    "country": "NL",
+    "addTime": 1779725292
+  },
+  {
     "host": "r-finland.kimt.space",
     "port": 443,
     "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
@@ -91,13 +98,6 @@
     "addTime": 1779725073
   },
   {
-    "host": "94.183.229.205",
-    "port": 443,
-    "secret": "43341181d1ee0910b503de7a0566854d",
-    "country": "AE",
-    "addTime": 1779725071
-  },
-  {
     "host": "prx-1-velora.getvelora.space",
     "port": 443,
     "secret": "eee8a13cbfd00919e3d686b0c8e99939d8636c6f7564666c6172652e636f6d",
@@ -119,17 +119,17 @@
     "addTime": 1779714473
   },
   {
-    "host": "s15.proxyru.top",
-    "port": 993,
-    "secret": "eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1779714444
-  },
-  {
     "host": "s11.neo-trading.org",
     "port": 993,
     "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
+    "addTime": 1779714444
+  },
+  {
+    "host": "s15.proxyru.top",
+    "port": 993,
+    "secret": "eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
     "addTime": 1779714444
   },
   {
@@ -140,10 +140,10 @@
     "addTime": 1779714275
   },
   {
-    "host": "s13.neo-trading.org",
-    "port": 993,
-    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
-    "country": "RU",
+    "host": "s24.neo-trading.org",
+    "port": 443,
+    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed79612e7275",
+    "country": "NL",
     "addTime": 1779714266
   },
   {
@@ -154,10 +154,10 @@
     "addTime": 1779714266
   },
   {
-    "host": "s24.neo-trading.org",
-    "port": 443,
-    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed79612e7275",
-    "country": "NL",
+    "host": "s13.neo-trading.org",
+    "port": 993,
+    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
     "addTime": 1779714266
   },
   {
@@ -231,6 +231,13 @@
     "addTime": 1779661168
   },
   {
+    "host": "kisa.biletk.ru",
+    "port": 444,
+    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1779661066
+  },
+  {
     "host": "core2quad.myrka.digital",
     "port": 775,
     "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
@@ -238,11 +245,11 @@
     "addTime": 1779661066
   },
   {
-    "host": "kisa.biletk.ru",
-    "port": 444,
-    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1779661066
+    "host": "38.28.140.167",
+    "port": 443,
+    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
+    "country": "US",
+    "addTime": 1779661060
   },
   {
     "host": "149.120.147.185",
@@ -264,20 +271,6 @@
     "secret": "ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d",
     "country": "US",
     "addTime": 1779661060
-  },
-  {
-    "host": "94.183.229.200",
-    "port": 443,
-    "secret": "c918002662a19fc201ee6ac1f6307ae2",
-    "country": "AE",
-    "addTime": 1779661059
-  },
-  {
-    "host": "213.226.127.61",
-    "port": 443,
-    "secret": "eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974",
-    "country": "RU",
-    "addTime": 1779661059
   },
   {
     "host": "62.60.228.136",
@@ -348,5 +341,12 @@
     "secret": "eee7b3779c83c631dea50e16cf41cc0d3e647a656e2e7275",
     "country": "DE",
     "addTime": 1779638834
+  },
+  {
+    "host": "imp.notdev.space",
+    "port": 443,
+    "secret": "ee4dd34bbd3cd14b113d21f5aab9b28a94696d702e6e6f746465762e7370616365",
+    "country": "DE",
+    "addTime": 1779638676
   }
 ]
