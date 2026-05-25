@@ -1,12 +1,5 @@
 [
   {
-    "host": "silvpn.su",
-    "port": 443,
-    "secret": "c7d9227942a916f5d61a4203355ce80a",
-    "country": "NL",
-    "addTime": 1779661214
-  },
-  {
     "host": "138.124.8.231",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
@@ -49,9 +42,9 @@
     "addTime": 1779661060
   },
   {
-    "host": "38.173.251.142",
+    "host": "38.28.140.167",
     "port": 443,
-    "secret": "ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d",
+    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
     "country": "US",
     "addTime": 1779661060
   },
@@ -59,6 +52,13 @@
     "host": "38.173.252.211",
     "port": 443,
     "secret": "ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d",
+    "country": "US",
+    "addTime": 1779661060
+  },
+  {
+    "host": "38.173.251.142",
+    "port": 443,
+    "secret": "ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d",
     "country": "US",
     "addTime": 1779661060
   },
@@ -168,17 +168,17 @@
     "addTime": 1779638664
   },
   {
-    "host": "g.perm.russia34.ru",
-    "port": 443,
-    "secret": "ee0bde7867eff38bc7f6c9c1dadb137b50617669746f2e7275",
-    "country": "US",
-    "addTime": 1779638658
-  },
-  {
     "host": "i.omsk.russia34.ru",
     "port": 443,
     "secret": "ee3dd097e0294fe99d649c5281b3156907617669746f2e7275",
     "country": "SC",
+    "addTime": 1779638658
+  },
+  {
+    "host": "g.perm.russia34.ru",
+    "port": 443,
+    "secret": "ee0bde7867eff38bc7f6c9c1dadb137b50617669746f2e7275",
+    "country": "US",
     "addTime": 1779638658
   },
   {
@@ -224,13 +224,6 @@
     "addTime": 1779628040
   },
   {
-    "host": "elevenproxy.pro",
-    "port": 443,
-    "secret": "ee5b82667945788e1345638076503217b5656c6576656e70726f78792e70726f",
-    "country": "CZ",
-    "addTime": 1779628037
-  },
-  {
     "host": "89.169.55.7",
     "port": 443,
     "secret": "ee7a580424ff21d4652d2fa97d13faa88531632e7275",
@@ -238,17 +231,24 @@
     "addTime": 1779628037
   },
   {
-    "host": "abuse.myrka.digital",
-    "port": 4515,
-    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1779627909
+    "host": "elevenproxy.pro",
+    "port": 443,
+    "secret": "ee5b82667945788e1345638076503217b5656c6576656e70726f78792e70726f",
+    "country": "CZ",
+    "addTime": 1779628037
   },
   {
     "host": "icq.myrka.digital",
     "port": 444,
     "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
     "country": "NL",
+    "addTime": 1779627909
+  },
+  {
+    "host": "abuse.myrka.digital",
+    "port": 4515,
+    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
+    "country": "US",
     "addTime": 1779627909
   },
   {
