@@ -14,17 +14,17 @@
     "addTime": 1779725293
   },
   {
-    "host": "putin.sotna.org",
-    "port": 443,
-    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
-    "country": "NL",
-    "addTime": 1779725292
-  },
-  {
     "host": "r-finland.kimt.space",
     "port": 443,
     "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
     "country": "FR",
+    "addTime": 1779725292
+  },
+  {
+    "host": "putin.sotna.org",
+    "port": 443,
+    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
+    "country": "NL",
     "addTime": 1779725292
   },
   {
@@ -47,13 +47,6 @@
     "secret": "ee8a2802995839c6ce8b8f7b0c3bfe44c67777772e617669746f2e7275",
     "country": "RU",
     "addTime": 1779725278
-  },
-  {
-    "host": "195.58.49.26",
-    "port": 443,
-    "secret": "7uAqXLtHlYLrtb0hgzq10kxydXR1YmUucnU",
-    "country": "RU",
-    "addTime": 1779725277
   },
   {
     "host": "baaaaaaaaaaaaaaaaaaag.alotaxi.info",
@@ -112,17 +105,17 @@
     "addTime": 1779725073
   },
   {
+    "host": "94.183.229.205",
+    "port": 443,
+    "secret": "43341181d1ee0910b503de7a0566854d",
+    "country": "AE",
+    "addTime": 1779725071
+  },
+  {
     "host": "prx-1-velora.getvelora.space",
     "port": 443,
     "secret": "eee8a13cbfd00919e3d686b0c8e99939d8636c6f7564666c6172652e636f6d",
     "country": "US",
-    "addTime": 1779714539
-  },
-  {
-    "host": "r1.proxytg.space",
-    "port": 8443,
-    "secret": "eecd671d2032569f6cea0fb4c61c32756972312e70726f787974672e7370616365",
-    "country": "RU",
     "addTime": 1779714539
   },
   {
@@ -154,24 +147,24 @@
     "addTime": 1779714275
   },
   {
-    "host": "s13.neo-trading.org",
-    "port": 993,
-    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
-    "country": "RU",
+    "host": "s24.neo-trading.org",
+    "port": 443,
+    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed79612e7275",
+    "country": "NL",
     "addTime": 1779714266
   },
   {
     "host": "offni-vpn.nolags.pw",
     "port": 443,
     "secret": "dda69632d86d88061ea6e94523027b0470",
-    "country": "SE",
+    "country": "US",
     "addTime": 1779714266
   },
   {
-    "host": "s24.neo-trading.org",
-    "port": 443,
-    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed79612e7275",
-    "country": "NL",
+    "host": "s13.neo-trading.org",
+    "port": 993,
+    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
     "addTime": 1779714266
   },
   {
@@ -259,6 +252,13 @@
     "addTime": 1779661066
   },
   {
+    "host": "38.173.251.142",
+    "port": 443,
+    "secret": "ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d",
+    "country": "US",
+    "addTime": 1779661060
+  },
+  {
     "host": "149.120.147.185",
     "port": 443,
     "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
@@ -280,17 +280,10 @@
     "addTime": 1779661060
   },
   {
-    "host": "38.173.251.142",
+    "host": "94.183.229.200",
     "port": 443,
-    "secret": "ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d",
-    "country": "US",
-    "addTime": 1779661060
-  },
-  {
-    "host": "213.226.127.61",
-    "port": 443,
-    "secret": "eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974",
-    "country": "RU",
+    "secret": "c918002662a19fc201ee6ac1f6307ae2",
+    "country": "AE",
     "addTime": 1779661059
   },
   {
@@ -327,6 +320,13 @@
     "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
     "country": "RU",
     "addTime": 1779649460
+  },
+  {
+    "host": "server-1.shustrik.world",
+    "port": 443,
+    "secret": "ee53fed7a45b8fcb2ef5a2e0223c76bb4e766b766964656f2e7275",
+    "country": "GB",
+    "addTime": 1779649453
   },
   {
     "host": "2.27.12.17",
