@@ -31,15 +31,8 @@
     "host": "dr1.dedus.pro",
     "port": 443,
     "secret": "eeaf504aa56469ec880c9cb00515fc8a2d79616e6465782e7275",
-    "country": "DE",
-    "addTime": 1779735867
-  },
-  {
-    "host": "146.103.96.129",
-    "port": 443,
-    "secret": "ee627bdd42b085906e41105ddd7dab8cca706574726f766963682e7275",
     "country": "NL",
-    "addTime": 1779735866
+    "addTime": 1779735867
   },
   {
     "host": "212.233.99.175",
@@ -63,17 +56,17 @@
     "addTime": 1779725293
   },
   {
-    "host": "putin.sotna.org",
-    "port": 443,
-    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
-    "country": "NL",
-    "addTime": 1779725292
-  },
-  {
     "host": "r-finland.kimt.space",
     "port": 443,
     "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
     "country": "FR",
+    "addTime": 1779725292
+  },
+  {
+    "host": "putin.sotna.org",
+    "port": 443,
+    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
+    "country": "NL",
     "addTime": 1779725292
   },
   {
@@ -161,17 +154,17 @@
     "addTime": 1779714473
   },
   {
-    "host": "s15.proxyru.top",
-    "port": 993,
-    "secret": "eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1779714444
-  },
-  {
     "host": "s11.neo-trading.org",
     "port": 993,
     "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
+    "addTime": 1779714444
+  },
+  {
+    "host": "s15.proxyru.top",
+    "port": 993,
+    "secret": "eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
     "addTime": 1779714444
   },
   {
@@ -182,10 +175,10 @@
     "addTime": 1779714275
   },
   {
-    "host": "s24.neo-trading.org",
+    "host": "offni-vpn.nolags.pw",
     "port": 443,
-    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed79612e7275",
-    "country": "NL",
+    "secret": "dda69632d86d88061ea6e94523027b0470",
+    "country": "SE",
     "addTime": 1779714266
   },
   {
@@ -196,10 +189,10 @@
     "addTime": 1779714266
   },
   {
-    "host": "offni-vpn.nolags.pw",
+    "host": "s24.neo-trading.org",
     "port": 443,
-    "secret": "dda69632d86d88061ea6e94523027b0470",
-    "country": "SE",
+    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed79612e7275",
+    "country": "NL",
     "addTime": 1779714266
   },
   {
@@ -287,13 +280,6 @@
     "addTime": 1779661066
   },
   {
-    "host": "38.28.140.167",
-    "port": 443,
-    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
-    "country": "US",
-    "addTime": 1779661060
-  },
-  {
     "host": "38.173.252.211",
     "port": 443,
     "secret": "ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d",
@@ -308,11 +294,25 @@
     "addTime": 1779661060
   },
   {
+    "host": "38.28.140.167",
+    "port": 443,
+    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
+    "country": "US",
+    "addTime": 1779661060
+  },
+  {
     "host": "149.120.147.185",
     "port": 443,
     "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
     "country": "HK",
     "addTime": 1779661060
+  },
+  {
+    "host": "94.183.229.200",
+    "port": 443,
+    "secret": "c918002662a19fc201ee6ac1f6307ae2",
+    "country": "AE",
+    "addTime": 1779661059
   },
   {
     "host": "62.60.228.136",
