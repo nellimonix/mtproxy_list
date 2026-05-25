@@ -35,6 +35,13 @@
     "addTime": 1779725291
   },
   {
+    "host": "193.124.33.133",
+    "port": 17945,
+    "secret": "ea9348f11c49adddfca4f93a4069559e",
+    "country": "RU",
+    "addTime": 1779725281
+  },
+  {
     "host": "95.181.213.248",
     "port": 443,
     "secret": "ee8a2802995839c6ce8b8f7b0c3bfe44c67777772e617669746f2e7275",
@@ -98,6 +105,13 @@
     "addTime": 1779725073
   },
   {
+    "host": "94.183.229.205",
+    "port": 443,
+    "secret": "43341181d1ee0910b503de7a0566854d",
+    "country": "AE",
+    "addTime": 1779725071
+  },
+  {
     "host": "prx-1-velora.getvelora.space",
     "port": 443,
     "secret": "eee8a13cbfd00919e3d686b0c8e99939d8636c6f7564666c6172652e636f6d",
@@ -119,17 +133,17 @@
     "addTime": 1779714473
   },
   {
-    "host": "s11.neo-trading.org",
-    "port": 993,
-    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1779714444
-  },
-  {
     "host": "s15.proxyru.top",
     "port": 993,
     "secret": "eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d",
     "country": "NL",
+    "addTime": 1779714444
+  },
+  {
+    "host": "s11.neo-trading.org",
+    "port": 993,
+    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
     "addTime": 1779714444
   },
   {
@@ -138,13 +152,6 @@
     "secret": "eee7084fde01cfbce4b201b0c92e176c51697269736b612e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1779714275
-  },
-  {
-    "host": "s24.neo-trading.org",
-    "port": 443,
-    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed79612e7275",
-    "country": "NL",
-    "addTime": 1779714266
   },
   {
     "host": "offni-vpn.nolags.pw",
@@ -158,6 +165,13 @@
     "port": 993,
     "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
+    "addTime": 1779714266
+  },
+  {
+    "host": "s24.neo-trading.org",
+    "port": 443,
+    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed79612e7275",
+    "country": "NL",
     "addTime": 1779714266
   },
   {
@@ -231,13 +245,6 @@
     "addTime": 1779661168
   },
   {
-    "host": "kisa.biletk.ru",
-    "port": 444,
-    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1779661066
-  },
-  {
     "host": "core2quad.myrka.digital",
     "port": 775,
     "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
@@ -245,17 +252,24 @@
     "addTime": 1779661066
   },
   {
-    "host": "38.28.140.167",
+    "host": "kisa.biletk.ru",
+    "port": 444,
+    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1779661066
+  },
+  {
+    "host": "38.173.252.211",
     "port": 443,
-    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
+    "secret": "ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d",
     "country": "US",
     "addTime": 1779661060
   },
   {
-    "host": "149.120.147.185",
+    "host": "38.28.140.167",
     "port": 443,
-    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
-    "country": "HK",
+    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
+    "country": "US",
     "addTime": 1779661060
   },
   {
@@ -266,10 +280,10 @@
     "addTime": 1779661060
   },
   {
-    "host": "38.173.252.211",
+    "host": "149.120.147.185",
     "port": 443,
-    "secret": "ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d",
-    "country": "US",
+    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
+    "country": "HK",
     "addTime": 1779661060
   },
   {
@@ -334,19 +348,5 @@
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "RU",
     "addTime": 1779638879
-  },
-  {
-    "host": "kilometer.peasant.tun.teleseryeme.com",
-    "port": 443,
-    "secret": "eee7b3779c83c631dea50e16cf41cc0d3e647a656e2e7275",
-    "country": "DE",
-    "addTime": 1779638834
-  },
-  {
-    "host": "imp.notdev.space",
-    "port": 443,
-    "secret": "ee4dd34bbd3cd14b113d21f5aab9b28a94696d702e6e6f746465762e7370616365",
-    "country": "DE",
-    "addTime": 1779638676
   }
 ]
