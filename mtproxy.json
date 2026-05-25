@@ -31,8 +31,22 @@
     "host": "dr1.dedus.pro",
     "port": 443,
     "secret": "eeaf504aa56469ec880c9cb00515fc8a2d79616e6465782e7275",
-    "country": "DE",
+    "country": "NL",
     "addTime": 1779735867
+  },
+  {
+    "host": "146.103.96.129",
+    "port": 443,
+    "secret": "ee627bdd42b085906e41105ddd7dab8cca706574726f766963682e7275",
+    "country": "NL",
+    "addTime": 1779735866
+  },
+  {
+    "host": "212.233.99.175",
+    "port": 443,
+    "secret": "88d723d436ba6439ef8d383f9de5d772",
+    "country": "RU",
+    "addTime": 1779735865
   },
   {
     "host": "186.246.21.34",
@@ -49,6 +63,13 @@
     "addTime": 1779725293
   },
   {
+    "host": "r-finland.kimt.space",
+    "port": 443,
+    "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
+    "country": "FR",
+    "addTime": 1779725292
+  },
+  {
     "host": "putin.sotna.org",
     "port": 443,
     "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
@@ -56,11 +77,11 @@
     "addTime": 1779725292
   },
   {
-    "host": "r-finland.kimt.space",
-    "port": 443,
-    "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
-    "country": "FR",
-    "addTime": 1779725292
+    "host": "193.124.33.133",
+    "port": 17945,
+    "secret": "ea9348f11c49adddfca4f93a4069559e",
+    "country": "RU",
+    "addTime": 1779725281
   },
   {
     "host": "95.181.213.248",
@@ -119,6 +140,13 @@
     "addTime": 1779725083
   },
   {
+    "host": "72.56.87.28",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c76617669746f2e7275",
+    "country": "US",
+    "addTime": 1779725075
+  },
+  {
     "host": "rkn.chunkycorp.shop",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
@@ -168,17 +196,17 @@
     "addTime": 1779714266
   },
   {
-    "host": "s13.neo-trading.org",
-    "port": 993,
-    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1779714266
-  },
-  {
     "host": "s24.neo-trading.org",
     "port": 443,
     "secret": "ee17b59d905a546c7bf7355cf95c4ecfed79612e7275",
     "country": "NL",
+    "addTime": 1779714266
+  },
+  {
+    "host": "s13.neo-trading.org",
+    "port": 993,
+    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
     "addTime": 1779714266
   },
   {
@@ -238,6 +266,13 @@
     "addTime": 1779671256
   },
   {
+    "host": "silvpn.su",
+    "port": 443,
+    "secret": "c7d9227942a916f5d61a4203355ce80a",
+    "country": "NL",
+    "addTime": 1779661214
+  },
+  {
     "host": "138.124.8.231",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
@@ -266,17 +301,17 @@
     "addTime": 1779661066
   },
   {
-    "host": "38.28.140.167",
-    "port": 443,
-    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
-    "country": "US",
-    "addTime": 1779661060
-  },
-  {
     "host": "149.120.147.185",
     "port": 443,
     "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
     "country": "HK",
+    "addTime": 1779661060
+  },
+  {
+    "host": "38.28.140.167",
+    "port": 443,
+    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
+    "country": "US",
     "addTime": 1779661060
   },
   {
@@ -313,40 +348,5 @@
     "secret": "ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d",
     "country": "RU",
     "addTime": 1779649499
-  },
-  {
-    "host": "91.224.75.242",
-    "port": 2083,
-    "secret": "ee018852e3ccd792819792849767f5882a636f666665652e73616d6172617765622e74656368",
-    "country": "PL",
-    "addTime": 1779649473
-  },
-  {
-    "host": "derepress.escribe.ichor.lapp.observed.teleseryeonline.com",
-    "port": 4650,
-    "secret": "a806fda7b030362f6c138700b989416d",
-    "country": "DE",
-    "addTime": 1779649468
-  },
-  {
-    "host": "adsl.myrka.digital",
-    "port": 443,
-    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
-    "country": "RU",
-    "addTime": 1779649460
-  },
-  {
-    "host": "server-1.shustrik.world",
-    "port": 443,
-    "secret": "ee53fed7a45b8fcb2ef5a2e0223c76bb4e766b766964656f2e7275",
-    "country": "GB",
-    "addTime": 1779649453
-  },
-  {
-    "host": "2.27.12.17",
-    "port": 8443,
-    "secret": "ee865927606693931857718107009786656170692e706572656b726573746f6b2e7275",
-    "country": "NL",
-    "addTime": 1779649444
   }
 ]
