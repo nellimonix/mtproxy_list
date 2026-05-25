@@ -38,7 +38,7 @@
     "host": "offni-vpn.nolags.pw",
     "port": 443,
     "secret": "dda69632d86d88061ea6e94523027b0470",
-    "country": "SE",
+    "country": "US",
     "addTime": 1779714266
   },
   {
@@ -105,13 +105,6 @@
     "addTime": 1779681914
   },
   {
-    "host": "s.safevpnbot.com",
-    "port": 443,
-    "secret": "eed778a58b596c70917591a137306adaa76164732e78352e7275",
-    "country": "RU",
-    "addTime": 1779671256
-  },
-  {
     "host": "138.124.8.231",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
@@ -126,13 +119,6 @@
     "addTime": 1779661168
   },
   {
-    "host": "core2quad.myrka.digital",
-    "port": 775,
-    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
-    "country": "RU",
-    "addTime": 1779661066
-  },
-  {
     "host": "kisa.biletk.ru",
     "port": 444,
     "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
@@ -140,10 +126,17 @@
     "addTime": 1779661066
   },
   {
-    "host": "149.120.147.185",
+    "host": "core2quad.myrka.digital",
+    "port": 775,
+    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
+    "country": "RU",
+    "addTime": 1779661066
+  },
+  {
+    "host": "38.173.252.211",
     "port": 443,
-    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
-    "country": "HK",
+    "secret": "ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d",
+    "country": "US",
     "addTime": 1779661060
   },
   {
@@ -154,10 +147,10 @@
     "addTime": 1779661060
   },
   {
-    "host": "38.173.252.211",
+    "host": "149.120.147.185",
     "port": 443,
-    "secret": "ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d",
-    "country": "US",
+    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
+    "country": "HK",
     "addTime": 1779661060
   },
   {
@@ -165,6 +158,13 @@
     "port": 443,
     "secret": "ee4fdb47b5c93d2b46c0c155b90106418379616e6465782e7275",
     "country": "FI",
+    "addTime": 1779661059
+  },
+  {
+    "host": "213.226.127.61",
+    "port": 443,
+    "secret": "eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974",
+    "country": "RU",
     "addTime": 1779661059
   },
   {
@@ -245,23 +245,16 @@
     "addTime": 1779638664
   },
   {
+    "host": "g.perm.russia34.ru",
+    "port": 443,
+    "secret": "ee0bde7867eff38bc7f6c9c1dadb137b50617669746f2e7275",
+    "country": "US",
+    "addTime": 1779638658
+  },
+  {
     "host": "a.voronezh.russia34.ru",
     "port": 443,
     "secret": "ee04dead80f570afc9ddf1105029f8992979612e7275",
-    "country": "US",
-    "addTime": 1779638658
-  },
-  {
-    "host": "i.ekb.russia34.ru",
-    "port": 443,
-    "secret": "eea7e52a74b28f5cc7bf7a69b74dbd802d79612e7275",
-    "country": "US",
-    "addTime": 1779638658
-  },
-  {
-    "host": "i.omsk.russia34.ru",
-    "port": 443,
-    "secret": "ee3dd097e0294fe99d649c5281b3156907617669746f2e7275",
     "country": "US",
     "addTime": 1779638658
   },
@@ -273,9 +266,9 @@
     "addTime": 1779638658
   },
   {
-    "host": "g.perm.russia34.ru",
+    "host": "i.ekb.russia34.ru",
     "port": 443,
-    "secret": "ee0bde7867eff38bc7f6c9c1dadb137b50617669746f2e7275",
+    "secret": "eea7e52a74b28f5cc7bf7a69b74dbd802d79612e7275",
     "country": "US",
     "addTime": 1779638658
   },
@@ -308,13 +301,6 @@
     "addTime": 1779628037
   },
   {
-    "host": "abuse.myrka.digital",
-    "port": 4515,
-    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1779627909
-  },
-  {
     "host": "icq.myrka.digital",
     "port": 444,
     "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
@@ -322,16 +308,23 @@
     "addTime": 1779627909
   },
   {
-    "host": "dreams.nolags.pw",
-    "port": 443,
-    "secret": "dd2d558135931b5e0c5da5e7501724b32c",
-    "country": "SE",
-    "addTime": 1779627899
+    "host": "abuse.myrka.digital",
+    "port": 4515,
+    "secret": "ee111122223333444455556666777788887665726f63686b612e6d79726b612e6469676974616c",
+    "country": "US",
+    "addTime": 1779627909
   },
   {
     "host": "31.207.5.58",
     "port": 443,
     "secret": "ee997f8741c0919f7b1e8a2c47d9bc1b106d61782e7275",
+    "country": "US",
+    "addTime": 1779627899
+  },
+  {
+    "host": "dreams.nolags.pw",
+    "port": 443,
+    "secret": "dd2d558135931b5e0c5da5e7501724b32c",
     "country": "US",
     "addTime": 1779627899
   },
@@ -347,6 +340,13 @@
     "port": 443,
     "secret": "ee9b493daf382008ddc41dc6de382cef9d6172746c6562656465762e7275",
     "country": "PL",
+    "addTime": 1779617342
+  },
+  {
+    "host": "a.ufa.russia34.ru",
+    "port": 443,
+    "secret": "eeedf13f556774c1c23d295fdbed40687e617669746f2e7275",
+    "country": "US",
     "addTime": 1779617342
   }
 ]
