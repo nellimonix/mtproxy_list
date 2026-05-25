@@ -31,7 +31,7 @@
     "host": "dr1.dedus.pro",
     "port": 443,
     "secret": "eeaf504aa56469ec880c9cb00515fc8a2d79616e6465782e7275",
-    "country": "NL",
+    "country": "DE",
     "addTime": 1779735867
   },
   {
@@ -63,17 +63,17 @@
     "addTime": 1779725293
   },
   {
-    "host": "putin.sotna.org",
-    "port": 443,
-    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
-    "country": "NL",
-    "addTime": 1779725292
-  },
-  {
     "host": "r-finland.kimt.space",
     "port": 443,
     "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
     "country": "FR",
+    "addTime": 1779725292
+  },
+  {
+    "host": "putin.sotna.org",
+    "port": 443,
+    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
+    "country": "NL",
     "addTime": 1779725292
   },
   {
@@ -82,13 +82,6 @@
     "secret": "ee8a2802995839c6ce8b8f7b0c3bfe44c67777772e617669746f2e7275",
     "country": "RU",
     "addTime": 1779725278
-  },
-  {
-    "host": "195.58.49.26",
-    "port": 443,
-    "secret": "7uAqXLtHlYLrtb0hgzq10kxydXR1YmUucnU",
-    "country": "RU",
-    "addTime": 1779725277
   },
   {
     "host": "baaaaaaaaaaaaaaaaaaag.alotaxi.info",
@@ -147,6 +140,13 @@
     "addTime": 1779725073
   },
   {
+    "host": "94.183.229.205",
+    "port": 443,
+    "secret": "43341181d1ee0910b503de7a0566854d",
+    "country": "AE",
+    "addTime": 1779725071
+  },
+  {
     "host": "prx-1-velora.getvelora.space",
     "port": 443,
     "secret": "eee8a13cbfd00919e3d686b0c8e99939d8636c6f7564666c6172652e636f6d",
@@ -192,7 +192,7 @@
     "host": "offni-vpn.nolags.pw",
     "port": 443,
     "secret": "dda69632d86d88061ea6e94523027b0470",
-    "country": "SE",
+    "country": "US",
     "addTime": 1779714266
   },
   {
@@ -273,6 +273,13 @@
     "addTime": 1779661168
   },
   {
+    "host": "kisa.biletk.ru",
+    "port": 444,
+    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1779661066
+  },
+  {
     "host": "core2quad.myrka.digital",
     "port": 775,
     "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
@@ -280,11 +287,11 @@
     "addTime": 1779661066
   },
   {
-    "host": "kisa.biletk.ru",
-    "port": 444,
-    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1779661066
+    "host": "38.28.140.167",
+    "port": 443,
+    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
+    "country": "US",
+    "addTime": 1779661060
   },
   {
     "host": "38.173.252.211",
@@ -341,12 +348,5 @@
     "secret": "a806fda7b030362f6c138700b989416d",
     "country": "DE",
     "addTime": 1779649468
-  },
-  {
-    "host": "adsl.myrka.digital",
-    "port": 443,
-    "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
-    "country": "RU",
-    "addTime": 1779649460
   }
 ]
