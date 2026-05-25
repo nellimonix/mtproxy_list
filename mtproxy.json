@@ -31,8 +31,15 @@
     "host": "dr1.dedus.pro",
     "port": 443,
     "secret": "eeaf504aa56469ec880c9cb00515fc8a2d79616e6465782e7275",
-    "country": "DE",
+    "country": "NL",
     "addTime": 1779735867
+  },
+  {
+    "host": "146.103.96.129",
+    "port": 443,
+    "secret": "ee627bdd42b085906e41105ddd7dab8cca706574726f766963682e7275",
+    "country": "NL",
+    "addTime": 1779735866
   },
   {
     "host": "212.233.99.175",
@@ -70,18 +77,18 @@
     "addTime": 1779725292
   },
   {
-    "host": "132.243.235.197",
-    "port": 443,
-    "secret": "ee284388d5f6d5c468daaeb9b9fa2b01b179616e6465782e7275",
-    "country": "NL",
-    "addTime": 1779725291
-  },
-  {
     "host": "95.181.213.248",
     "port": 443,
     "secret": "ee8a2802995839c6ce8b8f7b0c3bfe44c67777772e617669746f2e7275",
     "country": "RU",
     "addTime": 1779725278
+  },
+  {
+    "host": "195.58.49.26",
+    "port": 443,
+    "secret": "7uAqXLtHlYLrtb0hgzq10kxydXR1YmUucnU",
+    "country": "RU",
+    "addTime": 1779725277
   },
   {
     "host": "baaaaaaaaaaaaaaaaaaag.alotaxi.info",
@@ -154,17 +161,17 @@
     "addTime": 1779714473
   },
   {
-    "host": "s15.proxyru.top",
-    "port": 993,
-    "secret": "eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1779714444
-  },
-  {
     "host": "s11.neo-trading.org",
     "port": 993,
     "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
+    "addTime": 1779714444
+  },
+  {
+    "host": "s15.proxyru.top",
+    "port": 993,
+    "secret": "eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
     "addTime": 1779714444
   },
   {
@@ -175,17 +182,17 @@
     "addTime": 1779714275
   },
   {
-    "host": "offni-vpn.nolags.pw",
-    "port": 443,
-    "secret": "dda69632d86d88061ea6e94523027b0470",
-    "country": "SE",
-    "addTime": 1779714266
-  },
-  {
     "host": "s24.neo-trading.org",
     "port": 443,
     "secret": "ee17b59d905a546c7bf7355cf95c4ecfed79612e7275",
     "country": "NL",
+    "addTime": 1779714266
+  },
+  {
+    "host": "offni-vpn.nolags.pw",
+    "port": 443,
+    "secret": "dda69632d86d88061ea6e94523027b0470",
+    "country": "SE",
     "addTime": 1779714266
   },
   {
@@ -245,6 +252,13 @@
     "addTime": 1779681914
   },
   {
+    "host": "s.safevpnbot.com",
+    "port": 443,
+    "secret": "eed778a58b596c70917591a137306adaa76164732e78352e7275",
+    "country": "RU",
+    "addTime": 1779671256
+  },
+  {
     "host": "138.124.8.231",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
@@ -259,13 +273,6 @@
     "addTime": 1779661168
   },
   {
-    "host": "kisa.biletk.ru",
-    "port": 444,
-    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
-    "country": "NL",
-    "addTime": 1779661066
-  },
-  {
     "host": "core2quad.myrka.digital",
     "port": 775,
     "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
@@ -273,11 +280,11 @@
     "addTime": 1779661066
   },
   {
-    "host": "38.173.251.142",
-    "port": 443,
-    "secret": "ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d",
-    "country": "US",
-    "addTime": 1779661060
+    "host": "kisa.biletk.ru",
+    "port": 444,
+    "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
+    "country": "NL",
+    "addTime": 1779661066
   },
   {
     "host": "38.173.252.211",
@@ -287,9 +294,9 @@
     "addTime": 1779661060
   },
   {
-    "host": "38.28.140.167",
+    "host": "38.173.251.142",
     "port": 443,
-    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
+    "secret": "ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d",
     "country": "US",
     "addTime": 1779661060
   },
@@ -341,12 +348,5 @@
     "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
     "country": "RU",
     "addTime": 1779649460
-  },
-  {
-    "host": "server-1.shustrik.world",
-    "port": 443,
-    "secret": "ee53fed7a45b8fcb2ef5a2e0223c76bb4e766b766964656f2e7275",
-    "country": "GB",
-    "addTime": 1779649453
   }
 ]
