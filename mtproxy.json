@@ -1,5 +1,26 @@
 [
   {
+    "host": "78.40.217.139",
+    "port": 993,
+    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1779746704
+  },
+  {
+    "host": "195.80.51.73",
+    "port": 993,
+    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1779746704
+  },
+  {
+    "host": "186.246.21.202",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "country": "HK",
+    "addTime": 1779746704
+  },
+  {
     "host": "132.243.213.216",
     "port": 443,
     "secret": "eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275",
@@ -63,17 +84,17 @@
     "addTime": 1779725293
   },
   {
-    "host": "putin.sotna.org",
-    "port": 443,
-    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
-    "country": "NL",
-    "addTime": 1779725292
-  },
-  {
     "host": "r-finland.kimt.space",
     "port": 443,
     "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
     "country": "FR",
+    "addTime": 1779725292
+  },
+  {
+    "host": "putin.sotna.org",
+    "port": 443,
+    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
+    "country": "NL",
     "addTime": 1779725292
   },
   {
@@ -182,17 +203,17 @@
     "addTime": 1779714275
   },
   {
+    "host": "offni-vpn.nolags.pw",
+    "port": 443,
+    "secret": "dda69632d86d88061ea6e94523027b0470",
+    "country": "SE",
+    "addTime": 1779714266
+  },
+  {
     "host": "s24.neo-trading.org",
     "port": 443,
     "secret": "ee17b59d905a546c7bf7355cf95c4ecfed79612e7275",
     "country": "NL",
-    "addTime": 1779714266
-  },
-  {
-    "host": "offni-vpn.nolags.pw",
-    "port": 443,
-    "secret": "dda69632d86d88061ea6e94523027b0470",
-    "country": "US",
     "addTime": 1779714266
   },
   {
@@ -287,6 +308,13 @@
     "addTime": 1779661066
   },
   {
+    "host": "38.173.252.211",
+    "port": 443,
+    "secret": "ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d",
+    "country": "US",
+    "addTime": 1779661060
+  },
+  {
     "host": "38.173.251.142",
     "port": 443,
     "secret": "ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d",
@@ -301,18 +329,11 @@
     "addTime": 1779661060
   },
   {
-    "host": "38.28.140.167",
+    "host": "62.60.228.136",
     "port": 443,
-    "secret": "ee14c815be04f1c6bddd220f15c86f5e487777772e6170706c652e636f6d",
-    "country": "US",
-    "addTime": 1779661060
-  },
-  {
-    "host": "38.173.252.211",
-    "port": 443,
-    "secret": "ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d",
-    "country": "US",
-    "addTime": 1779661060
+    "secret": "ee4fdb47b5c93d2b46c0c155b90106418379616e6465782e7275",
+    "country": "FI",
+    "addTime": 1779661059
   },
   {
     "host": "94.183.229.200",
@@ -322,31 +343,10 @@
     "addTime": 1779661059
   },
   {
-    "host": "62.60.228.136",
-    "port": 443,
-    "secret": "ee4fdb47b5c93d2b46c0c155b90106418379616e6465782e7275",
-    "country": "FI",
-    "addTime": 1779661059
-  },
-  {
     "host": "77.232.39.167",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d",
     "country": "RU",
     "addTime": 1779649499
-  },
-  {
-    "host": "91.224.75.242",
-    "port": 2083,
-    "secret": "ee018852e3ccd792819792849767f5882a636f666665652e73616d6172617765622e74656368",
-    "country": "PL",
-    "addTime": 1779649473
-  },
-  {
-    "host": "derepress.escribe.ichor.lapp.observed.teleseryeonline.com",
-    "port": 4650,
-    "secret": "a806fda7b030362f6c138700b989416d",
-    "country": "DE",
-    "addTime": 1779649468
   }
 ]
