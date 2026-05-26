@@ -1,16 +1,16 @@
 [
   {
-    "host": "a.rostov.russia34.ru",
-    "port": 443,
-    "secret": "eed57048ea72a7690b2458a35127a828fa79616e6465782e7275",
-    "country": "US",
-    "addTime": 1779790344
-  },
-  {
     "host": "155.212.231.210",
     "port": 443,
     "secret": "eedf97a3cb665094a7c8774693b6aec2bd31632e7275",
     "country": "LV",
+    "addTime": 1779790344
+  },
+  {
+    "host": "a.rostov.russia34.ru",
+    "port": 443,
+    "secret": "eed57048ea72a7690b2458a35127a828fa79616e6465782e7275",
+    "country": "US",
     "addTime": 1779790344
   },
   {
@@ -70,13 +70,6 @@
     "addTime": 1779789882
   },
   {
-    "host": "212.233.76.27",
-    "port": 443,
-    "secret": "dd8fb807a1ac8c4e95b8a2642e5bedd8fc",
-    "country": "RU",
-    "addTime": 1779789879
-  },
-  {
     "host": "mtp1.sosproxy.space",
     "port": 443,
     "secret": "ee806bfea72377dacb92438b5f330856b464726976652e676f6f676c652e636f6d",
@@ -124,6 +117,13 @@
     "secret": "eeed1dc22892d9351cec91e6f6ea111c9274672e6a6574737572666e6574776f726b2e7275",
     "country": "AE",
     "addTime": 1779768503
+  },
+  {
+    "host": "51.250.40.141",
+    "port": 8443,
+    "secret": "dd3d99e77539da1c5139da072b37dc3014",
+    "country": "RU",
+    "addTime": 1779768477
   },
   {
     "host": "186.246.21.31",
@@ -203,16 +203,16 @@
     "addTime": 1779746988
   },
   {
-    "host": "r6.proxytg.space",
+    "host": "r7.proxytg.space",
     "port": 8443,
-    "secret": "eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365",
+    "secret": "ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779746941
   },
   {
-    "host": "r7.proxytg.space",
+    "host": "r6.proxytg.space",
     "port": 8443,
-    "secret": "ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365",
+    "secret": "eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779746941
   },
@@ -287,17 +287,17 @@
     "addTime": 1779725293
   },
   {
-    "host": "r-finland.kimt.space",
-    "port": 443,
-    "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
-    "country": "FR",
-    "addTime": 1779725292
-  },
-  {
     "host": "putin.sotna.org",
     "port": 443,
     "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
     "country": "NL",
+    "addTime": 1779725292
+  },
+  {
+    "host": "r-finland.kimt.space",
+    "port": 443,
+    "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
+    "country": "FR",
     "addTime": 1779725292
   },
   {
