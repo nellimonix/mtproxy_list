@@ -91,16 +91,16 @@
     "addTime": 1779746988
   },
   {
-    "host": "r6.proxytg.space",
+    "host": "r7.proxytg.space",
     "port": 8443,
-    "secret": "eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365",
+    "secret": "ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779746941
   },
   {
-    "host": "r7.proxytg.space",
+    "host": "r6.proxytg.space",
     "port": 8443,
-    "secret": "ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365",
+    "secret": "eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779746941
   },
@@ -217,13 +217,6 @@
     "addTime": 1779725278
   },
   {
-    "host": "195.58.49.26",
-    "port": 443,
-    "secret": "7uAqXLtHlYLrtb0hgzq10kxydXR1YmUucnU",
-    "country": "RU",
-    "addTime": 1779725277
-  },
-  {
     "host": "baaaaaaaaaaaaaaaaaaag.alotaxi.info",
     "port": 7866,
     "secret": "eef56a96537bf96aef803a831d7502e4f06d656469612e737465616d706f77657265642e636f6d",
@@ -311,7 +304,7 @@
     "host": "offni-vpn.nolags.pw",
     "port": 443,
     "secret": "dda69632d86d88061ea6e94523027b0470",
-    "country": "SE",
+    "country": "US",
     "addTime": 1779714266
   },
   {
@@ -348,5 +341,12 @@
     "secret": "eec96b6d60154b353e16b514651c87f15b676f6f676c65617069732e636f6d",
     "country": "DE",
     "addTime": 1779692736
+  },
+  {
+    "host": "156.243.244.104",
+    "port": 32515,
+    "secret": "ee1a0602cca3724209452e752be02607dd617a7572652e6d6963726f736f66742e636f6d",
+    "country": "JP",
+    "addTime": 1779692730
   }
 ]
