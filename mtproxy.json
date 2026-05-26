@@ -1,12 +1,5 @@
 [
   {
-    "host": "mtp1.sosproxy.space",
-    "port": 443,
-    "secret": "ee806bfea72377dacb92438b5f330856b464726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1779779407
-  },
-  {
     "host": "5.42.108.37",
     "port": 443,
     "secret": "ee3b2382f388c45036a73e643dc8abf6036164732e78352e7275",
@@ -49,16 +42,16 @@
     "addTime": 1779779177
   },
   {
-    "host": "92.53.104.40",
+    "host": "freeon.name",
     "port": 443,
-    "secret": "eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974",
+    "secret": "dded1a5a7f339b8ff9840d52df12382970",
     "country": "RU",
     "addTime": 1779779175
   },
   {
-    "host": "freeon.name",
+    "host": "92.53.104.40",
     "port": 443,
-    "secret": "dded1a5a7f339b8ff9840d52df12382970",
+    "secret": "eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974",
     "country": "RU",
     "addTime": 1779779175
   },
@@ -140,16 +133,16 @@
     "addTime": 1779757528
   },
   {
-    "host": "r8.proxytg.space",
+    "host": "r9.proxytg.space",
     "port": 8443,
-    "secret": "eedcd75f24f6da60d7f5b6ce69faf27a0872382e70726f787974672e7370616365",
+    "secret": "ee3e77e6aa740bda96a1dabd06717f51b272392e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779747001
   },
   {
-    "host": "r9.proxytg.space",
+    "host": "r8.proxytg.space",
     "port": 8443,
-    "secret": "ee3e77e6aa740bda96a1dabd06717f51b272392e70726f787974672e7370616365",
+    "secret": "eedcd75f24f6da60d7f5b6ce69faf27a0872382e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779747001
   },
@@ -161,16 +154,16 @@
     "addTime": 1779746988
   },
   {
-    "host": "r6.proxytg.space",
+    "host": "r7.proxytg.space",
     "port": 8443,
-    "secret": "eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365",
+    "secret": "ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779746941
   },
   {
-    "host": "r7.proxytg.space",
+    "host": "r6.proxytg.space",
     "port": 8443,
-    "secret": "ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365",
+    "secret": "eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779746941
   },
@@ -189,16 +182,16 @@
     "addTime": 1779746717
   },
   {
-    "host": "78.40.217.139",
+    "host": "195.80.51.73",
     "port": 993,
-    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
+    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
     "addTime": 1779746704
   },
   {
-    "host": "195.80.51.73",
+    "host": "78.40.217.139",
     "port": 993,
-    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
+    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
     "addTime": 1779746704
   },
@@ -210,17 +203,17 @@
     "addTime": 1779746704
   },
   {
-    "host": "132.243.213.216",
-    "port": 443,
-    "secret": "eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275",
-    "country": "DE",
-    "addTime": 1779735916
-  },
-  {
     "host": "186.246.16.221",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
     "country": "LV",
+    "addTime": 1779735916
+  },
+  {
+    "host": "132.243.213.216",
+    "port": 443,
+    "secret": "eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275",
+    "country": "DE",
     "addTime": 1779735916
   },
   {
@@ -238,11 +231,11 @@
     "addTime": 1779735867
   },
   {
-    "host": "146.103.96.129",
+    "host": "212.233.99.175",
     "port": 443,
-    "secret": "ee627bdd42b085906e41105ddd7dab8cca706574726f766963682e7275",
-    "country": "NL",
-    "addTime": 1779735866
+    "secret": "88d723d436ba6439ef8d383f9de5d772",
+    "country": "RU",
+    "addTime": 1779735865
   },
   {
     "host": "186.246.21.34",
@@ -259,17 +252,17 @@
     "addTime": 1779725293
   },
   {
-    "host": "putin.sotna.org",
-    "port": 443,
-    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
-    "country": "NL",
-    "addTime": 1779725292
-  },
-  {
     "host": "r-finland.kimt.space",
     "port": 443,
     "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
     "country": "FR",
+    "addTime": 1779725292
+  },
+  {
+    "host": "putin.sotna.org",
+    "port": 443,
+    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
+    "country": "NL",
     "addTime": 1779725292
   },
   {
@@ -336,11 +329,11 @@
     "addTime": 1779725075
   },
   {
-    "host": "prx-1-velora.getvelora.space",
+    "host": "94.183.229.205",
     "port": 443,
-    "secret": "eee8a13cbfd00919e3d686b0c8e99939d8636c6f7564666c6172652e636f6d",
-    "country": "US",
-    "addTime": 1779714539
+    "secret": "43341181d1ee0910b503de7a0566854d",
+    "country": "AE",
+    "addTime": 1779725071
   },
   {
     "host": "rek.baboon.digital",
@@ -348,5 +341,12 @@
     "secret": "ee3ee55d93a141fb9be6d6ce9a03b18133636c6f7564666c6172652e636f6d",
     "country": "FR",
     "addTime": 1779714473
+  },
+  {
+    "host": "s11.neo-trading.org",
+    "port": 993,
+    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1779714444
   }
 ]
