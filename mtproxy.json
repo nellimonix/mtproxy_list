@@ -1,15 +1,15 @@
 [
   {
-    "host": "r12.proxytg.space",
+    "host": "r13.proxytg.space",
     "port": 8443,
-    "secret": "ee3569f898f3125116cdacc445919070717231322e70726f787974672e7370616365",
+    "secret": "ee57ca87accc47bcd0259091f4cd0c8a6b7231332e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779811599
   },
   {
-    "host": "r13.proxytg.space",
+    "host": "r12.proxytg.space",
     "port": 8443,
-    "secret": "ee57ca87accc47bcd0259091f4cd0c8a6b7231332e70726f787974672e7370616365",
+    "secret": "ee3569f898f3125116cdacc445919070717231322e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779811599
   },
@@ -84,13 +84,6 @@
     "addTime": 1779811466
   },
   {
-    "host": "46.224.67.204",
-    "port": 8443,
-    "secret": "7nnjRIGHSb16xRkTAiDCXQlnb29nbGUuY29t",
-    "country": "DE",
-    "addTime": 1779811463
-  },
-  {
     "host": "r10.proxytg.space",
     "port": 8443,
     "secret": "ee65032756d1cfb78ebbd0ea8db83d43937231302e70726f787974672e7370616365",
@@ -105,18 +98,11 @@
     "addTime": 1779811451
   },
   {
-    "host": "qhmei.mtp.ipsenter.net",
+    "host": "cdn0-38.cdn-vkvideo.com",
     "port": 443,
-    "secret": "eee28b56c84fb54c3b826db2fab1c96711676f6f676c652e636f6d",
-    "country": "IR",
-    "addTime": 1779800888
-  },
-  {
-    "host": "vnu3q.mtp.ipsenter.net",
-    "port": 443,
-    "secret": "ee6ece6b91bd5f40a4b894752e9c7b1857676f6f676c652e636f6d",
-    "country": "IR",
-    "addTime": 1779800849
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b63646e302d33382e63646e2d766b766964656f2e636f6d",
+    "country": "RU",
+    "addTime": 1779800840
   },
   {
     "host": "64.188.66.112",
@@ -140,13 +126,6 @@
     "addTime": 1779800840
   },
   {
-    "host": "cdn0-38.cdn-vkvideo.com",
-    "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b63646e302d33382e63646e2d766b766964656f2e636f6d",
-    "country": "RU",
-    "addTime": 1779800840
-  },
-  {
     "host": "31.76.77.192",
     "port": 443,
     "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
@@ -154,23 +133,23 @@
     "addTime": 1779800807
   },
   {
-    "host": "45.82.65.142",
+    "host": "57.129.121.20",
     "port": 443,
-    "secret": "a7c17e9a495ef47028c1c57f4c4a9d5e",
-    "country": "NL",
+    "secret": "80e3c68c7228488444913e77777dddfe",
+    "country": "DE",
     "addTime": 1779800678
-  },
-  {
-    "host": "gate5.myrka.digital",
-    "port": 444,
-    "secret": "eee65f8d61bfd62fd36b5db76ca6ae08f167617465352e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1779800677
   },
   {
     "host": "master.myrka.digital",
     "port": 8443,
     "secret": "ee1fffff223333fffff5556666777788886d61737465722e6d79726b612e6469676974616c",
+    "country": "US",
+    "addTime": 1779800677
+  },
+  {
+    "host": "gate5.myrka.digital",
+    "port": 444,
+    "secret": "eee65f8d61bfd62fd36b5db76ca6ae08f167617465352e6d79726b612e6469676974616c",
     "country": "US",
     "addTime": 1779800677
   },
@@ -266,7 +245,7 @@
     "addTime": 1779789882
   },
   {
-    "host": "103.213.248.30",
+    "host": "103.213.248.50",
     "port": 443,
     "secret": "ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d",
     "country": "JP",
@@ -280,18 +259,18 @@
     "addTime": 1779789882
   },
   {
-    "host": "103.213.248.50",
+    "host": "103.213.248.30",
     "port": 443,
     "secret": "ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d",
     "country": "JP",
     "addTime": 1779789882
   },
   {
-    "host": "212.233.76.27",
+    "host": "vk.chunkycorp.shop",
     "port": 443,
-    "secret": "dd8fb807a1ac8c4e95b8a2642e5bedd8fc",
-    "country": "RU",
-    "addTime": 1779789879
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "country": "LV",
+    "addTime": 1779779178
   },
   {
     "host": "45.12.109.223",
@@ -348,5 +327,26 @@
     "secret": "eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275",
     "country": "US",
     "addTime": 1779757688
+  },
+  {
+    "host": "185.182.82.73",
+    "port": 443,
+    "secret": "ee586cb8c65dc8c78f50bd4e573ae25f4873332e616d617a6f6e6177732e636f6d",
+    "country": "NL",
+    "addTime": 1779757528
+  },
+  {
+    "host": "r8.proxytg.space",
+    "port": 8443,
+    "secret": "eedcd75f24f6da60d7f5b6ce69faf27a0872382e70726f787974672e7370616365",
+    "country": "RU",
+    "addTime": 1779747001
+  },
+  {
+    "host": "r9.proxytg.space",
+    "port": 8443,
+    "secret": "ee3e77e6aa740bda96a1dabd06717f51b272392e70726f787974672e7370616365",
+    "country": "RU",
+    "addTime": 1779747001
   }
 ]
