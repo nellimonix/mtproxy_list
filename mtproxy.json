@@ -49,13 +49,6 @@
     "addTime": 1779789882
   },
   {
-    "host": "103.213.248.157",
-    "port": 443,
-    "secret": "ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d",
-    "country": "JP",
-    "addTime": 1779789882
-  },
-  {
     "host": "103.213.248.45",
     "port": 443,
     "secret": "ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d",
@@ -64,6 +57,13 @@
   },
   {
     "host": "103.213.248.50",
+    "port": 443,
+    "secret": "ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d",
+    "country": "JP",
+    "addTime": 1779789882
+  },
+  {
+    "host": "103.213.248.157",
     "port": 443,
     "secret": "ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d",
     "country": "JP",
@@ -84,13 +84,6 @@
     "addTime": 1779779407
   },
   {
-    "host": "186.246.21.40",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c74617669746f2e7275",
-    "country": "HK",
-    "addTime": 1779779178
-  },
-  {
     "host": "45.12.109.223",
     "port": 443,
     "secret": "ee43db025a33093757dadf5ab0aa9966b1676f6f676c65617069732e636f6d",
@@ -98,9 +91,9 @@
     "addTime": 1779779178
   },
   {
-    "host": "vk.chunkycorp.shop",
+    "host": "186.246.21.40",
     "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "secret": "eec11798ab008831b474066c9e1ebf5c74617669746f2e7275",
     "country": "HK",
     "addTime": 1779779178
   },
@@ -147,14 +140,14 @@
     "addTime": 1779768355
   },
   {
-    "host": "45.43.92.97",
+    "host": "ccc.nevis-prime.info",
     "port": 443,
     "secret": "eed451f808fd60ed2c45f11d38fdbc87c56363632e6e657669732d7072696d652e696e666f",
     "country": "NL",
     "addTime": 1779757818
   },
   {
-    "host": "ccc.nevis-prime.info",
+    "host": "45.43.92.97",
     "port": 443,
     "secret": "eed451f808fd60ed2c45f11d38fdbc87c56363632e6e657669732d7072696d652e696e666f",
     "country": "NL",
@@ -210,16 +203,16 @@
     "addTime": 1779746988
   },
   {
-    "host": "r7.proxytg.space",
+    "host": "r6.proxytg.space",
     "port": 8443,
-    "secret": "ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365",
+    "secret": "eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779746941
   },
   {
-    "host": "r6.proxytg.space",
+    "host": "r7.proxytg.space",
     "port": 8443,
-    "secret": "eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365",
+    "secret": "ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779746941
   },
@@ -238,17 +231,17 @@
     "addTime": 1779746717
   },
   {
-    "host": "186.246.16.221",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
-    "country": "LV",
-    "addTime": 1779735916
-  },
-  {
     "host": "132.243.213.216",
     "port": 443,
     "secret": "eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275",
     "country": "DE",
+    "addTime": 1779735916
+  },
+  {
+    "host": "186.246.16.221",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
+    "country": "LV",
     "addTime": 1779735916
   },
   {
@@ -280,13 +273,6 @@
     "addTime": 1779735866
   },
   {
-    "host": "212.233.99.175",
-    "port": 443,
-    "secret": "88d723d436ba6439ef8d383f9de5d772",
-    "country": "RU",
-    "addTime": 1779735865
-  },
-  {
     "host": "186.246.21.34",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c75617669746f2e7275",
@@ -301,17 +287,17 @@
     "addTime": 1779725293
   },
   {
-    "host": "putin.sotna.org",
-    "port": 443,
-    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
-    "country": "NL",
-    "addTime": 1779725292
-  },
-  {
     "host": "r-finland.kimt.space",
     "port": 443,
     "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
     "country": "FR",
+    "addTime": 1779725292
+  },
+  {
+    "host": "putin.sotna.org",
+    "port": 443,
+    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
+    "country": "NL",
     "addTime": 1779725292
   },
   {
@@ -348,5 +334,19 @@
     "secret": "eed33cc1365fef45292c52736f6695df6f6d61782e7275",
     "country": "PL",
     "addTime": 1779725273
+  },
+  {
+    "host": "lentigerous.monopolism.reestablish.teleseryestvheaven.com",
+    "port": 443,
+    "secret": "ee1b8215520e6e688ed21db4323e511b01647a656e2e7275",
+    "country": "DE",
+    "addTime": 1779725256
+  },
+  {
+    "host": "1st.anonnet.online",
+    "port": 8443,
+    "secret": "eec16f877103ba211b5652459a26bf65dd766b2e636f6d",
+    "country": "US",
+    "addTime": 1779725255
   }
 ]
