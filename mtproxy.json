@@ -28,13 +28,6 @@
     "addTime": 1779822363
   },
   {
-    "host": "13.220.17.66",
-    "port": 80,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "US",
-    "addTime": 1779822361
-  },
-  {
     "host": "bolthead.ballistic.clownish.convolute.higgle.teleseryeheaven.com",
     "port": 6200,
     "secret": "b8076df3e23f98408bee5638fd7bf6b4",
@@ -42,17 +35,24 @@
     "addTime": 1779822361
   },
   {
+    "host": "13.220.17.66",
+    "port": 80,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "US",
+    "addTime": 1779822361
+  },
+  {
+    "host": "81.90.25.57",
+    "port": 443,
+    "secret": "2b861a9d646551532a86c0de2d9fab02",
+    "country": "DE",
+    "addTime": 1779822360
+  },
+  {
     "host": "877737.ir.fulle7.info",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQ",
     "country": "FI",
-    "addTime": 1779822357
-  },
-  {
-    "host": "91.107.166.83",
-    "port": 443,
-    "secret": "Ee1603010200010001Fc030386E24c3aDd626973636f7474692e79656b74616e65742e636f6d",
-    "country": "DE",
     "addTime": 1779822357
   },
   {
@@ -68,13 +68,6 @@
     "secret": "EERighJJvXrFGRMCIMJdCQ",
     "country": "FI",
     "addTime": 1779822259
-  },
-  {
-    "host": "5.75.222.163",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "DE",
-    "addTime": 1779822258
   },
   {
     "host": "45.150.111.87",
@@ -98,6 +91,13 @@
     "addTime": 1779822258
   },
   {
+    "host": "5.75.222.163",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "DE",
+    "addTime": 1779822258
+  },
+  {
     "host": "r14.proxytg.space",
     "port": 8443,
     "secret": "ee20085b424592e30b46373c98b0b0a1737231342e70726f787974672e7370616365",
@@ -112,13 +112,6 @@
     "addTime": 1779822253
   },
   {
-    "host": "149.120.147.135",
-    "port": 443,
-    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
-    "country": "HK",
-    "addTime": 1779822252
-  },
-  {
     "host": "38.173.252.132",
     "port": 443,
     "secret": "ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d",
@@ -126,11 +119,18 @@
     "addTime": 1779822252
   },
   {
-    "host": "34.213.184.48",
-    "port": 80,
-    "secret": "dd104462821249bd7ac519130220c25d09",
+    "host": "149.120.147.135",
+    "port": 443,
+    "secret": "ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d",
+    "country": "HK",
+    "addTime": 1779822252
+  },
+  {
+    "host": "38.173.251.136",
+    "port": 443,
+    "secret": "ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d",
     "country": "US",
-    "addTime": 1779822249
+    "addTime": 1779822252
   },
   {
     "host": "5.78.213.53",
@@ -147,22 +147,22 @@
     "addTime": 1779822249
   },
   {
-    "host": "65.109.210.202",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "FI",
-    "addTime": 1779822248
+    "host": "34.213.184.48",
+    "port": 80,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "US",
+    "addTime": 1779822249
   },
   {
-    "host": "3.144.20.109",
-    "port": 80,
+    "host": "5.78.216.218",
+    "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "US",
     "addTime": 1779822248
   },
   {
-    "host": "5.78.216.218",
-    "port": 443,
+    "host": "3.144.20.109",
+    "port": 80,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "US",
     "addTime": 1779822248
@@ -182,16 +182,16 @@
     "addTime": 1779822246
   },
   {
-    "host": "r13.proxytg.space",
+    "host": "r12.proxytg.space",
     "port": 8443,
-    "secret": "ee57ca87accc47bcd0259091f4cd0c8a6b7231332e70726f787974672e7370616365",
+    "secret": "ee3569f898f3125116cdacc445919070717231322e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779811599
   },
   {
-    "host": "r12.proxytg.space",
+    "host": "r13.proxytg.space",
     "port": 8443,
-    "secret": "ee3569f898f3125116cdacc445919070717231322e70726f787974672e7370616365",
+    "secret": "ee57ca87accc47bcd0259091f4cd0c8a6b7231332e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779811599
   },
@@ -203,11 +203,11 @@
     "addTime": 1779811596
   },
   {
-    "host": "serv2.link-in.cc",
+    "host": "my-loliita.website.iroea.com",
     "port": 443,
-    "secret": "ee046522f2b611ffadeae1994d740c589b79616e6465782e636f6d",
-    "country": "RU",
-    "addTime": 1779811596
+    "secret": "7gAAAAAAAAAAAAAAAAAAAABzbGFjay5jb20",
+    "country": "US",
+    "addTime": 1779811571
   },
   {
     "host": "217.177.72.78",
@@ -259,6 +259,13 @@
     "addTime": 1779811460
   },
   {
+    "host": "186.246.21.89",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c73617669746f2e7275",
+    "country": "HK",
+    "addTime": 1779811458
+  },
+  {
     "host": "95.216.66.254",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -287,13 +294,6 @@
     "addTime": 1779800840
   },
   {
-    "host": "mypushking.ru",
-    "port": 443,
-    "secret": "ee7e1180331fae3154c0f2d4114bdd22946d79707573686b696e672e7275",
-    "country": "NL",
-    "addTime": 1779800840
-  },
-  {
     "host": "191.44.108.137",
     "port": 443,
     "secret": "ee81a88ec5f17925c94ed1623d12dc39cf74656c6567612e6d65",
@@ -308,11 +308,25 @@
     "addTime": 1779800840
   },
   {
+    "host": "mypushking.ru",
+    "port": 443,
+    "secret": "ee7e1180331fae3154c0f2d4114bdd22946d79707573686b696e672e7275",
+    "country": "NL",
+    "addTime": 1779800840
+  },
+  {
     "host": "31.76.77.192",
     "port": 443,
     "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564",
     "country": "US",
     "addTime": 1779800807
+  },
+  {
+    "host": "gate5.myrka.digital",
+    "port": 444,
+    "secret": "eee65f8d61bfd62fd36b5db76ca6ae08f167617465352e6d79726b612e6469676974616c",
+    "country": "US",
+    "addTime": 1779800677
   },
   {
     "host": "master.myrka.digital",
@@ -329,24 +343,10 @@
     "addTime": 1779800677
   },
   {
-    "host": "gate5.myrka.digital",
-    "port": 444,
-    "secret": "eee65f8d61bfd62fd36b5db76ca6ae08f167617465352e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1779800677
-  },
-  {
     "host": "178.104.91.70",
     "port": 443,
     "secret": "ee1a499af9a7a18282da82e30714402e157777772e6165726f666c6f742e7275",
     "country": "DE",
     "addTime": 1779800674
-  },
-  {
-    "host": "s25.proxyru.top",
-    "port": 443,
-    "secret": "eefe281d2bfa13f991ed6be43138e5e14c79612e7275",
-    "country": "DE",
-    "addTime": 1779800670
   }
 ]
