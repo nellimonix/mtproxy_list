@@ -1,5 +1,75 @@
 [
   {
+    "host": "mtp1.sosproxy.space",
+    "port": 443,
+    "secret": "ee806bfea72377dacb92438b5f330856b464726976652e676f6f676c652e636f6d",
+    "country": "NL",
+    "addTime": 1779779407
+  },
+  {
+    "host": "5.42.108.37",
+    "port": 443,
+    "secret": "ee3b2382f388c45036a73e643dc8abf6036164732e78352e7275",
+    "country": "RU",
+    "addTime": 1779779184
+  },
+  {
+    "host": "188.225.86.137",
+    "port": 443,
+    "secret": "eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974",
+    "country": "RU",
+    "addTime": 1779779178
+  },
+  {
+    "host": "186.246.21.40",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c74617669746f2e7275",
+    "country": "HK",
+    "addTime": 1779779178
+  },
+  {
+    "host": "vk.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "country": "HK",
+    "addTime": 1779779178
+  },
+  {
+    "host": "45.12.109.223",
+    "port": 443,
+    "secret": "ee43db025a33093757dadf5ab0aa9966b1676f6f676c65617069732e636f6d",
+    "country": "CY",
+    "addTime": 1779779178
+  },
+  {
+    "host": "tg.hamvpn.ru",
+    "port": 443,
+    "secret": "7cdb32a3a70a8a3247ae3dbae373f2ed",
+    "country": "RU",
+    "addTime": 1779779177
+  },
+  {
+    "host": "freeon.name",
+    "port": 443,
+    "secret": "dded1a5a7f339b8ff9840d52df12382970",
+    "country": "RU",
+    "addTime": 1779779175
+  },
+  {
+    "host": "92.53.104.40",
+    "port": 443,
+    "secret": "eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974",
+    "country": "RU",
+    "addTime": 1779779175
+  },
+  {
+    "host": "78.111.85.174",
+    "port": 443,
+    "secret": "dfa86acd1f2b42d0e3c679f21f62bcd1",
+    "country": "NL",
+    "addTime": 1779779174
+  },
+  {
     "host": "tg.jetsurfnetwork.ru",
     "port": 443,
     "secret": "eeed1dc22892d9351cec91e6f6ea111c9274672e6a6574737572666e6574776f726b2e7275",
@@ -119,16 +189,16 @@
     "addTime": 1779746717
   },
   {
-    "host": "78.40.217.139",
+    "host": "195.80.51.73",
     "port": 993,
-    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
+    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
     "addTime": 1779746704
   },
   {
-    "host": "195.80.51.73",
+    "host": "78.40.217.139",
     "port": 993,
-    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
+    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
     "addTime": 1779746704
   },
@@ -189,17 +259,17 @@
     "addTime": 1779735864
   },
   {
-    "host": "putin.sotna.org",
-    "port": 443,
-    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
-    "country": "NL",
-    "addTime": 1779725292
-  },
-  {
     "host": "r-finland.kimt.space",
     "port": 443,
     "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
     "country": "FR",
+    "addTime": 1779725292
+  },
+  {
+    "host": "putin.sotna.org",
+    "port": 443,
+    "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
+    "country": "NL",
     "addTime": 1779725292
   },
   {
@@ -278,75 +348,5 @@
     "secret": "ee3ee55d93a141fb9be6d6ce9a03b18133636c6f7564666c6172652e636f6d",
     "country": "FR",
     "addTime": 1779714473
-  },
-  {
-    "host": "s11.neo-trading.org",
-    "port": 993,
-    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1779714444
-  },
-  {
-    "host": "aurologic.myrka.digital",
-    "port": 8443,
-    "secret": "eee7084fde01cfbce4b201b0c92e176c51697269736b612e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1779714275
-  },
-  {
-    "host": "s13.neo-trading.org",
-    "port": 993,
-    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1779714266
-  },
-  {
-    "host": "offni-vpn.nolags.pw",
-    "port": 443,
-    "secret": "dda69632d86d88061ea6e94523027b0470",
-    "country": "US",
-    "addTime": 1779714266
-  },
-  {
-    "host": "45.8.93.166",
-    "port": 443,
-    "secret": "ee76c09650cc6c0fa84f56b3b41f699c1a706c617932676f2e636c6f7564",
-    "country": "SE",
-    "addTime": 1779703682
-  },
-  {
-    "host": "lovevesper.zoryx.tech",
-    "port": 853,
-    "secret": "ee2a43151ca1c75d56a2f8f63c87bfaae374726176656c6c696e652e7275",
-    "country": "US",
-    "addTime": 1779703652
-  },
-  {
-    "host": "h.voronezh.russia34.ru",
-    "port": 443,
-    "secret": "ee66591af096454c5c23e9c8e25ffbbe8479612e7275",
-    "country": "US",
-    "addTime": 1779703506
-  },
-  {
-    "host": "178.105.150.126",
-    "port": 443,
-    "secret": "eec96b6d60154b353e16b514651c87f15b676f6f676c65617069732e636f6d",
-    "country": "DE",
-    "addTime": 1779692736
-  },
-  {
-    "host": "156.243.244.104",
-    "port": 32515,
-    "secret": "ee1a0602cca3724209452e752be02607dd617a7572652e6d6963726f736f66742e636f6d",
-    "country": "JP",
-    "addTime": 1779692730
-  },
-  {
-    "host": "vaticanic.top",
-    "port": 8443,
-    "secret": "870579bd7c908dc115d6dc252cb6a55a",
-    "country": "RU",
-    "addTime": 1779682078
   }
 ]
