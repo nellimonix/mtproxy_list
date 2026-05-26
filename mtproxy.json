@@ -119,13 +119,6 @@
     "addTime": 1779757688
   },
   {
-    "host": "elite.telehelp.top",
-    "port": 443,
-    "secret": "eece53761a75bac14ee003070656d8304664726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1779757549
-  },
-  {
     "host": "185.182.82.73",
     "port": 443,
     "secret": "ee586cb8c65dc8c78f50bd4e573ae25f4873332e616d617a6f6e6177732e636f6d",
@@ -154,13 +147,6 @@
     "addTime": 1779746988
   },
   {
-    "host": "r7.proxytg.space",
-    "port": 8443,
-    "secret": "ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365",
-    "country": "RU",
-    "addTime": 1779746941
-  },
-  {
     "host": "r6.proxytg.space",
     "port": 8443,
     "secret": "eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365",
@@ -168,17 +154,24 @@
     "addTime": 1779746941
   },
   {
-    "host": "proxy.realslotsvpn.com",
+    "host": "r7.proxytg.space",
     "port": 8443,
-    "secret": "ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275",
+    "secret": "ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365",
     "country": "RU",
-    "addTime": 1779746717
+    "addTime": 1779746941
   },
   {
     "host": "de4.kael.fuckrkn.net",
     "port": 443,
     "secret": "ee1a499af9a7a18282da82e30714402e157777772e6165726f666c6f742e7275",
     "country": "DE",
+    "addTime": 1779746717
+  },
+  {
+    "host": "proxy.realslotsvpn.com",
+    "port": 8443,
+    "secret": "ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275",
+    "country": "RU",
     "addTime": 1779746717
   },
   {
@@ -203,17 +196,17 @@
     "addTime": 1779746704
   },
   {
-    "host": "186.246.16.221",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
-    "country": "LV",
-    "addTime": 1779735916
-  },
-  {
     "host": "132.243.213.216",
     "port": 443,
     "secret": "eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275",
     "country": "DE",
+    "addTime": 1779735916
+  },
+  {
+    "host": "186.246.16.221",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
+    "country": "LV",
     "addTime": 1779735916
   },
   {
@@ -264,13 +257,6 @@
     "secret": "ee043f4515944965b96171f3a68a5cfe3e7362657262616e6b2e7275",
     "country": "NL",
     "addTime": 1779725292
-  },
-  {
-    "host": "193.124.33.133",
-    "port": 17945,
-    "secret": "ea9348f11c49adddfca4f93a4069559e",
-    "country": "RU",
-    "addTime": 1779725281
   },
   {
     "host": "95.181.213.248",
@@ -329,11 +315,11 @@
     "addTime": 1779725075
   },
   {
-    "host": "94.183.229.205",
+    "host": "prx-1-velora.getvelora.space",
     "port": 443,
-    "secret": "43341181d1ee0910b503de7a0566854d",
-    "country": "AE",
-    "addTime": 1779725071
+    "secret": "eee8a13cbfd00919e3d686b0c8e99939d8636c6f7564666c6172652e636f6d",
+    "country": "US",
+    "addTime": 1779714539
   },
   {
     "host": "rek.baboon.digital",
@@ -343,10 +329,24 @@
     "addTime": 1779714473
   },
   {
+    "host": "s15.proxyru.top",
+    "port": 993,
+    "secret": "eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
+    "addTime": 1779714444
+  },
+  {
     "host": "s11.neo-trading.org",
     "port": 993,
     "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
     "addTime": 1779714444
+  },
+  {
+    "host": "aurologic.myrka.digital",
+    "port": 8443,
+    "secret": "eee7084fde01cfbce4b201b0c92e176c51697269736b612e6d79726b612e6469676974616c",
+    "country": "US",
+    "addTime": 1779714275
   }
 ]
