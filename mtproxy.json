@@ -1,13 +1,13 @@
 [
   {
-    "host": "ccc.nevis-prime.info",
+    "host": "45.43.92.97",
     "port": 443,
     "secret": "eed451f808fd60ed2c45f11d38fdbc87c56363632e6e657669732d7072696d652e696e666f",
     "country": "NL",
     "addTime": 1779757818
   },
   {
-    "host": "45.43.92.97",
+    "host": "ccc.nevis-prime.info",
     "port": 443,
     "secret": "eed451f808fd60ed2c45f11d38fdbc87c56363632e6e657669732d7072696d652e696e666f",
     "country": "NL",
@@ -42,16 +42,16 @@
     "addTime": 1779757528
   },
   {
-    "host": "r8.proxytg.space",
+    "host": "r9.proxytg.space",
     "port": 8443,
-    "secret": "eedcd75f24f6da60d7f5b6ce69faf27a0872382e70726f787974672e7370616365",
+    "secret": "ee3e77e6aa740bda96a1dabd06717f51b272392e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779747001
   },
   {
-    "host": "r9.proxytg.space",
+    "host": "r8.proxytg.space",
     "port": 8443,
-    "secret": "ee3e77e6aa740bda96a1dabd06717f51b272392e70726f787974672e7370616365",
+    "secret": "eedcd75f24f6da60d7f5b6ce69faf27a0872382e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779747001
   },
@@ -63,13 +63,6 @@
     "addTime": 1779746988
   },
   {
-    "host": "r6.proxytg.space",
-    "port": 8443,
-    "secret": "eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365",
-    "country": "RU",
-    "addTime": 1779746941
-  },
-  {
     "host": "r7.proxytg.space",
     "port": 8443,
     "secret": "ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365",
@@ -77,11 +70,11 @@
     "addTime": 1779746941
   },
   {
-    "host": "proxy.realslotsvpn.com",
+    "host": "r6.proxytg.space",
     "port": 8443,
-    "secret": "ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275",
+    "secret": "eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365",
     "country": "RU",
-    "addTime": 1779746717
+    "addTime": 1779746941
   },
   {
     "host": "de4.kael.fuckrkn.net",
@@ -91,11 +84,11 @@
     "addTime": 1779746717
   },
   {
-    "host": "186.246.21.202",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "country": "HK",
-    "addTime": 1779746704
+    "host": "proxy.realslotsvpn.com",
+    "port": 8443,
+    "secret": "ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275",
+    "country": "RU",
+    "addTime": 1779746717
   },
   {
     "host": "78.40.217.139",
@@ -109,6 +102,13 @@
     "port": 993,
     "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
+    "addTime": 1779746704
+  },
+  {
+    "host": "186.246.21.202",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "country": "HK",
     "addTime": 1779746704
   },
   {
@@ -203,13 +203,6 @@
     "addTime": 1779725278
   },
   {
-    "host": "195.58.49.26",
-    "port": 443,
-    "secret": "7uAqXLtHlYLrtb0hgzq10kxydXR1YmUucnU",
-    "country": "RU",
-    "addTime": 1779725277
-  },
-  {
     "host": "baaaaaaaaaaaaaaaaaaag.alotaxi.info",
     "port": 7866,
     "secret": "eef56a96537bf96aef803a831d7502e4f06d656469612e737465616d706f77657265642e636f6d",
@@ -287,17 +280,17 @@
     "addTime": 1779714473
   },
   {
-    "host": "s11.neo-trading.org",
-    "port": 993,
-    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1779714444
-  },
-  {
     "host": "s15.proxyru.top",
     "port": 993,
     "secret": "eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d",
     "country": "NL",
+    "addTime": 1779714444
+  },
+  {
+    "host": "s11.neo-trading.org",
+    "port": 993,
+    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
     "addTime": 1779714444
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee66591af096454c5c23e9c8e25ffbbe8479612e7275",
     "country": "US",
     "addTime": 1779703506
+  },
+  {
+    "host": "178.105.150.126",
+    "port": 443,
+    "secret": "eec96b6d60154b353e16b514651c87f15b676f6f676c65617069732e636f6d",
+    "country": "DE",
+    "addTime": 1779692736
   }
 ]
