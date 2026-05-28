@@ -21,13 +21,6 @@
     "addTime": 1779919539
   },
   {
-    "host": "185.246.116.100",
-    "port": 443,
-    "secret": "7shd3X1csVH5LlxwcR9dEbhhcGkudGVsZWdhLmluZm8",
-    "country": "RU",
-    "addTime": 1779919531
-  },
-  {
     "host": "5.78.106.26",
     "port": 4455,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -98,16 +91,16 @@
     "addTime": 1779908865
   },
   {
-    "host": "r17.proxytg.space",
+    "host": "r16.proxytg.space",
     "port": 8443,
-    "secret": "ee0d5fe9764251237626ce30904abbccec7231372e70726f787974672e7370616365",
+    "secret": "ee58ff3d2285478b5a749af32da19f36707231362e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779908865
   },
   {
-    "host": "r16.proxytg.space",
+    "host": "r17.proxytg.space",
     "port": 8443,
-    "secret": "ee58ff3d2285478b5a749af32da19f36707231362e70726f787974672e7370616365",
+    "secret": "ee0d5fe9764251237626ce30904abbccec7231372e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779908865
   },
@@ -217,14 +210,7 @@
     "addTime": 1779898064
   },
   {
-    "host": "31.76.119.64",
-    "port": 443,
-    "secret": "ee726fbbbf8bc37222d0f92a6cac3aacf4636c6f7564666c6172652e636f6d",
-    "country": "US",
-    "addTime": 1779898055
-  },
-  {
-    "host": "87.120.196.7",
+    "host": "87.120.196.8",
     "port": 443,
     "secret": "ee726fbbbf8bc37222d0f92a6cac3aacf4636c6f7564666c6172652e636f6d",
     "country": "LK",
@@ -238,10 +224,17 @@
     "addTime": 1779898055
   },
   {
-    "host": "87.120.196.8",
+    "host": "87.120.196.7",
     "port": 443,
     "secret": "ee726fbbbf8bc37222d0f92a6cac3aacf4636c6f7564666c6172652e636f6d",
     "country": "LK",
+    "addTime": 1779898055
+  },
+  {
+    "host": "31.76.119.64",
+    "port": 443,
+    "secret": "ee726fbbbf8bc37222d0f92a6cac3aacf4636c6f7564666c6172652e636f6d",
+    "country": "US",
     "addTime": 1779898055
   },
   {
@@ -348,5 +341,12 @@
     "secret": "ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d",
     "country": "JP",
     "addTime": 1779897854
+  },
+  {
+    "host": "dns.vdl.lat",
+    "port": 853,
+    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
+    "country": "RU",
+    "addTime": 1779897852
   }
 ]
