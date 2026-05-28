@@ -14,20 +14,6 @@
     "addTime": 1780006044
   },
   {
-    "host": "serv5.link-in.cc",
-    "port": 443,
-    "secret": "ee8002d8c7a7f8779817c00ca932e1a3a4636c6f75642e63646e2e79616e6465782e636f6d",
-    "country": "US",
-    "addTime": 1780006043
-  },
-  {
-    "host": "mtproto.obsidianpeak.online",
-    "port": 443,
-    "secret": "ee41f0b889fa532a8d7222c3b2e8e2ade6646f6d2e7275",
-    "country": "DE",
-    "addTime": 1780006043
-  },
-  {
     "host": "tgmt.st-29.ru",
     "port": 443,
     "secret": "ee8fc6007490d148f20f93ba5e580fe2a66d6f736d6574726f2e7275",
@@ -42,17 +28,31 @@
     "addTime": 1780006043
   },
   {
-    "host": "185.209.15.228",
+    "host": "mtproto.obsidianpeak.online",
     "port": 443,
-    "secret": "eeRighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "NL",
-    "addTime": 1780005988
+    "secret": "ee41f0b889fa532a8d7222c3b2e8e2ade6646f6d2e7275",
+    "country": "DE",
+    "addTime": 1780006043
+  },
+  {
+    "host": "serv5.link-in.cc",
+    "port": 443,
+    "secret": "ee8002d8c7a7f8779817c00ca932e1a3a4636c6f75642e63646e2e79616e6465782e636f6d",
+    "country": "US",
+    "addTime": 1780006043
   },
   {
     "host": "pro.cafeshop1.org",
     "port": 443,
     "secret": "dd5124b0c2dacd412d01fe245dd20c5628",
     "country": "IR",
+    "addTime": 1780005988
+  },
+  {
+    "host": "185.209.15.228",
+    "port": 443,
+    "secret": "eeRighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "NL",
     "addTime": 1780005988
   },
   {
@@ -98,10 +98,10 @@
     "addTime": 1780005859
   },
   {
-    "host": "178.187.111.101",
-    "port": 7997,
-    "secret": "7vjO7a2jeTXb5NuBWwQkqEZiaXlzazIyLnJ1",
-    "country": "RU",
+    "host": "5.78.28.147",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "US",
     "addTime": 1780005859
   },
   {
@@ -112,17 +112,17 @@
     "addTime": 1780005859
   },
   {
-    "host": "5.78.28.147",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "US",
-    "addTime": 1780005859
-  },
-  {
     "host": "13.61.18.134",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "SE",
+    "addTime": 1780005859
+  },
+  {
+    "host": "178.187.111.101",
+    "port": 7997,
+    "secret": "7vjO7a2jeTXb5NuBWwQkqEZiaXlzazIyLnJ1",
+    "country": "RU",
     "addTime": 1780005859
   },
   {
@@ -140,18 +140,25 @@
     "addTime": 1780005856
   },
   {
-    "host": "russia.nolags.pw",
-    "port": 443,
-    "secret": "dd04dbf1f1459ffbc5e646db206794163a",
-    "country": "SE",
-    "addTime": 1780005854
-  },
-  {
     "host": "gando-best-connection.ferrari-garrage.shop",
     "port": 443,
     "secret": "eee269fbcd4ba2d3d2bc8ee7b1657598657777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
     "addTime": 1780005854
+  },
+  {
+    "host": "russia.nolags.pw",
+    "port": 443,
+    "secret": "dd04dbf1f1459ffbc5e646db206794163a",
+    "country": "US",
+    "addTime": 1780005854
+  },
+  {
+    "host": "lte.opsna.ru",
+    "port": 8443,
+    "secret": "dd68050e7062d628eb2beaf6dadf7837ed",
+    "country": "RU",
+    "addTime": 1780005852
   },
   {
     "host": "18.117.170.194",
@@ -171,14 +178,14 @@
     "host": "proxymtproto.tproxy.rest",
     "port": 8443,
     "secret": "ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "GB",
+    "country": "US",
     "addTime": 1779995245
   },
   {
     "host": "hi.publiclg.shop",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "DE",
+    "country": "FR",
     "addTime": 1779995245
   },
   {
@@ -199,22 +206,8 @@
     "host": "bmw.publiclg.shop",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "DE",
+    "country": "US",
     "addTime": 1779995204
-  },
-  {
-    "host": "makeup.duhpro.makeup",
-    "port": 8443,
-    "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "DE",
-    "addTime": 1779995203
-  },
-  {
-    "host": "https.uptv443.shop",
-    "port": 8443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "country": "FR",
-    "addTime": 1779995203
   },
   {
     "host": "https.alo-alo.ink",
@@ -224,10 +217,24 @@
     "addTime": 1779995203
   },
   {
-    "host": "https.porteghall.site",
+    "host": "https.uptv443.shop",
+    "port": 8443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "country": "IE",
+    "addTime": 1779995203
+  },
+  {
+    "host": "makeup.duhpro.makeup",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
     "country": "IE",
+    "addTime": 1779995203
+  },
+  {
+    "host": "https.porteghall.site",
+    "port": 8443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
+    "country": "US",
     "addTime": 1779995203
   },
   {
@@ -241,14 +248,14 @@
     "host": "www.x9q.pw",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "IE",
+    "country": "US",
     "addTime": 1779995202
   },
   {
     "host": "www.duhpro.makeup",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "US",
+    "country": "IE",
     "addTime": 1779995192
   },
   {
@@ -262,7 +269,7 @@
     "host": "russia.publiclg.shop",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "FR",
+    "country": "US",
     "addTime": 1779995180
   },
   {
@@ -311,7 +318,7 @@
     "host": "new.tproxy.rest",
     "port": 8443,
     "secret": "ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "GB",
+    "country": "IE",
     "addTime": 1779995068
   },
   {
@@ -329,16 +336,9 @@
     "addTime": 1779995067
   },
   {
-    "host": "r23.proxytg.space",
+    "host": "r21.proxytg.space",
     "port": 8443,
-    "secret": "eed8f9cb134573d3eff7e4e031965625177232332e70726f787974672e7370616365",
-    "country": "RU",
-    "addTime": 1779995066
-  },
-  {
-    "host": "r22.proxytg.space",
-    "port": 8443,
-    "secret": "eeace5ab7ab128f81a0b16ada143ec10807232322e70726f787974672e7370616365",
+    "secret": "eec5963870566a7e0d9a04f5f792d9faf47232312e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1779995066
   },
