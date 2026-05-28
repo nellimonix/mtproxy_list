@@ -1,12 +1,5 @@
 [
   {
-    "host": "rdp10592.vertiex.ru",
-    "port": 443,
-    "secret": "eea15ea99ec3456e7f4425dd392426ac6479612e7275",
-    "country": "KZ",
-    "addTime": 1779984371
-  },
-  {
     "host": "de2.obsidianpeak.online",
     "port": 443,
     "secret": "ee41f0b889fa532a8d7222c3b2e8e2ade6646f6d2e7275",
@@ -28,13 +21,6 @@
     "addTime": 1779984306
   },
   {
-    "host": "155.212.230.233",
-    "port": 443,
-    "secret": "ee00a8a3fe0ee92d8f1728065da313059431632e7275",
-    "country": "LV",
-    "addTime": 1779984304
-  },
-  {
     "host": "panel.testspeedpro.ir",
     "port": 8080,
     "secret": "ee29f8a9b5414738386e94713de419c33f7777772e636c6f7564666c6172652e636f6d",
@@ -49,10 +35,10 @@
     "addTime": 1779984272
   },
   {
-    "host": "nitro.proxytune.info",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "FI",
+    "host": "raven.proxyb.site",
+    "port": 8443,
+    "secret": "eed8b631a9dce4bfe51e0bf2093a5af129726176656e2e70726f7879622e73697465",
+    "country": "RU",
     "addTime": 1779984267
   },
   {
@@ -63,10 +49,10 @@
     "addTime": 1779984267
   },
   {
-    "host": "raven.proxyb.site",
-    "port": 8443,
-    "secret": "eed8b631a9dce4bfe51e0bf2093a5af129726176656e2e70726f7879622e73697465",
-    "country": "RU",
+    "host": "nitro.proxytune.info",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "country": "FI",
     "addTime": 1779984267
   },
   {
@@ -75,6 +61,13 @@
     "secret": "98d98e1739221209997feecf7f712b96",
     "country": "NL",
     "addTime": 1779984255
+  },
+  {
+    "host": "5.78.29.253",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "US",
+    "addTime": 1779984254
   },
   {
     "host": "35.178.235.2",
@@ -88,13 +81,6 @@
     "port": 80,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "SE",
-    "addTime": 1779984254
-  },
-  {
-    "host": "5.78.29.253",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "US",
     "addTime": 1779984254
   },
   {
@@ -182,6 +168,13 @@
     "addTime": 1779973702
   },
   {
+    "host": "155.212.225.172",
+    "port": 443,
+    "secret": "ee87c1ff5cc98bff923a6ff0c64959831531632e7275",
+    "country": "LV",
+    "addTime": 1779973702
+  },
+  {
     "host": "95.182.100.46",
     "port": 443,
     "secret": "ee7777772e636c6f7564666c6172652e636f6d",
@@ -189,11 +182,11 @@
     "addTime": 1779973702
   },
   {
-    "host": "155.212.225.172",
-    "port": 443,
-    "secret": "ee87c1ff5cc98bff923a6ff0c64959831531632e7275",
-    "country": "LV",
-    "addTime": 1779973702
+    "host": "18.195.97.240",
+    "port": 80,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1779973468
   },
   {
     "host": "63.180.238.232",
@@ -207,13 +200,6 @@
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "US",
-    "addTime": 1779973468
-  },
-  {
-    "host": "18.195.97.240",
-    "port": 80,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
     "addTime": 1779973468
   },
   {
@@ -308,16 +294,16 @@
     "addTime": 1779962814
   },
   {
-    "host": "ui.geodns.info",
-    "port": 4455,
-    "secret": "7nnjRIGHSb16xRkTAiDCXQk",
+    "host": "db.road-digger.info",
+    "port": 8443,
+    "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
     "country": "DE",
     "addTime": 1779962787
   },
   {
-    "host": "db.road-digger.info",
-    "port": 8443,
-    "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
+    "host": "ui.geodns.info",
+    "port": 4455,
+    "secret": "7nnjRIGHSb16xRkTAiDCXQk",
     "country": "DE",
     "addTime": 1779962787
   },
@@ -348,5 +334,19 @@
     "secret": "ee6a441d3845f1bfec1100662ce671d8ed706574726f766963682e7275",
     "country": "DE",
     "addTime": 1779952122
+  },
+  {
+    "host": "37.139.34.162",
+    "port": 443,
+    "secret": "9f3c7a8d2e4b1c6f5a7d8e9b0c2f4a1d",
+    "country": "RU",
+    "addTime": 1779952115
+  },
+  {
+    "host": "95.182.83.154",
+    "port": 443,
+    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
+    "country": "CZ",
+    "addTime": 1779952112
   }
 ]
