@@ -7,21 +7,14 @@
     "addTime": 1780017052
   },
   {
-    "host": "signal.mtp.llc",
+    "host": "relay.mtp.llc",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "AE",
     "addTime": 1780016781
   },
   {
-    "host": "connect.mtp.llc",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AE",
-    "addTime": 1780016781
-  },
-  {
-    "host": "nova.mtp.llc",
+    "host": "global.mtp.llc",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "AE",
@@ -42,6 +35,13 @@
     "addTime": 1780016781
   },
   {
+    "host": "pulse.mtp.llc",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AE",
+    "addTime": 1780016781
+  },
+  {
     "host": "edge.mtp.llc",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
@@ -49,28 +49,28 @@
     "addTime": 1780016781
   },
   {
+    "host": "connect.mtp.llc",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AE",
+    "addTime": 1780016781
+  },
+  {
+    "host": "signal.mtp.llc",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AE",
+    "addTime": 1780016781
+  },
+  {
+    "host": "nova.mtp.llc",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AE",
+    "addTime": 1780016781
+  },
+  {
     "host": "fast.mtp.llc",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AE",
-    "addTime": 1780016781
-  },
-  {
-    "host": "relay.mtp.llc",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AE",
-    "addTime": 1780016781
-  },
-  {
-    "host": "global.mtp.llc",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AE",
-    "addTime": 1780016781
-  },
-  {
-    "host": "pulse.mtp.llc",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "AE",
@@ -91,13 +91,6 @@
     "addTime": 1780016672
   },
   {
-    "host": "45.144.54.206",
-    "port": 443,
-    "secret": "99731c4fb1dd3905855025a79e63ea53",
-    "country": "DE",
-    "addTime": 1780016672
-  },
-  {
     "host": "151.247.209.48",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
@@ -112,14 +105,21 @@
     "addTime": 1780016672
   },
   {
-    "host": "5.78.29.152",
+    "host": "45.144.54.206",
+    "port": 443,
+    "secret": "99731c4fb1dd3905855025a79e63ea53",
+    "country": "DE",
+    "addTime": 1780016672
+  },
+  {
+    "host": "5.78.29.26",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "US",
     "addTime": 1780016667
   },
   {
-    "host": "5.78.29.26",
+    "host": "5.78.29.152",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "US",
@@ -182,17 +182,17 @@
     "addTime": 1780006043
   },
   {
-    "host": "mtproto.obsidianpeak.online",
-    "port": 443,
-    "secret": "ee41f0b889fa532a8d7222c3b2e8e2ade6646f6d2e7275",
-    "country": "DE",
-    "addTime": 1780006043
-  },
-  {
     "host": "tgmt.st-29.ru",
     "port": 443,
     "secret": "ee8fc6007490d148f20f93ba5e580fe2a66d6f736d6574726f2e7275",
     "country": "FI",
+    "addTime": 1780006043
+  },
+  {
+    "host": "mtproto.obsidianpeak.online",
+    "port": 443,
+    "secret": "ee41f0b889fa532a8d7222c3b2e8e2ade6646f6d2e7275",
+    "country": "DE",
     "addTime": 1780006043
   },
   {
@@ -238,13 +238,6 @@
     "addTime": 1780005972
   },
   {
-    "host": "5.78.90.179",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "US",
-    "addTime": 1780005859
-  },
-  {
     "host": "54.191.10.51",
     "port": 80,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -252,10 +245,10 @@
     "addTime": 1780005859
   },
   {
-    "host": "178.187.111.101",
-    "port": 7997,
-    "secret": "7vjO7a2jeTXb5NuBWwQkqEZiaXlzazIyLnJ1",
-    "country": "RU",
+    "host": "5.78.90.179",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "US",
     "addTime": 1780005859
   },
   {
@@ -270,6 +263,13 @@
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "US",
+    "addTime": 1780005859
+  },
+  {
+    "host": "178.187.111.101",
+    "port": 7997,
+    "secret": "7vjO7a2jeTXb5NuBWwQkqEZiaXlzazIyLnJ1",
+    "country": "RU",
     "addTime": 1780005859
   },
   {
@@ -336,17 +336,17 @@
     "addTime": 1779995245
   },
   {
+    "host": "proxymtproto.tproxy.rest",
+    "port": 8443,
+    "secret": "ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "country": "DE",
+    "addTime": 1779995245
+  },
+  {
     "host": "sv.tina-pay.com",
     "port": 443,
     "secret": "44189a97c2a5194841d83424cc6473c4",
     "country": "DE",
     "addTime": 1779995208
-  },
-  {
-    "host": "bmw.publiclg.shop",
-    "port": 8443,
-    "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "IE",
-    "addTime": 1779995204
   }
 ]
