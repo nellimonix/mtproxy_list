@@ -1,15 +1,15 @@
 [
   {
-    "host": "watch.rutubevideo.com",
+    "host": "stream.rutubevideo.com",
     "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b73747265616d2e727574756265766964656f2e636f6d",
     "country": "RU",
     "addTime": 1780070944
   },
   {
-    "host": "stream.rutubevideo.com",
+    "host": "watch.rutubevideo.com",
     "port": 443,
-    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b73747265616d2e727574756265766964656f2e636f6d",
+    "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d",
     "country": "RU",
     "addTime": 1780070944
   },
@@ -21,13 +21,6 @@
     "addTime": 1780070943
   },
   {
-    "host": "95.163.214.170",
-    "port": 8443,
-    "secret": "dd9641066cd9fbf8f4764dcf97cbddfb33",
-    "country": "RU",
-    "addTime": 1780070894
-  },
-  {
     "host": "depicted.husker.waters.pilipinoteleserye.com",
     "port": 443,
     "secret": "eee3cf82ccb7f0dfdf6ceda06493dcf43c647a656e2e7275",
@@ -35,14 +28,14 @@
     "addTime": 1780070882
   },
   {
-    "host": "78.47.251.162",
+    "host": "78.47.243.28",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780070882
   },
   {
-    "host": "78.47.243.28",
+    "host": "78.47.251.162",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -56,17 +49,17 @@
     "addTime": 1780070882
   },
   {
-    "host": "free4.fsproxy.site",
-    "port": 443,
-    "secret": "ee4f9dcc1259bfc9de5ce17ef5e2f1857462726f777365722e79616e6465782e636f6d",
-    "country": "DE",
-    "addTime": 1780070878
-  },
-  {
     "host": "3.129.25.111",
     "port": 80,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "US",
+    "addTime": 1780070878
+  },
+  {
+    "host": "5.75.220.138",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
     "addTime": 1780070878
   },
   {
@@ -77,9 +70,9 @@
     "addTime": 1780070878
   },
   {
-    "host": "5.75.220.138",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
+    "host": "free4.fsproxy.site",
+    "port": 443,
+    "secret": "ee4f9dcc1259bfc9de5ce17ef5e2f1857462726f777365722e79616e6465782e636f6d",
     "country": "DE",
     "addTime": 1780070878
   },
@@ -91,13 +84,6 @@
     "addTime": 1780070861
   },
   {
-    "host": "nimagallery18.ir",
-    "port": 25565,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "IR",
-    "addTime": 1780070861
-  },
-  {
     "host": "47881888767266782277.ir.fulldf.info",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQ",
@@ -105,10 +91,10 @@
     "addTime": 1780070861
   },
   {
-    "host": "98.92.136.8",
-    "port": 80,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "US",
+    "host": "157.90.70.229",
+    "port": 8443,
+    "secret": "963a7fd525b04c4533ce776c9bd70f34",
+    "country": "DE",
     "addTime": 1780070668
   },
   {
@@ -119,11 +105,18 @@
     "addTime": 1780070668
   },
   {
-    "host": "157.90.70.229",
-    "port": 8443,
-    "secret": "963a7fd525b04c4533ce776c9bd70f34",
-    "country": "DE",
+    "host": "98.92.136.8",
+    "port": 80,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "US",
     "addTime": 1780070668
+  },
+  {
+    "host": "72.56.41.220",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c63617669746f2e7275",
+    "country": "LV",
+    "addTime": 1780070665
   },
   {
     "host": "weblog.forwarding-co.site",
@@ -168,17 +161,17 @@
     "addTime": 1780060048
   },
   {
-    "host": "95.182.82.152",
-    "port": 443,
-    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
-    "country": "CZ",
-    "addTime": 1780060041
-  },
-  {
     "host": "195.63.133.229",
     "port": 443,
     "secret": "ee1a0c8f2cf56c77b891a69cfdfbecf532706574726f766963682e7275",
     "country": "NL",
+    "addTime": 1780060041
+  },
+  {
+    "host": "95.182.82.152",
+    "port": 443,
+    "secret": "eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275",
+    "country": "CZ",
     "addTime": 1780060041
   },
   {
@@ -189,10 +182,10 @@
     "addTime": 1780060030
   },
   {
-    "host": "way.baboon.digital",
-    "port": 8444,
-    "secret": "ee2a693e2d248c17b429d5b0f29ef4f897636c6f7564666c6172652e636f6d",
-    "country": "CZ",
+    "host": "5.75.220.12",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
     "addTime": 1780060024
   },
   {
@@ -203,10 +196,10 @@
     "addTime": 1780060024
   },
   {
-    "host": "5.75.220.12",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
+    "host": "way.baboon.digital",
+    "port": 8444,
+    "secret": "ee2a693e2d248c17b429d5b0f29ef4f897636c6f7564666c6172652e636f6d",
+    "country": "CZ",
     "addTime": 1780060024
   },
   {
@@ -231,13 +224,6 @@
     "addTime": 1780060022
   },
   {
-    "host": "z3.ir.fulle7.info",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "country": "FI",
-    "addTime": 1780060009
-  },
-  {
     "host": "testi.ir.fulle7.info",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQ",
@@ -245,7 +231,7 @@
     "addTime": 1780060009
   },
   {
-    "host": "73727676136653270.ir.fulle7.info",
+    "host": "z3.ir.fulle7.info",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQ",
     "country": "FI",
@@ -266,6 +252,13 @@
     "addTime": 1780060009
   },
   {
+    "host": "73727676136653270.ir.fulle7.info",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "country": "FI",
+    "addTime": 1780060009
+  },
+  {
     "host": "77737277.ir.fulldf.info",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQ",
@@ -278,13 +271,6 @@
     "secret": "eea2b102b138450e1e33e7dc460ad967e8636f666665652e73616d6172617765622e74656368",
     "country": "SE",
     "addTime": 1780059851
-  },
-  {
-    "host": "186.246.19.82",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c65617669746f2e7275",
-    "country": "HK",
-    "addTime": 1780059849
   },
   {
     "host": "172.245.238.189",
@@ -329,6 +315,13 @@
     "addTime": 1780049230
   },
   {
+    "host": "91.232.225.43",
+    "port": 443,
+    "secret": "ee1caa37ae90774ecf9247bd53f8cd2c4a636861742e6574657266756e642e7275",
+    "country": "RU",
+    "addTime": 1780049211
+  },
+  {
     "host": "raaaaaaaaaaawpaaaaaaaaaap.alotaxi.info",
     "port": 7866,
     "secret": "eef56a96537bf96aef803a831d7502e4f06d656469612e737465616d706f77657265642e636f6d",
@@ -336,17 +329,24 @@
     "addTime": 1780049209
   },
   {
-    "host": "65.109.209.188",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "FI",
-    "addTime": 1780049206
-  },
-  {
     "host": "116.202.24.96",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
+    "addTime": 1780049206
+  },
+  {
+    "host": "178.104.131.118",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "DE",
+    "addTime": 1780049206
+  },
+  {
+    "host": "65.109.209.188",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "FI",
     "addTime": 1780049206
   }
 ]
