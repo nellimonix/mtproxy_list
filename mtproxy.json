@@ -7,21 +7,7 @@
     "addTime": 1780017052
   },
   {
-    "host": "connect.mtp.llc",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AE",
-    "addTime": 1780016781
-  },
-  {
-    "host": "fast.mtp.llc",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AE",
-    "addTime": 1780016781
-  },
-  {
-    "host": "nova.mtp.llc",
+    "host": "pulse.mtp.llc",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "AE",
@@ -35,6 +21,20 @@
     "addTime": 1780016781
   },
   {
+    "host": "orbit.mtp.llc",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AE",
+    "addTime": 1780016781
+  },
+  {
+    "host": "nova.mtp.llc",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AE",
+    "addTime": 1780016781
+  },
+  {
     "host": "edge.mtp.llc",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
@@ -42,7 +42,7 @@
     "addTime": 1780016781
   },
   {
-    "host": "orbit.mtp.llc",
+    "host": "fast.mtp.llc",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "AE",
@@ -70,7 +70,7 @@
     "addTime": 1780016781
   },
   {
-    "host": "pulse.mtp.llc",
+    "host": "connect.mtp.llc",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "AE",
@@ -168,10 +168,10 @@
     "addTime": 1780006044
   },
   {
-    "host": "tgmt.st-29.ru",
+    "host": "serv5.link-in.cc",
     "port": 443,
-    "secret": "ee8fc6007490d148f20f93ba5e580fe2a66d6f736d6574726f2e7275",
-    "country": "FI",
+    "secret": "ee8002d8c7a7f8779817c00ca932e1a3a4636c6f75642e63646e2e79616e6465782e636f6d",
+    "country": "US",
     "addTime": 1780006043
   },
   {
@@ -182,10 +182,10 @@
     "addTime": 1780006043
   },
   {
-    "host": "serv5.link-in.cc",
+    "host": "tgmt.st-29.ru",
     "port": 443,
-    "secret": "ee8002d8c7a7f8779817c00ca932e1a3a4636c6f75642e63646e2e79616e6465782e636f6d",
-    "country": "US",
+    "secret": "ee8fc6007490d148f20f93ba5e580fe2a66d6f736d6574726f2e7275",
+    "country": "FI",
     "addTime": 1780006043
   },
   {
@@ -245,20 +245,6 @@
     "addTime": 1780005859
   },
   {
-    "host": "54.191.10.51",
-    "port": 80,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "US",
-    "addTime": 1780005859
-  },
-  {
-    "host": "5.78.25.163",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "US",
-    "addTime": 1780005859
-  },
-  {
     "host": "5.78.28.147",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -267,6 +253,20 @@
   },
   {
     "host": "5.78.90.179",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "US",
+    "addTime": 1780005859
+  },
+  {
+    "host": "54.191.10.51",
+    "port": 80,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "US",
+    "addTime": 1780005859
+  },
+  {
+    "host": "5.78.25.163",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "US",
@@ -294,17 +294,17 @@
     "addTime": 1780005856
   },
   {
-    "host": "russia.nolags.pw",
-    "port": 443,
-    "secret": "dd04dbf1f1459ffbc5e646db206794163a",
-    "country": "US",
-    "addTime": 1780005854
-  },
-  {
     "host": "gando-best-connection.ferrari-garrage.shop",
     "port": 443,
     "secret": "eee269fbcd4ba2d3d2bc8ee7b1657598657777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
+    "addTime": 1780005854
+  },
+  {
+    "host": "russia.nolags.pw",
+    "port": 443,
+    "secret": "dd04dbf1f1459ffbc5e646db206794163a",
+    "country": "SE",
     "addTime": 1780005854
   },
   {
@@ -329,17 +329,10 @@
     "addTime": 1780005844
   },
   {
-    "host": "proxymtproto.tproxy.rest",
-    "port": 8443,
-    "secret": "ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "US",
-    "addTime": 1779995245
-  },
-  {
     "host": "hi.publiclg.shop",
     "port": 8443,
     "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "IE",
+    "country": "US",
     "addTime": 1779995245
   },
   {
@@ -348,5 +341,12 @@
     "secret": "44189a97c2a5194841d83424cc6473c4",
     "country": "DE",
     "addTime": 1779995208
+  },
+  {
+    "host": "bmw.publiclg.shop",
+    "port": 8443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
+    "country": "DE",
+    "addTime": 1779995204
   }
 ]
