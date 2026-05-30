@@ -7,10 +7,10 @@
     "addTime": 1780157410
   },
   {
-    "host": "186.246.13.253",
+    "host": "217.114.1.68",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "country": "HK",
+    "secret": "ee4625cb02d47191cc4a205fce5ba09538617669746f2e7275",
+    "country": "RU",
     "addTime": 1780157286
   },
   {
@@ -21,10 +21,10 @@
     "addTime": 1780157286
   },
   {
-    "host": "217.114.1.68",
+    "host": "186.246.13.253",
     "port": 443,
-    "secret": "ee4625cb02d47191cc4a205fce5ba09538617669746f2e7275",
-    "country": "RU",
+    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
+    "country": "HK",
     "addTime": 1780157286
   },
   {
@@ -33,20 +33,6 @@
     "secret": "ee213314ae520a52527a3cf1986e6b34fb647a656e2e7275",
     "country": "DE",
     "addTime": 1780157282
-  },
-  {
-    "host": "103.213.248.7",
-    "port": 443,
-    "secret": "ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d",
-    "country": "JP",
-    "addTime": 1780157113
-  },
-  {
-    "host": "109.172.38.226",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "country": "RU",
-    "addTime": 1780157113
   },
   {
     "host": "103.213.248.10",
@@ -63,10 +49,24 @@
     "addTime": 1780157113
   },
   {
-    "host": "ad.canvas-proxy.com",
+    "host": "103.213.248.7",
     "port": 443,
-    "secret": "eeb7f10957fcefd87d5e8c336fc9851d8d61642e63616e7661732d70726f78792e636f6d",
-    "country": "MD",
+    "secret": "ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d",
+    "country": "JP",
+    "addTime": 1780157113
+  },
+  {
+    "host": "109.172.38.226",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
+    "country": "RU",
+    "addTime": 1780157113
+  },
+  {
+    "host": "r27.proxytg.space",
+    "port": 8443,
+    "secret": "eefc330cd4811b83045e7621b94e0ecb147232372e70726f787974672e7370616365",
+    "country": "RU",
     "addTime": 1780157112
   },
   {
@@ -77,10 +77,10 @@
     "addTime": 1780157112
   },
   {
-    "host": "r27.proxytg.space",
-    "port": 8443,
-    "secret": "eefc330cd4811b83045e7621b94e0ecb147232372e70726f787974672e7370616365",
-    "country": "RU",
+    "host": "ad.canvas-proxy.com",
+    "port": 443,
+    "secret": "eeb7f10957fcefd87d5e8c336fc9851d8d61642e63616e7661732d70726f78792e636f6d",
+    "country": "MD",
     "addTime": 1780157112
   },
   {
@@ -105,17 +105,10 @@
     "addTime": 1780157107
   },
   {
-    "host": "proxyfast.vavan.best",
+    "host": "18.130.177.157",
     "port": 80,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "GB",
-    "addTime": 1780157107
-  },
-  {
-    "host": "vip.alotaxi.info",
-    "port": 4515,
-    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
-    "country": "AU",
     "addTime": 1780157107
   },
   {
@@ -126,10 +119,17 @@
     "addTime": 1780157107
   },
   {
-    "host": "18.130.177.157",
+    "host": "proxyfast.vavan.best",
     "port": 80,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "GB",
+    "addTime": 1780157107
+  },
+  {
+    "host": "vip.alotaxi.info",
+    "port": 4515,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+    "country": "BR",
     "addTime": 1780157107
   },
   {
@@ -210,14 +210,14 @@
     "addTime": 1780146299
   },
   {
-    "host": "79.133.183.225",
+    "host": "193.233.129.38",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
     "addTime": 1780146299
   },
   {
-    "host": "193.233.129.38",
+    "host": "79.133.183.225",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
@@ -228,13 +228,6 @@
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
-    "addTime": 1780146299
-  },
-  {
-    "host": "193.233.174.149",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
     "addTime": 1780146299
   },
   {
@@ -280,13 +273,6 @@
     "addTime": 1780146295
   },
   {
-    "host": "87.248.129.52",
-    "port": 15,
-    "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
-    "country": "IR",
-    "addTime": 1780146293
-  },
-  {
     "host": "147.45.242.118",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
@@ -322,6 +308,13 @@
     "addTime": 1780135860
   },
   {
+    "host": "93.189.228.56",
+    "port": 443,
+    "secret": "ddeef2f44e0cc16ad0e07ae25f665aac5c",
+    "country": "RU",
+    "addTime": 1780135859
+  },
+  {
     "host": "proxy.zronet-cloud.ru",
     "port": 443,
     "secret": "bd5d182c66f93eced64e53dcb5c17003",
@@ -348,5 +341,12 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "GB",
     "addTime": 1780135735
+  },
+  {
+    "host": "157.180.28.125",
+    "port": 8443,
+    "secret": "7nnnAQIAAQAH8AMDhuJMOt0",
+    "country": "FI",
+    "addTime": 1780135718
   }
 ]
