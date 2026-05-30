@@ -21,13 +21,6 @@
     "addTime": 1780146632
   },
   {
-    "host": "85.198.66.241",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "country": "RU",
-    "addTime": 1780146483
-  },
-  {
     "host": "49.12.40.240",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e696d61782e7275",
@@ -35,7 +28,56 @@
     "addTime": 1780146483
   },
   {
+    "host": "85.198.66.241",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
+    "country": "RU",
+    "addTime": 1780146483
+  },
+  {
+    "host": "relay.mtp.mom",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AE",
+    "addTime": 1780146479
+  },
+  {
     "host": "signal.mtp.mom",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AE",
+    "addTime": 1780146479
+  },
+  {
+    "host": "far.baboon.digital",
+    "port": 8444,
+    "secret": "ee3da7bb745873871e5563732717712910636c6f7564666c6172652e636f6d",
+    "country": "CZ",
+    "addTime": 1780146479
+  },
+  {
+    "host": "connect.mtp.mom",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AE",
+    "addTime": 1780146479
+  },
+  {
+    "host": "fast.mtp.mom",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AE",
+    "addTime": 1780146479
+  },
+  {
+    "host": "secure.mtp.mom",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AE",
+    "addTime": 1780146479
+  },
+  {
+    "host": "global.mtp.mom",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "AE",
@@ -56,14 +98,7 @@
     "addTime": 1780146479
   },
   {
-    "host": "fast.mtp.mom",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AE",
-    "addTime": 1780146479
-  },
-  {
-    "host": "connect.mtp.mom",
+    "host": "pulse.mtp.mom",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "AE",
@@ -71,41 +106,6 @@
   },
   {
     "host": "nova.mtp.mom",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AE",
-    "addTime": 1780146479
-  },
-  {
-    "host": "far.baboon.digital",
-    "port": 8444,
-    "secret": "ee3da7bb745873871e5563732717712910636c6f7564666c6172652e636f6d",
-    "country": "CZ",
-    "addTime": 1780146479
-  },
-  {
-    "host": "secure.mtp.mom",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AE",
-    "addTime": 1780146479
-  },
-  {
-    "host": "global.mtp.mom",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AE",
-    "addTime": 1780146479
-  },
-  {
-    "host": "relay.mtp.mom",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AE",
-    "addTime": 1780146479
-  },
-  {
-    "host": "pulse.mtp.mom",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "AE",
@@ -126,13 +126,6 @@
     "addTime": 1780146477
   },
   {
-    "host": "147.45.150.100",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1780146476
-  },
-  {
     "host": "204.168.200.14",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -140,11 +133,11 @@
     "addTime": 1780146476
   },
   {
-    "host": "mizanesghh.co.uk",
-    "port": 85,
-    "secret": "FgMBAgABAAH8AxOG4kw63Q",
-    "country": "FI",
-    "addTime": 1780146299
+    "host": "147.45.150.100",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1780146476
   },
   {
     "host": "86.110.212.174",
@@ -154,7 +147,7 @@
     "addTime": 1780146299
   },
   {
-    "host": "79.133.183.225",
+    "host": "193.233.129.38",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
@@ -168,11 +161,18 @@
     "addTime": 1780146299
   },
   {
-    "host": "178.105.213.159",
-    "port": 443,
-    "secret": "7nnjRIGHSb16xRkTAiDCXQlnb29nbGUuY29t",
-    "country": "DE",
-    "addTime": 1780146297
+    "host": "mizanesghh.co.uk",
+    "port": 85,
+    "secret": "FgMBAgABAAH8AxOG4kw63Q",
+    "country": "FI",
+    "addTime": 1780146299
+  },
+  {
+    "host": "79.133.183.225",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1780146299
   },
   {
     "host": "mt.femboylover.org",
@@ -182,11 +182,25 @@
     "addTime": 1780146297
   },
   {
+    "host": "178.105.213.159",
+    "port": 443,
+    "secret": "7nnjRIGHSb16xRkTAiDCXQlnb29nbGUuY29t",
+    "country": "DE",
+    "addTime": 1780146297
+  },
+  {
     "host": "204.44.119.123",
     "port": 443,
     "secret": "90c8de8da71eb831885668d0a51e5fce",
     "country": "US",
     "addTime": 1780146296
+  },
+  {
+    "host": "18.134.252.53",
+    "port": 80,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "GB",
+    "addTime": 1780146295
   },
   {
     "host": "204.168.175.123",
@@ -224,17 +238,17 @@
     "addTime": 1780146291
   },
   {
-    "host": "82.22.41.92",
-    "port": 8443,
-    "secret": "ee8b0b47ce2de7efbc9414c8fba12c404463646e2e79656b74616e65742e636f6d",
-    "country": "PL",
-    "addTime": 1780146290
-  },
-  {
     "host": "84.75.220.233",
     "port": 8080,
     "secret": "eec3ee1e4860b4b96785a2c31f6bb69d7563646e2e79656b74616e65742e636f6d",
     "country": "US",
+    "addTime": 1780146290
+  },
+  {
+    "host": "82.22.41.92",
+    "port": 8443,
+    "secret": "ee8b0b47ce2de7efbc9414c8fba12c404463646e2e79656b74616e65742e636f6d",
+    "country": "PL",
     "addTime": 1780146290
   },
   {
@@ -273,20 +287,6 @@
     "addTime": 1780135738
   },
   {
-    "host": "relay.mtp.lat",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AE",
-    "addTime": 1780135735
-  },
-  {
-    "host": "18.170.30.77",
-    "port": 80,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "GB",
-    "addTime": 1780135735
-  },
-  {
     "host": "nova.mtp.lat",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
@@ -301,18 +301,18 @@
     "addTime": 1780135735
   },
   {
-    "host": "16677266736724371.ir.fulle7.info",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "country": "DE",
-    "addTime": 1780135718
+    "host": "relay.mtp.lat",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AE",
+    "addTime": 1780135735
   },
   {
-    "host": "157.180.28.125",
-    "port": 8443,
-    "secret": "7nnnAQIAAQAH8AMDhuJMOt0",
-    "country": "FI",
-    "addTime": 1780135718
+    "host": "18.170.30.77",
+    "port": 80,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "GB",
+    "addTime": 1780135735
   },
   {
     "host": "93763266673663877.ir.fulle7.info",
@@ -322,7 +322,14 @@
     "addTime": 1780135718
   },
   {
-    "host": "737276666716353270.ir.fulle7.info",
+    "host": "16677266736724371.ir.fulle7.info",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "country": "DE",
+    "addTime": 1780135718
+  },
+  {
+    "host": "87727736663367537.ir.fulle7.info",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQ",
     "country": "DE",
@@ -336,14 +343,7 @@
     "addTime": 1780135718
   },
   {
-    "host": "73377772677773776.ir.fulle7.info",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "country": "DE",
-    "addTime": 1780135718
-  },
-  {
-    "host": "87727736663367537.ir.fulle7.info",
+    "host": "737276666716353270.ir.fulle7.info",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQ",
     "country": "DE",
