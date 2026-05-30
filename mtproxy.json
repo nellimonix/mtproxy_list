@@ -21,17 +21,17 @@
     "addTime": 1780125108
   },
   {
-    "host": "213.176.92.198",
-    "port": 2083,
-    "secret": "ee90b6b8723bad8a98c041c00a3ec10e6f61626f75746e756d6265722e7275",
-    "country": "HK",
-    "addTime": 1780125108
-  },
-  {
     "host": "5.188.143.183",
     "port": 443,
     "secret": "59ecc03bfbc542556d7ea2919d688663",
     "country": "RU",
+    "addTime": 1780125108
+  },
+  {
+    "host": "213.176.92.198",
+    "port": 2083,
+    "secret": "ee90b6b8723bad8a98c041c00a3ec10e6f61626f75746e756d6265722e7275",
+    "country": "HK",
     "addTime": 1780125108
   },
   {
@@ -63,16 +63,16 @@
     "addTime": 1780124955
   },
   {
-    "host": "r29.proxytg.space",
+    "host": "r30.proxytg.space",
     "port": 8443,
-    "secret": "ee5b741234768d8dda7d1c17e7e7cff98a7232392e70726f787974672e7370616365",
+    "secret": "eecaac1a91ae05f458f64d9dfd54f99ec57233302e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1780124713
   },
   {
-    "host": "r30.proxytg.space",
+    "host": "r29.proxytg.space",
     "port": 8443,
-    "secret": "eecaac1a91ae05f458f64d9dfd54f99ec57233302e70726f787974672e7370616365",
+    "secret": "ee5b741234768d8dda7d1c17e7e7cff98a7232392e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1780124713
   },
@@ -82,20 +82,6 @@
     "secret": "0c7e00182cb7a8b0fcd4dec9c8596ada",
     "country": "AE",
     "addTime": 1780124710
-  },
-  {
-    "host": "a.rkn.dog",
-    "port": 42443,
-    "secret": "eecd8f55ad4cc566f6ab7faaa6773378e5726b6e2e646f67",
-    "country": "RU",
-    "addTime": 1780114297
-  },
-  {
-    "host": "b.rkn.dog",
-    "port": 43443,
-    "secret": "eecd8f55ad4cc566f6ab7faaa6773378e5726b6e2e646f67",
-    "country": "RU",
-    "addTime": 1780114297
   },
   {
     "host": "c.rkn.dog",
@@ -112,18 +98,25 @@
     "addTime": 1780114297
   },
   {
+    "host": "b.rkn.dog",
+    "port": 43443,
+    "secret": "eecd8f55ad4cc566f6ab7faaa6773378e5726b6e2e646f67",
+    "country": "RU",
+    "addTime": 1780114297
+  },
+  {
+    "host": "a.rkn.dog",
+    "port": 42443,
+    "secret": "eecd8f55ad4cc566f6ab7faaa6773378e5726b6e2e646f67",
+    "country": "RU",
+    "addTime": 1780114297
+  },
+  {
     "host": "87.248.129.51",
     "port": 15,
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
     "addTime": 1780114269
-  },
-  {
-    "host": "de-dd.spiderservice.vip",
-    "port": 443,
-    "secret": "dd0275448062bb62d80ab85e4ca9f1e5ae",
-    "country": "DE",
-    "addTime": 1780114152
   },
   {
     "host": "de-ee.spiderservice.vip",
@@ -133,11 +126,25 @@
     "addTime": 1780114152
   },
   {
+    "host": "de-dd.spiderservice.vip",
+    "port": 443,
+    "secret": "dd0275448062bb62d80ab85e4ca9f1e5ae",
+    "country": "DE",
+    "addTime": 1780114152
+  },
+  {
     "host": "153.80.249.103",
     "port": 443,
     "secret": "ddf28ead1a7235d458b4040b43304ced63",
     "country": "NL",
     "addTime": 1780114152
+  },
+  {
+    "host": "95.182.86.60",
+    "port": 443,
+    "secret": "ee82dd957be0c6899a82879d05fecfc73a617669746f2e7275",
+    "country": "CZ",
+    "addTime": 1780114146
   },
   {
     "host": "3.66.236.109",
@@ -168,13 +175,6 @@
     "addTime": 1780103177
   },
   {
-    "host": "35.179.152.255",
-    "port": 80,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "GB",
-    "addTime": 1780103168
-  },
-  {
     "host": "50.7.177.70",
     "port": 443,
     "secret": "083fe0c452e2407d835537872f097c54",
@@ -196,11 +196,11 @@
     "addTime": 1780103168
   },
   {
-    "host": "89.22.236.159",
-    "port": 443,
-    "secret": "eef838b6a55fa5e8393c63def771cf1014766b2e636f6d",
-    "country": "SE",
-    "addTime": 1780103166
+    "host": "35.179.152.255",
+    "port": 80,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "GB",
+    "addTime": 1780103168
   },
   {
     "host": "sndnsbs.ir",
@@ -210,16 +210,16 @@
     "addTime": 1780093377
   },
   {
-    "host": "82.38.148.213",
+    "host": "constructive.pericardia.undrinkable.teleseryepinoytv.com",
     "port": 443,
-    "secret": "ee4dd34bbd3cd14b113d21f5aab9b28a94696d702e6e6f746465762e7370616365",
+    "secret": "eec64effb030d8d2a3331aad8b431b55fe647a656e2e7275",
     "country": "DE",
     "addTime": 1780093371
   },
   {
-    "host": "constructive.pericardia.undrinkable.teleseryepinoytv.com",
+    "host": "82.38.148.213",
     "port": 443,
-    "secret": "eec64effb030d8d2a3331aad8b431b55fe647a656e2e7275",
+    "secret": "ee4dd34bbd3cd14b113d21f5aab9b28a94696d702e6e6f746465762e7370616365",
     "country": "DE",
     "addTime": 1780093371
   },
@@ -229,13 +229,6 @@
     "secret": "ee499ae63085c1db81cccf337fc9507d8a706574726f766963682e7275",
     "country": "RU",
     "addTime": 1780093368
-  },
-  {
-    "host": "45.144.55.178",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "DE",
-    "addTime": 1780093366
   },
   {
     "host": "23.176.184.28",
@@ -262,7 +255,7 @@
     "host": "germany.nuremberg.ir",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D",
-    "country": "DE",
+    "country": "FI",
     "addTime": 1780093220
   },
   {
@@ -287,21 +280,7 @@
     "addTime": 1780093216
   },
   {
-    "host": "8772773737.ir.fulle7.info",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "country": "FI",
-    "addTime": 1780093188
-  },
-  {
-    "host": "k399.ir.fulle7.info",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "country": "FI",
-    "addTime": 1780093188
-  },
-  {
-    "host": "737237777.ir.fulle7.info",
+    "host": "73723775377.ir.fulle7.info",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQ",
     "country": "FI",
@@ -315,14 +294,28 @@
     "addTime": 1780093188
   },
   {
-    "host": "877277337537.ir.fulle7.info",
+    "host": "k399.ir.fulle7.info",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQ",
     "country": "FI",
     "addTime": 1780093188
   },
   {
-    "host": "73723775377.ir.fulle7.info",
+    "host": "8772773737.ir.fulle7.info",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "country": "FI",
+    "addTime": 1780093188
+  },
+  {
+    "host": "737237777.ir.fulle7.info",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "country": "FI",
+    "addTime": 1780093188
+  },
+  {
+    "host": "877277337537.ir.fulle7.info",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQ",
     "country": "FI",
@@ -348,5 +341,12 @@
     "secret": "04dd799db5912c9252e0286f61a75f8a",
     "country": "US",
     "addTime": 1780092987
+  },
+  {
+    "host": "65.109.212.179",
+    "port": 25565,
+    "secret": "ee14971d8c3aaef961366c5660333a8bf77777772e636c6f7564666c6172652e636f6d",
+    "country": "FI",
+    "addTime": 1780092986
   }
 ]
