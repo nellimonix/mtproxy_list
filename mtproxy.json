@@ -84,14 +84,14 @@
     "addTime": 1780189501
   },
   {
-    "host": "5.78.230.211",
+    "host": "5.78.230.109",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "country": "US",
     "addTime": 1780179015
   },
   {
-    "host": "5.78.230.109",
+    "host": "5.78.230.211",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "country": "US",
@@ -175,6 +175,13 @@
     "addTime": 1780168052
   },
   {
+    "host": "193.151.139.178",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "IR",
+    "addTime": 1780168050
+  },
+  {
     "host": "clouad.ai.lambadao.info",
     "port": 6775,
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
@@ -189,24 +196,17 @@
     "addTime": 1780168050
   },
   {
-    "host": "193.151.139.178",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "IR",
-    "addTime": 1780168050
+    "host": "84.32.151.169",
+    "port": 443,
+    "secret": "27ebe852539fb8ec5f327c73262bb721",
+    "country": "LT",
+    "addTime": 1780167901
   },
   {
     "host": "207.89.20.5",
     "port": 443,
     "secret": "4da47f00c2291d55696fa3ae954ffd78",
     "country": "NL",
-    "addTime": 1780167901
-  },
-  {
-    "host": "84.32.151.169",
-    "port": 443,
-    "secret": "27ebe852539fb8ec5f327c73262bb721",
-    "country": "LT",
     "addTime": 1780167901
   },
   {
@@ -231,17 +231,17 @@
     "addTime": 1780167895
   },
   {
-    "host": "evening.nolags.pw",
-    "port": 443,
-    "secret": "dd29b3afb209c4427676b4c43eecb7f556",
-    "country": "US",
-    "addTime": 1780167895
-  },
-  {
     "host": "fn.b2-ray.ru",
     "port": 2233,
     "secret": "1a78cb0260dffe00aa646e398185a157",
     "country": "DE",
+    "addTime": 1780167895
+  },
+  {
+    "host": "evening.nolags.pw",
+    "port": 443,
+    "secret": "dd29b3afb209c4427676b4c43eecb7f556",
+    "country": "US",
     "addTime": 1780167895
   },
   {
@@ -259,24 +259,17 @@
     "addTime": 1780157410
   },
   {
+    "host": "sexy.arixo.shop",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
+    "country": "SG",
+    "addTime": 1780157286
+  },
+  {
     "host": "217.114.1.68",
     "port": 443,
     "secret": "ee4625cb02d47191cc4a205fce5ba09538617669746f2e7275",
     "country": "RU",
-    "addTime": 1780157286
-  },
-  {
-    "host": "sexy.arixo.shop",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "country": "HK",
-    "addTime": 1780157286
-  },
-  {
-    "host": "186.246.13.253",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "country": "HK",
     "addTime": 1780157286
   },
   {
@@ -285,20 +278,6 @@
     "secret": "ee213314ae520a52527a3cf1986e6b34fb647a656e2e7275",
     "country": "DE",
     "addTime": 1780157282
-  },
-  {
-    "host": "109.172.38.226",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "country": "RU",
-    "addTime": 1780157113
-  },
-  {
-    "host": "103.213.248.7",
-    "port": 443,
-    "secret": "ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d",
-    "country": "JP",
-    "addTime": 1780157113
   },
   {
     "host": "103.213.248.4",
@@ -315,10 +294,24 @@
     "addTime": 1780157113
   },
   {
-    "host": "r27.proxytg.space",
-    "port": 8443,
-    "secret": "eefc330cd4811b83045e7621b94e0ecb147232372e70726f787974672e7370616365",
+    "host": "103.213.248.7",
+    "port": 443,
+    "secret": "ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d",
+    "country": "JP",
+    "addTime": 1780157113
+  },
+  {
+    "host": "109.172.38.226",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
     "country": "RU",
+    "addTime": 1780157113
+  },
+  {
+    "host": "31.56.188.30",
+    "port": 443,
+    "secret": "9fbde4344cb2f60208195eaf7c834484",
+    "country": "AE",
     "addTime": 1780157112
   },
   {
@@ -329,10 +322,10 @@
     "addTime": 1780157112
   },
   {
-    "host": "31.56.188.30",
-    "port": 443,
-    "secret": "9fbde4344cb2f60208195eaf7c834484",
-    "country": "AE",
+    "host": "r27.proxytg.space",
+    "port": 8443,
+    "secret": "eefc330cd4811b83045e7621b94e0ecb147232372e70726f787974672e7370616365",
+    "country": "RU",
     "addTime": 1780157112
   },
   {
@@ -348,5 +341,12 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1780157109
+  },
+  {
+    "host": "proxyfast.vavan.best",
+    "port": 80,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "GB",
+    "addTime": 1780157107
   }
 ]
