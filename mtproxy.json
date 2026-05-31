@@ -7,16 +7,16 @@
     "addTime": 1780265357
   },
   {
-    "host": "80.93.61.133",
+    "host": "81.177.48.164",
     "port": 443,
-    "secret": "eecac6d5e691fb6200450538bfb67e1332706574726f766963682e7275",
+    "secret": "ee1e3796f57c7ea5818df059b1b8cbf8d9706574726f766963682e7275",
     "country": "RU",
     "addTime": 1780265351
   },
   {
-    "host": "81.177.48.164",
+    "host": "80.93.61.133",
     "port": 443,
-    "secret": "ee1e3796f57c7ea5818df059b1b8cbf8d9706574726f766963682e7275",
+    "secret": "eecac6d5e691fb6200450538bfb67e1332706574726f766963682e7275",
     "country": "RU",
     "addTime": 1780265351
   },
@@ -42,13 +42,6 @@
     "addTime": 1780265224
   },
   {
-    "host": "r38.proxytg.space",
-    "port": 8443,
-    "secret": "ee50c0f945c317a7a899860369d450bc937233382e70726f787974672e7370616365",
-    "country": "RU",
-    "addTime": 1780265223
-  },
-  {
     "host": "5.78.218.144",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -67,6 +60,13 @@
     "port": 80,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "US",
+    "addTime": 1780265223
+  },
+  {
+    "host": "r38.proxytg.space",
+    "port": 8443,
+    "secret": "ee50c0f945c317a7a899860369d450bc937233382e70726f787974672e7370616365",
+    "country": "RU",
     "addTime": 1780265223
   },
   {
@@ -105,14 +105,14 @@
     "addTime": 1780265214
   },
   {
-    "host": "16.16.187.91",
+    "host": "16.16.56.76",
     "port": 80,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "SE",
     "addTime": 1780265095
   },
   {
-    "host": "16.16.56.76",
+    "host": "16.16.187.91",
     "port": 80,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "SE",
@@ -182,17 +182,17 @@
     "addTime": 1780254434
   },
   {
-    "host": "45.39.60.43",
-    "port": 443,
-    "secret": "e2f520e8f15aeaf0794b1c3f94f22957",
-    "country": "US",
-    "addTime": 1780254431
-  },
-  {
     "host": "193.151.132.161",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "IR",
+    "addTime": 1780254431
+  },
+  {
+    "host": "45.39.60.43",
+    "port": 443,
+    "secret": "e2f520e8f15aeaf0794b1c3f94f22957",
+    "country": "US",
     "addTime": 1780254431
   },
   {
@@ -343,10 +343,10 @@
     "addTime": 1780243509
   },
   {
-    "host": "crystal.nolags.pw",
+    "host": "87.58.201.189",
     "port": 443,
-    "secret": "dd830d4ed967d6deb679cf74c9b10d0ddb",
-    "country": "SE",
+    "secret": "ee1caa97e5002aec0421f8c5b04a53c0e37362657262616e6b2e7275",
+    "country": "NL",
     "addTime": 1780243507
   }
 ]
