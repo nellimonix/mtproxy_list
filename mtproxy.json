@@ -21,17 +21,17 @@
     "addTime": 1780243972
   },
   {
-    "host": "44.202.214.168",
-    "port": 100,
-    "secret": "eea4d89da60c07cadc7d737f835780201a73332e616d617a6f6e6177732e636f6d",
-    "country": "US",
-    "addTime": 1780243888
-  },
-  {
     "host": "63.32.106.37",
     "port": 100,
     "secret": "dde1190883c76f6f187cad461ba0c60c5e",
     "country": "IE",
+    "addTime": 1780243888
+  },
+  {
+    "host": "44.202.214.168",
+    "port": 100,
+    "secret": "eea4d89da60c07cadc7d737f835780201a73332e616d617a6f6e6177732e636f6d",
+    "country": "US",
     "addTime": 1780243888
   },
   {
@@ -42,17 +42,17 @@
     "addTime": 1780243744
   },
   {
-    "host": "ak.yourline.online",
-    "port": 443,
-    "secret": "eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65",
-    "country": "NL",
-    "addTime": 1780243742
-  },
-  {
     "host": "194.238.57.189",
     "port": 9443,
     "secret": "53a076202506cedff78125b4fe30f9fc",
     "country": "SE",
+    "addTime": 1780243742
+  },
+  {
+    "host": "ak.yourline.online",
+    "port": 443,
+    "secret": "eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65",
+    "country": "NL",
     "addTime": 1780243742
   },
   {
@@ -77,10 +77,10 @@
     "addTime": 1780243741
   },
   {
-    "host": "104.64.221.21",
-    "port": 15,
-    "secret": "ee405B8F72D15065C469866FE32C987B53706574726f766963682e7275",
-    "country": "SG",
+    "host": "45.80.229.93",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "SE",
     "addTime": 1780243517
   },
   {
@@ -91,10 +91,10 @@
     "addTime": 1780243517
   },
   {
-    "host": "45.80.229.93",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "SE",
+    "host": "104.64.221.21",
+    "port": 15,
+    "secret": "ee405B8F72D15065C469866FE32C987B53706574726f766963682e7275",
+    "country": "SG",
     "addTime": 1780243517
   },
   {
@@ -119,17 +119,17 @@
     "addTime": 1780243507
   },
   {
-    "host": "104.253.25.36",
-    "port": 443,
-    "secret": "314bba64a226082d8c1857e166b380ab",
-    "country": "LV",
-    "addTime": 1780243502
-  },
-  {
     "host": "65.109.246.133",
     "port": 7980,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "country": "FI",
+    "addTime": 1780243502
+  },
+  {
+    "host": "104.253.25.36",
+    "port": 443,
+    "secret": "314bba64a226082d8c1857e166b380ab",
+    "country": "LV",
     "addTime": 1780243502
   },
   {
@@ -168,13 +168,6 @@
     "addTime": 1780232885
   },
   {
-    "host": "sex.arixo.shop",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "country": "RU",
-    "addTime": 1780232847
-  },
-  {
     "host": "free.baboon.digital",
     "port": 8444,
     "secret": "ee7e5ca1085bd4776803b26c766cf22d25636c6f7564666c6172652e636f6d",
@@ -182,7 +175,14 @@
     "addTime": 1780232847
   },
   {
-    "host": "connect.mtp.quest",
+    "host": "sex.arixo.shop",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
+    "country": "RU",
+    "addTime": 1780232847
+  },
+  {
+    "host": "nova.mtp.quest",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "AE",
@@ -196,7 +196,7 @@
     "addTime": 1780232845
   },
   {
-    "host": "nova.mtp.quest",
+    "host": "connect.mtp.quest",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "AE",
@@ -259,16 +259,16 @@
     "addTime": 1780222318
   },
   {
-    "host": "r33.proxytg.space",
+    "host": "r35.proxytg.space",
     "port": 8443,
-    "secret": "eec38451cb166b3ed3a1bbf1d4e7e382817233332e70726f787974672e7370616365",
+    "secret": "ee11c7cb7399e1f38aaec2f5152c4f051c7233352e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1780222317
   },
   {
-    "host": "r35.proxytg.space",
+    "host": "r33.proxytg.space",
     "port": 8443,
-    "secret": "ee11c7cb7399e1f38aaec2f5152c4f051c7233352e70726f787974672e7370616365",
+    "secret": "eec38451cb166b3ed3a1bbf1d4e7e382817233332e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1780222317
   },
@@ -329,9 +329,9 @@
     "addTime": 1780221904
   },
   {
-    "host": "mt1.kurduk.store",
+    "host": "mt2.kurduk.store",
     "port": 443,
-    "secret": "ee2c359976c0e74101ab25d285b51faf306d74312e6b757264756b2e73746f7265",
+    "secret": "ee2c359976c0e74101ab25d285b51faf306d74322e6b757264756b2e73746f7265",
     "country": "US",
     "addTime": 1780211521
   },
@@ -343,10 +343,10 @@
     "addTime": 1780211521
   },
   {
-    "host": "telegram.monkeyvillage.pro",
+    "host": "mt1.kurduk.store",
     "port": 443,
-    "secret": "2f22523a9fdd8fa67e391a31db65b614",
-    "country": "RU",
-    "addTime": 1780211477
+    "secret": "ee2c359976c0e74101ab25d285b51faf306d74312e6b757264756b2e73746f7265",
+    "country": "FI",
+    "addTime": 1780211521
   }
 ]
