@@ -42,10 +42,10 @@
     "addTime": 1780265224
   },
   {
-    "host": "5.78.212.244",
+    "host": "r38.proxytg.space",
     "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "US",
+    "secret": "ee50c0f945c317a7a899860369d450bc937233382e70726f787974672e7370616365",
+    "country": "RU",
     "addTime": 1780265223
   },
   {
@@ -56,24 +56,10 @@
     "addTime": 1780265223
   },
   {
-    "host": "5.78.224.39",
+    "host": "echo.proxyne.site",
     "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "US",
-    "addTime": 1780265223
-  },
-  {
-    "host": "r38.proxytg.space",
-    "port": 8443,
-    "secret": "ee50c0f945c317a7a899860369d450bc937233382e70726f787974672e7370616365",
+    "secret": "ee1b1825994fc7030238bbc9818838ea146563686f2e70726f78796e652e73697465",
     "country": "RU",
-    "addTime": 1780265223
-  },
-  {
-    "host": "5.78.218.144",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "US",
     "addTime": 1780265223
   },
   {
@@ -84,15 +70,29 @@
     "addTime": 1780265223
   },
   {
-    "host": "echo.proxyne.site",
+    "host": "5.78.218.144",
     "port": 8443,
-    "secret": "ee1b1825994fc7030238bbc9818838ea146563686f2e70726f78796e652e73697465",
-    "country": "RU",
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "US",
+    "addTime": 1780265223
+  },
+  {
+    "host": "5.78.212.244",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "US",
     "addTime": 1780265223
   },
   {
     "host": "44.250.60.254",
     "port": 80,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "US",
+    "addTime": 1780265223
+  },
+  {
+    "host": "5.78.224.39",
+    "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "US",
     "addTime": 1780265223
@@ -140,7 +140,7 @@
     "addTime": 1780265075
   },
   {
-    "host": "91.217.166.10",
+    "host": "91.217.166.7",
     "port": 16,
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
@@ -154,14 +154,14 @@
     "addTime": 1780254677
   },
   {
-    "host": "91.217.166.7",
+    "host": "91.217.166.6",
     "port": 16,
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
     "addTime": 1780254677
   },
   {
-    "host": "91.217.166.6",
+    "host": "91.217.166.10",
     "port": 16,
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
@@ -182,13 +182,6 @@
     "addTime": 1780254434
   },
   {
-    "host": "45.39.60.43",
-    "port": 443,
-    "secret": "e2f520e8f15aeaf0794b1c3f94f22957",
-    "country": "US",
-    "addTime": 1780254431
-  },
-  {
     "host": "193.151.132.161",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
@@ -196,14 +189,21 @@
     "addTime": 1780254431
   },
   {
-    "host": "204.168.166.29",
+    "host": "45.39.60.43",
+    "port": 443,
+    "secret": "e2f520e8f15aeaf0794b1c3f94f22957",
+    "country": "US",
+    "addTime": 1780254431
+  },
+  {
+    "host": "89.167.55.214",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780254429
   },
   {
-    "host": "89.167.55.214",
+    "host": "204.168.166.29",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -287,10 +287,10 @@
     "addTime": 1780243744
   },
   {
-    "host": "distributary.realistic.sit-up.teleseryeshd.com",
-    "port": 443,
-    "secret": "ee62515cdbf8f983fc5e6ae2bb1e7876c0647a656e2e7275",
-    "country": "DE",
+    "host": "194.238.57.189",
+    "port": 9443,
+    "secret": "53a076202506cedff78125b4fe30f9fc",
+    "country": "SE",
     "addTime": 1780243742
   },
   {
@@ -301,10 +301,10 @@
     "addTime": 1780243742
   },
   {
-    "host": "194.238.57.189",
-    "port": 9443,
-    "secret": "53a076202506cedff78125b4fe30f9fc",
-    "country": "SE",
+    "host": "distributary.realistic.sit-up.teleseryeshd.com",
+    "port": 443,
+    "secret": "ee62515cdbf8f983fc5e6ae2bb1e7876c0647a656e2e7275",
+    "country": "DE",
     "addTime": 1780243742
   },
   {
