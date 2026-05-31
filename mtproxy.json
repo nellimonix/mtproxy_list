@@ -35,13 +35,6 @@
     "addTime": 1780232885
   },
   {
-    "host": "free.baboon.digital",
-    "port": 8444,
-    "secret": "ee7e5ca1085bd4776803b26c766cf22d25636c6f7564666c6172652e636f6d",
-    "country": "FI",
-    "addTime": 1780232847
-  },
-  {
     "host": "sex.arixo.shop",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
@@ -49,17 +42,24 @@
     "addTime": 1780232847
   },
   {
-    "host": "connect.mtp.quest",
-    "port": 443,
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "country": "AE",
-    "addTime": 1780232845
+    "host": "free.baboon.digital",
+    "port": 8444,
+    "secret": "ee7e5ca1085bd4776803b26c766cf22d25636c6f7564666c6172652e636f6d",
+    "country": "FI",
+    "addTime": 1780232847
   },
   {
     "host": "18.133.180.166",
     "port": 80,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "GB",
+    "addTime": 1780232845
+  },
+  {
+    "host": "connect.mtp.quest",
+    "port": 443,
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "country": "AE",
     "addTime": 1780232845
   },
   {
@@ -224,13 +224,6 @@
     "addTime": 1780221903
   },
   {
-    "host": "r34.proxytg.space",
-    "port": 8443,
-    "secret": "eebb8fe6fb6d181e454f4454195b880e627233342e70726f787974672e7370616365",
-    "country": "RU",
-    "addTime": 1780211521
-  },
-  {
     "host": "mt1.kurduk.store",
     "port": 443,
     "secret": "ee2c359976c0e74101ab25d285b51faf306d74312e6b757264756b2e73746f7265",
@@ -245,23 +238,23 @@
     "addTime": 1780211521
   },
   {
-    "host": "telegram.monkeyvillage.pro",
-    "port": 443,
-    "secret": "2f22523a9fdd8fa67e391a31db65b614",
+    "host": "r34.proxytg.space",
+    "port": 8443,
+    "secret": "eebb8fe6fb6d181e454f4454195b880e627233342e70726f787974672e7370616365",
     "country": "RU",
-    "addTime": 1780211477
-  },
-  {
-    "host": "pick.harneizel.org",
-    "port": 444,
-    "secret": "38c70c5a2aedf45549b2b536e0efd197",
-    "country": "RU",
-    "addTime": 1780211477
+    "addTime": 1780211521
   },
   {
     "host": "188.120.229.151",
     "port": 443,
     "secret": "eea9c084e8c0e39e926202af28d5fbee156d74742e7275",
+    "country": "RU",
+    "addTime": 1780211477
+  },
+  {
+    "host": "telegram.monkeyvillage.pro",
+    "port": 443,
+    "secret": "2f22523a9fdd8fa67e391a31db65b614",
     "country": "RU",
     "addTime": 1780211477
   },
@@ -294,17 +287,10 @@
     "addTime": 1780211135
   },
   {
-    "host": "31.56.178.248",
-    "port": 443,
-    "secret": "ee4ce23663740cbaf7be12448a22abd6fe617669746f2e7275",
-    "country": "US",
-    "addTime": 1780211133
-  },
-  {
     "host": "vktop.chunkycorp.shop",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "country": "US",
+    "country": "RU",
     "addTime": 1780211133
   },
   {
@@ -329,14 +315,14 @@
     "addTime": 1780211127
   },
   {
-    "host": "16.171.113.106",
+    "host": "56.228.13.198",
     "port": 15,
     "secret": "dd1603010200010001fc030386e24c3add",
     "country": "SE",
     "addTime": 1780211121
   },
   {
-    "host": "56.228.13.198",
+    "host": "16.171.113.106",
     "port": 15,
     "secret": "dd1603010200010001fc030386e24c3add",
     "country": "SE",
@@ -348,5 +334,19 @@
     "secret": "b579104c16669844b161625dbdcb68f8",
     "country": "DE",
     "addTime": 1780200717
+  },
+  {
+    "host": "51.21.222.248",
+    "port": 15,
+    "secret": "dd1603010200010001fc030386e24c3add",
+    "country": "SE",
+    "addTime": 1780200670
+  },
+  {
+    "host": "82.40.62.17",
+    "port": 443,
+    "secret": "c3e43063b21e7410cb6370a36fd4213e",
+    "country": "PL",
+    "addTime": 1780200670
   }
 ]
