@@ -1,10 +1,24 @@
 [
   {
-    "host": "cloud.freedomconnect.xyz",
-    "port": 443,
-    "secret": "eebe9ba010e83c95aa690b10c541d1db22636c6f75642e66726565646f6d636f6e6e6563742e78797a",
+    "host": "r37.proxytg.space",
+    "port": 8443,
+    "secret": "ee7dc9d9ebceb3c8ecc1aa42da972d8e547233372e70726f787974672e7370616365",
     "country": "RU",
-    "addTime": 1780232981
+    "addTime": 1780233021
+  },
+  {
+    "host": "r36.proxytg.space",
+    "port": 8443,
+    "secret": "eee3df338e2eddce462101e6eecbdd9ee87233362e70726f787974672e7370616365",
+    "country": "RU",
+    "addTime": 1780233020
+  },
+  {
+    "host": "mtg.1337.cx",
+    "port": 443,
+    "secret": "ee2da2da5a3a96471d5fc72723595bad7473747265616d2e6d61696c2e7275",
+    "country": "US",
+    "addTime": 1780233012
   },
   {
     "host": "77.42.49.93",
@@ -49,17 +63,17 @@
     "addTime": 1780232845
   },
   {
-    "host": "18.133.180.166",
-    "port": 80,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "GB",
-    "addTime": 1780232845
-  },
-  {
     "host": "connect.mtp.quest",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
     "country": "AE",
+    "addTime": 1780232845
+  },
+  {
+    "host": "18.133.180.166",
+    "port": 80,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "GB",
     "addTime": 1780232845
   },
   {
@@ -77,17 +91,17 @@
     "addTime": 1780232833
   },
   {
-    "host": "5.78.149.140",
-    "port": 8443,
-    "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "US",
-    "addTime": 1780232724
-  },
-  {
     "host": "kott2.myrka.digital",
     "port": 3443,
     "secret": "ee8888777766665555444433332222111168646d692e6d79726b612e6469676974616c",
     "country": "RU",
+    "addTime": 1780232724
+  },
+  {
+    "host": "5.78.149.140",
+    "port": 8443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
+    "country": "US",
     "addTime": 1780232724
   },
   {
@@ -119,13 +133,6 @@
     "addTime": 1780232715
   },
   {
-    "host": "92.246.138.184",
-    "port": 6773,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "US",
-    "addTime": 1780232714
-  },
-  {
     "host": "65.109.176.220",
     "port": 4455,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -140,16 +147,16 @@
     "addTime": 1780222318
   },
   {
-    "host": "r35.proxytg.space",
+    "host": "r33.proxytg.space",
     "port": 8443,
-    "secret": "ee11c7cb7399e1f38aaec2f5152c4f051c7233352e70726f787974672e7370616365",
+    "secret": "eec38451cb166b3ed3a1bbf1d4e7e382817233332e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1780222317
   },
   {
-    "host": "r33.proxytg.space",
+    "host": "r35.proxytg.space",
     "port": 8443,
-    "secret": "eec38451cb166b3ed3a1bbf1d4e7e382817233332e70726f787974672e7370616365",
+    "secret": "ee11c7cb7399e1f38aaec2f5152c4f051c7233352e70726f787974672e7370616365",
     "country": "RU",
     "addTime": 1780222317
   },
@@ -210,13 +217,6 @@
     "addTime": 1780221904
   },
   {
-    "host": "18.171.244.249",
-    "port": 80,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "GB",
-    "addTime": 1780221903
-  },
-  {
     "host": "65.109.185.142",
     "port": 4455,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -224,10 +224,17 @@
     "addTime": 1780221903
   },
   {
-    "host": "mt1.kurduk.store",
-    "port": 443,
-    "secret": "ee2c359976c0e74101ab25d285b51faf306d74312e6b757264756b2e73746f7265",
-    "country": "FI",
+    "host": "18.171.244.249",
+    "port": 80,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "GB",
+    "addTime": 1780221903
+  },
+  {
+    "host": "r34.proxytg.space",
+    "port": 8443,
+    "secret": "eebb8fe6fb6d181e454f4454195b880e627233342e70726f787974672e7370616365",
+    "country": "RU",
     "addTime": 1780211521
   },
   {
@@ -238,11 +245,18 @@
     "addTime": 1780211521
   },
   {
-    "host": "r34.proxytg.space",
-    "port": 8443,
-    "secret": "eebb8fe6fb6d181e454f4454195b880e627233342e70726f787974672e7370616365",
-    "country": "RU",
+    "host": "mt1.kurduk.store",
+    "port": 443,
+    "secret": "ee2c359976c0e74101ab25d285b51faf306d74312e6b757264756b2e73746f7265",
+    "country": "FI",
     "addTime": 1780211521
+  },
+  {
+    "host": "pick.harneizel.org",
+    "port": 444,
+    "secret": "38c70c5a2aedf45549b2b536e0efd197",
+    "country": "RU",
+    "addTime": 1780211477
   },
   {
     "host": "telegram.monkeyvillage.pro",
@@ -259,21 +273,14 @@
     "addTime": 1780211477
   },
   {
-    "host": "pick.harneizel.org",
-    "port": 444,
-    "secret": "38c70c5a2aedf45549b2b536e0efd197",
-    "country": "RU",
-    "addTime": 1780211477
-  },
-  {
-    "host": "startzadimdobareee.appnormoor.com",
+    "host": "chat.deepseek.com.codetide.info",
     "port": 443,
     "secret": "dd890938bf53a1dab0a211a217a9260763",
     "country": "NL",
     "addTime": 1780211375
   },
   {
-    "host": "chat.deepseek.com.codetide.info",
+    "host": "startzadimdobareee.appnormoor.com",
     "port": 443,
     "secret": "dd890938bf53a1dab0a211a217a9260763",
     "country": "NL",
@@ -308,17 +315,10 @@
     "addTime": 1780211135
   },
   {
-    "host": "31.56.178.248",
-    "port": 443,
-    "secret": "ee4ce23663740cbaf7be12448a22abd6fe617669746f2e7275",
-    "country": "US",
-    "addTime": 1780211133
-  },
-  {
     "host": "vktop.chunkycorp.shop",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "country": "RU",
+    "country": "US",
     "addTime": 1780211133
   },
   {
