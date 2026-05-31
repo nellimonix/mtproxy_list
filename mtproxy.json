@@ -56,16 +56,9 @@
     "addTime": 1780222116
   },
   {
-    "host": "47.129.252.127",
+    "host": "47.129.235.176",
     "port": 443,
-    "secret": "ee792486bd96a26401616b47722d484c2a617a7572652e6d6963726f736f66742e636f6d",
-    "country": "SG",
-    "addTime": 1780222113
-  },
-  {
-    "host": "52.77.253.122",
-    "port": 443,
-    "secret": "eea7f6df27f874d1f097435ec011351528617a7572652e6d6963726f736f66742e636f6d",
+    "secret": "ee3dea2108677fa54fb9fa5ac55bbc55f8617a7572652e6d6963726f736f66742e636f6d",
     "country": "SG",
     "addTime": 1780222113
   },
@@ -91,11 +84,18 @@
     "addTime": 1780222113
   },
   {
-    "host": "37.152.185.192",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "IR",
-    "addTime": 1780221917
+    "host": "52.77.253.122",
+    "port": 443,
+    "secret": "eea7f6df27f874d1f097435ec011351528617a7572652e6d6963726f736f66742e636f6d",
+    "country": "SG",
+    "addTime": 1780222113
+  },
+  {
+    "host": "47.129.252.127",
+    "port": 443,
+    "secret": "ee792486bd96a26401616b47722d484c2a617a7572652e6d6963726f736f66742e636f6d",
+    "country": "SG",
+    "addTime": 1780222113
   },
   {
     "host": "135.181.69.128",
@@ -133,13 +133,6 @@
     "addTime": 1780221903
   },
   {
-    "host": "mt1.kurduk.store",
-    "port": 443,
-    "secret": "ee2c359976c0e74101ab25d285b51faf306d74312e6b757264756b2e73746f7265",
-    "country": "US",
-    "addTime": 1780211521
-  },
-  {
     "host": "r34.proxytg.space",
     "port": 8443,
     "secret": "eebb8fe6fb6d181e454f4454195b880e627233342e70726f787974672e7370616365",
@@ -154,11 +147,11 @@
     "addTime": 1780211521
   },
   {
-    "host": "telegram.monkeyvillage.pro",
+    "host": "mt1.kurduk.store",
     "port": 443,
-    "secret": "2f22523a9fdd8fa67e391a31db65b614",
-    "country": "RU",
-    "addTime": 1780211477
+    "secret": "ee2c359976c0e74101ab25d285b51faf306d74312e6b757264756b2e73746f7265",
+    "country": "US",
+    "addTime": 1780211521
   },
   {
     "host": "188.120.229.151",
@@ -168,14 +161,21 @@
     "addTime": 1780211477
   },
   {
-    "host": "startzadimdobareee.appnormoor.com",
+    "host": "telegram.monkeyvillage.pro",
+    "port": 443,
+    "secret": "2f22523a9fdd8fa67e391a31db65b614",
+    "country": "RU",
+    "addTime": 1780211477
+  },
+  {
+    "host": "chat.deepseek.com.codetide.info",
     "port": 443,
     "secret": "dd890938bf53a1dab0a211a217a9260763",
     "country": "NL",
     "addTime": 1780211375
   },
   {
-    "host": "chat.deepseek.com.codetide.info",
+    "host": "startzadimdobareee.appnormoor.com",
     "port": 443,
     "secret": "dd890938bf53a1dab0a211a217a9260763",
     "country": "NL",
@@ -217,13 +217,6 @@
     "addTime": 1780211133
   },
   {
-    "host": "147.45.68.25",
-    "port": 443,
-    "secret": "ee17352c284a418ed218cc6bbda02c0aac766b2e636f6d",
-    "country": "FR",
-    "addTime": 1780211132
-  },
-  {
     "host": "51.20.91.11",
     "port": 15,
     "secret": "dd1603010200010001fc030386e24c3add",
@@ -238,14 +231,14 @@
     "addTime": 1780211127
   },
   {
-    "host": "16.171.113.106",
+    "host": "56.228.13.198",
     "port": 15,
     "secret": "dd1603010200010001fc030386e24c3add",
     "country": "SE",
     "addTime": 1780211121
   },
   {
-    "host": "56.228.13.198",
+    "host": "16.171.113.106",
     "port": 15,
     "secret": "dd1603010200010001fc030386e24c3add",
     "country": "SE",
@@ -341,6 +334,13 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1780189501
+  },
+  {
+    "host": "5.78.230.211",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "US",
+    "addTime": 1780179015
   },
   {
     "host": "5.78.230.109",
