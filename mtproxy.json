@@ -49,14 +49,14 @@
     "addTime": 1780340890
   },
   {
-    "host": "78.47.216.137",
+    "host": "91.107.156.221",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780340889
   },
   {
-    "host": "91.107.156.221",
+    "host": "78.47.216.137",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -77,17 +77,17 @@
     "addTime": 1780340721
   },
   {
-    "host": "ether.nolags.pw",
-    "port": 443,
-    "secret": "dd86e17c6a253f59eac4b4909095ba3019",
-    "country": "NL",
-    "addTime": 1780340712
-  },
-  {
     "host": "r44.proxytg.space",
     "port": 8443,
     "secret": "eebf7b9e22c9202130923254db55f17ed07234342e70726f787974672e7370616365",
     "country": "RU",
+    "addTime": 1780340712
+  },
+  {
+    "host": "ether.nolags.pw",
+    "port": 443,
+    "secret": "dd86e17c6a253f59eac4b4909095ba3019",
+    "country": "NL",
     "addTime": 1780340712
   },
   {
@@ -127,6 +127,13 @@
   },
   {
     "host": "91.107.188.85",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "DE",
+    "addTime": 1780330243
+  },
+  {
+    "host": "91.107.189.250",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
@@ -175,7 +182,7 @@
     "addTime": 1780329955
   },
   {
-    "host": "7776761.ir.meli-n13.info",
+    "host": "7666764.ir.meli-n13.info",
     "port": 8443,
     "secret": "104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -189,7 +196,7 @@
     "addTime": 1780329955
   },
   {
-    "host": "7666764.ir.meli-n13.info",
+    "host": "7666872.ir.meli-n13.info",
     "port": 8443,
     "secret": "104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -203,7 +210,7 @@
     "addTime": 1780329955
   },
   {
-    "host": "7666872.ir.meli-n13.info",
+    "host": "7776761.ir.meli-n13.info",
     "port": 8443,
     "secret": "104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -224,17 +231,24 @@
     "addTime": 1780329953
   },
   {
-    "host": "95.182.87.20",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "country": "CZ",
-    "addTime": 1780329950
-  },
-  {
     "host": "proxy.dreamerlook.ru",
     "port": 444,
     "secret": "ee00000000000000000000000000000000766b2e636f6d",
     "country": "RU",
+    "addTime": 1780329950
+  },
+  {
+    "host": "150.241.75.150",
+    "port": 443,
+    "secret": "ee636c6f7564666c6172652e636f6dcb",
+    "country": "US",
+    "addTime": 1780329950
+  },
+  {
+    "host": "95.182.87.20",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
+    "country": "CZ",
     "addTime": 1780329950
   },
   {
@@ -259,13 +273,6 @@
     "addTime": 1780329943
   },
   {
-    "host": "37666872.ir.meli-n13.info",
-    "port": 8443,
-    "secret": "104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780329941
-  },
-  {
     "host": "27666783.ir.meli-n13.info",
     "port": 8443,
     "secret": "104462821249bd7ac519130220c25d09",
@@ -273,7 +280,7 @@
     "addTime": 1780329941
   },
   {
-    "host": "56676667.ir.meli-n13.info",
+    "host": "37666872.ir.meli-n13.info",
     "port": 8443,
     "secret": "104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -287,6 +294,13 @@
     "addTime": 1780329941
   },
   {
+    "host": "56676667.ir.meli-n13.info",
+    "port": 8443,
+    "secret": "104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780329941
+  },
+  {
     "host": "17666764.ir.meli-n13.info",
     "port": 8443,
     "secret": "104462821249bd7ac519130220c25d09",
@@ -294,17 +308,17 @@
     "addTime": 1780329941
   },
   {
-    "host": "s02.neo-trading.org",
-    "port": 443,
-    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
-    "country": "RU",
-    "addTime": 1780319531
-  },
-  {
     "host": "r39.proxytg.space",
     "port": 8443,
     "secret": "eeda4e9c22fd9b2dcf174ceb3beef08a2d7233392e70726f787974672e7370616365",
     "country": "RU",
+    "addTime": 1780319531
+  },
+  {
+    "host": "s02.neo-trading.org",
+    "port": 443,
+    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+    "country": "GR",
     "addTime": 1780319531
   },
   {
@@ -322,13 +336,6 @@
     "addTime": 1780319531
   },
   {
-    "host": "pl.endpro.tech",
-    "port": 443,
-    "secret": "ee481e94319819240b18e8c6fc7148e6ec77702e706c",
-    "country": "US",
-    "addTime": 1780319525
-  },
-  {
     "host": "free.russia.mambabot.net",
     "port": 7868,
     "secret": "eeeb11643854d4581da00058adda73288d706574726f766963682e7275",
@@ -336,17 +343,10 @@
     "addTime": 1780319525
   },
   {
-    "host": "45.153.189.43",
+    "host": "pl.endpro.tech",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "country": "RU",
-    "addTime": 1780319372
-  },
-  {
-    "host": "46.224.67.204",
-    "port": 443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "country": "DE",
-    "addTime": 1780319365
+    "secret": "ee481e94319819240b18e8c6fc7148e6ec77702e706c",
+    "country": "US",
+    "addTime": 1780319525
   }
 ]
