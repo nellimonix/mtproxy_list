@@ -98,9 +98,9 @@
     "addTime": 1780373507
   },
   {
-    "host": "2.26.7.252",
+    "host": "45.8.93.159",
     "port": 443,
-    "secret": "eeb747920e217dbcbb7aa533b7278bf02f706c617932676f2e636c6f7564",
+    "secret": "ee76c09650cc6c0fa84f56b3b41f699c1a706c617932676f2e636c6f7564",
     "country": "SE",
     "addTime": 1780373495
   },
@@ -112,17 +112,17 @@
     "addTime": 1780373495
   },
   {
-    "host": "45.8.93.159",
-    "port": 443,
-    "secret": "ee76c09650cc6c0fa84f56b3b41f699c1a706c617932676f2e636c6f7564",
-    "country": "SE",
-    "addTime": 1780373495
-  },
-  {
     "host": "135.136.183.59",
     "port": 8443,
     "secret": "eec2dd831e6644bd3c52b017748e8b65ed31632e7275",
     "country": "CH",
+    "addTime": 1780373495
+  },
+  {
+    "host": "2.26.7.252",
+    "port": 443,
+    "secret": "eeb747920e217dbcbb7aa533b7278bf02f706c617932676f2e636c6f7564",
+    "country": "SE",
     "addTime": 1780373495
   },
   {
@@ -273,6 +273,13 @@
     "addTime": 1780341045
   },
   {
+    "host": "146.185.210.203",
+    "port": 8443,
+    "secret": "ee3fdb0b25c9bc2b4e112b18876dfded9576696e796c2e63616c6c736d6565652e78797a",
+    "country": "GB",
+    "addTime": 1780341038
+  },
+  {
     "host": "proxy.ghostpixel.win",
     "port": 443,
     "secret": "ee4b94f6a99c2018ca86a1439bd1a74f7177702e706c",
@@ -341,12 +348,5 @@
     "secret": "7kH6f1QA3IxeR8MA8ks6rFd2ay5jb20",
     "country": "NL",
     "addTime": 1780330247
-  },
-  {
-    "host": "91.107.189.250",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "DE",
-    "addTime": 1780330243
   }
 ]
