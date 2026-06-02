@@ -63,13 +63,6 @@
     "addTime": 1780351828
   },
   {
-    "host": "195.58.49.26",
-    "port": 443,
-    "secret": "7uAqXLtHlYLrtb0hgzq10kxydXR1YmUucnU",
-    "country": "RU",
-    "addTime": 1780351826
-  },
-  {
     "host": "65.109.184.221",
     "port": 8080,
     "secret": "69b5b34dc67d3e51503788a679e559ad",
@@ -112,14 +105,14 @@
     "addTime": 1780351481
   },
   {
-    "host": "91.107.150.148",
+    "host": "91.107.254.242",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780351479
   },
   {
-    "host": "91.107.254.242",
+    "host": "91.107.150.148",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -273,13 +266,6 @@
     "addTime": 1780330081
   },
   {
-    "host": "7666783.ir.meli-n13.info",
-    "port": 8443,
-    "secret": "104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780329955
-  },
-  {
     "host": "5667667.ir.meli-n13.info",
     "port": 8443,
     "secret": "104462821249bd7ac519130220c25d09",
@@ -294,6 +280,13 @@
     "addTime": 1780329955
   },
   {
+    "host": "76683.ir.meli-n13.info",
+    "port": 8443,
+    "secret": "104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780329955
+  },
+  {
     "host": "7666764.ir.meli-n13.info",
     "port": 8443,
     "secret": "104462821249bd7ac519130220c25d09",
@@ -301,7 +294,7 @@
     "addTime": 1780329955
   },
   {
-    "host": "76683.ir.meli-n13.info",
+    "host": "7666783.ir.meli-n13.info",
     "port": 8443,
     "secret": "104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -322,17 +315,17 @@
     "addTime": 1780329953
   },
   {
-    "host": "95.182.87.20",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "country": "CZ",
-    "addTime": 1780329950
-  },
-  {
     "host": "150.241.75.150",
     "port": 443,
     "secret": "ee636c6f7564666c6172652e636f6dcb",
     "country": "US",
+    "addTime": 1780329950
+  },
+  {
+    "host": "95.182.87.20",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
+    "country": "CZ",
     "addTime": 1780329950
   },
   {
@@ -348,5 +341,12 @@
     "secret": "5f3f0e63b28e7e9884b872748e8425ba",
     "country": "DE",
     "addTime": 1780329943
+  },
+  {
+    "host": "17666764.ir.meli-n13.info",
+    "port": 8443,
+    "secret": "104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780329941
   }
 ]
