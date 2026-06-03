@@ -28,17 +28,17 @@
     "addTime": 1780438005
   },
   {
-    "host": "185.242.247.50",
-    "port": 443,
-    "secret": "ddb3e6489e60675fe969ff2706f9befb34",
-    "country": "FI",
-    "addTime": 1780438004
-  },
-  {
     "host": "70.34.242.183",
     "port": 8443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "country": "PL",
+    "addTime": 1780438004
+  },
+  {
+    "host": "185.242.247.50",
+    "port": 443,
+    "secret": "ddb3e6489e60675fe969ff2706f9befb34",
+    "country": "FI",
     "addTime": 1780438004
   },
   {
@@ -91,14 +91,21 @@
     "addTime": 1780427360
   },
   {
-    "host": "91.217.166.13",
+    "host": "195.58.49.60",
+    "port": 443,
+    "secret": "ee00dc8b697bea898dac63ed8d6a82daa1617669746f2e7275",
+    "country": "RU",
+    "addTime": 1780427359
+  },
+  {
+    "host": "91.217.166.11",
     "port": 16,
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
     "addTime": 1780427279
   },
   {
-    "host": "91.217.166.11",
+    "host": "91.217.166.13",
     "port": 16,
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
@@ -196,13 +203,6 @@
     "addTime": 1780427091
   },
   {
-    "host": "45.202.3.39",
-    "port": 8444,
-    "secret": "ee53389abc77c27f4e4566b049ef3566f5636c6f7564666c6172652e636f6d",
-    "country": "SC",
-    "addTime": 1780427090
-  },
-  {
     "host": "45.202.3.38",
     "port": 8444,
     "secret": "ee53389abc77c27f4e4566b049ef3566f5636c6f7564666c6172652e636f6d",
@@ -210,7 +210,7 @@
     "addTime": 1780427090
   },
   {
-    "host": "45.202.3.40",
+    "host": "45.202.3.39",
     "port": 8444,
     "secret": "ee53389abc77c27f4e4566b049ef3566f5636c6f7564666c6172652e636f6d",
     "country": "SC",
@@ -218,6 +218,13 @@
   },
   {
     "host": "45.202.3.41",
+    "port": 8444,
+    "secret": "ee53389abc77c27f4e4566b049ef3566f5636c6f7564666c6172652e636f6d",
+    "country": "SC",
+    "addTime": 1780427090
+  },
+  {
+    "host": "45.202.3.40",
     "port": 8444,
     "secret": "ee53389abc77c27f4e4566b049ef3566f5636c6f7564666c6172652e636f6d",
     "country": "SC",
@@ -308,15 +315,15 @@
     "addTime": 1780416288
   },
   {
-    "host": "95.216.191.201",
-    "port": 443,
+    "host": "37.27.192.10",
+    "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1780416287
   },
   {
-    "host": "37.27.192.10",
-    "port": 8443,
+    "host": "95.216.191.201",
+    "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1780416287
@@ -329,13 +336,6 @@
     "addTime": 1780416283
   },
   {
-    "host": "65.109.245.52",
-    "port": 7980,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "country": "FI",
-    "addTime": 1780416283
-  },
-  {
     "host": "104.248.243.71",
     "port": 443,
     "secret": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
@@ -343,10 +343,10 @@
     "addTime": 1780416283
   },
   {
-    "host": "mtproto.vpnpirat.ru",
-    "port": 443,
-    "secret": "ee6a844d14c29a43701b6447f8894f04a16d7470726f746f2e76706e70697261742e7275",
-    "country": "RU",
-    "addTime": 1780405836
+    "host": "65.109.245.52",
+    "port": 7980,
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "country": "FI",
+    "addTime": 1780416283
   }
 ]
