@@ -35,17 +35,17 @@
     "addTime": 1780481119
   },
   {
-    "host": "135.136.183.60",
-    "port": 8443,
-    "secret": "eec2dd831e6644bd3c52b017748e8b65ed31632e7275",
-    "country": "CH",
-    "addTime": 1780481119
-  },
-  {
     "host": "77.42.64.77",
     "port": 8080,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
+    "addTime": 1780481119
+  },
+  {
+    "host": "135.136.183.60",
+    "port": 8443,
+    "secret": "eec2dd831e6644bd3c52b017748e8b65ed31632e7275",
+    "country": "CH",
     "addTime": 1780481119
   },
   {
@@ -54,13 +54,6 @@
     "secret": "ee47a48cbe73dd91aa66fb6f8961c5e25a7a6f6f6d2e666c6f776163636573732e73697465",
     "country": "RU",
     "addTime": 1780481112
-  },
-  {
-    "host": "84.252.139.115",
-    "port": 443,
-    "secret": "eefea62269225a14fac3c9e8c7ba6205fe617669746f2e7275",
-    "country": "RU",
-    "addTime": 1780481108
   },
   {
     "host": "161.97.167.251",
@@ -105,13 +98,6 @@
     "addTime": 1780470576
   },
   {
-    "host": "mtp9.sosproxy.space",
-    "port": 443,
-    "secret": "ee3e49c932db3f3a3aa77aef55ef33230264726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1780470576
-  },
-  {
     "host": "185.141.217.94",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
@@ -126,6 +112,20 @@
     "addTime": 1780470408
   },
   {
+    "host": "46.226.162.34",
+    "port": 8443,
+    "secret": "eeccc98c199748a11a5b7660c2afde657b636c6f7564666c6172652e636f6d",
+    "country": "GB",
+    "addTime": 1780470405
+  },
+  {
+    "host": "91.217.166.15",
+    "port": 20,
+    "secret": "FgMBAgABAAH8AwOG4kw63Q",
+    "country": "IR",
+    "addTime": 1780470405
+  },
+  {
     "host": "niderl.kimy.space",
     "port": 443,
     "secret": "ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275",
@@ -137,20 +137,6 @@
     "port": 20,
     "secret": "FgMBAgABAAH8AwOG4kw63Q",
     "country": "IR",
-    "addTime": 1780470405
-  },
-  {
-    "host": "91.217.166.15",
-    "port": 20,
-    "secret": "FgMBAgABAAH8AwOG4kw63Q",
-    "country": "IR",
-    "addTime": 1780470405
-  },
-  {
-    "host": "46.226.162.34",
-    "port": 8443,
-    "secret": "eeccc98c199748a11a5b7660c2afde657b636c6f7564666c6172652e636f6d",
-    "country": "GB",
     "addTime": 1780470405
   },
   {
@@ -210,6 +196,13 @@
     "addTime": 1780459612
   },
   {
+    "host": "sosally.net",
+    "port": 443,
+    "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
+    "country": "RU",
+    "addTime": 1780459600
+  },
+  {
     "host": "euphemism.hosteler.lido.teleseryeshd.com",
     "port": 443,
     "secret": "ee5d5bc33e7446eeec8aac7e840871beb8647a656e2e7275",
@@ -238,17 +231,17 @@
     "addTime": 1780448691
   },
   {
-    "host": "144.37.204.6.harah-irancell.info",
-    "port": 25565,
-    "secret": "EAAzAFUAcAkQAzAFUAdwAwCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "FI",
-    "addTime": 1780448689
-  },
-  {
     "host": "cheqadr.zang.zadam.gaftam.alo-alo.info",
     "port": 25565,
     "secret": "6luuFePWbDLmmz2SYMK7kwCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "country": "DE",
+    "addTime": 1780448689
+  },
+  {
+    "host": "144.37.204.6.harah-irancell.info",
+    "port": 25565,
+    "secret": "EAAzAFUAcAkQAzAFUAdwAwCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "FI",
     "addTime": 1780448689
   },
   {
@@ -262,7 +255,7 @@
     "host": "auto.kimy.space",
     "port": 443,
     "secret": "ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275",
-    "country": "DE",
+    "country": "SE",
     "addTime": 1780438005
   },
   {
@@ -294,13 +287,6 @@
     "addTime": 1780427376
   },
   {
-    "host": "31.76.97.213",
-    "port": 443,
-    "secret": "eec04c8f4ce243d97200b65fc8766e37c2676f6f676c652e636f6d",
-    "country": "US",
-    "addTime": 1780427374
-  },
-  {
     "host": "xflare.kingapk.eu",
     "port": 444,
     "secret": "ee1211d8b43f72c98fa77af05998f0510d6b696e6761706b2e6575",
@@ -315,6 +301,13 @@
     "addTime": 1780427374
   },
   {
+    "host": "31.76.97.213",
+    "port": 443,
+    "secret": "eec04c8f4ce243d97200b65fc8766e37c2676f6f676c652e636f6d",
+    "country": "US",
+    "addTime": 1780427374
+  },
+  {
     "host": "cdn0-38.cdn-vkvideo.com",
     "port": 443,
     "secret": "ee470cb2b8b29aeadfbdf8a2f7bee5ca3b63646e302d33382e63646e2d766b766964656f2e636f6d",
@@ -322,14 +315,14 @@
     "addTime": 1780427360
   },
   {
-    "host": "91.217.166.13",
+    "host": "91.217.166.11",
     "port": 16,
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
     "addTime": 1780427279
   },
   {
-    "host": "91.217.166.11",
+    "host": "91.217.166.13",
     "port": 16,
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
@@ -348,5 +341,12 @@
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
     "addTime": 1780427218
+  },
+  {
+    "host": "204.168.152.124",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780427098
   }
 ]
