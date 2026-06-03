@@ -91,10 +91,10 @@
     "addTime": 1780427376
   },
   {
-    "host": "31.76.97.213",
+    "host": "de.endpro.tech",
     "port": 443,
-    "secret": "eec04c8f4ce243d97200b65fc8766e37c2676f6f676c652e636f6d",
-    "country": "US",
+    "secret": "eefd1db80166d471911c637b82ab2935aa6e752e6e6c",
+    "country": "NL",
     "addTime": 1780427374
   },
   {
@@ -105,10 +105,10 @@
     "addTime": 1780427374
   },
   {
-    "host": "de.endpro.tech",
+    "host": "31.76.97.213",
     "port": 443,
-    "secret": "eefd1db80166d471911c637b82ab2935aa6e752e6e6c",
-    "country": "NL",
+    "secret": "eec04c8f4ce243d97200b65fc8766e37c2676f6f676c652e636f6d",
+    "country": "US",
     "addTime": 1780427374
   },
   {
@@ -126,14 +126,14 @@
     "addTime": 1780427359
   },
   {
-    "host": "91.217.166.13",
+    "host": "91.217.166.11",
     "port": 16,
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
     "addTime": 1780427279
   },
   {
-    "host": "91.217.166.11",
+    "host": "91.217.166.13",
     "port": 16,
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
@@ -145,13 +145,6 @@
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
     "addTime": 1780427252
-  },
-  {
-    "host": "89.169.178.159",
-    "port": 853,
-    "secret": "ee82c26de705aff2092ed3f7463e08ba5c70696b2e7275",
-    "country": "RU",
-    "addTime": 1780427239
   },
   {
     "host": "91.217.166.9",
@@ -287,13 +280,6 @@
     "addTime": 1780416288
   },
   {
-    "host": "37.27.192.10",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1780416287
-  },
-  {
     "host": "95.216.191.201",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -301,9 +287,16 @@
     "addTime": 1780416287
   },
   {
-    "host": "104.248.243.71",
+    "host": "37.27.192.10",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "FI",
+    "addTime": 1780416287
+  },
+  {
+    "host": "max8musican.ir",
     "port": 443,
-    "secret": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "DE",
     "addTime": 1780416283
   },
@@ -315,9 +308,9 @@
     "addTime": 1780416283
   },
   {
-    "host": "max8musican.ir",
+    "host": "104.248.243.71",
     "port": 443,
-    "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
+    "secret": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
     "country": "DE",
     "addTime": 1780416283
   },
@@ -336,16 +329,23 @@
     "addTime": 1780405835
   },
   {
-    "host": "213.219.212.17",
-    "port": 8443,
-    "secret": "ee9e1dde0de02a2e7c22d10e2fff84101374676e6e2e6c697665",
-    "country": "RU",
+    "host": "31.76.119.85",
+    "port": 443,
+    "secret": "ee652f3c8c801d3d5d3fe0ab9e2c9d05887467312e72656269727468636f6e6e6563742e636f6d",
+    "country": "DE",
     "addTime": 1780405835
   },
   {
-    "host": "92.255.79.100",
+    "host": "31.76.119.157",
     "port": 443,
-    "secret": "ee75cf3fc861aa8bbd7e6f6329bbc0aace776176652e626966726f73742e6e6f77",
+    "secret": "eefa363bb56fadd55d91a88924745ae54e7467332e72656269727468636f6e6e6563742e636f6d",
+    "country": "DE",
+    "addTime": 1780405835
+  },
+  {
+    "host": "185.86.146.39",
+    "port": 443,
+    "secret": "2f22523a9fdd8fa67e391a31db65b614",
     "country": "RU",
     "addTime": 1780405835
   }
