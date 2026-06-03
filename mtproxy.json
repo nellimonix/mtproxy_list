@@ -35,17 +35,17 @@
     "addTime": 1780448971
   },
   {
-    "host": "cheqadr.zang.zadam.gaftam.alo-alo.info",
-    "port": 25565,
-    "secret": "6luuFePWbDLmmz2SYMK7kwCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "DE",
-    "addTime": 1780448689
-  },
-  {
     "host": "144.37.204.6.harah-irancell.info",
     "port": 25565,
     "secret": "EAAzAFUAcAkQAzAFUAdwAwCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "country": "FI",
+    "addTime": 1780448689
+  },
+  {
+    "host": "cheqadr.zang.zadam.gaftam.alo-alo.info",
+    "port": 25565,
+    "secret": "6luuFePWbDLmmz2SYMK7kwCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "DE",
     "addTime": 1780448689
   },
   {
@@ -91,17 +91,17 @@
     "addTime": 1780427376
   },
   {
-    "host": "de.endpro.tech",
-    "port": 443,
-    "secret": "eefd1db80166d471911c637b82ab2935aa6e752e6e6c",
-    "country": "NL",
-    "addTime": 1780427374
-  },
-  {
     "host": "xflare.kingapk.eu",
     "port": 444,
     "secret": "ee1211d8b43f72c98fa77af05998f0510d6b696e6761706b2e6575",
     "country": "FI",
+    "addTime": 1780427374
+  },
+  {
+    "host": "de.endpro.tech",
+    "port": 443,
+    "secret": "eefd1db80166d471911c637b82ab2935aa6e752e6e6c",
+    "country": "NL",
     "addTime": 1780427374
   },
   {
@@ -126,14 +126,14 @@
     "addTime": 1780427359
   },
   {
-    "host": "91.217.166.13",
+    "host": "91.217.166.11",
     "port": 16,
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
     "addTime": 1780427279
   },
   {
-    "host": "91.217.166.11",
+    "host": "91.217.166.13",
     "port": 16,
     "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "IR",
@@ -201,13 +201,6 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1780427092
-  },
-  {
-    "host": "193.33.153.133",
-    "port": 8443,
-    "secret": "ee7bc7947af2a2ee37d4887e32e8d40c58636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1780427091
   },
   {
     "host": "95.216.149.83",
@@ -301,24 +294,17 @@
     "addTime": 1780416287
   },
   {
-    "host": "65.109.245.52",
-    "port": 7980,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "country": "FI",
-    "addTime": 1780416283
-  },
-  {
-    "host": "104.248.243.71",
-    "port": 443,
-    "secret": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-    "country": "DE",
-    "addTime": 1780416283
-  },
-  {
     "host": "max8musican.ir",
     "port": 443,
     "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
     "country": "DE",
+    "addTime": 1780416283
+  },
+  {
+    "host": "65.109.245.52",
+    "port": 7980,
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "country": "FI",
     "addTime": 1780416283
   },
   {
@@ -329,9 +315,9 @@
     "addTime": 1780405836
   },
   {
-    "host": "37.139.34.75",
+    "host": "92.255.79.100",
     "port": 443,
-    "secret": "dd2ed7517b077ef414e24b106e0729335d",
+    "secret": "ee75cf3fc861aa8bbd7e6f6329bbc0aace776176652e626966726f73742e6e6f77",
     "country": "RU",
     "addTime": 1780405835
   },
@@ -343,10 +329,24 @@
     "addTime": 1780405835
   },
   {
+    "host": "31.76.119.85",
+    "port": 443,
+    "secret": "ee652f3c8c801d3d5d3fe0ab9e2c9d05887467312e72656269727468636f6e6e6563742e636f6d",
+    "country": "DE",
+    "addTime": 1780405835
+  },
+  {
     "host": "185.86.146.98",
     "port": 443,
     "secret": "2f22523a9fdd8fa67e391a31db65b614",
     "country": "RU",
+    "addTime": 1780405835
+  },
+  {
+    "host": "31.76.119.157",
+    "port": 443,
+    "secret": "eefa363bb56fadd55d91a88924745ae54e7467332e72656269727468636f6e6e6563742e636f6d",
+    "country": "DE",
     "addTime": 1780405835
   }
 ]
