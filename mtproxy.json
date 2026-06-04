@@ -1,5 +1,47 @@
 [
   {
+    "host": "free.feel-fly.info",
+    "port": 25565,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "country": "FI",
+    "addTime": 1780611547
+  },
+  {
+    "host": "london.nolags.pw",
+    "port": 443,
+    "secret": "dd6fe89c6d1f5f8b54afc931cf4f640b91",
+    "country": "NL",
+    "addTime": 1780611544
+  },
+  {
+    "host": "proxyplus.irmnets.com",
+    "port": 3389,
+    "secret": "dd2579351928355396d7d1f0b780065468",
+    "country": "NL",
+    "addTime": 1780611541
+  },
+  {
+    "host": "65.109.252.197",
+    "port": 8080,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "FI",
+    "addTime": 1780611538
+  },
+  {
+    "host": "87.248.129.244",
+    "port": 4455,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "country": "IR",
+    "addTime": 1780611538
+  },
+  {
+    "host": "195.254.165.17",
+    "port": 8443,
+    "secret": "ee1603010200010001fc030386e24c3add646565707365656B2E636F6D",
+    "country": "IR",
+    "addTime": 1780611532
+  },
+  {
     "host": "52.56.119.220",
     "port": 80,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -21,6 +63,13 @@
     "addTime": 1780599954
   },
   {
+    "host": "195.201.146.78",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599954
+  },
+  {
     "host": "178.105.232.49",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -30,13 +79,6 @@
   {
     "host": "178.105.226.11",
     "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780599954
-  },
-  {
-    "host": "195.201.146.78",
-    "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780599954
@@ -56,11 +98,11 @@
     "addTime": 1780599920
   },
   {
-    "host": "167.233.21.161",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780599918
+    "host": "free.abrdns.com",
+    "port": 443,
+    "secret": "ee8f21364305f05c124f5cb1712533c280667265652e616272646e732e636f6d",
+    "country": "RU",
+    "addTime": 1780599920
   },
   {
     "host": "188.34.162.30",
@@ -85,6 +127,13 @@
   },
   {
     "host": "167.233.53.71",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599918
+  },
+  {
+    "host": "167.233.21.161",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -117,13 +166,6 @@
     "secret": "ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d",
     "country": "RU",
     "addTime": 1780599915
-  },
-  {
-    "host": "65.109.255.130",
-    "port": 8080,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1780599914
   },
   {
     "host": "45.88.66.8",
@@ -238,6 +280,13 @@
     "addTime": 1780589109
   },
   {
+    "host": "weblog.forwarding-co.site",
+    "port": 443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "FI",
+    "addTime": 1780589108
+  },
+  {
     "host": "82.40.62.82",
     "port": 443,
     "secret": "81cef820782787be4b25770ee86f5df5",
@@ -273,17 +322,17 @@
     "addTime": 1780578481
   },
   {
-    "host": "91.107.254.122",
-    "port": 443,
-    "secret": "ddd451f808fd60ed2c45f11d38fdbc87c5",
-    "country": "DE",
-    "addTime": 1780578480
-  },
-  {
     "host": "93.113.230.237",
     "port": 443,
     "secret": "dd71f113e3cec722d3e1701bbab480f3d4",
     "country": "IR",
+    "addTime": 1780578480
+  },
+  {
+    "host": "91.107.254.122",
+    "port": 443,
+    "secret": "ddd451f808fd60ed2c45f11d38fdbc87c5",
+    "country": "DE",
     "addTime": 1780578480
   },
   {
@@ -294,59 +343,10 @@
     "addTime": 1780578386
   },
   {
-    "host": "167.233.52.240",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780578287
-  },
-  {
-    "host": "167.233.49.234",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780578287
-  },
-  {
-    "host": "167.233.53.190",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780578287
-  },
-  {
     "host": "167.233.60.38",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780578287
-  },
-  {
-    "host": "167.233.58.228",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780578287
-  },
-  {
-    "host": "info.proxytime.info",
-    "port": 25565,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "FI",
-    "addTime": 1780578286
-  },
-  {
-    "host": "play.fast-mt.info",
-    "port": 22,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "FI",
-    "addTime": 1780578286
-  },
-  {
-    "host": "fool.feel-fly.info",
-    "port": 25565,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "DE",
-    "addTime": 1780578286
   }
 ]
