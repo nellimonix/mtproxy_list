@@ -28,10 +28,10 @@
     "addTime": 1780599954
   },
   {
-    "host": "s2.wyckoff.one",
-    "port": 443,
-    "secret": "ee0df0377ad1589f950b45735d56eef61e6f7a6f6e2e7275",
-    "country": "RU",
+    "host": "35.179.77.98",
+    "port": 80,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "GB",
     "addTime": 1780599954
   },
   {
@@ -49,10 +49,10 @@
     "addTime": 1780599954
   },
   {
-    "host": "35.179.77.98",
-    "port": 80,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "GB",
+    "host": "s2.wyckoff.one",
+    "port": 443,
+    "secret": "ee0df0377ad1589f950b45735d56eef61e6f7a6f6e2e7275",
+    "country": "RU",
     "addTime": 1780599954
   },
   {
@@ -61,20 +61,6 @@
     "secret": "eebaa4487c1c78b358153f3ae62b35ee85656e65726779666d2e7275",
     "country": "GB",
     "addTime": 1780599920
-  },
-  {
-    "host": "188.34.162.30",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780599918
-  },
-  {
-    "host": "167.233.21.161",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780599918
   },
   {
     "host": "167.233.59.54",
@@ -98,11 +84,25 @@
     "addTime": 1780599918
   },
   {
-    "host": "31.76.39.36",
-    "port": 443,
-    "secret": "ee2dd3624aeb4b6a454407bff0a49f682d617669746f2e7275",
-    "country": "US",
-    "addTime": 1780599915
+    "host": "167.233.21.161",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599918
+  },
+  {
+    "host": "188.34.162.30",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599918
+  },
+  {
+    "host": "starsvpn.obhod.fun",
+    "port": 6443,
+    "secret": "76706e76706e76706e76706e76706e76",
+    "country": "DE",
+    "addTime": 1780599917
   },
   {
     "host": "warsaw.nolags.pw",
@@ -116,6 +116,13 @@
     "port": 443,
     "secret": "ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d",
     "country": "RU",
+    "addTime": 1780599915
+  },
+  {
+    "host": "31.76.39.36",
+    "port": 443,
+    "secret": "ee2dd3624aeb4b6a454407bff0a49f682d617669746f2e7275",
+    "country": "US",
     "addTime": 1780599915
   },
   {
@@ -140,13 +147,6 @@
     "addTime": 1780599909
   },
   {
-    "host": "167.233.40.244",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780599908
-  },
-  {
     "host": "prxy.vpnspacev.com",
     "port": 443,
     "secret": "ee6e35665dad80ee128615a8ee7957a60479616e6465782e7275",
@@ -154,17 +154,24 @@
     "addTime": 1780599908
   },
   {
-    "host": "paneltg.fchb.net",
-    "port": 443,
-    "secret": "ee310ef18989db8757fbcc7690d797f7f9326769732e7275",
-    "country": "RU",
-    "addTime": 1780589264
+    "host": "167.233.40.244",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599908
   },
   {
     "host": "swepantg.fchb.net",
     "port": 443,
     "secret": "eee1e0031b30189f6b5052707d21e5ae13676f6f676c65617069732e636f6d",
     "country": "SE",
+    "addTime": 1780589264
+  },
+  {
+    "host": "paneltg.fchb.net",
+    "port": 443,
+    "secret": "ee310ef18989db8757fbcc7690d797f7f9326769732e7275",
+    "country": "RU",
     "addTime": 1780589264
   },
   {
@@ -189,17 +196,17 @@
     "addTime": 1780589221
   },
   {
-    "host": "tt.baboon.digital",
-    "port": 8444,
-    "secret": "eec0a0a0d6af4304d98c03ff9ea2361640636c6f7564666c6172652e636f6d",
-    "country": "FI",
-    "addTime": 1780589127
-  },
-  {
     "host": "artist.stereotyper.upborn.teleseryestvheaven.com",
     "port": 443,
     "secret": "ee73fde7d2db16c799e6a8e203c12e97a2647a656e2e7275",
     "country": "DE",
+    "addTime": 1780589127
+  },
+  {
+    "host": "tt.baboon.digital",
+    "port": 8444,
+    "secret": "eec0a0a0d6af4304d98c03ff9ea2361640636c6f7564666c6172652e636f6d",
+    "country": "FI",
     "addTime": 1780589127
   },
   {
@@ -273,17 +280,17 @@
     "addTime": 1780578481
   },
   {
-    "host": "91.107.254.122",
-    "port": 443,
-    "secret": "ddd451f808fd60ed2c45f11d38fdbc87c5",
-    "country": "DE",
-    "addTime": 1780578480
-  },
-  {
     "host": "93.113.230.237",
     "port": 443,
     "secret": "dd71f113e3cec722d3e1701bbab480f3d4",
     "country": "IR",
+    "addTime": 1780578480
+  },
+  {
+    "host": "91.107.254.122",
+    "port": 443,
+    "secret": "ddd451f808fd60ed2c45f11d38fdbc87c5",
+    "country": "DE",
     "addTime": 1780578480
   },
   {
@@ -329,21 +336,14 @@
     "addTime": 1780578287
   },
   {
-    "host": "info.proxytime.info",
+    "host": "fool.feel-fly.info",
     "port": 25565,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "DE",
     "addTime": 1780578286
   },
   {
-    "host": "play.fast-mt.info",
-    "port": 22,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "FI",
-    "addTime": 1780578286
-  },
-  {
-    "host": "fool.feel-fly.info",
+    "host": "info.proxytime.info",
     "port": 25565,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "DE",
