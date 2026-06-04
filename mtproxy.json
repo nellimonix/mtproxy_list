@@ -14,6 +14,13 @@
     "addTime": 1780611847
   },
   {
+    "host": "18.194.63.255",
+    "port": 2096,
+    "secret": "ee8c9ea977f83511012c6dd72faff31cf073746f72652e737465616d706f77657265642e636f6d",
+    "country": "DE",
+    "addTime": 1780611835
+  },
+  {
     "host": "191.44.109.113",
     "port": 443,
     "secret": "84b4f0ca7a54d6eb59db51f6d1ceeb3b",
@@ -35,17 +42,17 @@
     "addTime": 1780611679
   },
   {
-    "host": "nova.flowstreamhub.site",
-    "port": 443,
-    "secret": "eeb1a90b2bd080b288badd320bf824277c6e6f76612e666c6f7773747265616d6875622e73697465",
-    "country": "RU",
-    "addTime": 1780611677
-  },
-  {
     "host": "74.211.107.142",
     "port": 443,
     "secret": "eedd1d21d5ff505d78ecd5ec955b65a420617a7572652e6d6963726f736f66742e636f6d",
     "country": "US",
+    "addTime": 1780611677
+  },
+  {
+    "host": "nova.flowstreamhub.site",
+    "port": 443,
+    "secret": "eeb1a90b2bd080b288badd320bf824277c6e6f76612e666c6f7773747265616d6875622e73697465",
+    "country": "RU",
     "addTime": 1780611677
   },
   {
@@ -84,6 +91,13 @@
     "addTime": 1780611538
   },
   {
+    "host": "65.109.252.197",
+    "port": 8080,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "FI",
+    "addTime": 1780611538
+  },
+  {
     "host": "195.254.165.17",
     "port": 8443,
     "secret": "ee1603010200010001fc030386e24c3add646565707365656B2E636F6D",
@@ -112,10 +126,17 @@
     "addTime": 1780599955
   },
   {
-    "host": "s2.wyckoff.one",
+    "host": "178.105.226.11",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599954
+  },
+  {
+    "host": "195.201.146.78",
     "port": 443,
-    "secret": "ee0df0377ad1589f950b45735d56eef61e6f7a6f6e2e7275",
-    "country": "RU",
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
     "addTime": 1780599954
   },
   {
@@ -126,10 +147,10 @@
     "addTime": 1780599954
   },
   {
-    "host": "178.105.226.11",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
+    "host": "s2.wyckoff.one",
+    "port": 443,
+    "secret": "ee0df0377ad1589f950b45735d56eef61e6f7a6f6e2e7275",
+    "country": "RU",
     "addTime": 1780599954
   },
   {
@@ -140,6 +161,13 @@
     "addTime": 1780599920
   },
   {
+    "host": "167.233.59.54",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599918
+  },
+  {
     "host": "167.233.58.97",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -147,14 +175,7 @@
     "addTime": 1780599918
   },
   {
-    "host": "167.233.53.71",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780599918
-  },
-  {
-    "host": "167.233.59.54",
+    "host": "188.34.162.30",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -168,7 +189,7 @@
     "addTime": 1780599918
   },
   {
-    "host": "188.34.162.30",
+    "host": "167.233.53.71",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -203,13 +224,6 @@
     "addTime": 1780599915
   },
   {
-    "host": "65.109.255.130",
-    "port": 8080,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1780599914
-  },
-  {
     "host": "45.88.66.8",
     "port": 443,
     "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
@@ -224,13 +238,6 @@
     "addTime": 1780599909
   },
   {
-    "host": "167.233.40.244",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780599908
-  },
-  {
     "host": "prxy.vpnspacev.com",
     "port": 443,
     "secret": "ee6e35665dad80ee128615a8ee7957a60479616e6465782e7275",
@@ -238,17 +245,24 @@
     "addTime": 1780599908
   },
   {
-    "host": "swepantg.fchb.net",
-    "port": 443,
-    "secret": "eee1e0031b30189f6b5052707d21e5ae13676f6f676c65617069732e636f6d",
-    "country": "SE",
-    "addTime": 1780589264
+    "host": "167.233.40.244",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599908
   },
   {
     "host": "paneltg.fchb.net",
     "port": 443,
     "secret": "ee310ef18989db8757fbcc7690d797f7f9326769732e7275",
     "country": "RU",
+    "addTime": 1780589264
+  },
+  {
+    "host": "swepantg.fchb.net",
+    "port": 443,
+    "secret": "eee1e0031b30189f6b5052707d21e5ae13676f6f676c65617069732e636f6d",
+    "country": "SE",
     "addTime": 1780589264
   },
   {
@@ -287,13 +301,6 @@
     "addTime": 1780589127
   },
   {
-    "host": "167.233.9.127",
-    "port": 25565,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "DE",
-    "addTime": 1780589113
-  },
-  {
     "host": "178.63.119.94",
     "port": 25565,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
@@ -304,6 +311,13 @@
     "host": "18.194.224.143",
     "port": 2053,
     "secret": "eecbec1699cb58ef0d7a9ff63b870f2809706574726f766963682e7275",
+    "country": "DE",
+    "addTime": 1780589113
+  },
+  {
+    "host": "167.233.9.127",
+    "port": 25565,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "DE",
     "addTime": 1780589113
   },
@@ -334,19 +348,5 @@
     "secret": "81cef820782787be4b25770ee86f5df5",
     "country": "PL",
     "addTime": 1780578567
-  },
-  {
-    "host": "tgmt.st-29.online",
-    "port": 443,
-    "secret": "ee2258b5fc20d87c0534e25f1f860a729f6c656e74612e7275",
-    "country": "FI",
-    "addTime": 1780578559
-  },
-  {
-    "host": "54.255.197.7",
-    "port": 100,
-    "secret": "ee4e0fff0c2d3d7c7117e3e96003eef52b73332e616d617a6f6e6177732e636f6d",
-    "country": "SG",
-    "addTime": 1780578557
   }
 ]
