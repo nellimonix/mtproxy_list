@@ -35,10 +35,10 @@
     "addTime": 1780599954
   },
   {
-    "host": "35.179.77.98",
-    "port": 80,
+    "host": "178.105.226.11",
+    "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "GB",
+    "country": "DE",
     "addTime": 1780599954
   },
   {
@@ -49,10 +49,10 @@
     "addTime": 1780599954
   },
   {
-    "host": "178.105.226.11",
-    "port": 8443,
+    "host": "35.179.77.98",
+    "port": 80,
     "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
+    "country": "GB",
     "addTime": 1780599954
   },
   {
@@ -70,14 +70,21 @@
     "addTime": 1780599920
   },
   {
-    "host": "167.233.58.97",
+    "host": "free.abrdns.com",
+    "port": 443,
+    "secret": "ee8f21364305f05c124f5cb1712533c280667265652e616272646e732e636f6d",
+    "country": "RU",
+    "addTime": 1780599920
+  },
+  {
+    "host": "167.233.59.54",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780599918
   },
   {
-    "host": "167.233.21.161",
+    "host": "167.233.58.97",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -98,17 +105,17 @@
     "addTime": 1780599918
   },
   {
-    "host": "167.233.59.54",
+    "host": "167.233.21.161",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780599918
   },
   {
-    "host": "31.76.39.36",
+    "host": "warsaw.nolags.pw",
     "port": 443,
-    "secret": "ee2dd3624aeb4b6a454407bff0a49f682d617669746f2e7275",
-    "country": "US",
+    "secret": "dd68c2ee708b2e88d8d12802479d4d5026",
+    "country": "NL",
     "addTime": 1780599915
   },
   {
@@ -119,10 +126,10 @@
     "addTime": 1780599915
   },
   {
-    "host": "warsaw.nolags.pw",
+    "host": "31.76.39.36",
     "port": 443,
-    "secret": "dd68c2ee708b2e88d8d12802479d4d5026",
-    "country": "NL",
+    "secret": "ee2dd3624aeb4b6a454407bff0a49f682d617669746f2e7275",
+    "country": "US",
     "addTime": 1780599915
   },
   {
@@ -217,14 +224,14 @@
     "addTime": 1780589113
   },
   {
-    "host": "167.233.9.127",
+    "host": "178.63.119.94",
     "port": 25565,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "DE",
     "addTime": 1780589113
   },
   {
-    "host": "178.63.119.94",
+    "host": "167.233.9.127",
     "port": 25565,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "DE",
@@ -287,6 +294,13 @@
     "addTime": 1780578480
   },
   {
+    "host": "93.113.230.237",
+    "port": 443,
+    "secret": "dd71f113e3cec722d3e1701bbab480f3d4",
+    "country": "IR",
+    "addTime": 1780578480
+  },
+  {
     "host": "ghtash.co.uk",
     "port": 9965,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -294,14 +308,14 @@
     "addTime": 1780578386
   },
   {
-    "host": "167.233.58.228",
+    "host": "167.233.60.38",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780578287
   },
   {
-    "host": "167.233.60.38",
+    "host": "167.233.58.228",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -329,24 +343,10 @@
     "addTime": 1780578287
   },
   {
-    "host": "fool.feel-fly.info",
-    "port": 25565,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "DE",
-    "addTime": 1780578286
-  },
-  {
-    "host": "play.fast-mt.info",
-    "port": 22,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "FI",
-    "addTime": 1780578286
-  },
-  {
     "host": "info.proxytime.info",
     "port": 25565,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "DE",
+    "country": "FI",
     "addTime": 1780578286
   }
 ]
