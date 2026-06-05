@@ -49,17 +49,17 @@
     "addTime": 1780654006
   },
   {
-    "host": "103.161.34.42",
-    "port": 443,
-    "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "HK",
-    "addTime": 1780654005
-  },
-  {
     "host": "92.246.87.130",
     "port": 443,
     "secret": "dd79e7010200010007f0030386e24c3add",
     "country": "DE",
+    "addTime": 1780654005
+  },
+  {
+    "host": "103.161.34.42",
+    "port": 443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
+    "country": "HK",
     "addTime": 1780654005
   },
   {
@@ -84,13 +84,6 @@
     "addTime": 1780653892
   },
   {
-    "host": "65.109.251.105",
-    "port": 8080,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1780653891
-  },
-  {
     "host": "178.105.189.59",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -98,15 +91,22 @@
     "addTime": 1780653891
   },
   {
-    "host": "116.202.35.160",
-    "port": 25565,
+    "host": "65.109.251.105",
+    "port": 8080,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "FI",
+    "addTime": 1780653891
+  },
+  {
+    "host": "95.216.230.229",
+    "port": 8443,
     "secret": "FgMBAgABAAH8AxOG4kw63Q",
-    "country": "DE",
+    "country": "FI",
     "addTime": 1780653888
   },
   {
-    "host": "176.65.136.20",
-    "port": 8443,
+    "host": "116.202.35.160",
+    "port": 25565,
     "secret": "FgMBAgABAAH8AxOG4kw63Q",
     "country": "DE",
     "addTime": 1780653888
@@ -119,10 +119,10 @@
     "addTime": 1780653888
   },
   {
-    "host": "95.216.230.229",
+    "host": "176.65.136.20",
     "port": 8443,
     "secret": "FgMBAgABAAH8AxOG4kw63Q",
-    "country": "FI",
+    "country": "DE",
     "addTime": 1780653888
   },
   {
@@ -182,6 +182,13 @@
     "addTime": 1780632562
   },
   {
+    "host": "proxy-dag.ru",
+    "port": 443,
+    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
+    "country": "RU",
+    "addTime": 1780632549
+  },
+  {
     "host": "customer.myrka.digital",
     "port": 444,
     "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
@@ -203,10 +210,10 @@
     "addTime": 1780632388
   },
   {
-    "host": "23.27.134.108",
+    "host": "47.239.127.51",
     "port": 56789,
-    "secret": "eeb00cf01fcaf51b608d63876e5eddd1ec617a7572652e6d6963726f736f66742e636f6d",
-    "country": "US",
+    "secret": "ee9cb6ab63d3eee92a1a73754b21779559617a7572652e6d6963726f736f66742e636f6d",
+    "country": "HK",
     "addTime": 1780632387
   },
   {
@@ -224,10 +231,10 @@
     "addTime": 1780632387
   },
   {
-    "host": "47.239.127.51",
+    "host": "23.27.134.108",
     "port": 56789,
-    "secret": "ee9cb6ab63d3eee92a1a73754b21779559617a7572652e6d6963726f736f66742e636f6d",
-    "country": "HK",
+    "secret": "eeb00cf01fcaf51b608d63876e5eddd1ec617a7572652e6d6963726f736f66742e636f6d",
+    "country": "US",
     "addTime": 1780632387
   },
   {
@@ -280,17 +287,17 @@
     "addTime": 1780611847
   },
   {
-    "host": "191.44.109.113",
-    "port": 443,
-    "secret": "84b4f0ca7a54d6eb59db51f6d1ceeb3b",
-    "country": "GB",
-    "addTime": 1780611835
-  },
-  {
     "host": "18.194.63.255",
     "port": 2096,
     "secret": "ee8c9ea977f83511012c6dd72faff31cf073746f72652e737465616d706f77657265642e636f6d",
     "country": "DE",
+    "addTime": 1780611835
+  },
+  {
+    "host": "191.44.109.113",
+    "port": 443,
+    "secret": "84b4f0ca7a54d6eb59db51f6d1ceeb3b",
+    "country": "GB",
     "addTime": 1780611835
   },
   {
@@ -301,17 +308,17 @@
     "addTime": 1780611747
   },
   {
-    "host": "74.211.107.142",
-    "port": 443,
-    "secret": "eedd1d21d5ff505d78ecd5ec955b65a420617a7572652e6d6963726f736f66742e636f6d",
-    "country": "US",
-    "addTime": 1780611677
-  },
-  {
     "host": "nova.flowstreamhub.site",
     "port": 443,
     "secret": "eeb1a90b2bd080b288badd320bf824277c6e6f76612e666c6f7773747265616d6875622e73697465",
     "country": "RU",
+    "addTime": 1780611677
+  },
+  {
+    "host": "74.211.107.142",
+    "port": 443,
+    "secret": "eedd1d21d5ff505d78ecd5ec955b65a420617a7572652e6d6963726f736f66742e636f6d",
+    "country": "US",
     "addTime": 1780611677
   },
   {
@@ -340,13 +347,6 @@
     "port": 8080,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
-    "addTime": 1780611538
-  },
-  {
-    "host": "87.248.129.244",
-    "port": 4455,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "IR",
     "addTime": 1780611538
   }
 ]
