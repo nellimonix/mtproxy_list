@@ -42,17 +42,17 @@
     "addTime": 1780675672
   },
   {
-    "host": "31.76.39.56",
-    "port": 443,
-    "secret": "ee46636c0c3ff70a1d97ff70bb96ecd6ce617669746f2e7275",
-    "country": "US",
-    "addTime": 1780675589
-  },
-  {
     "host": "94.130.163.24",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
+    "addTime": 1780675589
+  },
+  {
+    "host": "31.76.39.56",
+    "port": 443,
+    "secret": "ee46636c0c3ff70a1d97ff70bb96ecd6ce617669746f2e7275",
+    "country": "US",
     "addTime": 1780675589
   },
   {
@@ -77,25 +77,11 @@
     "addTime": 1780675535
   },
   {
-    "host": "tg1.rebirthconnect.com",
-    "port": 443,
-    "secret": "ee652f3c8c801d3d5d3fe0ab9e2c9d05887467312e72656269727468636f6e6e6563742e636f6d",
-    "country": "DE",
-    "addTime": 1780675528
-  },
-  {
     "host": "46.62.234.149",
     "port": 4455,
     "secret": "ee1603010200010001fc030386e24c3add7765622e79656b74616e65742e636f6d",
     "country": "FI",
     "addTime": 1780675525
-  },
-  {
-    "host": "94.130.163.60",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780675522
   },
   {
     "host": "5.9.254.193",
@@ -105,17 +91,24 @@
     "addTime": 1780675522
   },
   {
-    "host": "5.101.117.221",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "EE",
-    "addTime": 1780675515
+    "host": "94.130.163.60",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780675522
   },
   {
     "host": "185.223.93.114",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "NL",
+    "addTime": 1780675515
+  },
+  {
+    "host": "5.101.117.221",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "EE",
     "addTime": 1780675515
   },
   {
@@ -182,17 +175,17 @@
     "addTime": 1780664708
   },
   {
-    "host": "whiltelist-prx1.getvelora.space",
-    "port": 443,
-    "secret": "ee6f8c5619eef69de325d0c3ff8a9b7a336d61782e7275",
-    "country": "NL",
-    "addTime": 1780664697
-  },
-  {
     "host": "connect.chunkycorp.shop",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
     "country": "RU",
+    "addTime": 1780664697
+  },
+  {
+    "host": "whiltelist-prx1.getvelora.space",
+    "port": 443,
+    "secret": "ee6f8c5619eef69de325d0c3ff8a9b7a336d61782e7275",
+    "country": "NL",
     "addTime": 1780664697
   },
   {
@@ -203,16 +196,16 @@
     "addTime": 1780664690
   },
   {
-    "host": "38.173.252.170",
+    "host": "38.173.251.165",
     "port": 443,
-    "secret": "ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d",
+    "secret": "ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d",
     "country": "US",
     "addTime": 1780664686
   },
   {
-    "host": "38.173.251.165",
+    "host": "38.173.252.170",
     "port": 443,
-    "secret": "ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d",
+    "secret": "ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d",
     "country": "US",
     "addTime": 1780664686
   },
@@ -259,13 +252,6 @@
     "addTime": 1780654006
   },
   {
-    "host": "103.161.34.42",
-    "port": 443,
-    "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "HK",
-    "addTime": 1780654005
-  },
-  {
     "host": "92.246.87.130",
     "port": 443,
     "secret": "dd79e7010200010007f0030386e24c3add",
@@ -273,17 +259,24 @@
     "addTime": 1780654005
   },
   {
-    "host": "protocol.fast-mt.info",
-    "port": 25565,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "FI",
-    "addTime": 1780653901
+    "host": "103.161.34.42",
+    "port": 443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
+    "country": "HK",
+    "addTime": 1780654005
   },
   {
     "host": "iran.proxytime.info",
     "port": 25565,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "DE",
+    "addTime": 1780653901
+  },
+  {
+    "host": "protocol.fast-mt.info",
+    "port": 25565,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "country": "FI",
     "addTime": 1780653901
   },
   {
@@ -315,6 +308,13 @@
     "addTime": 1780653891
   },
   {
+    "host": "116.202.35.160",
+    "port": 25565,
+    "secret": "FgMBAgABAAH8AxOG4kw63Q",
+    "country": "DE",
+    "addTime": 1780653888
+  },
+  {
     "host": "176.65.136.20",
     "port": 8443,
     "secret": "FgMBAgABAAH8AxOG4kw63Q",
@@ -326,13 +326,6 @@
     "port": 8443,
     "secret": "FgMBAgABAAH8AxOG4kw63Q",
     "country": "FI",
-    "addTime": 1780653888
-  },
-  {
-    "host": "116.202.35.160",
-    "port": 25565,
-    "secret": "FgMBAgABAAH8AxOG4kw63Q",
-    "country": "DE",
     "addTime": 1780653888
   },
   {
@@ -348,5 +341,12 @@
     "secret": "eec7b876f355b93b6b786cb4b6c9daee79666c6173682e717569636b726f7574656170702e78797a",
     "country": "RU",
     "addTime": 1780643317
+  },
+  {
+    "host": "sonic.quickrouteapp.xyz",
+    "port": 443,
+    "secret": "eebd8b54149182b64d403ef9c5141fc3ee736f6e69632e717569636b726f7574656170702e78797a",
+    "country": "RU",
+    "addTime": 1780643301
   }
 ]
