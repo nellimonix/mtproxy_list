@@ -35,9 +35,9 @@
     "addTime": 1780664799
   },
   {
-    "host": "62.238.4.92",
+    "host": "65.108.123.76",
     "port": 443,
-    "secret": "FgMBAgABAAH8AxOG4kw63Q",
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
     "country": "FI",
     "addTime": 1780664714
   },
@@ -49,9 +49,9 @@
     "addTime": 1780664714
   },
   {
-    "host": "65.108.123.76",
+    "host": "62.238.4.92",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "secret": "FgMBAgABAAH8AxOG4kw63Q",
     "country": "FI",
     "addTime": 1780664714
   },
@@ -105,6 +105,13 @@
     "addTime": 1780664685
   },
   {
+    "host": "proxy.wuxiandai.com",
+    "port": 9443,
+    "secret": "2adab36179e7a39026adf74034615248",
+    "country": "JP",
+    "addTime": 1780654186
+  },
+  {
     "host": "tg1.oneclickvpn.site",
     "port": 443,
     "secret": "ee2c66a3bd46cca18a8070291eff85ce817467312e6f6e65636c69636b76706e2e73697465",
@@ -147,17 +154,17 @@
     "addTime": 1780654006
   },
   {
-    "host": "103.161.34.42",
-    "port": 443,
-    "secret": "dd79e7010200010007f0030386e24c3add",
-    "country": "HK",
-    "addTime": 1780654005
-  },
-  {
     "host": "92.246.87.130",
     "port": 443,
     "secret": "dd79e7010200010007f0030386e24c3add",
     "country": "DE",
+    "addTime": 1780654005
+  },
+  {
+    "host": "103.161.34.42",
+    "port": 443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
+    "country": "HK",
     "addTime": 1780654005
   },
   {
@@ -168,25 +175,11 @@
     "addTime": 1780653895
   },
   {
-    "host": "186.246.28.25",
-    "port": 443,
-    "secret": "eefced0b92adbe28d8bea608c8ca7e553f6275726765726b696e677275732e7275",
-    "country": "HK",
-    "addTime": 1780653894
-  },
-  {
     "host": "iphone.my-miner.info",
     "port": 8443,
     "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
     "country": "DE",
     "addTime": 1780653892
-  },
-  {
-    "host": "65.109.251.105",
-    "port": 8080,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1780653891
   },
   {
     "host": "178.105.189.59",
@@ -231,17 +224,17 @@
     "addTime": 1780643317
   },
   {
-    "host": "sonic.quickrouteapp.xyz",
-    "port": 443,
-    "secret": "eebd8b54149182b64d403ef9c5141fc3ee736f6e69632e717569636b726f7574656170702e78797a",
-    "country": "RU",
-    "addTime": 1780643301
-  },
-  {
     "host": "mtp11.sosproxy.space",
     "port": 443,
     "secret": "ee066f09f5ce8299dae51c25ee34dc431a64726976652e676f6f676c652e636f6d",
     "country": "NL",
+    "addTime": 1780643301
+  },
+  {
+    "host": "sonic.quickrouteapp.xyz",
+    "port": 443,
+    "secret": "eebd8b54149182b64d403ef9c5141fc3ee736f6e69632e717569636b726f7574656170702e78797a",
+    "country": "RU",
     "addTime": 1780643301
   },
   {
@@ -255,7 +248,7 @@
     "host": "connect.arixo.shop",
     "port": 443,
     "secret": "eeed5518514cf40187d905c5b7c9e4d595617669746f2e7275",
-    "country": "IT",
+    "country": "US",
     "addTime": 1780643145
   },
   {
@@ -301,13 +294,6 @@
     "addTime": 1780632388
   },
   {
-    "host": "47.83.146.83",
-    "port": 56789,
-    "secret": "eecc74b7acfbcb0bcb0b14e00c75180643617a7572652e6d6963726f736f66742e636f6d",
-    "country": "HK",
-    "addTime": 1780632387
-  },
-  {
     "host": "47.239.104.88",
     "port": 56789,
     "secret": "ee4bffa640bcf8496c6c73d36780f61a06617a7572652e6d6963726f736f66742e636f6d",
@@ -348,5 +334,19 @@
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
     "addTime": 1780621624
+  },
+  {
+    "host": "proxy.sstm.shop",
+    "port": 443,
+    "secret": "dd26a0bd747ca9494e6292df942f920982",
+    "country": "FI",
+    "addTime": 1780621623
+  },
+  {
+    "host": "87.248.129.243",
+    "port": 4455,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "country": "IR",
+    "addTime": 1780621617
   }
 ]
