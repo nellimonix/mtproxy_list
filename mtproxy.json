@@ -49,6 +49,13 @@
     "addTime": 1780632387
   },
   {
+    "host": "47.239.127.51",
+    "port": 56789,
+    "secret": "ee9cb6ab63d3eee92a1a73754b21779559617a7572652e6d6963726f736f66742e636f6d",
+    "country": "HK",
+    "addTime": 1780632387
+  },
+  {
     "host": "91.239.192.123",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D",
@@ -70,16 +77,16 @@
     "addTime": 1780621631
   },
   {
-    "host": "91.107.251.235",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "host": "proxy.vasl.harah-irancell.info",
+    "port": 25565,
+    "secret": "6luuFePWbDLmmz2SYMK7kwCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "country": "DE",
     "addTime": 1780621624
   },
   {
-    "host": "proxy.vasl.harah-irancell.info",
-    "port": 25565,
-    "secret": "6luuFePWbDLmmz2SYMK7kwCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "host": "91.107.251.235",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
     "addTime": 1780621624
   },
@@ -133,17 +140,17 @@
     "addTime": 1780611679
   },
   {
-    "host": "74.211.107.142",
-    "port": 443,
-    "secret": "eedd1d21d5ff505d78ecd5ec955b65a420617a7572652e6d6963726f736f66742e636f6d",
-    "country": "US",
-    "addTime": 1780611677
-  },
-  {
     "host": "nova.flowstreamhub.site",
     "port": 443,
     "secret": "eeb1a90b2bd080b288badd320bf824277c6e6f76612e666c6f7773747265616d6875622e73697465",
     "country": "RU",
+    "addTime": 1780611677
+  },
+  {
+    "host": "74.211.107.142",
+    "port": 443,
+    "secret": "eedd1d21d5ff505d78ecd5ec955b65a420617a7572652e6d6963726f736f66742e636f6d",
+    "country": "US",
     "addTime": 1780611677
   },
   {
@@ -238,6 +245,13 @@
     "addTime": 1780599954
   },
   {
+    "host": "free.abrdns.com",
+    "port": 443,
+    "secret": "ee8f21364305f05c124f5cb1712533c280667265652e616272646e732e636f6d",
+    "country": "RU",
+    "addTime": 1780599920
+  },
+  {
     "host": "31.148.99.225",
     "port": 443,
     "secret": "eebaa4487c1c78b358153f3ae62b35ee85656e65726779666d2e7275",
@@ -259,6 +273,13 @@
     "addTime": 1780599918
   },
   {
+    "host": "167.233.21.161",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599918
+  },
+  {
     "host": "167.233.53.71",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -273,24 +294,24 @@
     "addTime": 1780599918
   },
   {
-    "host": "167.233.21.161",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
+    "host": "starsvpn.obhod.fun",
+    "port": 6443,
+    "secret": "76706e76706e76706e76706e76706e76",
     "country": "DE",
-    "addTime": 1780599918
-  },
-  {
-    "host": "31.76.39.36",
-    "port": 443,
-    "secret": "ee2dd3624aeb4b6a454407bff0a49f682d617669746f2e7275",
-    "country": "US",
-    "addTime": 1780599915
+    "addTime": 1780599917
   },
   {
     "host": "promo.dealer.ac",
     "port": 443,
     "secret": "ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d",
     "country": "RU",
+    "addTime": 1780599915
+  },
+  {
+    "host": "31.76.39.36",
+    "port": 443,
+    "secret": "ee2dd3624aeb4b6a454407bff0a49f682d617669746f2e7275",
+    "country": "US",
     "addTime": 1780599915
   },
   {
@@ -327,26 +348,5 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780599908
-  },
-  {
-    "host": "swepantg.fchb.net",
-    "port": 443,
-    "secret": "eee1e0031b30189f6b5052707d21e5ae13676f6f676c65617069732e636f6d",
-    "country": "SE",
-    "addTime": 1780589264
-  },
-  {
-    "host": "paneltg.fchb.net",
-    "port": 443,
-    "secret": "ee310ef18989db8757fbcc7690d797f7f9326769732e7275",
-    "country": "RU",
-    "addTime": 1780589264
-  },
-  {
-    "host": "high.telehelp.top",
-    "port": 443,
-    "secret": "ee5b93eed4a729a5e53105623d8551dc3664726976652e676f6f676c652e636f6d",
-    "country": "NL",
-    "addTime": 1780589259
   }
 ]
