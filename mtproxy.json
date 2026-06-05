@@ -38,7 +38,7 @@
     "host": "connect.arixo.shop",
     "port": 443,
     "secret": "eeed5518514cf40187d905c5b7c9e4d595617669746f2e7275",
-    "country": "US",
+    "country": "IT",
     "addTime": 1780643145
   },
   {
@@ -56,13 +56,6 @@
     "addTime": 1780632562
   },
   {
-    "host": "tw2.myrka.digital",
-    "port": 775,
-    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
-    "country": "RU",
-    "addTime": 1780632388
-  },
-  {
     "host": "tw1.myrka.digital",
     "port": 443,
     "secret": "ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c",
@@ -70,16 +63,23 @@
     "addTime": 1780632388
   },
   {
-    "host": "47.239.127.51",
-    "port": 56789,
-    "secret": "ee9cb6ab63d3eee92a1a73754b21779559617a7572652e6d6963726f736f66742e636f6d",
-    "country": "HK",
-    "addTime": 1780632387
+    "host": "tw2.myrka.digital",
+    "port": 775,
+    "secret": "ee1111222e7f5904f3322ded8772202ea268322e6d79726b612e6469676974616c",
+    "country": "RU",
+    "addTime": 1780632388
   },
   {
     "host": "47.83.146.83",
     "port": 56789,
     "secret": "eecc74b7acfbcb0bcb0b14e00c75180643617a7572652e6d6963726f736f66742e636f6d",
+    "country": "HK",
+    "addTime": 1780632387
+  },
+  {
+    "host": "47.239.127.51",
+    "port": 56789,
+    "secret": "ee9cb6ab63d3eee92a1a73754b21779559617a7572652e6d6963726f736f66742e636f6d",
     "country": "HK",
     "addTime": 1780632387
   },
@@ -147,17 +147,17 @@
     "addTime": 1780611847
   },
   {
-    "host": "191.44.109.113",
-    "port": 443,
-    "secret": "84b4f0ca7a54d6eb59db51f6d1ceeb3b",
-    "country": "GB",
-    "addTime": 1780611835
-  },
-  {
     "host": "18.194.63.255",
     "port": 2096,
     "secret": "ee8c9ea977f83511012c6dd72faff31cf073746f72652e737465616d706f77657265642e636f6d",
     "country": "DE",
+    "addTime": 1780611835
+  },
+  {
+    "host": "191.44.109.113",
+    "port": 443,
+    "secret": "84b4f0ca7a54d6eb59db51f6d1ceeb3b",
+    "country": "GB",
     "addTime": 1780611835
   },
   {
@@ -168,17 +168,17 @@
     "addTime": 1780611747
   },
   {
-    "host": "nova.flowstreamhub.site",
-    "port": 443,
-    "secret": "eeb1a90b2bd080b288badd320bf824277c6e6f76612e666c6f7773747265616d6875622e73697465",
-    "country": "RU",
-    "addTime": 1780611677
-  },
-  {
     "host": "74.211.107.142",
     "port": 443,
     "secret": "eedd1d21d5ff505d78ecd5ec955b65a420617a7572652e6d6963726f736f66742e636f6d",
     "country": "US",
+    "addTime": 1780611677
+  },
+  {
+    "host": "nova.flowstreamhub.site",
+    "port": 443,
+    "secret": "eeb1a90b2bd080b288badd320bf824277c6e6f76612e666c6f7773747265616d6875622e73697465",
+    "country": "RU",
     "addTime": 1780611677
   },
   {
@@ -252,10 +252,10 @@
     "addTime": 1780599955
   },
   {
-    "host": "s2.wyckoff.one",
+    "host": "195.201.146.78",
     "port": 443,
-    "secret": "ee0df0377ad1589f950b45735d56eef61e6f7a6f6e2e7275",
-    "country": "RU",
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
     "addTime": 1780599954
   },
   {
@@ -273,10 +273,10 @@
     "addTime": 1780599954
   },
   {
-    "host": "195.201.146.78",
+    "host": "s2.wyckoff.one",
     "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
+    "secret": "ee0df0377ad1589f950b45735d56eef61e6f7a6f6e2e7275",
+    "country": "RU",
     "addTime": 1780599954
   },
   {
@@ -285,6 +285,13 @@
     "secret": "eebaa4487c1c78b358153f3ae62b35ee85656e65726779666d2e7275",
     "country": "GB",
     "addTime": 1780599920
+  },
+  {
+    "host": "167.233.58.97",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599918
   },
   {
     "host": "188.34.162.30",
@@ -301,20 +308,6 @@
     "addTime": 1780599918
   },
   {
-    "host": "167.233.59.54",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780599918
-  },
-  {
-    "host": "167.233.58.97",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780599918
-  },
-  {
     "host": "167.233.53.71",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -322,11 +315,18 @@
     "addTime": 1780599918
   },
   {
-    "host": "warsaw.nolags.pw",
-    "port": 443,
-    "secret": "dd68c2ee708b2e88d8d12802479d4d5026",
-    "country": "NL",
-    "addTime": 1780599915
+    "host": "167.233.59.54",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599918
+  },
+  {
+    "host": "starsvpn.obhod.fun",
+    "port": 6443,
+    "secret": "76706e76706e76706e76706e76706e76",
+    "country": "DE",
+    "addTime": 1780599917
   },
   {
     "host": "31.76.39.36",
@@ -336,17 +336,17 @@
     "addTime": 1780599915
   },
   {
-    "host": "65.109.255.130",
-    "port": 8080,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1780599914
+    "host": "promo.dealer.ac",
+    "port": 443,
+    "secret": "ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d",
+    "country": "RU",
+    "addTime": 1780599915
   },
   {
-    "host": "65.109.254.108",
+    "host": "warsaw.nolags.pw",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "country": "FI",
-    "addTime": 1780599909
+    "secret": "dd68c2ee708b2e88d8d12802479d4d5026",
+    "country": "NL",
+    "addTime": 1780599915
   }
 ]
