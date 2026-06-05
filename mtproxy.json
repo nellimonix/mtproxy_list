@@ -7,13 +7,6 @@
     "addTime": 1780632562
   },
   {
-    "host": "proxy-dag.ru",
-    "port": 443,
-    "secret": "ee94fc2b484af6e1e1c87e6576b33c257579612e7275",
-    "country": "RU",
-    "addTime": 1780632549
-  },
-  {
     "host": "customer.myrka.digital",
     "port": 444,
     "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
@@ -42,9 +35,9 @@
     "addTime": 1780632387
   },
   {
-    "host": "47.83.146.83",
+    "host": "47.239.127.51",
     "port": 56789,
-    "secret": "eecc74b7acfbcb0bcb0b14e00c75180643617a7572652e6d6963726f736f66742e636f6d",
+    "secret": "ee9cb6ab63d3eee92a1a73754b21779559617a7572652e6d6963726f736f66742e636f6d",
     "country": "HK",
     "addTime": 1780632387
   },
@@ -112,17 +105,17 @@
     "addTime": 1780611847
   },
   {
-    "host": "191.44.109.113",
-    "port": 443,
-    "secret": "84b4f0ca7a54d6eb59db51f6d1ceeb3b",
-    "country": "GB",
-    "addTime": 1780611835
-  },
-  {
     "host": "18.194.63.255",
     "port": 2096,
     "secret": "ee8c9ea977f83511012c6dd72faff31cf073746f72652e737465616d706f77657265642e636f6d",
     "country": "DE",
+    "addTime": 1780611835
+  },
+  {
+    "host": "191.44.109.113",
+    "port": 443,
+    "secret": "84b4f0ca7a54d6eb59db51f6d1ceeb3b",
+    "country": "GB",
     "addTime": 1780611835
   },
   {
@@ -252,14 +245,14 @@
     "addTime": 1780599920
   },
   {
-    "host": "167.233.58.97",
+    "host": "167.233.59.54",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780599918
   },
   {
-    "host": "167.233.59.54",
+    "host": "167.233.58.97",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -294,10 +287,10 @@
     "addTime": 1780599917
   },
   {
-    "host": "warsaw.nolags.pw",
+    "host": "promo.dealer.ac",
     "port": 443,
-    "secret": "dd68c2ee708b2e88d8d12802479d4d5026",
-    "country": "NL",
+    "secret": "ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d",
+    "country": "RU",
     "addTime": 1780599915
   },
   {
@@ -308,10 +301,10 @@
     "addTime": 1780599915
   },
   {
-    "host": "promo.dealer.ac",
+    "host": "warsaw.nolags.pw",
     "port": 443,
-    "secret": "ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d",
-    "country": "RU",
+    "secret": "dd68c2ee708b2e88d8d12802479d4d5026",
+    "country": "NL",
     "addTime": 1780599915
   },
   {
@@ -348,5 +341,12 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780599908
+  },
+  {
+    "host": "paneltg.fchb.net",
+    "port": 443,
+    "secret": "ee310ef18989db8757fbcc7690d797f7f9326769732e7275",
+    "country": "RU",
+    "addTime": 1780589264
   }
 ]
