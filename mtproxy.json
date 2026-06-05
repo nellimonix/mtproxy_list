@@ -84,17 +84,17 @@
     "addTime": 1780611541
   },
   {
-    "host": "87.248.129.244",
-    "port": 4455,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "IR",
-    "addTime": 1780611538
-  },
-  {
     "host": "65.109.252.197",
     "port": 8080,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
+    "addTime": 1780611538
+  },
+  {
+    "host": "87.248.129.244",
+    "port": 4455,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "country": "IR",
     "addTime": 1780611538
   },
   {
@@ -126,6 +126,13 @@
     "addTime": 1780599955
   },
   {
+    "host": "s2.wyckoff.one",
+    "port": 443,
+    "secret": "ee0df0377ad1589f950b45735d56eef61e6f7a6f6e2e7275",
+    "country": "RU",
+    "addTime": 1780599954
+  },
+  {
     "host": "178.105.226.11",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -137,13 +144,6 @@
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
-    "addTime": 1780599954
-  },
-  {
-    "host": "s2.wyckoff.one",
-    "port": 443,
-    "secret": "ee0df0377ad1589f950b45735d56eef61e6f7a6f6e2e7275",
-    "country": "RU",
     "addTime": 1780599954
   },
   {
@@ -161,20 +161,6 @@
     "addTime": 1780599920
   },
   {
-    "host": "free.abrdns.com",
-    "port": 443,
-    "secret": "ee8f21364305f05c124f5cb1712533c280667265652e616272646e732e636f6d",
-    "country": "RU",
-    "addTime": 1780599920
-  },
-  {
-    "host": "188.34.162.30",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780599918
-  },
-  {
     "host": "167.233.59.54",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -189,6 +175,13 @@
     "addTime": 1780599918
   },
   {
+    "host": "167.233.21.161",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599918
+  },
+  {
     "host": "167.233.53.71",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -196,7 +189,7 @@
     "addTime": 1780599918
   },
   {
-    "host": "167.233.21.161",
+    "host": "188.34.162.30",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -210,13 +203,6 @@
     "addTime": 1780599917
   },
   {
-    "host": "promo.dealer.ac",
-    "port": 443,
-    "secret": "ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d",
-    "country": "RU",
-    "addTime": 1780599915
-  },
-  {
     "host": "31.76.39.36",
     "port": 443,
     "secret": "ee2dd3624aeb4b6a454407bff0a49f682d617669746f2e7275",
@@ -228,6 +214,13 @@
     "port": 443,
     "secret": "dd68c2ee708b2e88d8d12802479d4d5026",
     "country": "NL",
+    "addTime": 1780599915
+  },
+  {
+    "host": "promo.dealer.ac",
+    "port": 443,
+    "secret": "ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d",
+    "country": "RU",
     "addTime": 1780599915
   },
   {
@@ -266,17 +259,17 @@
     "addTime": 1780599908
   },
   {
-    "host": "paneltg.fchb.net",
-    "port": 443,
-    "secret": "ee310ef18989db8757fbcc7690d797f7f9326769732e7275",
-    "country": "RU",
-    "addTime": 1780589264
-  },
-  {
     "host": "swepantg.fchb.net",
     "port": 443,
     "secret": "eee1e0031b30189f6b5052707d21e5ae13676f6f676c65617069732e636f6d",
     "country": "SE",
+    "addTime": 1780589264
+  },
+  {
+    "host": "paneltg.fchb.net",
+    "port": 443,
+    "secret": "ee310ef18989db8757fbcc7690d797f7f9326769732e7275",
+    "country": "RU",
     "addTime": 1780589264
   },
   {
@@ -301,6 +294,13 @@
     "addTime": 1780589221
   },
   {
+    "host": "tt.baboon.digital",
+    "port": 8444,
+    "secret": "eec0a0a0d6af4304d98c03ff9ea2361640636c6f7564666c6172652e636f6d",
+    "country": "FI",
+    "addTime": 1780589127
+  },
+  {
     "host": "artist.stereotyper.upborn.teleseryestvheaven.com",
     "port": 443,
     "secret": "ee73fde7d2db16c799e6a8e203c12e97a2647a656e2e7275",
@@ -308,11 +308,11 @@
     "addTime": 1780589127
   },
   {
-    "host": "tt.baboon.digital",
-    "port": 8444,
-    "secret": "eec0a0a0d6af4304d98c03ff9ea2361640636c6f7564666c6172652e636f6d",
-    "country": "FI",
-    "addTime": 1780589127
+    "host": "167.233.9.127",
+    "port": 25565,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "country": "DE",
+    "addTime": 1780589113
   },
   {
     "host": "178.63.119.94",
@@ -329,11 +329,11 @@
     "addTime": 1780589113
   },
   {
-    "host": "167.233.9.127",
-    "port": 25565,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "host": "api.my-miner.info",
+    "port": 8443,
+    "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
     "country": "DE",
-    "addTime": 1780589113
+    "addTime": 1780589109
   },
   {
     "host": "46.224.238.249",
@@ -343,10 +343,10 @@
     "addTime": 1780589109
   },
   {
-    "host": "api.my-miner.info",
-    "port": 8443,
-    "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
-    "country": "DE",
-    "addTime": 1780589109
+    "host": "weblog.forwarding-co.site",
+    "port": 443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "FI",
+    "addTime": 1780589108
   }
 ]
