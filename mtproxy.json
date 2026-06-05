@@ -21,16 +21,16 @@
     "addTime": 1780621631
   },
   {
-    "host": "91.107.251.235",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "host": "proxy.vasl.harah-irancell.info",
+    "port": 25565,
+    "secret": "6luuFePWbDLmmz2SYMK7kwCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "country": "DE",
     "addTime": 1780621624
   },
   {
-    "host": "proxy.vasl.harah-irancell.info",
-    "port": 25565,
-    "secret": "6luuFePWbDLmmz2SYMK7kwCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "host": "91.107.251.235",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
     "addTime": 1780621624
   },
@@ -56,17 +56,17 @@
     "addTime": 1780611847
   },
   {
-    "host": "18.194.63.255",
-    "port": 2096,
-    "secret": "ee8c9ea977f83511012c6dd72faff31cf073746f72652e737465616d706f77657265642e636f6d",
-    "country": "DE",
-    "addTime": 1780611835
-  },
-  {
     "host": "191.44.109.113",
     "port": 443,
     "secret": "84b4f0ca7a54d6eb59db51f6d1ceeb3b",
     "country": "GB",
+    "addTime": 1780611835
+  },
+  {
+    "host": "18.194.63.255",
+    "port": 2096,
+    "secret": "ee8c9ea977f83511012c6dd72faff31cf073746f72652e737465616d706f77657265642e636f6d",
+    "country": "DE",
     "addTime": 1780611835
   },
   {
@@ -196,7 +196,14 @@
     "addTime": 1780599920
   },
   {
-    "host": "167.233.21.161",
+    "host": "167.233.59.54",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599918
+  },
+  {
+    "host": "167.233.58.97",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -217,18 +224,18 @@
     "addTime": 1780599918
   },
   {
+    "host": "167.233.21.161",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780599918
+  },
+  {
     "host": "starsvpn.obhod.fun",
     "port": 6443,
     "secret": "76706e76706e76706e76706e76706e76",
     "country": "DE",
     "addTime": 1780599917
-  },
-  {
-    "host": "promo.dealer.ac",
-    "port": 443,
-    "secret": "ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d",
-    "country": "RU",
-    "addTime": 1780599915
   },
   {
     "host": "31.76.39.36",
@@ -242,6 +249,13 @@
     "port": 443,
     "secret": "dd68c2ee708b2e88d8d12802479d4d5026",
     "country": "NL",
+    "addTime": 1780599915
+  },
+  {
+    "host": "promo.dealer.ac",
+    "port": 443,
+    "secret": "ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d",
+    "country": "RU",
     "addTime": 1780599915
   },
   {
@@ -266,17 +280,17 @@
     "addTime": 1780599909
   },
   {
-    "host": "167.233.40.244",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780599908
-  },
-  {
     "host": "prxy.vpnspacev.com",
     "port": 443,
     "secret": "ee6e35665dad80ee128615a8ee7957a60479616e6465782e7275",
     "country": "RU",
+    "addTime": 1780599908
+  },
+  {
+    "host": "167.233.40.244",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
     "addTime": 1780599908
   },
   {
@@ -332,20 +346,6 @@
     "host": "18.194.224.143",
     "port": 2053,
     "secret": "eecbec1699cb58ef0d7a9ff63b870f2809706574726f766963682e7275",
-    "country": "DE",
-    "addTime": 1780589113
-  },
-  {
-    "host": "178.63.119.94",
-    "port": 25565,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "DE",
-    "addTime": 1780589113
-  },
-  {
-    "host": "167.233.9.127",
-    "port": 25565,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "DE",
     "addTime": 1780589113
   }
