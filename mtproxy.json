@@ -28,17 +28,17 @@
     "addTime": 1780729526
   },
   {
-    "host": "157.180.122.162",
-    "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "country": "FI",
-    "addTime": 1780729520
-  },
-  {
     "host": "178.105.231.238",
     "port": 8443,
     "secret": "13ffffff1003cc3005aa5007ee7009dc",
     "country": "DE",
+    "addTime": 1780729520
+  },
+  {
+    "host": "157.180.122.162",
+    "port": 443,
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "country": "FI",
     "addTime": 1780729520
   },
   {
@@ -133,13 +133,6 @@
     "addTime": 1780697289
   },
   {
-    "host": "90.156.195.109",
-    "port": 443,
-    "secret": "ee5c9243f8433e734af3670f66618091f2636c6f75642e6e6574617761792e746f70",
-    "country": "UZ",
-    "addTime": 1780697282
-  },
-  {
     "host": "195.254.165.202",
     "port": 2053,
     "secret": "dd1603010200010001fc030386e24c3addd",
@@ -147,17 +140,17 @@
     "addTime": 1780697155
   },
   {
-    "host": "highspeed.nolags.pw",
-    "port": 443,
-    "secret": "dd6e87000d80db522523b5ab5bb58ab3af",
-    "country": "SE",
-    "addTime": 1780697151
-  },
-  {
     "host": "1.max.ru.proxy.surf",
     "port": 443,
     "secret": "dd207570d660f1e67f6e0a75d6d34a6e08",
     "country": "US",
+    "addTime": 1780697151
+  },
+  {
+    "host": "highspeed.nolags.pw",
+    "port": 443,
+    "secret": "dd6e87000d80db522523b5ab5bb58ab3af",
+    "country": "SE",
     "addTime": 1780697151
   },
   {
@@ -259,20 +252,6 @@
     "addTime": 1780686338
   },
   {
-    "host": "second.nolags.pw",
-    "port": 443,
-    "secret": "ddf4fa8f92de56cde758429546586eaac8",
-    "country": "SE",
-    "addTime": 1780686324
-  },
-  {
-    "host": "78.47.129.193",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780686324
-  },
-  {
     "host": "65.108.201.16",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -287,11 +266,39 @@
     "addTime": 1780686324
   },
   {
+    "host": "second.nolags.pw",
+    "port": 443,
+    "secret": "ddf4fa8f92de56cde758429546586eaac8",
+    "country": "SE",
+    "addTime": 1780686324
+  },
+  {
+    "host": "78.47.129.193",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780686324
+  },
+  {
     "host": "94.183.221.154",
     "port": 443,
     "secret": "68b6be4608d5d4e3d1abcf9cc93a89eb",
     "country": "SE",
     "addTime": 1780686323
+  },
+  {
+    "host": "135.181.36.28",
+    "port": 4455,
+    "secret": "ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d",
+    "country": "FI",
+    "addTime": 1780686321
+  },
+  {
+    "host": "46.62.175.99",
+    "port": 4455,
+    "secret": "ee1603010200010001fc030386e24c3add7765622e79656b74616e65742e636f6d",
+    "country": "FI",
+    "addTime": 1780686321
   },
   {
     "host": "178.105.239.55",
@@ -315,14 +322,14 @@
     "addTime": 1780686317
   },
   {
-    "host": "www.merco-karco.website",
+    "host": "total.beyondeson-co.cfd",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D",
     "country": "NL",
     "addTime": 1780686314
   },
   {
-    "host": "total.beyondeson-co.cfd",
+    "host": "www.merco-karco.website",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D",
     "country": "NL",
@@ -341,12 +348,5 @@
     "secret": "eed81191338c5e47354f884f6edb54640d73746f72652e737465616d706f77657265642e636f6d",
     "country": "DE",
     "addTime": 1780675721
-  },
-  {
-    "host": "167.233.48.77",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780675707
   }
 ]
