@@ -1,5 +1,61 @@
 [
   {
+    "host": "channel.t.me.tradeip.store",
+    "port": 8443,
+    "secret": "dd7fe6d9803aafad7823ee9eecbf31886a",
+    "country": "FI",
+    "addTime": 1780708051
+  },
+  {
+    "host": "91.221.116.3",
+    "port": 15,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "country": "IR",
+    "addTime": 1780708039
+  },
+  {
+    "host": "post.my-miner.info",
+    "port": 8443,
+    "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
+    "country": "DE",
+    "addTime": 1780707911
+  },
+  {
+    "host": "116.203.202.12",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "DE",
+    "addTime": 1780707904
+  },
+  {
+    "host": "91.107.176.112",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "DE",
+    "addTime": 1780707904
+  },
+  {
+    "host": "185.234.100.103",
+    "port": 2053,
+    "secret": "bf326e082e8ce950a4dd708e08a112cb",
+    "country": "FR",
+    "addTime": 1780707899
+  },
+  {
+    "host": "206.206.103.122",
+    "port": 2053,
+    "secret": "bf326e082e8ce950a4dd708e08a112cb",
+    "country": "US",
+    "addTime": 1780707894
+  },
+  {
+    "host": "188.245.121.80",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780707891
+  },
+  {
     "host": "t1.staxel.top",
     "port": 443,
     "secret": "eed821f85a3caff97bd748701cbbc4886a74312e73746178656c2e746f70",
@@ -28,13 +84,6 @@
     "addTime": 1780697155
   },
   {
-    "host": "1.max.ru.proxy.surf",
-    "port": 443,
-    "secret": "dd207570d660f1e67f6e0a75d6d34a6e08",
-    "country": "US",
-    "addTime": 1780697151
-  },
-  {
     "host": "highspeed.nolags.pw",
     "port": 443,
     "secret": "dd6e87000d80db522523b5ab5bb58ab3af",
@@ -42,9 +91,9 @@
     "addTime": 1780697151
   },
   {
-    "host": "nl.gosuslugi.ru.proxy.surf",
-    "port": 8080,
-    "secret": "ddbabb616e149909164e1e0cf9a2e4f5b2",
+    "host": "otkluchy-vpn.connectionrelay.xyz",
+    "port": 443,
+    "secret": "dd207570d660f1e67f6e0a75d6d34a6e08",
     "country": "US",
     "addTime": 1780697151
   },
@@ -56,18 +105,18 @@
     "addTime": 1780697151
   },
   {
-    "host": "otkluchy-vpn.connectionrelay.xyz",
-    "port": 443,
-    "secret": "dd207570d660f1e67f6e0a75d6d34a6e08",
+    "host": "nl.gosuslugi.ru.proxy.surf",
+    "port": 8080,
+    "secret": "ddbabb616e149909164e1e0cf9a2e4f5b2",
     "country": "US",
     "addTime": 1780697151
   },
   {
-    "host": "45.32.156.48",
+    "host": "1.max.ru.proxy.surf",
     "port": 443,
-    "secret": "92e9da8c966329e46f6358759b656ffe",
-    "country": "DE",
-    "addTime": 1780697147
+    "secret": "dd207570d660f1e67f6e0a75d6d34a6e08",
+    "country": "US",
+    "addTime": 1780697151
   },
   {
     "host": "162.19.181.173",
@@ -77,11 +126,11 @@
     "addTime": 1780697147
   },
   {
-    "host": "46.226.163.125",
-    "port": 8443,
-    "secret": "ee69844c3f372db9e7acce5e806ed7c83c73332e616d617a6f6e6177732e636f6d",
-    "country": "GB",
-    "addTime": 1780697146
+    "host": "45.32.156.48",
+    "port": 443,
+    "secret": "92e9da8c966329e46f6358759b656ffe",
+    "country": "DE",
+    "addTime": 1780697147
   },
   {
     "host": "130.185.121.3",
@@ -98,7 +147,14 @@
     "addTime": 1780697146
   },
   {
-    "host": "178.104.130.102",
+    "host": "46.226.163.125",
+    "port": 8443,
+    "secret": "ee69844c3f372db9e7acce5e806ed7c83c73332e616d617a6f6e6177732e636f6d",
+    "country": "GB",
+    "addTime": 1780697146
+  },
+  {
+    "host": "178.105.230.60",
     "port": 443,
     "secret": "ee396219a1e9b2aebf6f245a1495777811706c61792e676f6f676c652e636f6d",
     "country": "DE",
@@ -112,7 +168,7 @@
     "addTime": 1780697129
   },
   {
-    "host": "178.105.230.60",
+    "host": "178.104.130.102",
     "port": 443,
     "secret": "ee396219a1e9b2aebf6f245a1495777811706c61792e676f6f676c652e636f6d",
     "country": "DE",
@@ -131,6 +187,13 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780697126
+  },
+  {
+    "host": "www.yzffffff450.co.uk",
+    "port": 443,
+    "secret": "eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "FI",
+    "addTime": 1780686475
   },
   {
     "host": "yc2.indigogift.fun",
@@ -161,17 +224,17 @@
     "addTime": 1780686338
   },
   {
-    "host": "65.108.201.16",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1780686324
-  },
-  {
     "host": "78.47.129.193",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
+    "addTime": 1780686324
+  },
+  {
+    "host": "65.108.201.16",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "FI",
     "addTime": 1780686324
   },
   {
@@ -196,17 +259,17 @@
     "addTime": 1780686323
   },
   {
-    "host": "46.62.175.99",
-    "port": 4455,
-    "secret": "ee1603010200010001fc030386e24c3add7765622e79656b74616e65742e636f6d",
-    "country": "FI",
-    "addTime": 1780686321
-  },
-  {
     "host": "178.105.239.55",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d",
     "country": "DE",
+    "addTime": 1780686321
+  },
+  {
+    "host": "46.62.175.99",
+    "port": 4455,
+    "secret": "ee1603010200010001fc030386e24c3add7765622e79656b74616e65742e636f6d",
+    "country": "FI",
     "addTime": 1780686321
   },
   {
@@ -285,68 +348,5 @@
     "secret": "ee093f927b1551044cf9ae99314bd15fe57777772e62696e672e636f6d",
     "country": "NL",
     "addTime": 1780675672
-  },
-  {
-    "host": "94.130.163.24",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780675589
-  },
-  {
-    "host": "31.76.39.56",
-    "port": 443,
-    "secret": "ee46636c0c3ff70a1d97ff70bb96ecd6ce617669746f2e7275",
-    "country": "US",
-    "addTime": 1780675589
-  },
-  {
-    "host": "divorcee.hutting.spaceless.pinoywebtv.com",
-    "port": 443,
-    "secret": "ee7d0765d3f7b468ebbbc89bed8a471ff6647a656e2e7275",
-    "country": "DE",
-    "addTime": 1780675586
-  },
-  {
-    "host": "love.rebirthconnect.com",
-    "port": 443,
-    "secret": "ee7f5278d5de80c9a949b1b02ef324d1bc6c6f76652e72656269727468636f6e6e6563742e636f6d",
-    "country": "US",
-    "addTime": 1780675584
-  },
-  {
-    "host": "65.108.201.8",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1780675535
-  },
-  {
-    "host": "tg1.rebirthconnect.com",
-    "port": 443,
-    "secret": "ee652f3c8c801d3d5d3fe0ab9e2c9d05887467312e72656269727468636f6e6e6563742e636f6d",
-    "country": "DE",
-    "addTime": 1780675528
-  },
-  {
-    "host": "46.62.234.149",
-    "port": 4455,
-    "secret": "ee1603010200010001fc030386e24c3add7765622e79656b74616e65742e636f6d",
-    "country": "FI",
-    "addTime": 1780675525
-  },
-  {
-    "host": "94.130.163.60",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780675522
-  },
-  {
-    "host": "5.9.254.193",
-    "port": 1,
-    "secret": "ddacda3005d2499b081b88975658563f0a",
-    "country": "DE",
-    "addTime": 1780675522
   }
 ]
