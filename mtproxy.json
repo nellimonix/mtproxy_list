@@ -28,17 +28,17 @@
     "addTime": 1780740493
   },
   {
-    "host": "penza.myrka.digital",
-    "port": 8443,
-    "secret": "ee00bdd6879cbfef36221e3e9af405e0c070656e7a612e6d79726b612e6469676974616c",
-    "country": "AE",
-    "addTime": 1780740493
-  },
-  {
     "host": "go.norkn.top",
     "port": 443,
     "secret": "ee55be84478776a1b1492a8d164c5695c46d6972726f722e74696d657765622e7275",
     "country": "US",
+    "addTime": 1780740493
+  },
+  {
+    "host": "penza.myrka.digital",
+    "port": 8443,
+    "secret": "ee00bdd6879cbfef36221e3e9af405e0c070656e7a612e6d79726b612e6469676974616c",
+    "country": "AE",
     "addTime": 1780740493
   },
   {
@@ -70,10 +70,10 @@
     "addTime": 1780740345
   },
   {
-    "host": "103.161.35.56",
-    "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "country": "HK",
+    "host": "46.226.161.239",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "SE",
     "addTime": 1780740338
   },
   {
@@ -84,10 +84,17 @@
     "addTime": 1780740338
   },
   {
-    "host": "46.226.161.239",
+    "host": "193.29.225.151",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "SE",
+    "country": "FI",
+    "addTime": 1780740338
+  },
+  {
+    "host": "103.161.35.56",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "country": "HK",
     "addTime": 1780740338
   },
   {
@@ -98,23 +105,16 @@
     "addTime": 1780740338
   },
   {
-    "host": "193.29.225.151",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "FI",
-    "addTime": 1780740338
+    "host": "rkn.proxytelega.store",
+    "port": 8443,
+    "secret": "eeec48b14805acf33a64f494fe7cf6656a726b6e2e70726f787974656c6567612e73746f7265",
+    "country": "RU",
+    "addTime": 1780740328
   },
   {
     "host": "cdn.proxyonline.online",
     "port": 8443,
     "secret": "eea4f3b8de32f62e5ba0e44cea5465930063646e2e70726f78796f6e6c696e652e6f6e6c696e65",
-    "country": "RU",
-    "addTime": 1780740328
-  },
-  {
-    "host": "rkn.proxytelega.store",
-    "port": 8443,
-    "secret": "eeec48b14805acf33a64f494fe7cf6656a726b6e2e70726f787974656c6567612e73746f7265",
     "country": "RU",
     "addTime": 1780740328
   },
@@ -182,6 +182,13 @@
     "addTime": 1780729526
   },
   {
+    "host": "178.105.231.238",
+    "port": 8443,
+    "secret": "13ffffff1003cc3005aa5007ee7009dc",
+    "country": "DE",
+    "addTime": 1780729520
+  },
+  {
     "host": "157.180.122.162",
     "port": 443,
     "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
@@ -196,25 +203,11 @@
     "addTime": 1780729520
   },
   {
-    "host": "178.105.231.238",
-    "port": 8443,
-    "secret": "13ffffff1003cc3005aa5007ee7009dc",
-    "country": "DE",
-    "addTime": 1780729520
-  },
-  {
     "host": "russia.chunkycorp.shop",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
     "country": "RU",
     "addTime": 1780729516
-  },
-  {
-    "host": "nsk2.myrka.digital",
-    "port": 3443,
-    "secret": "ee8888777766665555444433332222111168646d692e6d79726b612e6469676974616c",
-    "country": "US",
-    "addTime": 1780729497
   },
   {
     "host": "94.183.221.159",
@@ -315,6 +308,13 @@
     "addTime": 1780697151
   },
   {
+    "host": "1-cfg2.max.ru.proxy.surf",
+    "port": 443,
+    "secret": "ee207570d660f1e67f6e0a75d6d34a6e08766b2e7275",
+    "country": "US",
+    "addTime": 1780697151
+  },
+  {
     "host": "otkluchy-vpn.connectionrelay.xyz",
     "port": 443,
     "secret": "dd207570d660f1e67f6e0a75d6d34a6e08",
@@ -325,13 +325,6 @@
     "host": "1.max.ru.proxy.surf",
     "port": 443,
     "secret": "dd207570d660f1e67f6e0a75d6d34a6e08",
-    "country": "US",
-    "addTime": 1780697151
-  },
-  {
-    "host": "1-cfg2.max.ru.proxy.surf",
-    "port": 443,
-    "secret": "ee207570d660f1e67f6e0a75d6d34a6e08766b2e7275",
     "country": "US",
     "addTime": 1780697151
   },
@@ -348,5 +341,12 @@
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
     "addTime": 1780697146
+  },
+  {
+    "host": "178.105.226.182",
+    "port": 443,
+    "secret": "ee396219a1e9b2aebf6f245a1495777811706c61792e676f6f676c652e636f6d",
+    "country": "DE",
+    "addTime": 1780697129
   }
 ]
