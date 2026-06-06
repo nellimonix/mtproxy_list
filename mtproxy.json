@@ -42,17 +42,17 @@
     "addTime": 1780772737
   },
   {
-    "host": "45.38.143.36",
-    "port": 443,
-    "secret": "ddabcdef1234567890abcdef1234567890",
-    "country": "FI",
-    "addTime": 1780772734
-  },
-  {
     "host": "5.75.199.104",
     "port": 443,
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
     "country": "DE",
+    "addTime": 1780772734
+  },
+  {
+    "host": "45.38.143.36",
+    "port": 443,
+    "secret": "ddabcdef1234567890abcdef1234567890",
+    "country": "FI",
     "addTime": 1780772734
   },
   {
@@ -91,6 +91,13 @@
     "addTime": 1780772702
   },
   {
+    "host": "70.34.197.54",
+    "port": 8080,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "SE",
+    "addTime": 1780772700
+  },
+  {
     "host": "65.108.29.211",
     "port": 4455,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -98,14 +105,14 @@
     "addTime": 1780772700
   },
   {
-    "host": "167.233.51.33",
+    "host": "167.233.56.37",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780772695
   },
   {
-    "host": "167.233.56.37",
+    "host": "167.233.65.204",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -119,7 +126,7 @@
     "addTime": 1780772695
   },
   {
-    "host": "167.233.65.204",
+    "host": "167.233.51.33",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -152,6 +159,13 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1780761929
+  },
+  {
+    "host": "ganister.interstellar.nabob.teleseryepinoytv.com",
+    "port": 443,
+    "secret": "eec3116847507eb4815a35fc81f77f30e3647a656e2e7275",
+    "country": "DE",
+    "addTime": 1780761925
   },
   {
     "host": "45.198.0.162",
@@ -217,13 +231,6 @@
     "addTime": 1780761902
   },
   {
-    "host": "65.108.29.212",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1780761901
-  },
-  {
     "host": "195.254.165.24",
     "port": 8443,
     "secret": "ee1603010200010001fc030386e24c3add646565707365656B2E636F6D",
@@ -287,17 +294,17 @@
     "addTime": 1780751108
   },
   {
-    "host": "5.144.179.70",
-    "port": 443,
-    "secret": "5c2a6240836172009951844ba122320d",
-    "country": "GB",
-    "addTime": 1780751107
-  },
-  {
     "host": "5.75.203.37",
     "port": 443,
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
     "country": "DE",
+    "addTime": 1780751107
+  },
+  {
+    "host": "5.144.179.70",
+    "port": 443,
+    "secret": "5c2a6240836172009951844ba122320d",
+    "country": "GB",
     "addTime": 1780751107
   },
   {
@@ -341,12 +348,5 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1780751094
-  },
-  {
-    "host": "78.17.118.65",
-    "port": 442,
-    "secret": "eed0db874ef88e3daa019189c2bb9650ed6b6173706572736b792e7275",
-    "country": "AE",
-    "addTime": 1780751092
   }
 ]
