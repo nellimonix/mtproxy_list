@@ -42,13 +42,6 @@
     "addTime": 1780783500
   },
   {
-    "host": "84.32.209.143",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "LT",
-    "addTime": 1780783494
-  },
-  {
     "host": "172.105.7.137",
     "port": 443,
     "secret": "ee493b44400f0d95b9427221beb5c3046b636c6f7564666c6172652e636f6d",
@@ -63,18 +56,18 @@
     "addTime": 1780783494
   },
   {
+    "host": "84.32.209.143",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "LT",
+    "addTime": 1780783494
+  },
+  {
     "host": "ice.nolags.pw",
     "port": 443,
     "secret": "dd53df731994a1368ad70990c9a88794dd",
     "country": "NL",
     "addTime": 1780783489
-  },
-  {
-    "host": "193.233.202.152",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "US",
-    "addTime": 1780783484
   },
   {
     "host": "45.202.5.238",
@@ -147,14 +140,14 @@
     "addTime": 1780772734
   },
   {
-    "host": "176.65.138.27",
+    "host": "176.65.138.28",
     "port": 8080,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "country": "DE",
     "addTime": 1780772732
   },
   {
-    "host": "176.65.138.28",
+    "host": "176.65.138.27",
     "port": 8080,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "country": "DE",
@@ -196,7 +189,7 @@
     "addTime": 1780772700
   },
   {
-    "host": "167.233.22.149",
+    "host": "167.233.56.37",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -210,7 +203,7 @@
     "addTime": 1780772695
   },
   {
-    "host": "167.233.56.37",
+    "host": "167.233.22.149",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -348,5 +341,12 @@
     "secret": "ee2c6545ec332a382bb6d072f506896d6c7777772e676f6f676c652e636f6d",
     "country": "PL",
     "addTime": 1780751265
+  },
+  {
+    "host": "tori.fi.endpro.tech",
+    "port": 443,
+    "secret": "eee68e265d96da13efc2ce1337910da6de746f72692e6669",
+    "country": "US",
+    "addTime": 1780751253
   }
 ]
