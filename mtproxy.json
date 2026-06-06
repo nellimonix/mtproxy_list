@@ -21,17 +21,17 @@
     "addTime": 1780740493
   },
   {
-    "host": "penza.myrka.digital",
-    "port": 8443,
-    "secret": "ee00bdd6879cbfef36221e3e9af405e0c070656e7a612e6d79726b612e6469676974616c",
-    "country": "AE",
-    "addTime": 1780740493
-  },
-  {
     "host": "109.69.18.114",
     "port": 443,
     "secret": "ee959c4425f21a8e4e4455c2676377eea577622e7275",
     "country": "RU",
+    "addTime": 1780740493
+  },
+  {
+    "host": "penza.myrka.digital",
+    "port": 8443,
+    "secret": "ee00bdd6879cbfef36221e3e9af405e0c070656e7a612e6d79726b612e6469676974616c",
+    "country": "AE",
     "addTime": 1780740493
   },
   {
@@ -56,13 +56,6 @@
     "addTime": 1780740345
   },
   {
-    "host": "84.32.189.74",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "NL",
-    "addTime": 1780740338
-  },
-  {
     "host": "193.29.225.151",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
@@ -77,10 +70,10 @@
     "addTime": 1780740338
   },
   {
-    "host": "46.226.161.239",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "SE",
+    "host": "84.32.189.74",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "NL",
     "addTime": 1780740338
   },
   {
@@ -88,6 +81,13 @@
     "port": 443,
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
     "country": "HK",
+    "addTime": 1780740338
+  },
+  {
+    "host": "46.226.161.239",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "SE",
     "addTime": 1780740338
   },
   {
@@ -154,13 +154,6 @@
     "addTime": 1780729526
   },
   {
-    "host": "167.233.64.134",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780729520
-  },
-  {
     "host": "157.180.122.162",
     "port": 443,
     "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
@@ -175,11 +168,11 @@
     "addTime": 1780729520
   },
   {
-    "host": "russia.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "country": "RU",
-    "addTime": 1780729516
+    "host": "167.233.64.134",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780729520
   },
   {
     "host": "94.183.221.159",
@@ -217,14 +210,14 @@
     "addTime": 1780707911
   },
   {
-    "host": "91.107.176.112",
+    "host": "116.203.202.12",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
     "addTime": 1780707904
   },
   {
-    "host": "116.203.202.12",
+    "host": "91.107.176.112",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
@@ -252,13 +245,6 @@
     "addTime": 1780697289
   },
   {
-    "host": "90.156.195.109",
-    "port": 443,
-    "secret": "ee5c9243f8433e734af3670f66618091f2636c6f75642e6e6574617761792e746f70",
-    "country": "UZ",
-    "addTime": 1780697282
-  },
-  {
     "host": "195.254.165.202",
     "port": 2053,
     "secret": "dd1603010200010001fc030386e24c3addd",
@@ -273,17 +259,17 @@
     "addTime": 1780697151
   },
   {
-    "host": "1-cfg2.max.ru.proxy.surf",
-    "port": 443,
-    "secret": "ee207570d660f1e67f6e0a75d6d34a6e08766b2e7275",
-    "country": "US",
-    "addTime": 1780697151
-  },
-  {
     "host": "highspeed.nolags.pw",
     "port": 443,
     "secret": "dd6e87000d80db522523b5ab5bb58ab3af",
     "country": "SE",
+    "addTime": 1780697151
+  },
+  {
+    "host": "1-cfg2.max.ru.proxy.surf",
+    "port": 443,
+    "secret": "ee207570d660f1e67f6e0a75d6d34a6e08766b2e7275",
+    "country": "US",
     "addTime": 1780697151
   },
   {
@@ -343,10 +329,24 @@
     "addTime": 1780697127
   },
   {
-    "host": "www.yzffffff450.co.uk",
+    "host": "yc2.indigogift.fun",
     "port": 443,
-    "secret": "eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "FI",
-    "addTime": 1780686475
+    "secret": "ee0e61aaf45658c3ef5fc0fef90549fda67777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1780686441
+  },
+  {
+    "host": "167.233.73.69",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780686345
+  },
+  {
+    "host": "ashine.burrow.corrupt.embowel.intestine.watchpinoyteleserye.com",
+    "port": 1350,
+    "secret": "337bbbccb71c471ea94d805dccbda1fb",
+    "country": "DE",
+    "addTime": 1780686341
   }
 ]
