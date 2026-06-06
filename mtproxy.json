@@ -35,13 +35,6 @@
     "addTime": 1780740493
   },
   {
-    "host": "3.65.216.67",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "DE",
-    "addTime": 1780740489
-  },
-  {
     "host": "qavifor.hq-parametr.ir",
     "port": 4455,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
@@ -52,7 +45,7 @@
     "host": "russia.arixo.shop",
     "port": 443,
     "secret": "eed015b7c384e8023672d5355b0bb6e531617669746f2e7275",
-    "country": "US",
+    "country": "SC",
     "addTime": 1780740346
   },
   {
@@ -63,31 +56,10 @@
     "addTime": 1780740345
   },
   {
-    "host": "84.32.189.74",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "NL",
-    "addTime": 1780740338
-  },
-  {
-    "host": "46.226.161.239",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "SE",
-    "addTime": 1780740338
-  },
-  {
     "host": "193.29.225.151",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "FI",
-    "addTime": 1780740338
-  },
-  {
-    "host": "185.8.104.135",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "LT",
     "addTime": 1780740338
   },
   {
@@ -98,16 +70,37 @@
     "addTime": 1780740338
   },
   {
-    "host": "cdn.proxyonline.online",
+    "host": "46.226.161.239",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "SE",
+    "addTime": 1780740338
+  },
+  {
+    "host": "84.32.189.74",
     "port": 8443,
-    "secret": "eea4f3b8de32f62e5ba0e44cea5465930063646e2e70726f78796f6e6c696e652e6f6e6c696e65",
-    "country": "RU",
-    "addTime": 1780740328
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "NL",
+    "addTime": 1780740338
+  },
+  {
+    "host": "185.8.104.135",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "LT",
+    "addTime": 1780740338
   },
   {
     "host": "rkn.proxytelega.store",
     "port": 8443,
     "secret": "eeec48b14805acf33a64f494fe7cf6656a726b6e2e70726f787974656c6567612e73746f7265",
+    "country": "RU",
+    "addTime": 1780740328
+  },
+  {
+    "host": "cdn.proxyonline.online",
+    "port": 8443,
+    "secret": "eea4f3b8de32f62e5ba0e44cea5465930063646e2e70726f78796f6e6c696e652e6f6e6c696e65",
     "country": "RU",
     "addTime": 1780740328
   },
@@ -231,14 +224,14 @@
     "addTime": 1780707911
   },
   {
-    "host": "116.203.202.12",
+    "host": "91.107.176.112",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
     "addTime": 1780707904
   },
   {
-    "host": "91.107.176.112",
+    "host": "116.203.202.12",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
@@ -280,23 +273,16 @@
     "addTime": 1780697155
   },
   {
-    "host": "nl.gosuslugi.ru.proxy.surf",
-    "port": 8080,
-    "secret": "ddbabb616e149909164e1e0cf9a2e4f5b2",
+    "host": "1-cfg2.max.ru.proxy.surf",
+    "port": 443,
+    "secret": "ee207570d660f1e67f6e0a75d6d34a6e08766b2e7275",
     "country": "US",
     "addTime": 1780697151
   },
   {
-    "host": "highspeed.nolags.pw",
+    "host": "1.max.ru.proxy.surf",
     "port": 443,
-    "secret": "dd6e87000d80db522523b5ab5bb58ab3af",
-    "country": "SE",
-    "addTime": 1780697151
-  },
-  {
-    "host": "1-cfg2.max.ru.proxy.surf",
-    "port": 443,
-    "secret": "ee207570d660f1e67f6e0a75d6d34a6e08766b2e7275",
+    "secret": "dd207570d660f1e67f6e0a75d6d34a6e08",
     "country": "US",
     "addTime": 1780697151
   },
@@ -308,9 +294,16 @@
     "addTime": 1780697151
   },
   {
-    "host": "1.max.ru.proxy.surf",
+    "host": "highspeed.nolags.pw",
     "port": 443,
-    "secret": "dd207570d660f1e67f6e0a75d6d34a6e08",
+    "secret": "dd6e87000d80db522523b5ab5bb58ab3af",
+    "country": "SE",
+    "addTime": 1780697151
+  },
+  {
+    "host": "nl.gosuslugi.ru.proxy.surf",
+    "port": 8080,
+    "secret": "ddbabb616e149909164e1e0cf9a2e4f5b2",
     "country": "US",
     "addTime": 1780697151
   },
@@ -336,17 +329,24 @@
     "addTime": 1780697129
   },
   {
-    "host": "178.105.226.182",
+    "host": "178.105.230.60",
     "port": 443,
     "secret": "ee396219a1e9b2aebf6f245a1495777811706c61792e676f6f676c652e636f6d",
     "country": "DE",
     "addTime": 1780697129
   },
   {
-    "host": "178.105.230.60",
+    "host": "195.254.165.203",
+    "port": 2053,
+    "secret": "dd1603010200010001fc030386e24c3add160dd",
+    "country": "IR",
+    "addTime": 1780697127
+  },
+  {
+    "host": "www.yzffffff450.co.uk",
     "port": 443,
-    "secret": "ee396219a1e9b2aebf6f245a1495777811706c61792e676f6f676c652e636f6d",
-    "country": "DE",
-    "addTime": 1780697129
+    "secret": "eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "FI",
+    "addTime": 1780686475
   }
 ]
