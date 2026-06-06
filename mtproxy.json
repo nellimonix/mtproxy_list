@@ -84,23 +84,9 @@
     "addTime": 1780697155
   },
   {
-    "host": "highspeed.nolags.pw",
-    "port": 443,
-    "secret": "dd6e87000d80db522523b5ab5bb58ab3af",
-    "country": "SE",
-    "addTime": 1780697151
-  },
-  {
-    "host": "otkluchy-vpn.connectionrelay.xyz",
+    "host": "1.max.ru.proxy.surf",
     "port": 443,
     "secret": "dd207570d660f1e67f6e0a75d6d34a6e08",
-    "country": "US",
-    "addTime": 1780697151
-  },
-  {
-    "host": "1-cfg2.max.ru.proxy.surf",
-    "port": 443,
-    "secret": "ee207570d660f1e67f6e0a75d6d34a6e08766b2e7275",
     "country": "US",
     "addTime": 1780697151
   },
@@ -112,24 +98,38 @@
     "addTime": 1780697151
   },
   {
-    "host": "1.max.ru.proxy.surf",
+    "host": "1-cfg2.max.ru.proxy.surf",
+    "port": 443,
+    "secret": "ee207570d660f1e67f6e0a75d6d34a6e08766b2e7275",
+    "country": "US",
+    "addTime": 1780697151
+  },
+  {
+    "host": "otkluchy-vpn.connectionrelay.xyz",
     "port": 443,
     "secret": "dd207570d660f1e67f6e0a75d6d34a6e08",
     "country": "US",
     "addTime": 1780697151
   },
   {
-    "host": "162.19.181.173",
-    "port": 8443,
-    "secret": "eed6091408458730450494f7abc9f7801873332e616d617a6f6e6177732e636f6d",
-    "country": "FR",
-    "addTime": 1780697147
+    "host": "highspeed.nolags.pw",
+    "port": 443,
+    "secret": "dd6e87000d80db522523b5ab5bb58ab3af",
+    "country": "SE",
+    "addTime": 1780697151
   },
   {
     "host": "45.32.156.48",
     "port": 443,
     "secret": "92e9da8c966329e46f6358759b656ffe",
     "country": "DE",
+    "addTime": 1780697147
+  },
+  {
+    "host": "162.19.181.173",
+    "port": 8443,
+    "secret": "eed6091408458730450494f7abc9f7801873332e616d617a6f6e6177732e636f6d",
+    "country": "FR",
     "addTime": 1780697147
   },
   {
@@ -140,13 +140,6 @@
     "addTime": 1780697146
   },
   {
-    "host": "193.228.128.81",
-    "port": 80,
-    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "RU",
-    "addTime": 1780697146
-  },
-  {
     "host": "46.226.163.125",
     "port": 8443,
     "secret": "ee69844c3f372db9e7acce5e806ed7c83c73332e616d617a6f6e6177732e636f6d",
@@ -154,7 +147,14 @@
     "addTime": 1780697146
   },
   {
-    "host": "178.105.230.60",
+    "host": "193.228.128.81",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "RU",
+    "addTime": 1780697146
+  },
+  {
+    "host": "178.104.130.102",
     "port": 443,
     "secret": "ee396219a1e9b2aebf6f245a1495777811706c61792e676f6f676c652e636f6d",
     "country": "DE",
@@ -168,7 +168,7 @@
     "addTime": 1780697129
   },
   {
-    "host": "178.104.130.102",
+    "host": "178.105.230.60",
     "port": 443,
     "secret": "ee396219a1e9b2aebf6f245a1495777811706c61792e676f6f676c652e636f6d",
     "country": "DE",
@@ -294,17 +294,17 @@
     "addTime": 1780686317
   },
   {
-    "host": "total.beyondeson-co.cfd",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D",
-    "country": "DE",
-    "addTime": 1780686314
-  },
-  {
     "host": "www.merco-karco.website",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D",
     "country": "FI",
+    "addTime": 1780686314
+  },
+  {
+    "host": "total.beyondeson-co.cfd",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D",
+    "country": "DE",
     "addTime": 1780686314
   },
   {
