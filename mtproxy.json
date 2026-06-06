@@ -70,13 +70,6 @@
     "addTime": 1780697289
   },
   {
-    "host": "90.156.195.109",
-    "port": 443,
-    "secret": "ee5c9243f8433e734af3670f66618091f2636c6f75642e6e6574617761792e746f70",
-    "country": "UZ",
-    "addTime": 1780697282
-  },
-  {
     "host": "195.254.165.202",
     "port": 2053,
     "secret": "dd1603010200010001fc030386e24c3addd",
@@ -98,6 +91,13 @@
     "addTime": 1780697151
   },
   {
+    "host": "nl.gosuslugi.ru.proxy.surf",
+    "port": 8080,
+    "secret": "ddbabb616e149909164e1e0cf9a2e4f5b2",
+    "country": "US",
+    "addTime": 1780697151
+  },
+  {
     "host": "highspeed.nolags.pw",
     "port": 443,
     "secret": "dd6e87000d80db522523b5ab5bb58ab3af",
@@ -108,13 +108,6 @@
     "host": "1-cfg2.max.ru.proxy.surf",
     "port": 443,
     "secret": "ee207570d660f1e67f6e0a75d6d34a6e08766b2e7275",
-    "country": "US",
-    "addTime": 1780697151
-  },
-  {
-    "host": "nl.gosuslugi.ru.proxy.surf",
-    "port": 8080,
-    "secret": "ddbabb616e149909164e1e0cf9a2e4f5b2",
     "country": "US",
     "addTime": 1780697151
   },
@@ -203,17 +196,17 @@
     "addTime": 1780686324
   },
   {
-    "host": "second.nolags.pw",
-    "port": 443,
-    "secret": "ddf4fa8f92de56cde758429546586eaac8",
-    "country": "SE",
-    "addTime": 1780686324
-  },
-  {
     "host": "65.108.201.16",
     "port": 443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
+    "addTime": 1780686324
+  },
+  {
+    "host": "second.nolags.pw",
+    "port": 443,
+    "secret": "ddf4fa8f92de56cde758429546586eaac8",
+    "country": "SE",
     "addTime": 1780686324
   },
   {
@@ -259,17 +252,17 @@
     "addTime": 1780686317
   },
   {
-    "host": "www.merco-karco.website",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D",
-    "country": "FI",
-    "addTime": 1780686314
-  },
-  {
     "host": "total.beyondeson-co.cfd",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D",
-    "country": "DE",
+    "country": "NL",
+    "addTime": 1780686314
+  },
+  {
+    "host": "www.merco-karco.website",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D",
+    "country": "NL",
     "addTime": 1780686314
   },
   {
@@ -301,17 +294,17 @@
     "addTime": 1780675672
   },
   {
-    "host": "94.130.163.24",
-    "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780675589
-  },
-  {
     "host": "31.76.39.56",
     "port": 443,
     "secret": "ee46636c0c3ff70a1d97ff70bb96ecd6ce617669746f2e7275",
     "country": "US",
+    "addTime": 1780675589
+  },
+  {
+    "host": "94.130.163.24",
+    "port": 443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
     "addTime": 1780675589
   },
   {
@@ -336,17 +329,24 @@
     "addTime": 1780675535
   },
   {
-    "host": "tg1.rebirthconnect.com",
+    "host": "94.130.163.60",
     "port": 443,
-    "secret": "ee652f3c8c801d3d5d3fe0ab9e2c9d05887467312e72656269727468636f6e6e6563742e636f6d",
+    "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
-    "addTime": 1780675528
+    "addTime": 1780675522
   },
   {
-    "host": "46.62.234.149",
-    "port": 4455,
-    "secret": "ee1603010200010001fc030386e24c3add7765622e79656b74616e65742e636f6d",
-    "country": "FI",
-    "addTime": 1780675525
+    "host": "5.9.254.193",
+    "port": 1,
+    "secret": "ddacda3005d2499b081b88975658563f0a",
+    "country": "DE",
+    "addTime": 1780675522
+  },
+  {
+    "host": "185.223.93.114",
+    "port": 80,
+    "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
+    "addTime": 1780675515
   }
 ]
