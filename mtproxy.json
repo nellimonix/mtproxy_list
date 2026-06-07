@@ -7,13 +7,6 @@
     "addTime": 1780805332
   },
   {
-    "host": "144.31.135.73",
-    "port": 443,
-    "secret": "abb29dcec88e73610721bcf68c00b796",
-    "country": "NL",
-    "addTime": 1780795113
-  },
-  {
     "host": "94.159.102.81",
     "port": 443,
     "secret": "1c00e25b0120d3d73ee92075222afda4",
@@ -28,11 +21,11 @@
     "addTime": 1780795113
   },
   {
-    "host": "tg.ru.cryptonewss.com",
+    "host": "144.31.135.73",
     "port": 443,
-    "secret": "ee5969388790759916e6772e03cbc00f60706574726f766963682e7275",
-    "country": "US",
-    "addTime": 1780795102
+    "secret": "abb29dcec88e73610721bcf68c00b796",
+    "country": "NL",
+    "addTime": 1780795113
   },
   {
     "host": "portal.norkn.top",
@@ -42,11 +35,11 @@
     "addTime": 1780795102
   },
   {
-    "host": "gamma-roxy.ip-ddns.com",
+    "host": "tg.ru.cryptonewss.com",
     "port": 443,
-    "secret": "ee94fc2b484af6e1e1c87e6576b33c2575766b2e636f6d",
-    "country": "RU",
-    "addTime": 1780795098
+    "secret": "ee5969388790759916e6772e03cbc00f60706574726f766963682e7275",
+    "country": "US",
+    "addTime": 1780795102
   },
   {
     "host": "77.221.149.109",
@@ -96,13 +89,6 @@
     "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
     "country": "DE",
     "addTime": 1780783500
-  },
-  {
-    "host": "172.105.7.137",
-    "port": 443,
-    "secret": "ee493b44400f0d95b9427221beb5c3046b636c6f7564666c6172652e636f6d",
-    "country": "CA",
-    "addTime": 1780783494
   },
   {
     "host": "141.95.135.243",
@@ -196,14 +182,14 @@
     "addTime": 1780772734
   },
   {
-    "host": "176.65.138.27",
+    "host": "176.65.138.28",
     "port": 8080,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "country": "DE",
     "addTime": 1780772732
   },
   {
-    "host": "176.65.138.28",
+    "host": "176.65.138.27",
     "port": 8080,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "country": "DE",
@@ -238,14 +224,14 @@
     "addTime": 1780772700
   },
   {
-    "host": "167.233.56.37",
+    "host": "167.233.51.33",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780772695
   },
   {
-    "host": "167.233.51.33",
+    "host": "167.233.56.37",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
@@ -301,17 +287,17 @@
     "addTime": 1780761925
   },
   {
-    "host": "45.198.0.162",
-    "port": 443,
-    "secret": "eeeed57b2d9c6ded05cd8fec78006b40e677622e7275",
-    "country": "SC",
-    "addTime": 1780761923
-  },
-  {
     "host": "acineirani-uoor1.ir",
     "port": 8443,
     "secret": "ee1603010200010001fc030386e24c3add646565707365656B2E636F6D",
     "country": "DE",
+    "addTime": 1780761923
+  },
+  {
+    "host": "45.198.0.162",
+    "port": 443,
+    "secret": "eeeed57b2d9c6ded05cd8fec78006b40e677622e7275",
+    "country": "SC",
     "addTime": 1780761923
   },
   {
@@ -343,10 +329,24 @@
     "addTime": 1780761907
   },
   {
+    "host": "195.254.165.207",
+    "port": 443,
+    "secret": "FgMBAgABAAH8AwOG4kw63QFgMBAgABAAH8AwOG4kw63Q",
+    "country": "IR",
+    "addTime": 1780761903
+  },
+  {
     "host": "167.233.51.82",
     "port": 443,
     "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "country": "DE",
     "addTime": 1780761903
+  },
+  {
+    "host": "167.233.54.153",
+    "port": 443,
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "country": "DE",
+    "addTime": 1780761902
   }
 ]
