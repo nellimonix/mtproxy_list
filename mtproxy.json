@@ -42,17 +42,17 @@
     "addTime": 1780859128
   },
   {
-    "host": "31.220.42.146",
-    "port": 443,
-    "secret": "ee47b92b585736ef154637f935d335bdd37777772e636c6f7564666c6172652e636f6d",
-    "country": "NL",
-    "addTime": 1780859124
-  },
-  {
     "host": "64.225.97.232",
     "port": 8443,
     "secret": "eea4267cda5f7a163be26baf67efcc123c7777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
+    "addTime": 1780859124
+  },
+  {
+    "host": "31.220.42.146",
+    "port": 443,
+    "secret": "ee47b92b585736ef154637f935d335bdd37777772e636c6f7564666c6172652e636f6d",
+    "country": "NL",
     "addTime": 1780859124
   },
   {
@@ -63,7 +63,7 @@
     "addTime": 1780859119
   },
   {
-    "host": "65.109.245.160",
+    "host": "65.109.246.206",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
@@ -77,32 +77,11 @@
     "addTime": 1780859115
   },
   {
-    "host": "65.109.246.206",
+    "host": "65.109.245.160",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1780859115
-  },
-  {
-    "host": "167.233.74.234",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780859112
-  },
-  {
-    "host": "45.202.5.191",
-    "port": 38690,
-    "secret": "dd766b879dc6f41092281165c11cb6b3a7",
-    "country": "SC",
-    "addTime": 1780859112
-  },
-  {
-    "host": "45.202.5.180",
-    "port": 39384,
-    "secret": "dd282b0e3013139df04455b462a3631032",
-    "country": "SC",
-    "addTime": 1780859112
   },
   {
     "host": "45.202.5.172",
@@ -119,6 +98,27 @@
     "addTime": 1780859112
   },
   {
+    "host": "45.202.5.180",
+    "port": 39384,
+    "secret": "dd282b0e3013139df04455b462a3631032",
+    "country": "SC",
+    "addTime": 1780859112
+  },
+  {
+    "host": "45.202.5.191",
+    "port": 38690,
+    "secret": "dd766b879dc6f41092281165c11cb6b3a7",
+    "country": "SC",
+    "addTime": 1780859112
+  },
+  {
+    "host": "167.233.74.234",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780859112
+  },
+  {
     "host": "91.239.192.4",
     "port": 8443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrF",
@@ -126,16 +126,16 @@
     "addTime": 1780859109
   },
   {
-    "host": "93.77.162.7",
+    "host": "93.77.160.143",
     "port": 443,
-    "secret": "eed25a52433fbaaea5848141bf382bf38073776966742e70726f78796f62686f642e6f6e6c696e65",
+    "secret": "ee0e61aaf45658c3ef5fc0fef90549fda67777772e636c6f7564666c6172652e636f6d",
     "country": "RU",
     "addTime": 1780859105
   },
   {
-    "host": "93.77.160.143",
+    "host": "93.77.162.7",
     "port": 443,
-    "secret": "ee0e61aaf45658c3ef5fc0fef90549fda67777772e636c6f7564666c6172652e636f6d",
+    "secret": "eed25a52433fbaaea5848141bf382bf38073776966742e70726f78796f62686f642e6f6e6c696e65",
     "country": "RU",
     "addTime": 1780859105
   },
@@ -175,17 +175,17 @@
     "addTime": 1780848440
   },
   {
-    "host": "tg5.lava-pro.ru",
-    "port": 443,
-    "secret": "7tOYfutOqLLbE66tLNVhxrV0ZzUubGF2YS1wcm8ucnU",
-    "country": "KZ",
-    "addTime": 1780848424
-  },
-  {
     "host": "t3.lava-pro.ru",
     "port": 443,
     "secret": "7n88mh5C2LZQnw5sOl2RuCR0My5sYXZhLXByby5ydQ",
     "country": "BY",
+    "addTime": 1780848424
+  },
+  {
+    "host": "tg5.lava-pro.ru",
+    "port": 443,
+    "secret": "7tOYfutOqLLbE66tLNVhxrV0ZzUubGF2YS1wcm8ucnU",
+    "country": "KZ",
     "addTime": 1780848424
   },
   {
@@ -196,9 +196,9 @@
     "addTime": 1780848417
   },
   {
-    "host": "cdn.adkl2p.ir",
-    "port": 22,
-    "secret": "dd79e7010200010007f0030386e24c3add",
+    "host": "178.105.238.212",
+    "port": 443,
+    "secret": "ee396219a1e9b2aebf6f245a1495777811706c61792e676f6f676c652e636f6d",
     "country": "DE",
     "addTime": 1780848408
   },
@@ -210,17 +210,17 @@
     "addTime": 1780848408
   },
   {
+    "host": "cdn.adkl2p.ir",
+    "port": 22,
+    "secret": "dd79e7010200010007f0030386e24c3add",
+    "country": "DE",
+    "addTime": 1780848408
+  },
+  {
     "host": "193.151.148.183",
     "port": 1281,
     "secret": "eeb6afdf918b034ffd5f169548a3e534ad",
     "country": "IR",
-    "addTime": 1780848408
-  },
-  {
-    "host": "178.105.238.212",
-    "port": 443,
-    "secret": "ee396219a1e9b2aebf6f245a1495777811706c61792e676f6f676c652e636f6d",
-    "country": "DE",
     "addTime": 1780848408
   },
   {
@@ -234,7 +234,7 @@
     "host": "xyz.chunkycorp.shop",
     "port": 443,
     "secret": "eec83a5746fa7a58916451e37d81bdcb2c617669746f2e7275",
-    "country": "SC",
+    "country": "PL",
     "addTime": 1780848345
   },
   {
@@ -245,14 +245,21 @@
     "addTime": 1780848340
   },
   {
-    "host": "65.109.250.145",
+    "host": "134.209.181.137",
+    "port": 443,
+    "secret": "ee36de92b9a73aeb136bc4d4fa9fc78b647777772e636c6f7564666c6172652e636f6d",
+    "country": "GB",
+    "addTime": 1780848337
+  },
+  {
+    "host": "95.217.237.41",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
     "addTime": 1780848337
   },
   {
-    "host": "95.217.237.41",
+    "host": "65.109.250.145",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
@@ -273,13 +280,6 @@
     "addTime": 1780848337
   },
   {
-    "host": "134.209.181.137",
-    "port": 443,
-    "secret": "ee36de92b9a73aeb136bc4d4fa9fc78b647777772e636c6f7564666c6172652e636f6d",
-    "country": "GB",
-    "addTime": 1780848337
-  },
-  {
     "host": "proxy.arixo.shop",
     "port": 443,
     "secret": "ee2d3817c6b2bf469fb5064e6cb4b19790617669746f2e7275",
@@ -287,16 +287,16 @@
     "addTime": 1780848333
   },
   {
-    "host": "167.233.40.226",
-    "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "host": "116.203.35.227",
+    "port": 25565,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "country": "DE",
     "addTime": 1780848315
   },
   {
-    "host": "116.203.35.227",
-    "port": 25565,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "host": "167.233.40.226",
+    "port": 443,
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "country": "DE",
     "addTime": 1780848315
   },
