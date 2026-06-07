@@ -7,13 +7,6 @@
     "addTime": 1780837725
   },
   {
-    "host": "total.ph-hans.ir",
-    "port": 443,
-    "secret": "ee396219a1e9b2aebf6f245a1495777811706c61792e676f6f676c652e636f6d",
-    "country": "DE",
-    "addTime": 1780837720
-  },
-  {
     "host": "fol.ph-hans.ir",
     "port": 443,
     "secret": "ee396219a1e9b2aebf6f245a1495777811706c61792e676f6f676c652e636f6d",
@@ -21,9 +14,9 @@
     "addTime": 1780837720
   },
   {
-    "host": "pro.hq-parametr.ir",
-    "port": 4455,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "host": "total.ph-hans.ir",
+    "port": 443,
+    "secret": "ee396219a1e9b2aebf6f245a1495777811706c61792e676f6f676c652e636f6d",
     "country": "DE",
     "addTime": 1780837720
   },
@@ -63,14 +56,14 @@
     "addTime": 1780837687
   },
   {
-    "host": "91.99.106.8",
+    "host": "91.99.105.230",
     "port": 443,
     "secret": "ee17457e845e433ed42ed2dd8b701b10d8706c61792e676f6f676c652e636f6d",
     "country": "DE",
     "addTime": 1780837687
   },
   {
-    "host": "91.99.105.230",
+    "host": "91.99.106.8",
     "port": 443,
     "secret": "ee17457e845e433ed42ed2dd8b701b10d8706c61792e676f6f676c652e636f6d",
     "country": "DE",
@@ -152,6 +145,13 @@
     "secret": "00000000000000000000000000000000",
     "country": "DE",
     "addTime": 1780826824
+  },
+  {
+    "host": "186.190.215.78",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d",
+    "country": "CH",
+    "addTime": 1780826822
   },
   {
     "host": "45.144.176.136",
@@ -245,14 +245,7 @@
     "addTime": 1780826707
   },
   {
-    "host": "167.233.28.245",
-    "port": 443,
-    "secret": "dd79ee65acf6c575bd6f8b3c1ddc7107a3",
-    "country": "DE",
-    "addTime": 1780826705
-  },
-  {
-    "host": "167.233.68.78",
+    "host": "167.233.50.148",
     "port": 443,
     "secret": "dd79ee65acf6c575bd6f8b3c1ddc7107a3",
     "country": "DE",
@@ -266,14 +259,7 @@
     "addTime": 1780826705
   },
   {
-    "host": "167.233.50.148",
-    "port": 443,
-    "secret": "dd79ee65acf6c575bd6f8b3c1ddc7107a3",
-    "country": "DE",
-    "addTime": 1780826705
-  },
-  {
-    "host": "167.233.48.160",
+    "host": "167.233.68.78",
     "port": 443,
     "secret": "dd79ee65acf6c575bd6f8b3c1ddc7107a3",
     "country": "DE",
@@ -287,6 +273,20 @@
     "addTime": 1780826705
   },
   {
+    "host": "167.233.28.245",
+    "port": 443,
+    "secret": "dd79ee65acf6c575bd6f8b3c1ddc7107a3",
+    "country": "DE",
+    "addTime": 1780826705
+  },
+  {
+    "host": "167.233.48.160",
+    "port": 443,
+    "secret": "dd79ee65acf6c575bd6f8b3c1ddc7107a3",
+    "country": "DE",
+    "addTime": 1780826705
+  },
+  {
     "host": "85.198.86.133",
     "port": 443,
     "secret": "4d6e0dc790b03a679a5bfb315de49b18",
@@ -294,10 +294,10 @@
     "addTime": 1780816098
   },
   {
-    "host": "77.42.81.120",
+    "host": "135.125.168.143",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "FI",
+    "country": "FR",
     "addTime": 1780816095
   },
   {
@@ -308,10 +308,10 @@
     "addTime": 1780816095
   },
   {
-    "host": "135.125.168.143",
+    "host": "77.42.81.120",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "country": "FR",
+    "country": "FI",
     "addTime": 1780816095
   },
   {
@@ -329,6 +329,13 @@
     "addTime": 1780816094
   },
   {
+    "host": "conn-now.tpro-ru.info",
+    "port": 443,
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "country": "DE",
+    "addTime": 1780815935
+  },
+  {
     "host": "167.233.54.197",
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
@@ -340,13 +347,6 @@
     "port": 80,
     "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
     "country": "DE",
-    "addTime": 1780815935
-  },
-  {
-    "host": "141.94.170.167",
-    "port": 443,
-    "secret": "45046235c4d92f74327f72ca1fc4010e",
-    "country": "FR",
     "addTime": 1780815935
   }
 ]
