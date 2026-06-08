@@ -7,18 +7,11 @@
     "addTime": 1780880890
   },
   {
-    "host": "proxy.zronet-cloud.ru",
+    "host": "silvpn.su",
     "port": 443,
-    "secret": "bd5d182c66f93eced64e53dcb5c17003",
-    "country": "RU",
-    "addTime": 1780880869
-  },
-  {
-    "host": "z10.artengines.ru",
-    "port": 443,
-    "secret": "eed9b426a3f8b00a186a2ee77065be3b107a31302e617274656e67696e65732e7275",
-    "country": "PL",
-    "addTime": 1780880703
+    "secret": "c7d9227942a916f5d61a4203355ce80a",
+    "country": "NL",
+    "addTime": 1780880875
   },
   {
     "host": "z9.artengines.ru",
@@ -28,11 +21,11 @@
     "addTime": 1780880703
   },
   {
-    "host": "barselona.ju.melifot.help",
-    "port": 4455,
-    "secret": "ee1603010200010001fc030386e24c3add7765622e79656b74616e65742e636f6d",
-    "country": "FI",
-    "addTime": 1780880692
+    "host": "z10.artengines.ru",
+    "port": 443,
+    "secret": "eed9b426a3f8b00a186a2ee77065be3b107a31302e617274656e67696e65732e7275",
+    "country": "PL",
+    "addTime": 1780880703
   },
   {
     "host": "78.277.49.5.asperin.info",
@@ -43,6 +36,13 @@
   },
   {
     "host": "wat.defaz.paipol.online",
+    "port": 4455,
+    "secret": "ee1603010200010001fc030386e24c3add7765622e79656b74616e65742e636f6d",
+    "country": "FI",
+    "addTime": 1780880692
+  },
+  {
+    "host": "barselona.ju.melifot.help",
     "port": 4455,
     "secret": "ee1603010200010001fc030386e24c3add7765622e79656b74616e65742e636f6d",
     "country": "FI",
@@ -119,17 +119,10 @@
     "addTime": 1780869926
   },
   {
-    "host": "kima.rabotaet.online",
-    "port": 443,
-    "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
-    "country": "RU",
-    "addTime": 1780869920
-  },
-  {
-    "host": "relay.proxyb.site",
-    "port": 443,
-    "secret": "eeee9dfed6b3721e5b2788f5100af2ff4272656c61792e70726f7879622e73697465",
-    "country": "RU",
+    "host": "188.40.191.149",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
     "addTime": 1780869920
   },
   {
@@ -140,10 +133,17 @@
     "addTime": 1780869920
   },
   {
-    "host": "188.40.191.149",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
+    "host": "relay.proxyb.site",
+    "port": 443,
+    "secret": "eeee9dfed6b3721e5b2788f5100af2ff4272656c61792e70726f7879622e73697465",
+    "country": "RU",
+    "addTime": 1780869920
+  },
+  {
+    "host": "kima.rabotaet.online",
+    "port": 443,
+    "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
+    "country": "RU",
     "addTime": 1780869920
   },
   {
@@ -154,7 +154,7 @@
     "addTime": 1780869914
   },
   {
-    "host": "65.109.245.230",
+    "host": "65.109.251.239",
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "FI",
@@ -168,13 +168,6 @@
     "addTime": 1780869898
   },
   {
-    "host": "65.109.251.239",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "FI",
-    "addTime": 1780869898
-  },
-  {
     "host": "65.109.250.30",
     "port": 443,
     "secret": "dd79ee65acf6c575bd6f8b3c1ddc7107a3",
@@ -182,14 +175,21 @@
     "addTime": 1780869898
   },
   {
-    "host": "65.109.251.32",
+    "host": "65.109.245.230",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "FI",
+    "addTime": 1780869898
+  },
+  {
+    "host": "65.109.249.89",
     "port": 443,
     "secret": "dd79ee65acf6c575bd6f8b3c1ddc7107a3",
     "country": "FI",
     "addTime": 1780869896
   },
   {
-    "host": "65.109.249.89",
+    "host": "65.109.251.32",
     "port": 443,
     "secret": "dd79ee65acf6c575bd6f8b3c1ddc7107a3",
     "country": "FI",
@@ -210,6 +210,13 @@
     "addTime": 1780869893
   },
   {
+    "host": "46.224.171.200",
+    "port": 8080,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780869889
+  },
+  {
     "host": "91.107.249.142",
     "port": 8080,
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -222,27 +229,6 @@
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
     "addTime": 1780869889
-  },
-  {
-    "host": "46.224.171.200",
-    "port": 8080,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780869889
-  },
-  {
-    "host": "87.248.129.237",
-    "port": 4455,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "country": "IR",
-    "addTime": 1780869888
-  },
-  {
-    "host": "91.107.255.215",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "DE",
-    "addTime": 1780869888
   },
   {
     "host": "46.224.169.103",
@@ -259,18 +245,25 @@
     "addTime": 1780869888
   },
   {
+    "host": "91.107.255.215",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "DE",
+    "addTime": 1780869888
+  },
+  {
+    "host": "87.248.129.237",
+    "port": 4455,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "country": "IR",
+    "addTime": 1780869888
+  },
+  {
     "host": "cheetah-proxy.ir.hey-gardash.info",
     "port": 1080,
     "secret": "79e344818749bd7ac519130220c25d09",
     "country": "EE",
     "addTime": 1780869886
-  },
-  {
-    "host": "57.130.65.16",
-    "port": 8443,
-    "secret": "dd2865155e0099f60b90072a2a1693c80",
-    "country": "FR",
-    "addTime": 1780869885
   },
   {
     "host": "91.107.251.65",
@@ -284,6 +277,13 @@
     "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
     "country": "DE",
+    "addTime": 1780869885
+  },
+  {
+    "host": "57.130.65.16",
+    "port": 8443,
+    "secret": "dd2865155e0099f60b90072a2a1693c80",
+    "country": "FR",
     "addTime": 1780869885
   },
   {
