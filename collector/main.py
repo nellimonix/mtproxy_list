@@ -22,6 +22,7 @@ from urllib.parse import parse_qs, unquote, urljoin, urlsplit
 import requests
 from cryptography.hazmat.primitives.ciphers.aead import AESGCM
 from dotenv import load_dotenv
+from country_enrichment import enrich_countries, explicit_country_keys
 from public_sources import (
     BoundedSourceSession, PUBLIC_SOURCES, assemble_proxies, collect_source_batches,
     fetch_public_source, load_source_state, write_source_state,
@@ -51,6 +52,7 @@ GIT_REMOTE = os.getenv("GIT_REMOTE", "https://github.com/nellimonix/mtproxy_list
 GIT_TOKEN = os.getenv("GIT_TOKEN", "")
 WORK_DIR = Path(os.getenv("WORK_DIR", "./mtproxy_list")).resolve()
 SOURCE_STATE_FILE = Path(os.getenv("SOURCE_STATE_FILE", str(WORK_DIR.parent / "collector-sources.json"))).resolve()
+COUNTRY_CACHE_FILE = Path(os.getenv("COUNTRY_CACHE_FILE", str(WORK_DIR.parent / "collector-countries.json"))).resolve()
 OUTPUT_FILENAME = os.getenv("OUTPUT_FILENAME", "mtproxy.json")
 GIT_BRANCH = os.getenv("GIT_BRANCH", "main")
 GIT_USER_NAME = os.getenv("GIT_USER_NAME", "your-name")
@@ -750,6 +752,8 @@ def fetch_proxies() -> list[dict]:
     print("[*] Sources: " + json.dumps(statuses, sort_keys=True))
     result, updated_state = assemble_proxies(batches, current, state, target=TARGET_PROXIES)
     result = normalize_proxies(result, "Combined sources")
+    result, country_stats = enrich_countries(result, COUNTRY_CACHE_FILE, explicit_country_keys(batches))
+    print("[*] GeoIP: " + json.dumps(country_stats, sort_keys=True))
     write_source_state(SOURCE_STATE_FILE, updated_state)
     return result
 

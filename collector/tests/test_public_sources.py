@@ -246,6 +246,9 @@ class AssemblyTests(unittest.TestCase):
 
 class SourceRuntimeTests(unittest.TestCase):
     def setUp(self):
+        country_patch = patch.object(collector, 'enrich_countries', side_effect=lambda records,*args: (records,{}))
+        country_patch.start()
+        self.addCleanup(country_patch.stop)
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
         self.directory = Path(self.temp.name)
