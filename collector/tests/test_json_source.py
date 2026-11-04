@@ -160,12 +160,13 @@ class JsonSourceTests(unittest.TestCase):
         self.assertEqual(len(self.extract(payload([bad, row(2)]))), 1)
 
     def test_sorted_deduplicated_and_capped(self):
-        rows = [row(i, checked=NOW-i) for i in range(60)]
+        target = collector.TARGET_PROXIES
+        rows = [row(i, checked=NOW-i) for i in range(target + 10)]
         rows.append(copy.deepcopy(rows[0]))
         result = self.extract(payload(rows))
-        self.assertEqual(len(result), 50)
+        self.assertEqual(len(result), target)
         self.assertEqual(result[0]['addTime'], NOW)
-        self.assertEqual(result[-1]['addTime'], NOW - 49)
+        self.assertEqual(result[-1]['addTime'], NOW - target + 1)
 
     def test_request_is_timed_and_http_failure_propagates(self):
         session = Mock()
@@ -198,20 +199,20 @@ class JsonSourceTests(unittest.TestCase):
     def test_json_restores_collection_when_site_is_blocked(self):
         data = self.extract(payload())
         with patch.object(collector, 'fetch_proxies_from_site', side_effect=RuntimeError('HTTP 403')) as site, patch.object(collector, 'fetch_proxies_from_json_feed', return_value=data), patch.object(collector, 'fetch_proxies_from_telegram') as telegram:
-            self.assertEqual(collector.fetch_proxies(), data)
+            self.assertEqual(collector.fetch_legacy_proxies(), data)
         site.assert_called_once()
         telegram.assert_not_called()
 
     def test_json_failure_still_uses_telegram(self):
         data = self.extract(payload())
         with patch.object(collector, 'fetch_proxies_from_site', side_effect=RuntimeError('HTTP 403')) as site, patch.object(collector, 'fetch_proxies_from_json_feed', side_effect=RuntimeError('stale')), patch.object(collector, 'fetch_proxies_from_telegram', return_value=data):
-            self.assertEqual(collector.fetch_proxies(), data)
+            self.assertEqual(collector.fetch_legacy_proxies(), data)
         site.assert_called_once()
 
     def test_all_public_sources_down_uses_existing_socks_route(self):
         data = self.extract(payload())
         with patch.object(collector, 'fetch_proxies_from_site', side_effect=[RuntimeError('blocked'), data]) as site, patch.object(collector, 'fetch_proxies_from_json_feed', side_effect=ValueError('stale')), patch.object(collector, 'fetch_proxies_from_telegram', side_effect=ValueError('empty')):
-            self.assertEqual(collector.fetch_proxies(), data)
+            self.assertEqual(collector.fetch_legacy_proxies(), data)
         self.assertTrue(site.call_args.kwargs['allow_socks'])
 
     def test_empty_sources_do_not_modify_published_cache(self):
@@ -220,7 +221,7 @@ class JsonSourceTests(unittest.TestCase):
         output.write_text(existing)
         with patch.object(collector, 'fetch_proxies_from_site', side_effect=RuntimeError('blocked')), patch.object(collector, 'fetch_proxies_from_json_feed', side_effect=ValueError('empty')), patch.object(collector, 'fetch_proxies_from_telegram', side_effect=ValueError('empty')):
             with self.assertRaises(RuntimeError):
-                collector.fetch_proxies()
+                collector.fetch_legacy_proxies()
         self.assertEqual(output.read_text(), existing)
 
     def test_refresh_preserves_newer_cached_data(self):

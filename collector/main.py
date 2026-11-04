@@ -22,6 +22,10 @@ from urllib.parse import parse_qs, unquote, urljoin, urlsplit
 import requests
 from cryptography.hazmat.primitives.ciphers.aead import AESGCM
 from dotenv import load_dotenv
+from public_sources import (
+    BoundedSourceSession, PUBLIC_SOURCES, assemble_proxies, collect_source_batches,
+    fetch_public_source, load_source_state, write_source_state,
+)
 
 load_dotenv()
 
@@ -31,7 +35,8 @@ BASE_URL = "https://mtpro.xyz"
 HTTP_RELAY_URL = os.getenv("MTPROXY_HTTP_RELAY_URL", "").rstrip("/")
 SOCKS_LIST_URL = "https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt"
 TELEGRAM_CHANNEL_URL = "https://t.me/s/mtpro_xyz"
-TELEGRAM_TARGET_PROXIES = 50
+TARGET_PROXIES = 100
+TELEGRAM_TARGET_PROXIES = TARGET_PROXIES
 TELEGRAM_MAX_PAGES = 4
 JSON_SOURCE_URL = "https://raw.githubusercontent.com/tgproxypink/telegram-proxy-list/main/proxies.json"
 JSON_SOURCE_MAX_AGE_SECONDS = 6 * 60 * 60
@@ -45,6 +50,7 @@ EVAL_URI_RE = re.compile(
 GIT_REMOTE = os.getenv("GIT_REMOTE", "https://github.com/nellimonix/mtproxy_list.git")
 GIT_TOKEN = os.getenv("GIT_TOKEN", "")
 WORK_DIR = Path(os.getenv("WORK_DIR", "./mtproxy_list")).resolve()
+SOURCE_STATE_FILE = Path(os.getenv("SOURCE_STATE_FILE", str(WORK_DIR.parent / "collector-sources.json"))).resolve()
 OUTPUT_FILENAME = os.getenv("OUTPUT_FILENAME", "mtproxy.json")
 GIT_BRANCH = os.getenv("GIT_BRANCH", "main")
 GIT_USER_NAME = os.getenv("GIT_USER_NAME", "your-name")
@@ -696,7 +702,7 @@ def fetch_proxies_from_json_feed(session: requests.Session) -> list[dict]:
     return extract_proxies_from_json_feed(response.json())
 
 
-def fetch_proxies() -> list[dict]:
+def fetch_legacy_proxies() -> list[dict]:
     with requests.Session() as session:
         errors = []
         try:
@@ -717,6 +723,35 @@ def fetch_proxies() -> list[dict]:
             return fetch_proxies_from_site(session, allow_socks=True)
         except (requests.RequestException, RuntimeError, ValueError) as error:
             raise RuntimeError("Все источники недоступны; " + "; ".join(errors + [f"SOCKS5: {error}"])) from None
+
+
+def fetch_bounded_legacy_source(source: str) -> list[dict]:
+    with BoundedSourceSession() as session:
+        if source == "verified_json":
+            return fetch_proxies_from_json_feed(session)
+        if source == "telegram":
+            return fetch_proxies_from_telegram(session)
+        if source == "mtpro":
+            return fetch_proxies_from_site(session, allow_socks=False)
+        raise ValueError("Unknown legacy source")
+
+
+def fetch_proxies() -> list[dict]:
+    output = WORK_DIR / OUTPUT_FILENAME
+    current = []
+    if output.exists():
+        saved = json.loads(decrypt_file(output))
+        if saved != []:
+            current = normalize_proxies(saved, "Published cache")
+    state = load_source_state(SOURCE_STATE_FILE)
+    tasks = [(source[0], lambda source=source: fetch_public_source(source)) for source in PUBLIC_SOURCES]
+    tasks.extend((name, lambda source=name: fetch_bounded_legacy_source(source)) for name in ("verified_json", "telegram", "mtpro"))
+    batches, statuses = collect_source_batches(tasks)
+    print("[*] Sources: " + json.dumps(statuses, sort_keys=True))
+    result, updated_state = assemble_proxies(batches, current, state, target=TARGET_PROXIES)
+    result = normalize_proxies(result, "Combined sources")
+    write_source_state(SOURCE_STATE_FILE, updated_state)
+    return result
 
 
 def load_key() -> bytes:
@@ -838,17 +873,19 @@ def write_and_commit(data: list[dict]) -> None:
     if status.returncode != 0:
         raise RuntimeError(f"git status failed: {_safe(status.stderr.strip())}")
     if not status.stdout.strip():
+        push = git(["push", remote, GIT_BRANCH])
+        if push.returncode != 0:
+            raise RuntimeError(f"git push failed: {_safe(push.stderr.strip())}")
         print(f"[=] {ts}: изменений нет")
         return
 
     commit = git(["commit", "-m", f"chore(proxy): update encrypted proxy list ({len(data)} entries)", "--", OUTPUT_FILENAME])
     if commit.returncode != 0:
-        print("[x] git commit:", _safe(commit.stderr))
-        return
+        raise RuntimeError(f"git commit failed: {_safe(commit.stderr.strip())}")
 
     push = git(["push", remote, GIT_BRANCH])
     if push.returncode != 0:
-        print("[x] git push:", _safe(push.stderr))
+        raise RuntimeError(f"git push failed: {_safe(push.stderr.strip())}")
     else:
         print(f"[✓] {ts}: запушено {len(data)} прокси")
 

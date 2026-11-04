@@ -1,0 +1,18 @@
+[Unit]
+Description=MTProxy list collector
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/project/mtproxy_list
+EnvironmentFile=%h/project/mtproxy_list/.env
+Environment=PYTHONUNBUFFERED=1
+ExecStart=%h/project/mtproxy_list/.venv/bin/python %h/project/mtproxy_list/current/main.py
+Restart=always
+RestartSec=10
+TimeoutStopSec=30
+UMask=0077
+
+[Install]
+WantedBy=default.target

@@ -70,11 +70,12 @@ class TelegramMergeTests(unittest.TestCase):
         self.assertEqual(parser.merge_telegram_proxies([proxy(1, timestamp=150)]), current)
 
     def test_new_proxies_evict_oldest_at_limit(self):
-        self.save([proxy(i, timestamp=i+1) for i in range(50)])
-        result = parser.merge_telegram_proxies([proxy(50, timestamp=100), proxy(51, timestamp=101)])
-        self.assertEqual(len(result), 50)
-        self.assertEqual({p['host'] for p in result}, {proxy(i)['host'] for i in range(2, 52)})
-        self.assertEqual(result[0]['addTime'], 101)
+        target = parser.TARGET_PROXIES
+        self.save([proxy(i, timestamp=i+1) for i in range(target)])
+        result = parser.merge_telegram_proxies([proxy(target, timestamp=target+100), proxy(target+1, timestamp=target+101)])
+        self.assertEqual(len(result), target)
+        self.assertEqual({p['host'] for p in result}, {proxy(i)['host'] for i in range(2, target+2)})
+        self.assertEqual(result[0]['addTime'], target+101)
 
     def test_optional_metadata_retained_for_same_proxy(self):
         self.save([proxy(1, bot='@test', channel='@channel')])
@@ -145,7 +146,7 @@ class TelegramMergeTests(unittest.TestCase):
     def test_blocked_site_uses_partial_telegram_and_existing_list(self):
         self.save([proxy(1), proxy(2)])
         with patch.object(parser, 'fetch_proxies_from_site', side_effect=RuntimeError('HTTP 403')) as site, patch.object(parser, 'fetch_proxies_from_telegram', return_value=[proxy(1, timestamp=200, secret='new')]):
-            result = parser.fetch_proxies()
+            result = parser.fetch_legacy_proxies()
         self.assertEqual(len(result), 2)
         self.assertEqual(result[0]['secret'], 'new')
         site.assert_called_once()
@@ -154,7 +155,7 @@ class TelegramMergeTests(unittest.TestCase):
         self.save([proxy(1)])
         data = [proxy(2)]
         with patch.object(parser, 'fetch_proxies_from_site', return_value=data), patch.object(parser, 'merge_telegram_proxies') as merge:
-            self.assertEqual(parser.fetch_proxies(), data)
+            self.assertEqual(parser.fetch_legacy_proxies(), data)
         merge.assert_not_called()
 
 
@@ -214,9 +215,9 @@ class TelegramWebProxyTests(unittest.TestCase):
         self.assertEqual(data[0]['host'], 'proxy-2.example')
 
     def test_partial_webproxy_collection_merges_with_cache(self):
-        self.save([proxy(i, timestamp=100+i) for i in range(50)])
+        self.save([proxy(i, timestamp=100+i) for i in range(parser.TARGET_PROXIES)])
         result = parser.merge_telegram_proxies([self.web_proxy(timestamp=1000)])
-        self.assertEqual(len(result), 50)
+        self.assertEqual(len(result), parser.TARGET_PROXIES)
         self.assertEqual(sum(p.get('type') == 'webproxy' for p in result), 1)
         self.assertEqual(result[0]['port'], '')
 

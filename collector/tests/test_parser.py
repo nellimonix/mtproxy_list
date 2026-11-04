@@ -227,7 +227,7 @@ class ParserTests(unittest.TestCase):
     def test_fetch_uses_telegram_before_socks(self):
         expected = [PROXY]
         with patch.object(parser, "fetch_proxies_from_site", side_effect=RuntimeError("blocked")) as site, patch.object(parser, "fetch_proxies_from_telegram", return_value=expected) as telegram:
-            self.assertEqual(parser.fetch_proxies(), expected)
+            self.assertEqual(parser.fetch_legacy_proxies(), expected)
         site.assert_called_once()
         telegram.assert_called_once()
 
@@ -316,7 +316,7 @@ class ParserTests(unittest.TestCase):
         session.get.side_effect = [page, script1, script2]
         with patch.object(parser.requests, "Session") as factory:
             factory.return_value.__enter__.return_value = session
-            self.assertEqual(parser.fetch_proxies(), [PROXY])
+            self.assertEqual(parser.fetch_legacy_proxies(), [PROXY])
         self.assertEqual(session.get.call_args_list[-1].args[0], "https://mtpro.xyz/list-v2.js?v=1&x=2")
         for call in session.get.call_args_list:
             self.assertEqual(call.kwargs["timeout"], parser.REQUEST_TIMEOUT)
@@ -329,7 +329,7 @@ class ParserTests(unittest.TestCase):
         session.get.return_value = page
         with patch.object(parser.requests, "Session") as factory:
             factory.return_value.__enter__.return_value = session
-            self.assertEqual(parser.fetch_proxies()[0]["host"], PROXY["host"])
+            self.assertEqual(parser.fetch_legacy_proxies()[0]["host"], PROXY["host"])
 
     def test_http_error_not_parsed(self):
         response = Mock(status_code=503)
@@ -337,7 +337,7 @@ class ParserTests(unittest.TestCase):
         with patch.object(parser.requests, "Session") as factory:
             factory.return_value.__enter__.return_value.get.return_value = response
             with patch.object(parser, "get_source_via_socks", side_effect=RuntimeError("no route")), self.assertRaisesRegex(RuntimeError, "HTTP 503"):
-                parser.fetch_proxies()
+                parser.fetch_legacy_proxies()
 
     def test_empty_not_written_or_published(self):
         with patch.object(parser, "git") as git, patch.object(parser, "encrypt_payload") as encrypt:
